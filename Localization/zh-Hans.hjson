@@ -1,0 +1,5562 @@
+Mods: {
+	AlchemistNPCRebornAgain: {
+		Misc: {
+			TheRagnarok: 始生灾灵 宝藏袋
+			AbyssionTheForgottenOne: 遗忘之主 宝藏袋
+			TheLich: 巫妖 宝藏袋
+			CoznixTheFallenBeholder: 堕落注视者 宝藏袋
+			BoreanStrider: 极地遁蛛 宝藏袋
+			TheStarScouter: 星际监察者 宝藏袋
+			TheBuriedChampion: 英灵遗骸 宝藏袋
+			GraniteEnergyStorm: 花岗岩流能风暴 宝藏袋
+			CountEcho: 蝙蝠子爵 宝藏袋
+			QueenJellyfish: 水母皇后 宝藏袋
+			ThunderBird: 惊雷王鹰 宝藏袋
+			Ogre: 食人魔 宝藏袋
+			DarkMage: 黑暗魔法师 宝藏袋
+			SupremeCalamitas: 至尊女巫，灾厄 宝藏袋
+			ExoMechs: 星流巨械 宝藏袋
+			Yharon: 重生之龙，犽戎 宝藏袋
+			Bumblebirb: 痴愚金龙 宝藏袋
+			DevourerofGods: 神明吞噬者 宝藏袋
+			OldDuke: 硫海遗爵 宝藏袋
+			Polterghast: 噬魂幽花 宝藏袋
+			Signus: 神之使徒西格纳斯 宝藏袋
+			CeaselessVoid: 无尽虚空 宝藏袋
+			StormWeaver: 风暴编织者 宝藏袋
+			Providence: 亵渎天神 宝藏袋
+			Ravager: 毁灭魔像 宝藏袋
+			PlaguebringerGoliath: 瘟疫使者歌莉娅 宝藏袋
+			Leviathan: 利维坦和阿娜希塔 宝藏袋
+			AstrumDeus: 星神游龙 宝藏袋
+			AstrageldonSlime: 白金星舰 宝藏袋
+			Calamitas: 灾厄之影 宝藏袋
+			AquaticScourge: 渊海灾虫 宝藏袋
+			BrimstoneElemental: 硫磺火元素 宝藏袋
+			Cryogen: 极地之灵 宝藏袋
+			SlimeGod: 史莱姆之神 宝藏袋
+			Perforator: 血肉宿主 宝藏袋
+			HiveMind: 腐巢意志 宝藏袋
+			Crabulon: 菌生蟹 宝藏袋
+			DesertScourge: 荒漠灾虫 宝藏袋
+			MoonLord: 月亮领主 宝藏袋
+			DukeFishron: 猪龙鱼公爵 宝藏袋
+			Betsy: 双足翼龙 宝藏袋
+			Golem: 石巨人 宝藏袋
+			EmpressOfLight: 光之女皇 宝藏袋
+			Plantera: 世纪之花 宝藏袋
+			SkeletronPrime: 机械骷髅王 宝藏袋
+			Twins: 双子魔眼 宝藏袋
+			Destroyer: 毁灭者 宝藏袋
+			QueenSlime: 史莱姆皇后 宝藏袋
+			WallOfFlesh: 血肉墙 宝藏袋
+			Deerclops: 独眼巨鹿 宝藏袋
+			Skeletron: 骷髅王 宝藏袋
+			QueenBee: 蜂王 宝藏袋
+			BrainOfCthulhu: 克苏鲁之脑 宝藏袋
+			EaterOfWorlds: 世界吞噬者 宝藏袋
+			EyeofCthulhu: 克苏鲁之眼 宝藏袋
+			KingSlime: 史莱姆王 宝藏袋
+			tier3Watch: 三级表(金表/铂金表)
+			LunarHamaxe: 四柱工具
+			CelestialWings: 四柱翅膀
+			tier1anvil: 一级砧(铁/铅砧)
+			tier2forge: 二级熔炉(精金/钛金熔炉)
+			tier2anvil: 二级砧(秘银/山铜砧)
+			evilDrop: 邪恶掉落物(腐肉/椎骨)
+			evilComponent: 邪恶材料(暗影鳞片/组织样本)
+			evilMushroom: 邪恶蘑菇
+			evilBar: 魔矿/猩红矿锭
+			hardmodeComponent: 邪恶困难模式材料(诅咒焰/灵液)
+			tier3HardmodeBar: 三级肉后锭(精金/钛金)
+			cultist: 邪教徒面具/兜帽
+			evilBossMask: 腐化/猩红Boss面具
+		}
+
+		Common: {
+			DayTimeSet: 时间设置成白天
+			NightTimeSet: 时间设置成夜晚
+			SandstormStarted: 沙尘暴开始了
+			SandstormStopped: 沙尘暴停止了
+			RainStarted: 开始下雨
+			RainStopped: 雨停了
+		}
+
+		TownNPCMood: {
+			Alchemist: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Warm and peaceful, what can be better for potionsmaking?
+				LoveBiome: This place reminds me of the old days when I was training with my friend.
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} understands the importance of hard work. It is good having her around."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is here! Who's the dad's boy?"
+				DislikeNPC: I don't think I could focus when {NPCName} is around. She can't stop making jokes of me.
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Brewer: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: It is a bit too hot here, but the air is perfect.
+				LoveBiome: Warm and peaceful, just as I wanted!
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is so easy to tease! I can't help it..."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is here! Who's the momma's boy?"
+				DislikeNPC: "{NPCName} is so annoying with his constant warnings. Can barely stand it."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Jeweler: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? It is really uncomfortable to make jewelry without roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: It is a bit too hot here, but the air is perfect.
+				LoveBiome: Warm and peaceful, just as I wanted!
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} has a sence for money. A bit too greedy, but I can totally relate."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is here! You can clearly tell that we are almost the same. I don't want to grow a beard, tho."
+				DislikeNPC: I can't stand girls like {NPCName}, she totally distracts my focus.
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Musician: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? How can I do music if I don't have a roof above my head?
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Silence and peace, what else do I need for making music? And acoustics here is amazing!
+				LoveBiome: I like how shiny and bright this place is. Also perfect for parties.
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is useful when I am out of music boxes. You know how hard is to make them?"
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} likes music just as I do! I can hang out with her all day."
+				DislikeNPC: This cheapskate {NPCName} is so annoying. Can you get him somewhere out here?
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Operator: {
+				Content: I'm feeling good!
+				NoHome: I need a shelter. I don't like being without a roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Ocean. It is the thing I wanted to see. Thanks.
+				LoveBiome: My circuits are working perfectly here. Surprisingly. I like snow.
+				DislikeBiome: I hate underground. You know it, right?
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is one of the many persons I could talk about the technology."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} probably is the only person who can understand me. Being a cyborg."
+				DislikeNPC: "{NPCName} seems to be afraid of me. I wonder why, but his fear somewhat annoys me."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Architect: {
+				Content: I'm feeling good!
+				NoHome: Being an Architect, I especially don't like NOT having any house.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Pretty calming place to be. I like it.
+				LoveBiome: So many colors, so many building materials. Perfect.
+				DislikeBiome: I hate feeling chill. I need a warmer place.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} may just be an annoying goblin but he understands, how to build. I respect that."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} knows how to make every color. Which is great."
+				DislikeNPC: "{NPCName} is so grumpy and hates colors. Would be fun making him living in Hallow, I guess."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Tinkerer: {
+				Content: I'm feeling good!
+				NoHome: Making accessories requires patience. And I wouldn't be able to do it without any house.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: A bit dark, but I can totally live here.
+				LoveBiome: Me and my sister are used to live in cold places so I am totally ok with that.
+				DislikeBiome: I hate hot weather and sand so no, I wouldn't live here.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is so nice and smart. I respect that."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is finally here? I have a lot to tell, big sis!"
+				DislikeNPC: Don't let {NPCName} anywhere around me. Sand from his clothes always clogs my mechanisms.
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			YoungBrewer: {
+				Content: I'm feeling good!
+				NoHome: I don't like being outside for a long time. I need a room for myself.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: I can live when it is some warm around, so I am ok with that.
+				LoveBiome: I like forest! Fresh air and greens around. What else may the person need?
+				DislikeBiome: I don't like this. I want a warmer place to live.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: Dad is here too? He can be silly sometimes, but mom respects him for his teleporter potions. She wasn't able to recreate them no matter how she tried.
+				LikeNPC_Princess: I gotta visit {NPCName}. She really likes to play with me. And so do I.
+				LoveNPC: Mom is here? Great! I like my dad, yes, but mom... Her potions can do almost everything and are most useful!
+				DislikeNPC: "{NPCName} is so grumpy. I asked him about making a toy a few times but he ALWAYS don't have any time for that."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+		}
+
+		Keybinds: {
+			LampLightToggle.DisplayName: 大鸟灯开关
+			DiscordBuffTeleportation.DisplayName: 混沌Buff传送
+			"Discord Buff Teleportation.DisplayName": 混沌 Buff 传送
+		}
+
+		GlobalNPC: {
+			Chat: {
+				UgandanKnucklesChat1: I have a question to ask from you...
+				BillCipherChat4: 什么? 又是你? 我已经被你打败了! 你还想要从我这得到什么?
+				BillCipherChat5: 你胆敢召唤我? 那可有意思了!
+				BillCipherChat6: 嘿, 拿着这个!
+				BillCipherChat7: 你真的认为你能打败我吗? 那怕是要笑掉大牙!
+				BillCipherChat8: 嘿, 你小子! 对, 就是你! 我在问是谁拿着这个“巫毒娃娃”!
+				BillCipherChat9: 玩游戏的时间结束了, 现在你准备去死吧!
+				BillCipherChat10: 疯狂尽情释放吧!
+				BillCipherChat11: 你有点让我烦躁了, 小虫子!
+				BillCipherChat12: 别以为你在屏幕后面很安全...
+				BillCipherChat13: 我会潜入你的梦境，把它们变成可怕的噩梦!
+				BillCipherChat14: 我不会再被打败了!
+				BillCipherChat15: 觉悟吧!
+			}
+		}
+
+		BlackCatSetBonus:
+			'''
+			增加 25% 当前近战伤害, 增加 15% 近战暴击率
+			增加 48 防御力
+			增加 33% 移动速度
+			给予永久坦战药剂包效果
+			并获得忍者大师的能力
+			'''
+		BloodMoonSetBonus:
+			'''
+			增加 25% 所有伤害, 增加 20% 暴击率
+			增加 36 防御
+			增加 25% 移动速度
+			有概率闪避攻击
+			获得永久的魔法药剂包效果
+			'''
+		JustitiaSetBonus: 增加当前 30% 的近战伤害和 15% 近战暴击率
+		LaetitiaSetBonus:
+			'''
+			允许召唤来自礼物的小巫怪
+			肉后增加 25% 召唤伤害
+			蕾蒂希娅来复枪射速加倍
+			'''
+		ParadiseLostSetBonus:
+			'''
+			增加 35% 所有伤害, 增加 25% 暴击率
+			使用 [c/FF0000:EGO 武器] 造成更多伤害
+			第一次使用武器后就能看见变化
+			如果你受到的伤害小于 150 , 伤害将会无效化.
+			'''
+		PGSetBonus:
+			'''
+			增加 15% 当前近战/远程伤害, 增加 15% 近战/远程暴击率
+			增加 56 防御力
+			极大增加移动速度
+			给予永久坦克药剂包效果
+			乌干达国宝现在可以从月亮领主身上掉落
+			'''
+		ReverberationSetBonus:
+			'''
+			在玩家周围形成一圈护盾. 护盾减少 15% 全部即将到来的伤害
+			加速全部箭矢
+			加强余香弩:
+			降低额外子弹的魔法消耗
+			让弩发射更多的子弹
+			增加 20% 德鲁伊类型伤害
+			'''
+		NoireSetBonus:
+			'''
+			增加 20% 当前远程/召唤伤害, 增加 20% 远程暴击率
+			+40 防御力
+			让NPC降价
+			'''
+		somebody0214SetBonus:
+			'''
+			增加 30% 当前魔法伤害, 增加 20% 魔法暴击率
+			+32 防御力
+			增加 25% 伤害免疫
+			'''
+		TheSecretVRBonus:
+			'''
+			给予你无限的力量
+			但是记住 [c/4d180d:禁果最诱人心弦]
+			'''
+		TwilightSetBonus:
+			'''
+			增加 30% 当前近战/魔法伤害, 并增加 15% 近战/魔法暴击率
+			包含大鸟灯的全部效果
+			'''
+		AntiBuffmodeactive: 反Buff模式启动
+		AntiBuffmodeisdisabled: 反Buff模式关闭
+		PaperTubeInfo1: 这些蓝图没什么意思.
+		PaperTubeInfo2: 你发现了一个新的饰品蓝图. 你可以现在问问工匠这东西能干什么.
+		PaperTubeInfo3: 你已经找到了所有大前期(骷髅王前)的蓝图. 恭喜! 你可以把剩下的蓝图都兜售给工匠.
+		PaperTubeT2Info1: 你需要打败任何的机械三王之一以解锁剩下两个困难模式(肉山后)前期的饰品.
+		PaperTubeT2Info2: 这些蓝图没什么意思.
+		PaperTubeT2Info3: 你发现了一个新的饰品蓝图. 你可以现在问问工匠这东西能干什么.
+		PaperTubeT2Info4: 你已经找到了所有血肉之墙后前期的蓝图. 恭喜! 你可以把剩下的蓝图都兜售给工匠.
+		PaperTubeT3Info1: 你需要打败石巨人以解锁剩下世纪之花的饰品.
+		PaperTubeT3Info2: 这些蓝图没什么意思.
+		PaperTubeT3Info3: 你发现了一个新的饰品蓝图. 你可以现在问问工匠这东西能干什么.
+		PaperTubeT3Info4: Y你已经找到了所有世纪之花后的蓝图. 恭喜! 你可以把剩下的蓝图都兜售给工匠.
+		PaperTubeT3Info5: 当你打败月球领主之后和工匠交谈即可解锁所有饰品.
+		Pip-Boy3000text1: "近战伤害/暴击率增加 "
+		Pip-Boy3000text2: "远程伤害/暴击率增加 "
+		Pip-Boy3000text3: "魔法伤害/暴击率增加 "
+		Pip-Boy3000text4: "投掷伤害/暴击率增加 "
+		Pip-Boy3000text5: "召唤伤害增加 "
+		Pip-Boy3000text6: "伤害减免增加 "
+		Pip-Boy3000text7: "移动速度增加 "
+		Pip-Boy3000text8: "最大生命增加 "
+		Pip-Boy3000text9: "生命再生速度增加 "
+		Pip-Boy3000text10: "魔力消耗 "
+		Pip-Boy3000text11: "最大召唤物/炮台数量 "
+		Pip-Boy3000text12: "近战武器挥动时间 "
+		PIP1: Pip-Boy 4K (出生点)
+		PIP2: Pip-Boy 4K (沙滩)
+		PIP3: Pip-Boy 4K (海洋)
+		PIP4: Pip-Boy 4K (地牢)
+		PIP5: Pip-Boy 4K (地狱)
+		PIP6: Pip-Boy 4K (丛林)
+		PIP7: Pip-Boy 4K (神庙)
+		MiniSharkDesc1: 据我所知，有时候鲨鱼长得不够大，不能算作真正的鲨鱼。那么它们应该被称为“迷你鲨鱼”。而现在，你就要给我弄来一个这样的！
+		MiniSharkCatch1: （抓捕位置：海洋）
+		MosesDesc1: 你听说过摩西，对吧？那么听听我在一本古老的童话书中发现的。书上说摩西即使在他去世后仍然会回到我们的世界。他更喜欢沙漠中的水池。长话短说，我想要你帮我抓到这条鱼！这可能是个非常难抓的猎物，但奖励也可能非常丰厚！
+		MosesCatch1: （抓捕位置：海洋）
+		MutantDesc1: 看来我们那位亲爱的炼金术士经常在制作“优质”药剂上失败。他总是把自己的失败作品倒入最近的大池塘。今天，我看到了这样做的后果。一条变异的鱼，看起来像飞机。我想要你帮我抓到它！
+		MutantCatch1: （抓捕位置：任意地点）
+		NebulaDesc1: 有这样一种不同凡响的鱼……它之所以看起来这样，可能是因为它来自天上的水体。它的味道可能也很美妙，所以去帮我抓来吧！
+		NebulaCatch1: （抓捕位置：靠近星云柱）
+		SolarDesc1: 有这样一种不同凡响的鱼……它之所以看起来这样，可能是因为它来自天上的水体。它的味道可能也很美妙，所以去帮我抓来吧！
+		SolarCatch1: （抓捕位置：靠近日耀柱）
+		StardustDesc1: 有这样一种不同凡响的鱼……它之所以看起来这样，可能是因为它来自天上的水体。它的味道可能也很美妙，所以去帮我抓来吧！
+		StardustCatch1: （抓捕位置：靠近星尘柱）
+		VortexDesc1: 有这样一种不同凡响的鱼……它之所以看起来这样，可能是因为它来自天上的水体。它的味道可能也很美妙，所以去帮我抓来吧！
+		VortexCatch1: （抓捕位置：靠近星旋柱）
+		DiscordBuffTeleportation: 混沌Buff传送
+		evilBossMask: 腐化/猩红Boss面具
+		cultist: 邪教徒面具/兜帽
+		tier3HardmodeBar: 三级肉后锭(精金/钛金)
+		hardmodeComponent: 邪恶困难模式材料(诅咒焰/灵液)
+		evilBar: 魔矿/猩红矿锭
+		evilMushroom: 邪恶蘑菇
+		evilComponent: 邪恶材料(暗影鳞片/组织样本)
+		evilDrop: 邪恶掉落物(腐肉/椎骨)
+		tier2anvil: 二级砧(秘银/山铜砧)
+		tier2forge: 二级熔炉(精金/钛金熔炉)
+		tier1anvil: 一级砧(铁/铅砧)
+		CelestialWings: 四柱翅膀
+		LunarHamaxe: 四柱工具
+		tier3Watch: 三级表(金表/铂金表)
+		tier3PreHmOre: 三级肉前矿(钨/银)
+		KingSlime: 史莱姆王 宝藏袋
+		EyeofCthulhu: 克苏鲁之眼 宝藏袋
+		EaterOfWorlds: 世界吞噬者 宝藏袋
+		BrainOfCthulhu: 克苏鲁之脑 宝藏袋
+		QueenBee: 蜂王 宝藏袋
+		Skeletron: 骷髅王 宝藏袋
+		Deerclops: 独眼巨鹿 宝藏袋
+		WallOfFlesh: 血肉墙 宝藏袋
+		QueenSlime: 史莱姆皇后 宝藏袋
+		Destroyer: 毁灭者 宝藏袋
+		Twins: 双子魔眼 宝藏袋
+		SkeletronPrime: 机械骷髅王 宝藏袋
+		Plantera: 世纪之花 宝藏袋
+		EmpressOfLight: 光之女皇 宝藏袋
+		Golem: 石巨人 宝藏袋
+		Betsy: 双足翼龙 宝藏袋
+		DukeFishron: 猪龙鱼公爵 宝藏袋
+		MoonLord: 月亮领主 宝藏袋
+		DesertScourge: 荒漠灾虫 宝藏袋
+		Crabulon: 菌生蟹 宝藏袋
+		HiveMind: 腐巢意志 宝藏袋
+		Perforator: 血肉宿主 宝藏袋
+		SlimeGod: 史莱姆之神 宝藏袋
+		Cryogen: 极地之灵 宝藏袋
+		BrimstoneElemental: 硫磺火元素 宝藏袋
+		AquaticScourge: 渊海灾虫 宝藏袋
+		Calamitas: 灾厄之影 宝藏袋
+		AstrageldonSlime: 白金星舰 宝藏袋
+		AstrumDeus: 星神游龙 宝藏袋
+		Leviathan: 利维坦和阿娜希塔 宝藏袋
+		PlaguebringerGoliath: 瘟疫使者歌莉娅 宝藏袋
+		Ravager: 毁灭魔像 宝藏袋
+		Providence: 亵渎天神 宝藏袋
+		StormWeaver: 风暴编织者 宝藏袋
+		CeaselessVoid: 无尽虚空 宝藏袋
+		Signus: 神之使徒西格纳斯 宝藏袋
+		Polterghast: 噬魂幽花 宝藏袋
+		OldDuke: 硫海遗爵 宝藏袋
+		DevourerofGods: 神明吞噬者 宝藏袋
+		Bumblebirb: 痴愚金龙 宝藏袋
+		Yharon: 重生之龙，犽戎 宝藏袋
+		ExoMechs: 星流巨械 宝藏袋
+		SupremeCalamitas: 至尊女巫，灾厄 宝藏袋
+		DarkMage: 黑暗魔法师 宝藏袋
+		Ogre: 食人魔 宝藏袋
+		ThunderBird: 惊雷王鹰 宝藏袋
+		QueenJellyfish: 水母皇后 宝藏袋
+		CountEcho: 蝙蝠子爵 宝藏袋
+		GraniteEnergyStorm: 花岗岩流能风暴 宝藏袋
+		TheBuriedChampion: 英灵遗骸 宝藏袋
+		TheStarScouter: 星际监察者 宝藏袋
+		BoreanStrider: 极地遁蛛 宝藏袋
+		CoznixTheFallenBeholder: 堕落注视者 宝藏袋
+		TheLich: 巫妖 宝藏袋
+		AbyssionTheForgottenOne: 遗忘之主 宝藏袋
+		TheRagnarok: 始生灾灵 宝藏袋
+		KingChicken: 鸡皇 宝藏袋
+		ThornBane: 索恩 宝藏袋
+		TheKeeper: 守夜人 宝藏袋
+		XenoCrystal: 异辉晶体 宝藏袋
+		IEye: 辐射眼 宝藏袋（已被移除）
+		KingSlayer: 弑君者III 宝藏袋
+		V1: 欧米伽斩切刃 宝藏袋
+		V2: 欧米伽千兆钻机 宝藏袋
+		V3: 欧米伽歼灭者 宝藏袋
+		PZ: 零号病患 宝藏袋
+		ThornRematch: 索恩再战 宝藏袋
+		Nebuleus: 星宇天使，涅布琉斯 宝藏袋
+		Wasteland: 废土巨蝎 宝藏袋
+		Infernace: 火焰之灵 宝藏袋
+		ScourgeFighter: 天灾战斗机 宝藏袋
+		Regaroth: 天穹吞噬者
+		TheCelestials: 阿斯特拉 宝藏袋
+		Permafrost: 冰霜之灵 宝藏袋
+		Obsidious: 黑曜之灵 宝藏袋
+		Aqueous: 深海领主阿库娅 宝藏袋
+		TempleKeepers: 神殿护卫 宝藏袋
+		Guardian: 守卫者 宝藏袋
+		Volcanox: 火山之灵 宝藏袋
+		VoidLevi: 虚空利维坦 宝藏袋
+		Azana: 混沌孽魔阿扎娜 宝藏袋
+		Ancients: 远古聚合体 宝藏袋
+		Decree: 裁决 宝藏袋
+		FlamingPumpkin: 焚焰南瓜 宝藏袋
+		Jensen: 詹娜森·华贵鸟妖 宝藏袋
+		Araneas: 阿特涅斯 宝藏袋
+		Raynare: 蕾娜·鸟妖女王 宝藏袋
+		Primordia: 始源 宝藏袋
+		Abaddon: 阿伯顿·梦魇使者·苦痛之源 宝藏袋
+		Araghur: 阿拉戈尔·熔火巨蟒 宝藏袋
+		Lunarians: 索兰军团 宝藏袋
+		Challenger: 影雷者 宝藏袋
+		Spookboi: 尼希勒斯 宝藏袋
+		Scarabeus: 圣甲虫 宝藏袋
+		Bane: 怒藤毒灵 宝藏袋
+		Flier: 始祖骨翼 宝藏袋
+		Raider: 星盘巡游者 宝藏袋
+		Infernon: 炎狱之主 宝藏袋
+		Dusking: 薄暮焱魂 宝藏袋
+		EtherialUmbra: Etherial Umbra Treasure Bag
+		IlluminantMaster: Illuminant Master Treasure Bag
+		Atlas: Atlas Treasure Bag
+		Overseer: Overseer Treasure Bag
+		Sharkron: Dune Sharkron Treasure Bag
+		Hypothema: Hypothema Treasure Bag
+		Ragnar: Ragnar Treasure Bag
+		AnDio: Andesia & Dioritus Treasure Bag
+		Annihilator: The Annihilator Treasure Bag
+		Slybertron: Slybertron Treasure Bag
+		SteamTrain: Steam Train Treasure Bag
+		SunlightTrader: Sunlight Trader Treasure Bag
+		THOFC: The Heart of the Cavern Treasure Bag
+		MythrilSlime: Mythril Slime Treasure Bag
+		Valdaris: Valdaris Treasure Bag
+		Gatekeeper: The Gatekeeper Treasure Bag
+		Monarch: Mushroom Monarch Treasure Bag
+		Grips: Grips of Chaos Treasure Bag
+		Broodmother: Broodmother Treasure Bag
+		Hydra: Hydra Treasure Bag
+		Serpent: Subzero Serpent Treasure Bag
+		Djinn: Desert Djinn Treasure Bag
+		Retriever: Retriever Treasure Bag
+		RaiderU: Raider Ultima Treasure Bag
+		Orthrus: Orthrus X Treasure Bag
+		EFish: Emperor Fishron Treasure Bag
+		Nightcrawler: Nightcrawler Treasure Bag
+		Daybringer: Daybringer Treasure Bag
+		Yamata: Yamata Treasure Bag
+		Akuma: Akuma Treasure Bag
+		Zero: Zero Treasure Bag
+		Shen: Shen Doragon Treasure Cache
+		ShenGrips: Shen Doragon Grips Treasure Bag
+		PlantsShop: 植物超市
+		GetCharm: 获得符咒
+		Edward: Edward
+		Severus: Severus
+		Horace: Horace
+		Tilyorn: Tilyorn
+		Nicolas: Nicolas
+		Gregg: Gregg
+		EntryA1: 我的生命药水可以治疗你的伤口.
+		EntryA2: 我的魔法药水可以回复你的魔力.
+		EntryA3: 再生药剂...不知道它们是好是坏...
+		EntryA4: 有一个传说中的悠悠球被称为萨斯卡德.
+		EntryA5: 来自骷髅商人的奇异啤酒气味真的很糟糕,但法力恢复效果非常棒!
+		EntryA6: 嗨, *咳咳*.. 那绝对不是柠檬茶.
+		EntryA7: 你有在周围看到一个机械骷髅王吗?
+		EntryA8: 你有听说过极限蘑菇吗？如果你找到了一个，我相信我能研究出一种可以帮助你的材料.
+		EntryA9: 我向
+		EntryA10: 购买高效萃取配方，因为他说不，然后我就说“即使是傻子也能研究出那个配方”.
+		EntryA11: 想想看, 她正在得到那些药水而我没有...但我对此却又无法反驳.
+		EntryA12: 他叫什么来着?
+		EntryA13: ? 所以... 老师在这儿? 我最好加快脚步!
+		EntryA14: 感谢上帝，我从骷髅王那里拿到了这些碎片，想要看看吗？
+		EntryA15: 你能不能拜托
+		EntryA16: 别再嘲笑我?我知道我的药剂不能让你变强,但是至少他们喝起来不危险.
+		EntryA17: 这些哥布林是如此的愤怒...幸好，他们在这里的时间不会很久.
+		EntryA18: 你最好以最快的速度解决这些海盗先，我忍不住想和船长说几句话，好些年没见到过他咯!
+		EntryA19: 我觉得你不会让他们进我的屋子的，是吧?
+		EntryA20: 也许在这个时候你有比和我说话更重要的事情要做? 有个血红色的月亮挂在天上哎!
+		EntryA21: ...我的朋友，在这个时刻最好的事情就是别来打扰我!
+		EntryA22: 我有一个爆炸烧瓶，你不会想知道它尝起来是什么味道的.
+		EntryA23: 所以
+		EntryA24: 是怎么在这种时候保持冷静的? 我现在就想知道, 现在!
+		EntryA25: 不要让来自丛林的黑暗法师用魅惑的智慧欺骗你。我和。
+		EntryA26: 曾经是他的学徒。当他的课程变得过于黑暗时我退出了，但是
+		EntryA27: 对神秘学炼金术的兴趣却在不断增长
+		Joe: Joe
+		Mark: Mark
+		Walter: Walter
+		Archer: Archer
+		Frido: Frido
+		Li: Li
+		A1: 如果这个卑鄙的
+		A2: 再不住口的话, 我会让
+		A3: 咬她
+		A4: 杀掉那个僵尸! 杀掉那个兔子! 那个名字是血- 哦, 抱歉, 我没注意到你在这里.
+		A5: 哦嗨你好我正在为一个湖收集一些装满血的水桶我很开心所以别问我更多问题了再见.
+		A6: 当有一大堆僵尸在我的门后面时我很喜欢它，但是当它们打破我的门时我恨它!
+		A7: 啊哈, 这种不安全的感觉, 偏执狂热爱这种血月在空中的感觉.
+		A8: 你对我的信仰感兴趣吗? 它涉及对血月的牺牲.
+		A9: 你知道为毛我恨这些哥布林嘛? 他们太鸡儿吵了.
+		A10: 海盗万岁! 他们给我供应金家具!
+		A11: 啊哈! 最后进行一些适当的电镀来完成我的屋顶!
+		A12: 请不要乱炸OK?
+		A13: 已经够烦了.
+		A14: 建筑药水对所有人免费, 除了你.
+		A15: 什么玩意儿? 我去哪里搞到我的建筑师学位? 有建筑师学位吗?
+		A16: 你知道木头怎么才不会烧着吗? 经过一系列操作之后的确不会. 真的怪...
+		A17: 不, 我不是家伙(guy). 我是老兄(dude).
+		A18: 嗯, 你最近做的一件事情几乎让人印象深刻. (不存在的)
+		A19: 所以, 你说箱子也是家具. 我表示: 去你丫的.
+		A20: 我看了你的建筑, 但是我仍然觉得不怎么样.
+		A21: 你听说过一个叫FuryForged的家伙吗?他的一切东西都是我教的
+		A22: 我曾经被一家公司雇用来建造一个超大规模的高科技，高安全性装置。 让我告诉你我在安全性和阻挡入侵方面我的巨大建树。
+		AS1: 第一商店 (填充方块)
+		AS2: 第二商店 (建筑方块)
+		AS3: 第三商店 (基础家具)
+		AS4: 第四商店 (高级家具)
+		AS5: 第五商店 (火把专卖)
+		AS6: 第六商店 (蜡烛专卖)
+		AS7: 第七商店 (台灯专卖)
+		AS8: 第八商店 (灯笼专卖)
+		AS9: 第九商店 (吊灯专卖)
+		AS10: 第十商店 (烛台专卖)
+		ShopsChanger: 切换商店
+		ShopB1: 第一商店 (原版)
+		ShopB2: 第二商店 (炼金/灾厄)
+		ShopB3: 第二商店 (瑟银/RG)
+		ShopB4: 第三商店 (更多药剂)
+		ShopB5: 第四商店 (震颤/钓杆/钓具箱)
+		ShopB6: 第五商店 (Wildlife/圣域/魂灵/水晶之地/ExpSentr)
+		Lillian: Lillian
+		Lucy: Lucy
+		Alice: Alice
+		Rocksahn: Rocksahn
+		Agness: Agness
+		Mary: Mary
+		EntryB1: 要试试这药水吗?它应该会强化翅膀.
+		EntryB2: 我不认为那是洞穴探险药水.
+		EntryB3: 我得到了来自谜语大学的学位
+		EntryB4: 有一个传说中的悠悠球球被称为萨斯卡德.
+		EntryB5: 哇哦，面包屑和海狸唾液!
+		EntryB6: 嗨, *咳咳* 那不是地狱降临药剂!
+		EntryB7: 你在周围看到双子魔眼了吗?
+		EntryB8: 那个愚蠢的
+		EntryB9: 过于害怕在炼金术中使用神秘力量，所以他的药水只是一种没用的水.
+		EntryB10: *啊嚏* 噫... 那些哥布林在附近时我总是打喷嚏.
+		EntryB11: 别让他们进入我的房子...我这儿有那么多的物资和设备.
+		EntryB12: 这是一场外星入侵吗？他们会奴役我们所有人吗？亦或者毁灭我们？没人知道答案...
+		EntryB13: 天上的那个是血月吗？我喜欢！它看起来好漂亮！
+		EntryB14: 我出生的时候正好是血月，每当它升起时我都会变得很兴奋！
+		EntryB15: 是的，我能理解为什么女孩们会生气，但这并不能阻止我的快乐!
+		EntryB16: 和我一样开心, 我也不会给你打折的 - 我又不傻.
+		EntryB17: 通常我会很困惑为什么
+		EntryB18: 和我一样从容冷静, 但是后来我想到了
+		EntryB19: 我曾经远离泰拉大陆去了解更多有关炼金术的信息。 在我的旅行中，我遇到了一位名叫Azanor的“魔法科学家”。 他向我展示了一种叫做''thaumaturgy''的魔法奥秘。
+		ArenaShop: 战斗场地商店
+		Carl: Carl
+		John: John
+		JanMare: JanMare
+		LuiFransua: LuiFransua
+		Daniel: Daniel
+		Charley: Charley
+		EntryJ1: 我找到一些珠宝, 你想看看吗?
+		EntryJ2: 魔法戒指并不像传说中的那样强大,但它仍然能给你对抗强大生物的力量
+		EntryJ3: 呦... 你想要什么,我的朋友?
+		EntryJ4: 我可以为你做钻石戒指.
+		EntryJ5: 不,不要认为我和骷髅商人有关系.
+		EntryJ6: 如果你找到了所有的魔法戒指,你可以制造欧姆尼戒指.
+		EntryJ7: 你在周围看到机械生物了吗?
+		EntryJ8: 你有没有注意到到我和
+		EntryJ9: 长得几乎一毛一样?这是因为我们是兄弟.
+		EntryJ10: 如果你发现了那些破碎的笔记，请把它们给我，我会帮你把它们破译出来。别问我为什么，你只需要知道他们对我有价值。
+		Shop2: 第2商店
+		Shop3: 第3商店
+		Shop4: 第4商店
+		Shop5: 第5商店
+		ShopChanger: 切换商店
+		Beethoven: Beethoven
+		Bach: Bach
+		Johan: Johan
+		Edison: Edison
+		Scott: Scott
+		Lloyd: Lloyd
+		Gamma: Gamma
+		EntryM1: 我会戴耳机，但我不确定泰拉人能不能听见…
+		EntryM2: 我想知道为什么Boss1和Boss2在OST中没有更好的名字。那些名字很很很很平淡。
+		EntryM3: 听着，机器侠可能有我的名字，但我在这里还有更好的工作。
+		EntryM4: 嘘！！！！！你会毁了我的录音！
+		EntryM5: 我发誓，如果有人再让我卖给他们一个“Megalovania”八音盒的话…
+		EntryM6: 听着，你这么热心真是太好了，但是你能不能把下一个Boss的音乐记录下来？我真的不想为了一些曲调而冒自己的生命危险。
+		EntryM7: 啊，我看到你救了探险家！做得好！也许我的下一首歌是关于你的胜利。
+		EntryM8: 你知道，
+		EntryM9: 对我安装这个音响系统真的很有帮助。电线是关键！
+		EntryM10: 如果你遇到
+		EntryM11: ，让他知道他还欠我卖给他的那些八音盒钱。
+		EntryM12: 老实说，我不确定我是否相信
+		EntryM13: 。他声称没有被附身，但他仍在用头骨战斗…我收到的信息混杂不一。
+		EntryM14: 伙计，我的混音带比这个好得多，但由于版权问题，我不能卖给你。
+		EntryM15: 不，我没有“全明星”八音盒。用你自己的代码。
+		EntryM16: 等等，NPC？我以为我是主角！
+		EntryM17: 没想到我会卖一个带歌词的八音盒…DM DOKURO，是个疯狂的人，我喜欢！
+		EntryM18: 整个基础音乐系列？听起来太棒了！很糟糕，我没有装备，嗯？
+		EntryM19: 这是你的错。出！去！
+		EntryM20: 啊，我回来了！我记得这首歌曾经在地牢和地下演奏…真是好时光！
+		EntryM21: 有没有一个名字是因为害怕被蛋糕监视？
+		EntryM22: 你在伤害我的耳朵! 把它给我关了!
+		BossDropsShop: 原版Boss掉落物&材料商店
+		BossDropsModsShop: 模组Boss掉落物&材料商店
+		VanillaTreasureBagsShop: 原版宝藏袋商店
+		ModdedTreasureBagsShop: 模组宝藏袋商店
+		ModdedTreasureBagsShop2: 模组宝藏袋商店 #2
+		ModdedTreasureBagsShop3: 模组宝藏袋商店 #3
+		Angela: Angela
+		Carmen: Carmen
+		EntryO1: 您好吗, 主管, 我能为您做什么?
+		EntryO2: 那个'大雷鸟'看起来并不怎么危险. 我只希望它不是天启鸟的一部分...
+		EntryO3: 您好, 主管! 今天真安静, 不是么?
+		EntryO4: 您想要什么特别的东西吗, 主管?
+		EntryO5: 世界吞噬者为异常, 危险等级: TETH. 现在它已经被写入了. 您需要些来自它的物品吗?
+		EntryO6: 如果您成功阻止诸神黄昏, 那么您可以做您想做的一切.
+		EntryO7: 克苏鲁之眼是个特别奇怪的生物. 它看起来像是个十分危险的东西的一部分. 如果它没有逃跑对我们来说更好.
+		EntryO8: 克苏鲁之脑也许看起来很吓人, 但是失去了它的爪牙它几乎什么都做不了.
+		EntryO9: 这个世界出现了某种变动, 主管. 邪恶正在扩张, 但是与此同时, 我的传感系统发现了一个新生物群落诞生了, 叫做神圣之地.
+		EntryO10: 所有的这些机械Boss... 他们肯定有创伤来源. 他们会得到什么分类号码? 我觉得可以从 T-05- 开始...
+		EntryO11: 哥布林... 如此可怜的生物. 他们唯一有用的东西就是尖刺球和鱼叉链枪.
+		EntryO12: 挺奇怪的异常事件... 他们都看起来像是活着的生物, 但是他们的“荷兰飞盗船” 的危险等级绝对有 HE.
+		EntryO13: 火星人又来了. 上次他们来的时候, 几个大城镇被毁灭了. 但是, 恕我直言, 我们可以说我们现在还没有准备好.
+		EntryO14: 血月? 这不应该每666年才发生一次吗?
+		EntryO15: 所有的这些奇怪生物一直冲过来, 冲向这个'信标'... 真希望我们能在黎明前活下来.
+		EntryO16: 无论怎样, 都有一些乐观的理由. 血月带来了一些生物, 平时我们都见不到的生物.
+		EntryO17: 我阅读了一些关于一个生物的手稿, 叫做史莱姆之神. 他们说这是世界上第一个生物之一.
+		EntryO18: 亚利姆... 我很确定我曾经听过这个名字. 但是我的记忆数据已损坏. 试着去问问大山猪关于它的事情吧...
+		EntryO19: 这种肉食植物真的很危险...危险等级至少为 HE , 总之很高兴再次见到你平安归来
+		EntryO20: 这古老的机器拥有着巨大的天界之力. 随着它的死亡, 世界也发生了永远的改变...
+		EntryO21: 一个蜂后那么大的昆虫是不符合现在的分类标准的. 我建议为他建立一个新的分类 MI-XX. 很奇怪还没有人为了自己的意愿驱使它们, 那么让我们成为第一个吧.
+		EntryO22: 看来我对蜂后的看法是错的. 它们的记忆中储存着一个被野心蒙蔽了双眼的科学家的漫谈, 他残酷地把瘟疫带给它们. 让我们把它们归类为MP-0X.
+		EntryO23: 根据我的记录, 你所说的那个克兹尼格斯是一个较弱的虚空巡查者, 被归类为OB-V-01. 在现实的面纱后面有着更大的威胁在等待着.
+		EntryO24: 这个飞行侦察者.....好奇. 从储存在残骸中的数据库来看, 这似乎是一艘为火星人而设的侦察船, 用来确定地球人的居住环境. 我担心飞行员最后看到的已经被上传到中央火星指挥中心.
+		EntryO25: 把一个法师的力量转移到自己身上并且用它困住他并非易事, 但是观察如此残酷的行为...永冻之土, 前冰堡之王, 愿你看到和平.
+		EntryO26: 星盘袭击者是个天才星尘蜈蚣, 或是G-S-C3, 作为终身伴侣和合作伙伴在火星精英中很受欢迎. 从我恢复出的巡航机的存储芯片来看, 他一定在离家很远的地方探索着
+		EntryO27: 我花了时间对这个不可思议的生物的遗体进行了分析, 每次它攻击的时候, 整个星球似乎都在它的意愿中产生共鸣, 我除了担心它的死亡的后果之外, 什么都做不了, 至少你又一次从末日中拯救了泰拉瑞亚...又一次
+		EntryO28: 这样一个古老的存在是值得记录的--它外表的材料可以承受与地球太阳核心的温度相等的温度!如果我们能使材料具有一半的耐热性, 这将彻底改变对 ARS-0N 囚犯的控制装置!
+		EntryO29: 那些制造毁灭魔像的人就应该被关进 HI-MAX 监狱中去. 这些可怜的灵魂受尽了折磨......好吧, 至少你将他们从痛苦之渊中解放出来
+		EntryO30: 有意思...那些痴愚金龙实际上是重生之龙，犽戎的克隆体. 我很高兴看到那些实验都失败了!
+		EntryO31: 你很幸运, 那东西膨胀了, 没有直接在你头上开个直通太阳的传送门. 他所展示出的力量和智慧, 意味着我要对蠕虫的类别做一个全新的分类
+		EntryO32: 对于这生物的起源我有些基本的猜测, 而不是单纯害怕他的灵魂(如果他有灵魂的话)...反辐射能量, 研究表明, 这种'湮灭能量'在黑暗中发出光芒, 在光明中辐射黑暗. 我不知道它是怎么来的, 但是我知道我们必须付出一切代价封印它.
+		EntryO33: 至尊女巫，灾厄被击败了, 但是他说还有一个比他更为强大的存在, 我们必须祈祷他还没有注意到我们.
+		EntryO34: 老实说，我不知道为什么巨大的旋转头骨是一切的关键，但不知何故，它们似乎包含着天人的力量…
+		EntryO35: 是的，我知道我们是捕获和饲养恐怖的怪物的人。但谁会认为把宝藏袋放在一个巨大的怪物里面是个好主意呢？！？你看！
+		EntryO36: КEmember经理，宝藏袋很值钱，但不是所有东西都在里面。那个变种人能帮你得到Boss的稀有掉落物。
+		Alexander: Alexander
+		Peter: Peter
+		TinkererButton1: 移动/杂项
+		TinkererButton2: 战斗
+		EntryT1: 需要一些特别的东西? 尽管说...
+		EntryT2: 你看见过我的姐姐吗? 比起工匠, 她更像个蒸汽朋克女孩...
+		EntryT3: 如果你在什么地方见过纸管, 把它带给我, 我会为你解锁一些东西.
+		EntryT4: 随着进度的推进, 你可能会发现更有价值的东西. 攒些蓝图来制作更稀有的饰品.
+		EntryT5: 你永远不会知道在哪里可以得到真正珍贵的东西. 所以耐心探索每一个可能的角落吧.
+		Harold: Harold
+		Charles: Charles
+		Monty: Monty
+		Lucas: Lucas
+		Porky: Porky
+		Leeland: Leeland
+		Atreus: Atreus
+		Entry1: 我出售我父母做的药剂.
+		Entry2: 我有一些药水可以卖给你
+		Entry3: 战斗药剂包是我的主意.
+		Entry4: 有一个传说中的悠悠球被称为萨斯卡德.
+		Entry5: 来自骷髅商人的奇异啤酒气味真的很糟糕，但法力恢复效果是可怕的.
+		Entry6: 嗨, *咳咳*.. 那绝对不是柠檬茶.
+		Entry7: 你有在附近见到钢铁破坏者吗?
+		Entry8: 我妈妈,
+		Entry9: ，是最酷的药剂师, 不是吗? 她可以轻松酿造出难做的药剂.
+		Entry10: 某些整合药剂包只有在世界上存在某种魔法的情况下才能制作出来。
+
+		Tiles: {
+			ArtificialAltar.ArtificialAltar: 人造祭坛
+			Beacon.Beacon: 信标
+			FearEmitter.FearEmitter: 恐惧发射源
+			HMCraftPound.HMCraftPound: 豪华手工英镑
+			HoloprojectorCorruption.HoloprojectorCorruption: 全息投影仪 “腐化”
+			HoloprojectorCrimson.HoloprojectorCrimson: 全息投影仪 “血腥”
+			HoloprojectorDesert.HoloprojectorDesert: 全息投影仪 “沙漠”
+			HoloprojectorDungeon.HoloprojectorDungeon: 全息投影仪 “地牢”
+			HoloprojectorHallowed.HoloprojectorHallowed: 全息投影仪 “神圣”
+			HoloprojectorJungle.HoloprojectorJungle: 全息投影仪 “丛林”
+			HoloprojectorOcean.HoloprojectorOcean: 全息投影仪 “海洋”
+			HoloprojectorSnow.HoloprojectorSnow: 全息投影仪 “雪原”
+			HoloprojectorSpace.HoloprojectorSpace: 全息投影仪 “太空”
+			ImmortalityFieldProjector.ImmortalityFieldProjector: 稳恒场源投影仪
+			MateriaTransmutator.MateriaTransmutator: 物质嬗变器
+			MateriaTransmutatorMK2.MateriaTransmutatorMK2: 物质嬗变器 MK2
+			MolecularReplicator.MolecularReplicator: 分子复制器
+			PreHMPenny.PreHMPenny: 简易手工便士
+			SpecCraftPoint.PreHMPenny: 特殊手工位点
+			Wellcheers.Wellcheers: 韦尔奇乐自动售货机
+			WingoftheWorld.WingoftheWorld: 世界之翼
+		}
+
+		NPC: {
+			Alchemist: {
+				PlantsShop: 植物商店
+				GetCharm: 获得符咒
+				Edward: Edward
+				Severus: Severus
+				Horace: Horace
+				Tilyorn: Tilyorn
+				Nicolas: Nicolas
+				Gregg: Gregg
+				BrewElixir: 炼制仙丹
+				EntryA1: 我的生命药水可以治疗你的伤口.
+				EntryA2: 我的魔法药水可以回复你的魔力.
+				EntryA3: 再生药剂...不知道它们是好是坏...
+				EntryA4: 有一个传说中的悠悠球被称为萨斯卡德.
+				EntryA5: 来自骷髅商人的奇异啤酒气味真的很糟糕,但法力恢复效果非常棒!
+				EntryA6: 嗨, *咳咳*.. 那绝对不是柠檬茶.
+				EntryA7: 你有在周围看到一个机械骷髅王吗?
+				EntryA8: 你有听说过极限蘑菇吗？如果你找到了一个，我相信我能研究出一种可以帮助你的材料.
+				EntryA9: 我向
+				EntryA10: 购买高效萃取配方，因为他说不，然后我就说“即使是傻子也能研究出那个配方”.
+				EntryA11: 想想看, 她正在得到那些药水而我没有...但我对此却又无法反驳.
+				EntryA12: 他叫什么来着?
+				EntryA13: ? 所以... 老师在这儿? 我最好加快脚步!
+				EntryA14: 感谢上帝，我从骷髅王那里拿到了这些碎片，想要看看吗？
+				EntryA15: 你能不能拜托
+				EntryA16: 别再嘲笑我?我知道我的药剂不能让你变强,但是至少他们喝起来不危险.
+				EntryA17: 这些哥布林是如此的愤怒...幸好，他们在这里的时间不会很久.
+				EntryA18: 你最好以最快的速度解决这些海盗先，我忍不住想和船长说几句话，好些年没见到过他咯!
+				EntryA19: 我觉得你不会让他们进我的屋子的，是吧?
+				EntryA20: 也许在这个时候你有比和我说话更重要的事情要做? 有个血红色的月亮挂在天上哎!
+				EntryA21: ...我的朋友，在这个时刻最好的事情就是别来打扰我!
+				EntryA22: 我有一个爆炸烧瓶，你不会想知道它尝起来是什么味道的.
+				EntryA23: 所以
+				EntryA24: 是怎么在这种时候保持冷静的? 我现在就想知道, 现在!
+				EntryA25: 不要让来自丛林的黑暗法师用魅惑的智慧欺骗你。我和
+				EntryA26: 曾经是他的学徒。当他的课程变得过于黑暗时我退出了，但是
+				EntryA27: 对神秘学炼金术的兴趣却在不断增长
+			}
+
+			Architect: {
+				Joe: Joe
+				Mark: Mark
+				Walter: Walter
+				Archer: Archer
+				Frido: Frido
+				Li: Li
+				A1: 如果这个卑鄙的
+				A2: 再不住口的话, 我会让
+				A3: 咬她.
+				A4: 杀掉那个僵尸! 杀掉那个兔子! 那个名字是血- 哦, 抱歉, 我没注意到你在这里.
+				A5: 哦嗨你好我正在为一个湖收集一些装满血的水桶我很开心所以别问我更多问题了再见.
+				A6: 当有一大堆僵尸在我的门后面时我很喜欢它，但是当它们打破我的门时我恨它!
+				A7: 啊哈, 这种不安全的感觉, 偏执狂热爱这种血月在空中的感觉.
+				A8: 你对我的信仰感兴趣吗? 它涉及对血月的牺牲.
+				A9: 你知道为毛我恨这些哥布林嘛? 他们太鸡儿吵了.
+				A10: 海盗万岁! 他们给我供应金家具!
+				A11: 啊哈! 最后进行一些适当的电镀来完成我的屋顶!
+				A12: 请不要乱炸OK?
+				A13: 已经够烦了.
+				A14: 什么玩意儿? 我去哪里搞到我的建筑师学位? 有建筑师学位吗?
+				A15: 你知道木头怎么才不会烧着吗? 经过一系列操作之后的确不会. 真的怪...
+				A16: 不, 我不是家伙(guy). 我是老兄(dude).
+				A17: 嗯, 你最近做的一件事情几乎让人印象深刻. (不存在的)
+				A18: 所以, 你说箱子也是家具. 我表示: 去你丫的.
+				A19: 我看了你的建筑, 但是我仍然觉得不怎么样.
+				A20: 你听说过一个叫FuryForged的家伙吗?他的一切东西都是我教的
+				A21: 我曾经被一家公司雇用来建造一个超大规模的高科技，高安全性装置。 让我告诉你我在安全性和阻挡入侵方面我的巨大建树。
+				AS1: "第一商店 (填充方块)            "
+				AS2: "第二商店 (建筑方块)            "
+				AS3: "第三商店 (基础家具)            "
+				AS4: "第四商店 (高级家具)            "
+				AS5: "第五商店 (火把专卖)            "
+				AS6: "第六商店 (蜡烛专卖)            "
+				AS7: "第七商店 (台灯专卖)            "
+				AS8: "第八商店 (灯笼专卖)            "
+				AS9: "第九商店 (吊灯专卖)            "
+				AS10: "第十商店 (烛台专卖)            "
+				ShopsChanger: 切换商店
+			}
+
+			BillCipher: {
+				Chat1: 什么? 你竟然和我名字一模一样? 那好吧, 我不想和你打.
+				Chat2: 这, 拿着我的礼物! 再见!
+				Chat3: 别妄想躲着我, 凡人!
+			}
+
+			Brewer: {
+				ShopB1: 第一商店 (原版)
+				ShopB2: 第二商店 (炼金)
+				ShopB21: 第三商店 (灾厄)
+				ShopB3: 第四商店 (瑟银)
+				ShopsChanger: 切换商店
+
+				Names: {
+					Lillian: Lillian
+					Lucy: Lucy
+					Alice: Alice
+					Rocksahn: Rocksahn
+					Agness: Agness
+					Mary: Mary
+				}
+
+				Text: {
+					B1: 要试试这药水吗?它应该会强化翅膀.
+					B2: 我不认为那是洞穴探险药水.
+					B3: 我得到了来自谜语大学的学位
+					B4: 有一个传说中的悠悠球球被称为萨斯卡德.
+					B5: 哇哦，面包屑和海狸唾液!
+					B6: 嗨, *咳咳* 那不是地狱降临药剂!
+					B7: 你在周围看到双子魔眼了吗?
+					B8: 那个愚蠢的
+					B9: 过于害怕在炼金术中使用神秘力量，所以他的药水只是一种没用的水.
+					B10: *啊嚏* 噫... 那些哥布林在附近时我总是打喷嚏.
+					B11: 别让他们进入我的房子...我这儿有那么多的物资和设备.
+					B12: 这是一场外星入侵吗？他们会奴役我们所有人吗？亦或者毁灭我们？没人知道答案...
+					B13: 天上的那个是血月吗？我喜欢！它看起来好漂亮！
+					B14: 我出生的时候正好是血月，每当它升起时我都会变得很兴奋！
+					B15: 是的，我能理解为什么女孩们会生气，但这并不能阻止我的快乐!
+					B16: 和我一样开心, 我也不会给你打折的 - 我又不傻.
+					B17: 通常我会很困惑为什么
+					B18: 和我一样从容冷静, 但是后来我想到了
+					B19: 我曾经远离泰拉大陆去了解更多有关炼金术的信息。 在我的旅行中，我遇到了一位名叫Azanor的“魔法科学家”。 他向我展示了一种叫做''thaumaturgy''的魔法奥秘。
+				}
+			}
+
+			Explorer: {
+				Names: {
+					Elizabeth: Elizabeth
+					Dora: Dora
+				}
+
+				Create1: 制造 #1
+				Create2: 制造 #2
+				Create3: 制造 #3
+				Create4: 制造 #4
+				Create5: 制造 #5
+				Create6: 制造 #6
+				Create7: 制造 #7
+				Create8: 制造 #8
+
+				Text: {
+					A1: 所以, 我的笔记对你来说有用吗?
+					A2: 我有一些关于特殊材料方面的知识, 也许可以帮到你.
+					A3: 你想试试权力的感觉吗? 只需要制作一个抽取器并且获得一些灵魂精华和仇恨之瓶就行了
+					A4: “有个传说中的悠悠球叫做萨斯卡德.”...我很确定你之前听到过这句话, 但是我知道, 如何得到它!
+					A5: 如果你想得到我研究成果的一部分, 就拿起笔记然后看看你能不能帮忙. 所有的成果都归你!
+					A6: 运气不错, 我带着我的次元盒, 所以我可以制作药水, 由我发明的药水
+					A7: 始源碎片十分的有趣...你可以用他们制造一些特殊的饰品和装备或者是天界碎片
+					A8: 如果你已经找到了异界护身符, 你就可以让
+					A9: 开始售卖天界碎片
+					A10: 那是丛林中最为强大和危险的生物, 但是你杀了它. 这是否意味着以后你就是丛林中最强大最危险的生物了呢?
+					A11: 异界护身符拥有着远超你想象的力量...它可以帮助炼金师制作始源碎片, 可以召唤坐骑魄罗, 同时也是制作自动注射器和凝视者护符的材料
+					A12: 如果你想要制作凝视者护符, 你可以从年轻药剂师那里购买瓶中彩虹, 这是一种十分强力的注入剂, 可以帮助你打败强大的敌人
+					A13: 我曾经遇到过一个骑在天角兽上旅行的人. 他看起来真是太神了!
+					A14: 你能给我弄一个独角兽来做试验吗. 我相信你的捕虫网足够强力!
+					A15: 把大量套装弄乱可不是一件有趣的事, 英雄. 在选择能力的时候一定要小心.
+					A16: 时空连续体可能会成为最糟糕的结合体在这种存在形式下: 这两者都是一个微妙而精细的结构, 处于一种巧妙而脆弱的平衡, 同时是一种绝对不可否认控制我们一切，并构成了我们所说的 “现实和虚拟”的自然力量, 你不会相信是不稳定的.
+					A17: 朋友, 从有经验的人那分享来的一句话: “相比于深空里潜伏着的各种你会发现的东西, 一个会飞的谁他妈直到它是不是神的宇宙巨型蠕虫简直再正常不过了”.
+				}
+			}
+
+			Jewler: {
+				Names: {
+					Carl: Carl
+					John: John
+					JanMare: JanMare
+					LuiFransua: LuiFransua
+					Daniel: Daniel
+					Charley: Charley
+				}
+
+				Actions: {
+					ArenaShop: 战斗场地商店
+					Combine: 黏合笔记
+				}
+
+				Text: {
+					A1: 我找到一些珠宝, 你想看看吗?
+					A2: 魔法戒指并不像传说中的那样强大,但它仍然能给你对抗强大生物的力量
+					A3: 呦... 你想要什么,我的朋友?
+					A4: 我可以为你做钻石戒指.
+					A5: 不,不要认为我和骷髅商人有关系.
+					A6: 如果你找到了所有的魔法戒指,你可以制造欧姆尼戒指.
+					A7: 你在周围看到机械生物了吗?
+					A8: 你有没有注意到到我和
+					A9: 长得几乎一毛一样?这是因为我们是兄弟.
+					A10: 如果你发现了那些破碎的笔记，请把它们给我，我会帮你把它们破译出来。别问我为什么，你只需要知道他们对我有价值。
+				}
+			}
+
+			Musician: {
+				Names: {
+					Beethoven: Beethoven
+					Bach: Bach
+					Johan: Johan
+					Edison: Edison
+					Scott: Scott
+					Lloyd: Lloyd
+					Gamma: Gamma
+				}
+
+				Actions: {
+					Shop2: 第1商店
+					Shop3: 第2商店
+					ShopChanger: 切换商店
+				}
+
+				Text: {
+					E1: 我会戴耳机，但我不确定泰拉人能不能听见…
+					E2: 我想知道为什么Boss1和Boss2在OST中没有更好的名字。那些名字很很很很平淡。
+					E3: 听着，机器侠可能有我的名字，但我在这里还有更好的工作。
+					E4: 嘘！！！！！你会毁了我的录音！
+					E5: 我发誓，如果有人再让我卖给他们一个“Megalovania”八音盒的话…
+					E6: 听着，你这么热心真是太好了，但是你能不能把下一个Boss的音乐记录下来？我真的不想为了一些曲调而冒自己的生命危险。
+					E7: 啊，我看到你救了探险家！做得好！也许我的下一首歌是关于你的胜利。
+					E8: 你知道，
+					E9: 对我安装这个音响系统真的很有帮助。电线是关键！
+					E10: 如果你遇到
+					E11: ，让他知道他还欠我卖给他的那些八音盒钱。
+					E12: 老实说，我不确定我是否相信
+					E13: 。他声称没有被附身，但他仍在用头骨战斗…我收到的信息混杂不一。
+					E14: 伙计，我的混音带比这个好得多，但由于版权问题，我不能卖给你。
+					E15: 不，我没有“全明星”八音盒。用你自己的代码。
+					E16: 等等，NPC？我以为我是主角！
+					E17: 没想到我会卖一个带歌词的八音盒…DM DOKURO，是个疯狂的人，我喜欢！
+					E18: 整个基础音乐系列？听起来太棒了！很糟糕，我没有装备，嗯？
+					E19: 这是你的错。出！去！
+					E20: 啊，我回来了！我记得这首歌曾经在地牢和地下演奏…真是好时光！
+					E21: 有没有一个名字是因为害怕被蛋糕监视？
+					E22: 你在伤害我的耳朵! 把它给我关了!
+				}
+			}
+
+			Operator: {
+				Names: {
+					Angela: Angela
+					Carmen: Carmen
+				}
+
+				Actions: {
+					Shop1: 原版Boss掉落物&材料商店
+					Shop2: EGO 装备商店
+					Shop3: 模组Boss掉落物&材料商店
+					Shop4: 原版宝藏袋商店
+					Shop5: 模组宝藏袋商店
+					Shop6: 模组宝藏袋商店 #2
+					Shop7: 模组宝藏袋商店 #3
+					ShopChanger: 切换商店
+				}
+
+				Text: {
+					E1: 您好吗, 主管, 我能为您做什么?
+					E2: 那个'大雷鸟'看起来并不怎么危险. 我只希望它不是天启鸟的一部分...
+					E3: 您好, 主管! 今天真安静, 不是么?
+					E4: 您想要什么特别的东西吗, 主管?
+					E5: 世界吞噬者为异常, 危险等级: TETH. 现在它已经被写入了. 您需要些来自它的物品吗?
+					E6: 如果您成功阻止诸神黄昏, 那么您可以做您想做的一切.
+					E7: 克苏鲁之眼是个特别奇怪的生物. 它看起来像是个十分危险的东西的一部分. 如果它没有逃跑对我们来说更好.
+					E8: 克苏鲁之脑也许看起来很吓人, 但是失去了它的爪牙它几乎什么都做不了.
+					E9: 这个世界出现了某种变动, 主管. 邪恶正在扩张, 但是与此同时, 我的传感系统发现了一个新生物群落诞生了, 叫做神圣之地.
+					E10: 所有的这些机械Boss... 他们肯定有创伤来源. 他们会得到什么分类号码? 我觉得可以从 T-05- 开始...
+					E11: 哥布林... 如此可怜的生物. 他们唯一有用的东西就是尖刺球和鱼叉链枪.
+					E12: 挺奇怪的异常事件... 他们都看起来像是活着的生物, 但是他们的 “荷兰飞盗船” 的危险等级绝对有 HE.
+					E13: 火星人又来了. 上次他们来的时候, 几个大城镇被毁灭了. 但是, 恕我直言, 我们可以说我们现在还没有准备好.
+					E14: 血月? 这不应该每666年才发生一次吗?
+					E15: 所有的这些奇怪生物一直冲过来, 冲向这个'信标'... 真希望我们能在黎明前活下来.
+					E16: 无论怎样, 都有一些乐观的理由. 血月带来了一些生物, 平时我们都见不到的生物.
+					E17: 我阅读了一些关于一个生物的手稿, 叫做史莱姆之神. 他们说这是世界上第一个生物之一.
+					E18: 亚利姆... 我很确定我曾经听过这个名字. 但是我的记忆数据已损坏. 试着去问问大山猪关于它的事情吧...
+					E19: 这种肉食植物真的很危险...危险等级至少为 HE , 总之很高兴再次见到你平安归来
+					E20: 这古老的机器拥有着巨大的天界之力. 随着它的死亡, 世界也发生了永远的改变...
+					E21: 一个蜂后那么大的昆虫是不符合现在的分类标准的. 我建议为他建立一个新的分类 MI-XX. 很奇怪还没有人为了自己的意愿驱使它们, 那么让我们成为第一个吧.
+					E22: 看来我对蜂后的看法是错的. 它们的记忆中储存着一个被野心蒙蔽了双眼的科学家的漫谈, 他残酷地把瘟疫带给它们. 让我们把它们归类为MP-0X.
+					E23: 根据我的记录, 你所说的那个克兹尼格斯是一个较弱的虚空巡查者, 被归类为OB-V-01. 在现实的面纱后面有着更大的威胁在等待着.
+					E24: 这个飞行侦察者.....好奇. 从储存在残骸中的数据库来看, 这似乎是一艘为火星人而设的侦察船, 用来确定地球人的居住环境. 我担心飞行员最后看到的已经被上传到中央火星指挥中心.
+					E25: 把一个法师的力量转移到自己身上并且用它困住他并非易事, 但是观察如此残酷的行为...永冻之土, 前冰堡之王, 愿你看到和平.
+					E26: 星盘袭击者是个天才星尘蜈蚣, 或是G-S-C3, 作为终身伴侣和合作伙伴在火星精英中很受欢迎. 从我恢复出的巡航机的存储芯片来看, 他一定在离家很远的地方探索着
+					E27: 我花了时间对这个不可思议的生物的遗体进行了分析, 每次它攻击的时候, 整个星球似乎都在它的意愿中产生共鸣, 我除了担心它的死亡的后果之外, 什么都做不了, 至少你又一次从末日中拯救了泰拉瑞亚...又一次
+					E28: 这样一个古老的存在是值得记录的--它外表的材料可以承受与地球太阳核心的温度相等的温度!如果我们能使材料具有一半的耐热性, 这将彻底改变对 ARS-0N 囚犯的控制装置!
+					E29: 那些制造毁灭魔像的人就应该被关进 HI-MAX 监狱中去. 这些可怜的灵魂受尽了折磨......好吧, 至少你将他们从痛苦之渊中解放出来
+					E30: 有意思...那些痴愚金龙实际上是重生之龙，犽戎的克隆体. 我很高兴看到那些实验都失败了!
+					E31: 你很幸运, 那东西膨胀了, 没有直接在你头上开个直通太阳的传送门. 他所展示出的力量和智慧, 意味着我要对蠕虫的类别做一个全新的分类
+					E32: 对于这生物的起源我有些基本的猜测, 而不是单纯害怕他的灵魂(如果他有灵魂的话)...反辐射能量, 研究表明, 这种'湮灭能量'在黑暗中发出光芒, 在光明中辐射黑暗. 我不知道它是怎么来的, 但是我知道我们必须付出一切代价封印它.
+					E33: 至尊女巫，灾厄被击败了, 但是他说还有一个比他更为强大的存在, 我们必须祈祷他还没有注意到我们.
+					E34: 老实说，我不知道为什么巨大的旋转头骨是一切的关键，但不知何故，它们似乎包含着天人的力量…
+					E35: 是的，我知道我们是捕获和饲养恐怖的怪物的人。但谁会认为把宝藏袋放在一个巨大的怪物里面是个好主意呢？！？你看！
+					E36: КEmember经理，宝藏袋很值钱，但不是所有东西都在里面。那个变种人能帮你得到Boss的稀有掉落物。
+				}
+			}
+
+			Tinkerer: {
+				Names: {
+					Alexander: Alexander
+					Peter: Peter
+				}
+
+				Actions: {
+					TinkererButton1: 出售
+					TinkererButton2: 商店
+					TinkererButton3: 回馈
+				}
+
+				Entry: {
+					E1: 需要一些特别的东西? 尽管说...
+					E2: 你看见过我的姐姐吗? 比起工匠, 她更像个蒸汽朋克女孩...
+					E3: 如果你在什么地方见过纸管, 把它带给我, 我会为你解锁一些东西.
+					E4: 随着进度的推进, 你可能会发现更有价值的东西. 攒些蓝图来制作更稀有的饰品.
+					E5: 你永远不会知道在哪里可以得到真正珍贵的东西. 所以耐心探索每一个可能的角落吧.
+					E6: 如果你能收集每一张蓝图, 我会给你一个特别的奖励.
+				}
+
+				EntryTube: {
+					E1: 你没有任何可以递给我的蓝图纸管. 去弄些来!
+					E2: 这里, 钱, 拿着
+				}
+			}
+
+			YoungBrewer: {
+				Names: {
+					Harold: Harold
+					Charles: Charles
+					Monty: Monty
+					Lucas: Lucas
+					Porky: Porky
+					Leeland: Leeland
+					Atreus: Atreus
+				}
+
+				Chat: {
+					E1: 我出售我父母做的药剂.
+					E2: 我有一些药水可以卖给你
+					E3: 战斗药剂包是我的主意.
+					E4: 有一个传说中的悠悠球被称为萨斯卡德.
+					E5: 来自骷髅商人的奇异啤酒气味真的很糟糕，但法力恢复效果是可怕的.
+					E6: 嗨, *咳咳*.. 那绝对不是柠檬茶.
+					E7: 你有在附近见到钢铁破坏者吗?
+					E8: 我妈妈,
+					E9: ，是最酷的药剂师, 不是吗? 她可以轻松酿造出难做的药剂."
+					E10: 某些整合药剂包只有在世界上存在某种魔法的情况下才能制作出来。
+					E11: 你可能想知道我怎么把真正的彩虹放在瓶子里…好吧，有了巨大大大大魔法的力量……以及永恒的痛苦。
+				}
+			}
+		}
+
+		Buffs: {
+			Akumu: {
+				DisplayName: Akumu之盾
+				Description: 反射所有敌对抛射物
+			}
+
+			AntiBuff: {
+				DisplayName: 反buff增益
+				Description:
+					'''
+					免疫所有增益buff
+					没有持续时间的buff不会被禁止
+					Boss和一些小Boss会掉落永久增益物品
+					这些物品的效果只会在这个模式启动时生效
+					'''
+			}
+
+			ArmorDestruction: {
+				DisplayName: 盔甲破损
+				Description: 你的盔甲爆了
+			}
+
+			Banned: {
+				DisplayName: 禁制
+				Description: 受到禁制
+			}
+
+			BastScroll: {
+				DisplayName: 巴斯特卷轴
+				Description: 攻击完全摧毁敌人护甲
+			}
+
+			BattleComb: {
+				DisplayName: 战斗药剂包
+				Description: 包含以下Buff：耐力, 生命力, 铁皮, 恢复, 暴怒, 怒气
+			}
+
+			BigBirdLamp: {
+				DisplayName: 大鸟灯
+				Description:
+					'''
+					你会发光~~~
+					增加5%全伤害和暴击率, 攻击摧毁敌人护甲
+					'''
+			}
+
+			Blurring: {
+				DisplayName: 模糊
+				Description: 敌人并看不清你 (持续10秒暗影躲避,CD时间30秒)
+			}
+
+			BuilderComb: {
+				DisplayName: 建筑师药剂包
+				Description: 包含以下Buff：镇静, 建筑工, 挖矿
+			}
+
+			CalamityComb: {
+				DisplayName: 灾厄药剂包
+				Description:
+					'''
+					完美结合了以下灾厄药剂的Buff：
+					魔君牌兴奋剂、尾音药剂、Fabsol伏特加、腾飞、跳跃、泰坦之鳞药剂
+					'''
+			}
+
+			ChaosState: {
+				DisplayName: 混沌状态
+				Description: 迅速降低敌人生命值
+			}
+
+			CloakOfFear: {
+				DisplayName: 恐惧之袍
+				Description: 使附近的非Boss敌人改变移动方向
+			}
+
+			CloakOfFearDebuff: {
+				DisplayName: 恐惧之袍Debuff
+				Description: 使附近的非Boss敌人改变移动方向
+			}
+
+			Corrosion: {
+				DisplayName: 腐蚀
+				Description: 你的肉体正在融化!
+			}
+
+			CrimsonSoda: {
+				DisplayName: 绯红苏打加持
+				Description: 极大增加生命回复速度
+			}
+
+			CurseOfLight: {
+				DisplayName: 诅咒之光
+				Description: 虚弱敌人
+			}
+
+			DemonSlayer: {
+				DisplayName: 弑魔之人
+				Description:
+					'''
+					击败他之后,你变得更强了
+					免疫法力病
+					增加 10% 近战速度
+					增加 20 点护甲穿透
+					增加20%概率不消耗子弹
+					+1 最大召唤栏
+					概率释放额外的投掷抛射物
+					免疫某些特定Debuff
+					'''
+			}
+
+			Devilsknife: {
+				DisplayName: 邪匕
+				Description: 蜕变!
+			}
+
+			DiscordBuff: {
+				DisplayName: 混乱传送
+				Description:
+					'''
+					你可以使用快捷键传送到鼠标位置
+					传送后扭曲玩家 1 秒
+					拥有混乱Buff时使用会受到极大的伤害
+					混乱状态持续时间延长至 10 秒
+					'''
+			}
+
+			Drainer: {
+				DisplayName: 抽血
+				Description: 极大降低防御力和耐力
+			}
+
+			Electrocute: {
+				DisplayName: 触电
+				Description: 高压电流过你的身体..
+			}
+
+			EvilPresence: {
+				DisplayName: 邪恶降临
+				Description: 机械Boss即将到来!
+			}
+
+			ExecutionersEyes: {
+				DisplayName: 行刑者之眼
+				Description: 增加 15% 伤害,增加 5% 暴击率,暴击有 5% 概率造成4倍伤害
+			}
+
+			Exhausted: {
+				DisplayName: 精疲力尽
+				Description: 无法使用魔法,降低水平飞行速度,减少近战攻击速度
+			}
+
+			ExplorerComb: {
+				DisplayName: 探索者药剂包
+				Description:
+					'''
+					包含以下Buff：危险感知, 狩猎, 洞穴探险, 夜猫子, 光芒, 挖矿
+					同时给予鱼鳃、脚蹼和水上行走药剂效果
+					'''
+			}
+
+			ExplorersBrew: {
+				DisplayName: 探险者陈酿
+				Description:
+					'''
+					获得所有感知效果, 极大增加召唤速度, 极大增加玩家周围的光照效果, 并且你的攻击会使敌人触电
+					同时给予鱼鳃、脚蹼和水上行走药剂效果
+					'''
+			}
+
+			FishingComb: {
+				DisplayName: 钓鱼药剂包
+				Description: 包含以下Buff：声呐, 钓鱼, 恢复, 镇静, 荆棘, 铁皮, 狱火, 宝匣
+			}
+
+			Fortitude: {
+				DisplayName: 刚毅
+				Description: 你无法被击退
+			}
+
+			GreaterDangersense: {
+				DisplayName: 强效危险感知
+				Description: 高亮敌人的抛射物
+			}
+
+			GrimReaper: {
+				DisplayName: 死神
+				Description: 你好! 我叫格雷格, 死神....不许笑!!
+			}
+
+			GuarantCrit: {
+				DisplayName: 暴击预定
+				Description: 下一次攻击必定暴击
+			}
+
+			Hate: {
+				DisplayName: 仇恨
+				Description: 准备好释放你的仇恨吧!
+			}
+
+			HoloprojectorCorruption: {
+				DisplayName: 全息投影仪 “腐化”
+				Description: 当前地形设置:腐化
+			}
+
+			HoloprojectorCrimson: {
+				DisplayName: 全息投影仪 “猩红”
+				Description: 当前地形设置:猩红
+			}
+
+			HoloprojectorDesert: {
+				DisplayName: 全息投影仪 “沙漠”
+				Description: 当前地形设置:沙漠
+			}
+
+			HoloprojectorDungeon: {
+				DisplayName: 全息投影仪 “地牢”
+				Description: 当前地形设置:地牢
+			}
+
+			HoloprojectorHallowed: {
+				DisplayName: 全息投影仪 “神圣”
+				Description: 当前地形设置:神圣
+			}
+
+			HoloprojectorJungle: {
+				DisplayName: 全息投影仪 “丛林”
+				Description: 当前地形设置:丛林
+			}
+
+			HoloprojectorOcean: {
+				DisplayName: 全息投影仪 “海洋”
+				Description: 当前地形设置:海洋
+			}
+
+			HoloprojectorSnow: {
+				DisplayName: 全息投影仪 “雪原”
+				Description: 当前地形设置:雪原
+			}
+
+			HoloprojectorSpace: {
+				DisplayName: 全息投影仪 “太空”
+				Description: 当前地形设置:太空
+			}
+
+			IField: {
+				DisplayName: 稳恒场源
+				Description: 处于这个环境下的npc死亡, 会重生
+			}
+
+			IlluminatiCooldown: {
+				DisplayName: 光照会礼物 冷却
+				Description: 无法激活光照会礼物的效果
+			}
+
+			IlluminatiHeal: {
+				DisplayName: 光照会之愈
+				Description: 回复75%生命值
+			}
+
+			Infested: {
+				DisplayName: 蛛群滋生
+				Description: 减速，蜘蛛种群暴涨
+			}
+
+			Judgement: {
+				DisplayName: 审判
+				Description:
+					'''
+					产生锋利的骨刺穿透你的敌人
+					有 33% 的概率减少2点所受伤害
+					伤害减免降低 33%
+					'''
+			}
+
+			JustitiaPale: {
+				DisplayName: 无力的审判鸟
+				Description: 生命从你的身体中流失...
+			}
+
+			LaserBattery: {
+				DisplayName: 激光电池
+				Description: 准备开火
+			}
+
+			LittleWitchMonster: {
+				DisplayName: 小巫怪
+				Description: 嗯，这就是它里面的东西...
+			}
+
+			LongInvincible: {
+				DisplayName: 延长无敌
+				Description: 增加你的无敌时间
+			}
+
+			Madness: {
+				DisplayName: 疯狂释放
+				Description: 纯粹的疯狂
+			}
+
+			MageComb: {
+				DisplayName: 魔法药剂包
+				Description: 包含以下Buff：魔能, 魔力再生, 智慧, 暴怒, 怒气
+			}
+
+			MindBurn: {
+				DisplayName: 心智燃烧
+				Description: 心智在燃烧!
+			}
+
+			MysticAmulet: {
+				DisplayName: 神秘护符
+				Description: 可以自由飞翔
+			}
+
+			NinjaSkill: {
+				DisplayName: 忍者
+				Description: 现在你是个真正的忍者了!
+			}
+
+			NULL: {
+				DisplayName: N U L L
+				Description: N U L L
+			}
+
+			NULLCD: {
+				DisplayName: N U L L 再启
+				Description: N U L L 再启
+			}
+
+			OnyxSoda: {
+				DisplayName: 玛瑙苏打加持
+				Description: 增加 75% 耐力
+			}
+
+			Patience: {
+				DisplayName: 耐力瘫痪
+				Description: 冻结目标
+			}
+
+			Petrified: {
+				DisplayName: 石化
+				Description: 你完全石化了!
+			}
+
+			PinkGoldSoda: {
+				DisplayName: 桃金苏打加持
+				Description: 移除大部分Debuff
+			}
+
+			Poro: {
+				DisplayName: 魄罗
+				Description:
+					'''
+					这个生物被封印在这个护身符里
+					只有高尚之人才能释放它, 恢复其原有的荣光.
+					'''
+			}
+
+			ProjCounter: {
+				DisplayName: 球体 199
+				Description:
+					'''
+					摧毁附近的敌方抛射物
+					冷却时间由游戏进程而定
+					'''
+			}
+
+			RainbowFlaskBuff: {
+				DisplayName: 彩虹侵染
+				Description: 你的敌人将受到你的迎头痛击
+			}
+
+			RangerComb: {
+				DisplayName: 射手药剂包
+				Description: 包含以下Buff：箭术, 弹药储备, 暴怒, 怒气
+			}
+
+			SapphireSoda: {
+				DisplayName: 宝蓝苏打加持
+				Description: 移除魔力病Debuff
+			}
+
+			ShieldofSpring: {
+				DisplayName: 源泉之盾
+				Description: 减免 15% 所受伤害
+			}
+
+			Slowness: {
+				DisplayName: 缓慢
+				Description: 减缓敌人
+			}
+
+			Snatcher: {
+				DisplayName: 掠夺者, 被诅咒的王子
+				Description: 我们来做个交易吧!
+			}
+
+			StationUltimaBuff: {
+				DisplayName: 终极站buff
+				Description:
+					'''
+					*提示*这是新内容，具体buff效果根据代码进行推断，目前官方没有给这个写介绍
+					+5 防御力
+					获得灵视、温馨之火、心灯、弹药箱、着魔、星星瓶、锋利、糖果冲刺、巴斯特防御效果
+					'''
+			}
+
+			SummonerComb: {
+				DisplayName: 召唤师药剂包
+				Description: 包含以下Buff：召唤, 迷人, 怒气
+			}
+
+			Sunshine: {
+				DisplayName: 阳光普照
+				Description: 你正像一颗小太阳一样发出光芒
+			}
+
+			SymbDef: {
+				DisplayName: 共生体防御模式
+				Description: 增加生命回复, 防御和伤害减免
+			}
+
+			SymbOff: {
+				DisplayName: 共生体攻击模式
+				Description: 增加攻击速度
+			}
+
+			SymbolOfPain: {
+				DisplayName: 痛苦法印
+				Description: 虚弱敌人
+			}
+
+			TankComb: {
+				DisplayName: 坦克药剂包（炼金）
+				Description: 包含以下Buff：敏捷, 耐力, 生命力, 铁皮, 黑曜石皮肤, 荆棘, 恢复, 泰坦皮肤, 无敌
+			}
+
+			ThoriumComb: {
+				DisplayName: 瑟银药剂包
+				Description:
+					'''
+					完美结合了瑟银药剂的Buff：
+					精准药剂、嗜血药剂、狂热药剂、狂怒药剂、光辉药剂、圣洁药剂以及动能药剂
+					'''
+			}
+
+			TitanSkin: {
+				DisplayName: 泰坦皮肤
+				Description: 免疫一些烦人的Debuff
+			}
+
+			TrapsBuff: {
+				DisplayName: 陷阱增强
+				Description: 增强陷阱
+			}
+
+			TrueAkumu: {
+				DisplayName: 真·Akumu之盾
+				Description: 反射所有敌对抛射物
+			}
+
+			TrueAkumuAttack: {
+				DisplayName: 真·Akumu之击
+				Description: 攻击附近敌人
+			}
+
+			TrueDiscordBuff: {
+				DisplayName: 真·混乱传送
+				Description:
+					'''
+					你可以使用快捷键传送至鼠标位置
+					相当于常态定位器（只不过你需要手动喝药-划掉-）
+					'''
+			}
+
+			TrueUganda: {
+				DisplayName: 乌干达之诅咒
+				Description: DEW U NO DE WAY?
+			}
+
+			Turret: {
+				DisplayName: G姐炮塔
+				Description: G姐炮塔保护着你
+			}
+
+			Twilight: {
+				DisplayName: 苍白的蕾蒂希娅
+				Description: 生命从你的身体中流失...
+			}
+
+			TwilightBoost: {
+				DisplayName: 蕾蒂希娅增强
+				Description: 免疫伤害, 造成3倍伤害
+			}
+
+			TwilightCD: {
+				DisplayName: 蕾蒂希娅冷却
+				Description: 无法使用蕾蒂希娅的特殊能力
+			}
+
+			UgandanWarrior: {
+				DisplayName: 乌干达战士
+				Description: 为了女王!
+			}
+
+			UniversalComb: {
+				DisplayName: 万能药剂包
+				Description:
+					'''
+					完美结合了以下药剂包的Buff：
+					坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包
+					'''
+			}
+
+			VanTankComb: {
+				DisplayName: 坦克药剂包（原版）
+				Description: 包含以下Buff：敏捷, 耐力, 生命力, 铁皮, 黑曜石皮肤, 荆棘, 恢复
+			}
+
+			WatcherCrystal: {
+				DisplayName: 凝视者水晶
+				Description: 银河之力在你身边环绕
+			}
+
+			Yui: {
+				DisplayName: 小悠
+				Description:
+					'''
+					“欢迎回到亚... 等等, 这儿不是亚尔夫海姆! 我们在哪儿?”
+					照亮宝物, 生物和陷阱
+					'''
+			}
+
+			YuiS: {
+				DisplayName: 小悠S
+				Description:
+					'''
+					“欢迎回到亚... 等等, 这儿不是亚尔夫海姆! 我们在哪儿?”
+					照亮宝物, 生物和陷阱
+					'''
+			}
+		}
+
+		Items: {
+			# Armor Start
+			BlackCatBody: {
+				DisplayName: 黑猫的裙子
+				Tooltip: ""
+			}
+
+			BlackCatHead: {
+				DisplayName: 黑猫的头箍和耳朵
+				Tooltip: ""
+			}
+
+			BlackCatLegs: {
+				DisplayName: 黑猫的裤子和鞋
+				Tooltip: ""
+			}
+
+			BloodMoonCirclet: {
+				DisplayName: 角饰环
+				Tooltip: 改变玩家的发型和发色 (可在发型师处还原)
+			}
+
+			BloodMoonDress: {
+				DisplayName: 血月裙子
+				Tooltip: 将玩家性别变为女性
+			}
+
+			BloodMoonStockings: {
+				DisplayName: 血月长袜和靴子
+				Tooltip: ""
+			}
+
+			JustitiaCrown: {
+				DisplayName: 审判鸟王冠 (O-02-62)
+				Tooltip:
+					'''
+					“就像其他生物一样, 它最初也满怀着希望. 但如今, 对和平的渴望只能潜藏在幼稚的童话里.”
+					[c/FF0000:EGO 盔甲 ]
+					增加 20% 近战速度
+					'''
+			}
+
+			JustitiaLeggings: {
+				DisplayName: 审判鸟袜统 (O-02-62)
+				Tooltip:
+					'''
+					“就像其他生物一样, 它最初也满怀着希望. 但如今, 对和平的渴望只能潜藏在幼稚的童话里.”
+					[c/FF0000:EGO 盔甲]
+					增加 25% 移动速度
+					'''
+			}
+
+			JustitiaSuit: {
+				DisplayName: 审判鸟外套 (O-02-62)
+				Tooltip:
+					'''
+					“就像其他生物一样, 它最初也满怀着希望. 但如今, 对和平的渴望只能潜藏在幼稚的童话里.”
+					[c/FF0000:EGO 盔甲]
+					增加 100 点最大生命值
+					增加 15% 伤害减免
+					'''
+			}
+
+			LaetitiaCoat: {
+				DisplayName: 蕾蒂希娅外套 (O-01-67)
+				Tooltip:
+					'''
+					“外套上精美的丝带和蝴蝶结寄托着少女对幸福的向往, 一个孩子不能离开朋友.”
+					[c/FF0000:EGO 盔甲]
+					增加 20% 召唤物伤害
+					击败特定Boss之后增加防御力
+					基础防御力为 5
+					'''
+			}
+
+			LaetitiaLeggings: {
+				DisplayName: 蕾蒂希娅袜统 (O-01-67)
+				Tooltip:
+					'''
+					“外套上精美的丝带和蝴蝶结寄托着少女对幸福的向往, 一个孩子不能离开朋友.”
+					[c/FF0000:EGO 盔甲]
+					增加 10% 召唤物伤害
+					击败特定Boss之后增加防御力
+					基础防御力为 4
+					'''
+			}
+
+			LaetitiaRibbon: {
+				DisplayName: 蕾蒂希娅缎带 (O-01-67)
+				Tooltip:
+					'''
+					“外套上精美的丝带和蝴蝶结寄托着少女对幸福的向往, 一个孩子不能离开朋友.”
+					[c/FF0000:EGO 盔甲]
+					增加 5% 召唤物伤害
+					击败特定Boss之后增加防御力
+					基础防御为 3
+					'''
+			}
+
+			ParadiseLostBody: {
+				DisplayName: 失乐园上衣 (T-03-46)
+				Tooltip:
+					'''
+					“你不必担心, 我已经听到了你那略带惊恐的祈祷.
+					如今, 你还没有意识到, 痛苦这种事物再微小不过了吗?
+					你要我证明奇迹.
+					你应该信任我, 将生命奉献给我. 然后, 我自然会向你展示, 什么叫做力量.”
+					[c/FF0000:EGO 盔甲]
+					增加 200 最大生命值
+					增加 25% 伤害减免
+					免疫大部分原版Debuff
+					'''
+			}
+
+			ParadiseLostHead: {
+				DisplayName: 失乐园荆棘王冠 (T-03-46)
+				Tooltip:
+					'''
+					“你不必担心, 我已经听到了你那略带惊恐的祈祷.
+					如今, 你还没有意识到, 痛苦这种事物再微小不过了吗?
+					你要我证明奇迹.
+					你应该信任我, 将生命奉献给我. 然后, 我自然会向你展示, 什么叫做力量.”
+					[c/FF0000:EGO 盔甲]
+					增加 100 最大魔力值
+					增加 33% 近战速度
+					'''
+			}
+
+			ParadiseLostLegs: {
+				DisplayName: 失乐园上衣 (T-03-46)
+				Tooltip:
+					'''
+					“你不必担心, 我已经听到了你那略带惊恐的祈祷.
+					如今, 你还没有意识到, 痛苦这种事物再微小不过了吗?
+					你要我证明奇迹.
+					你应该信任我, 将生命奉献给我. 然后, 我自然会向你展示, 什么叫做力量.”
+					[c/FF0000:EGO 盔甲]
+					增加 66% 移动速度
+					'''
+			}
+
+			PinkGuyBody: {
+				DisplayName: Pink Guy的衣服
+				Tooltip:
+					'''
+					用最黑暗的材料锻造而出, 只有最棒最牛的人可以穿上它.
+					温馨提示：想简单了解Pink Guy, 可以去B站搜索'Pink Guy'
+					'''
+			}
+
+			PinkGuyHead: {
+				DisplayName: Pink Guy的兜帽
+				Tooltip: 也许是个传奇的衣服？没人知道, 但是一旦你穿上它, 你就再也回不来了.
+			}
+
+			PinkGuyLegs: {
+				DisplayName: Pink Guy的裤子
+				Tooltip: 为练腿日存在完美的裤子.甚至会让你更强壮.
+			}
+
+			ReverberationBody: {
+				DisplayName: 余香衬衫 (T-04-53)
+				Tooltip:
+					'''
+					经过数次加工处理后, 这件护甲的表面变得光滑而又坚硬.
+					[c/FF0000:EGO 盔甲]
+					增加 20% 远程暴击率
+					'''
+			}
+
+			ReverberationHead: {
+				DisplayName: 余香花环 (T-04-53)
+				Tooltip:
+					'''
+					经过数次加工处理后, 这件护甲的表面变得光滑而又坚硬.
+					[c/FF0000:EGO 盔甲]
+					增加 20% 远程伤害
+					'''
+			}
+
+			ReverberationLegs: {
+				DisplayName: 余香裤子 (T-04-53)
+				Tooltip:
+					'''
+					经过数次加工处理后, 这件护甲的表面变得光滑而又坚硬.
+					[c/FF0000:EGO 盔甲]
+					增加 25% 移动速度
+					'''
+			}
+
+			Skyline222Body: {
+				DisplayName: Skyline222's (Noire) 的衬衫
+				Tooltip: Skyline222的可爱衬衫
+			}
+
+			Skyline222Hair: {
+				DisplayName: Skyline222's (Noire) 的发型
+				Tooltip: Skyline222的花俏发型
+			}
+
+			Skyline222Legs: {
+				DisplayName: Skyline222 (Noire) 的裙子
+				Tooltip: Skyline222的短裙, 配有一双靴子
+			}
+
+			somebody0214Hood: {
+				DisplayName: somebody0214的兜帽
+				Tooltip: 非常适合扮演太阳歌颂者!
+			}
+
+			somebody0214Robe: {
+				DisplayName: somebody0214的长袍
+				Tooltip: 非常适合扮演太阳歌颂者!
+			}
+
+			StrangeTopHat: {
+				DisplayName: 奇怪的高顶礼帽
+				Tooltip:
+					'''
+					我们会再见的, 不知何地, 不知何时!
+					哦, 那将是个大晴天!
+					'''
+			}
+
+			TheSecretVR: {
+				DisplayName: 秘密VR眼镜
+				Tooltip: 你最好不知道为什么会拥有它！
+			}
+
+			TwilightCrown: {
+				DisplayName: 薄暝王冠 (O-02-63)
+				Tooltip:
+					'''
+					为了击退黑森林里的可怕“怪物”, 三只鸟齐心协力, 合为一体.
+					它能避免很多无辜的人遇害, 但在那之前, 你必须做好万无一失的准备, 去踏入那片黑暗而又绝望的森林.
+					[c/FF0000:EGO 盔甲]
+					增加 30% 近战伤害
+					'''
+			}
+
+			TwilightLeggings: {
+				DisplayName: 薄暝袜统 (O-02-63)
+				Tooltip:
+					'''
+					为了击退黑森林里的可怕“怪物”, 三只鸟齐心协力, 合为一体.
+					它能避免很多无辜的人遇害, 但在那之前, 你必须做好万无一失的准备, 去踏入那片黑暗而又绝望的森林.
+					[c/FF0000:EGO 盔甲]
+					增加 30% 移动速度
+					'''
+			}
+
+			TwilightSuit: {
+				DisplayName: 薄暝外套 (O-02-63)
+				Tooltip:
+					'''
+					为了击退黑森林里的可怕“怪物”, 三只鸟齐心协力, 合为一体.
+					它能避免很多无辜的人遇害, 但在那之前, 你必须做好万无一失的准备, 去踏入那片黑暗而又绝望的森林.
+					[c/FF0000:EGO 盔甲]
+					增加 200 点最大生命值
+					增加 20% 伤害减免
+					免疫大多数原版Deuff
+					'''
+			}
+
+			# Armor End
+			
+			# Boosters Start
+			BetsyBooster: {
+				DisplayName: 贝特西增益容器
+				Tooltip: 你的攻击造成破晓，飞行能力提升
+			}
+
+			BrainOfCthulhuBooster: {
+				DisplayName: 克苏鲁之脑增益容器
+				Tooltip: 增加1召唤物上限，获得心之彼端效果
+			}
+
+			BrokenBooster1: {
+				DisplayName: 破损的增益容器(1)
+				Tooltip: 使用某些材料可以修复
+			}
+
+			BrokenBooster2: {
+				DisplayName: 破损的增益容器(2)
+				Tooltip: 使用某些材料可以修复
+			}
+
+			CultistBooster: {
+				DisplayName: 邪教徒增益容器
+				Tooltip: 减少受到月柱敌人造成的伤害，小怪可能掉落月柱碎片
+			}
+
+			CustomBooster1: {
+				DisplayName: 普通增益容器1号
+				Tooltip: 给予发光和夜视效果
+			}
+
+			CustomBooster2: {
+				DisplayName: 普通增益容器2号
+				Tooltip: 给予免疫火块，黑曜石皮肤，鱼鳃，脚蹼药剂效果
+			}
+
+			DarkMageBooster: {
+				DisplayName: 黑魔法师增益容器
+				Tooltip: 提升 25% 魔法伤害，增加 50 魔力上限并极大提升魔力再生速度
+			}
+
+			DestroyerBooster: {
+				DisplayName: 毁灭者增益容器
+				Tooltip: 增加 33% 挖掘速度并提升 25% 生命上限
+			}
+
+			EaterOfWorldsBooster: {
+				DisplayName: 世界吞噬者增益容器
+				Tooltip: 增加 5% 近战速度，增加 25% 移动和挖掘速度
+			}
+
+			EyeOfCthulhuBooster: {
+				DisplayName: 克苏鲁之眼增益容器
+				Tooltip: 提供生物，宝藏和陷阱的探测能力
+			}
+
+			FishronBooster: {
+				DisplayName: 猪龙鱼公爵增益容器
+				Tooltip: 表面上的所有统计数据增加 4%
+			}
+
+			GolemBooster: {
+				DisplayName: 石巨人增益容器
+				Tooltip: 增加10%攻击速度，提升近战击退力
+			}
+
+			GSummonerBooster: {
+				DisplayName: 哥布林召唤师增益容器
+				Tooltip: 让你的攻击能造成暗影炎，你免疫暗影炎
+			}
+
+			IceGolemBooster: {
+				DisplayName: 冰雪巨人增益容器
+				Tooltip: 免疫寒冷，冻结和霜火
+			}
+
+			KingSlimeBooster: {
+				DisplayName: 史莱姆王增益容器
+				Tooltip: 极大提升跳跃高度和安全坠落距离
+			}
+
+			MartianSaucerBooster: {
+				DisplayName: 火星飞碟增益容器
+				Tooltip: 免疫电击和重力扭曲
+			}
+
+			MoonLordBooster: {
+				DisplayName: 月亮领主增益容器
+				Tooltip: 你产生能弱化周围敌人的光环
+			}
+
+			OgreBooster: {
+				DisplayName: 食人魔增益容器
+				Tooltip: 提升 5 防御和增加 5% 伤害减免并免疫击退
+			}
+
+			PigronBooster: {
+				DisplayName: 猪龙鱼公爵增益容器
+				Tooltip: 吃得饱!
+			}
+
+			PlanteraBooster: {
+				DisplayName: 世纪之花增益容器
+				Tooltip: 移动时增加伤害和暴击率，获得炼金石效果(减药水cd)
+			}
+
+			PrimeBooster: {
+				DisplayName: 机械骷髅王增益容器
+				Tooltip: 提升 15 点护甲穿透和 15% 的近战速度，给予 200% 的荆棘药剂效果
+			}
+
+			QueenBeeBooster: {
+				DisplayName: 蜂王增益容器
+				Tooltip: 敌方蜜蜂的伤害降低并且你的生命再生速度增加 6 ，免疫中毒
+			}
+
+			SkeletronBooster: {
+				DisplayName: 骷髅王增益容器
+				Tooltip: 骷髅的接触伤害降低，所有伤害和暴击率提升10%
+			}
+
+			TwinsBooster: {
+				DisplayName: 双子魔眼增益容器
+				Tooltip: 箭术和弹药储备药剂效果，免疫咒焰和脓血
+			}
+
+			WoFBooster: {
+				DisplayName: 血肉之墙增益容器
+				Tooltip: 增加 1 召唤物和哨兵炮台上限， 10 防御力和 10% 伤害减免
+			}
+
+			# Boosters End
+			
+			# Equipables Start
+			AlchemistNecklace: {
+				DisplayName: 炼金项链
+				Tooltip: 加快生命回复速度, 减少生命药水的冷却时间, 并延长你受到伤害后的无敌时间
+			}
+
+			Autoinjector: {
+				DisplayName: 自动注射器
+				Tooltip:
+					'''
+					提供生命回复, 降低治疗药水的冷却时间, 延长收到伤害后的无敌时间
+					增加10%全伤害和8%全伤害的暴击率
+					给予万能药剂包buff（包含坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包）
+					使用后永久赋予玩家以下效果:
+					死亡后Buff不消失
+					Buff持续时间x2
+					永久获得炼金石的效果
+					'''
+			}
+
+			AutoinjectorMK2: {
+				DisplayName: 自动注射器 MK2
+				Tooltip:
+					'''
+					提供生命回复, 降低治疗药水的冷却时间, 延长收到伤害后的无敌时间
+					增加15%全伤害和10%全伤害的暴击率
+					给予万能药剂包buff（包含坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包）
+					同样给予所有模组药剂包的效果
+					调节饰品可见度来关闭瑟银和魂灵的Buff
+					减少'Memer的反击'给予的暴击率降低效果
+					'''
+			}
+
+			Barrage: {
+				DisplayName: 护甲模块 “弹幕网”
+				Tooltip:
+					'''
+					任何攻击后附着能量弹
+					产生当前武器 25% 的伤害
+					无需消耗任何弹药
+					'''
+			}
+
+			BastScroll: {
+				DisplayName: 巴斯特卷轴
+				Tooltip:
+					'''
+					强者猎杀弱者——那就是自然规律! 而我遵循规律!
+					给予忍者大师的效果
+					让你跳的更高
+					允许三段跳
+					隐藏饰品可关闭三段跳
+					增加 10% 伤害减免
+					增加 15% 近战/投掷伤害和暴击
+					攻击摧毁敌人护甲 (可能不适用于某些武器)
+					穿甲效果在多人适用于所有玩家
+					投掷物可穿越方块
+					'''
+			}
+
+			BigBirdLamp: {
+				DisplayName: 大鸟灯 (O-02-40)
+				Tooltip:
+					'''
+					一个月后我们得出了结论：那些所谓的怪物根本就不存在.
+					[c/FF0000:EGO 礼物]
+					点亮玩家周围
+					增加 5% 全伤害和暴击
+					攻击移除敌人大部分护甲
+					'''
+			}
+
+			Blinker: {
+				DisplayName: 闪位大师装备
+				Tooltip:
+					'''
+					让你的短距离冲刺变成传送
+					有机会躲避攻击并能在墙壁攀爬
+					'''
+			}
+
+			CelestialHookItem: {
+				DisplayName: 天界钩
+				Tooltip: ""
+			}
+
+			CelestialHookProjectile: {
+				DisplayName: 天界钩-钩
+				Tooltip: ""
+			}
+
+			CrackedCrown: {
+				DisplayName: 破碎王冠
+				Tooltip: 召唤狩猎灵魂的实体
+			}
+
+			DeltaRune: {
+				DisplayName: 三角符文
+				Tooltip:
+					'''
+					增加10%近战/魔法伤害和暴击率
+					+10 防御
+					增加 10% 伤害减免
+					近战攻击概率释放红色破坏波
+					魔法攻击概率释放追踪魔法飞弹
+					站立不动时快速恢复生命
+					'''
+			}
+
+			Godhead: {
+				DisplayName: 神性
+				Tooltip:
+					'''
+					“我就是恐惧!”
+					“我无所不见!”
+					“我无人可挡!”
+					给予所有 3 种魂的效果
+					此外, 增加 5% 伤害和 5 点防御
+					'''
+			}
+
+			GrapplingHookGunItem: {
+				DisplayName: 抓钩枪
+				Tooltip: 速度飞快, 射程极远
+			}
+
+			GrapplingHookGunProjectile: {
+				DisplayName: 抓钩枪-钩
+				Tooltip: ""
+			}
+
+			HeartofYui: {
+				DisplayName: 小悠之心
+				Tooltip:
+					'''
+					召唤小精灵助手
+					照亮宝物, 生物和陷阱
+					'''
+			}
+
+			HeartofYuiS: {
+				DisplayName: 小悠之心S
+				Tooltip:
+					'''
+					召唤小精灵助手
+					照亮宝物, 生物和陷阱
+					'''
+			}
+
+			IlluminatiGift: {
+				DisplayName: 光照会礼物
+				Tooltip:
+					'''
+					增加物品拾取范围, 增加钱币掉落
+					上述效果在饰品为可见时启用
+					大部分商人都会打折
+					被攻击后麻痹屏幕内所有敌人
+					生命值低于 10% 时, 开启特殊回复
+					该能力有两分钟冷却时间
+					避免致死伤害
+					只有在非冷却时启用
+					所有攻击造成点金术效果
+					'''
+			}
+
+			LaetitiaGift: {
+				DisplayName: 蕾蒂希娅的礼物 (O-01-67-1)
+				Tooltip:
+					'''
+					它总是说, 它有许多朋友, 虽然它们都没法跟它待在一起. 于是, 她想出了这个绝妙的主意!
+					[c/FF0000:EGO 礼物/武器]
+					[c/FF0000:警告!!! 如果没有召唤小巫怪, 会慢慢消耗你的生命值]
+					如果穿着全套蕾蒂希娅[c/FF0000:EGO 盔甲],, 则可以召唤一只小巫怪
+					如果脱下蕾蒂希娅[c/FF0000:EGO 盔甲], 小巫怪会消失
+					增加 3 个最大召唤物数量
+					'''
+			}
+
+			LilithCharm: {
+				DisplayName: 莉莉丝魔咒
+				Tooltip:
+					'''
+					增加 15% 魔法伤害和 10% 暴击率
+					减少 25% 魔力消耗
+					增加 100 魔力最大值
+					极大增加魔力回复
+					增加法力星拾取范围
+					自动使用魔力药水
+					使用魔法武器时, 发射一群致命蜜蜂
+					蜜蜂攻击敌人后小概率治愈玩家
+					关闭饰品可见度来关闭蜜蜂
+					不适用于某些武器
+					'''
+			}
+
+			LilithEmblem: {
+				DisplayName: 莉莉丝徽章
+				Tooltip:
+					'''
+					给予 15% 额外魔法伤害和 10% 暴击率
+					减少 15% 法力消耗
+					增加 50 点最大法力值
+					增加魔力恢复速度
+					增加魔力星拾取范围
+					自动使用法力药水
+					当你使用魔法武器时会发射出致命的蜜蜂
+					隐藏饰品可取消蜜蜂
+					不作用于某些特别的武器
+					'''
+			}
+
+			MasterYoyoBag: {
+				DisplayName: 大师悠悠包
+				Tooltip:
+					'''
+					增加 15% 近战伤害和近战速度
+					获得火焰拳套，悠悠手套和配重球地效果
+					极大提升悠悠球最大范围
+					'''
+			}
+
+			MechanicalWings: {
+				DisplayName: 机械翅膀
+				Tooltip:
+					'''
+					允许飞行
+					发射致命激光攻击附近敌人
+					'''
+			}
+
+			MemerRiposte: {
+				DisplayName: Memer的反击
+				Tooltip:
+					'''
+					反弹 500% 的伤害
+					增加 15% 全伤害
+					暴击率减 25% , 但是暴击能造成 4 倍伤害
+					削弱敌对meme
+					'''
+			}
+
+			MysticAmulet: {
+				DisplayName: 神秘护符
+				Tooltip:
+					'''
+					令使用者获得心灵促动的能力
+					可用来飞行
+					'''
+			}
+
+			OtherworldlyAmulet: {
+				DisplayName: 异界护身符
+				Tooltip:
+					'''
+					只能从最强大的敌人那里得到
+					传说可以用它做一些了不起的事情
+					'''
+			}
+
+			ParadiseLostWings: {
+				DisplayName: 失乐园之翼 (T-03-46)
+				Tooltip:
+					'''
+					你不必担心, 我已经听到了你那略带惊恐的祈祷.
+					如今, 你还没有意识到, 痛苦这种事物再微小不过了吗?
+					你要我证明奇迹.
+					你应该信任我, 将生命奉献给我. 然后, 我自然会向你展示, 什么叫做力量.
+					[c/FF0000:EGO 礼物]
+					等同于翅膀
+					允许奔跑
+					拥有非常长的飞行时间和优秀的水平飞行速度
+					'''
+			}
+
+			RampageComponents: {
+				DisplayName: 狂暴组件
+				Tooltip:
+					'''
+					把子弹转变成致命的橓裂弹
+					他们看起来就像是叶绿弹和水晶尘子弹的疯狂组合
+					给予狙击镜的效果 (10% 的额外远程伤害和暴击率, 允许缩放)
+					拥有弹药箱效果
+					隐藏可见性关闭狙击镜的效果
+					加速所有箭矢
+					极大增加电疗效果
+					上帝从云中探出头来, 俯视着处在混乱与动荡中的追随者, 世界已陷入火海.
+					他丢出一个汽油罐, 并从嘴中吐出一句话：管他呢.
+					'''
+			}
+
+			SephirothicFruit: {
+				DisplayName: 瑟芙罗克之果
+				Tooltip:
+					'''
+					埃凯德娜最后的种子... 拥有不可思议的力量.
+					增加 15% 召唤伤害
+					增加2个最大召唤物数量
+					召唤物无视敌人无敌帧
+					'''
+			}
+
+			ShieldBelt: {
+				DisplayName: 防护盾带
+				Tooltip:
+					'''
+					根据盾代充能减免伤害
+					最大减免伤害 150
+					被攻击时消耗盾带充能
+					在复仇/死亡模式下, 减弱伤害减免
+					所减免伤害不得低于30
+					'''
+			}
+
+			SoulOfFear: {
+				DisplayName: 惊怖之魂
+				Tooltip:
+					'''
+					我就是恐惧!
+					虚弱附近敌人, 造成多种Debuff
+					'''
+			}
+
+			SoulOfPower: {
+				DisplayName: 伟力之魂
+				Tooltip:
+					'''
+					我无人可挡!
+					增加15%所有伤害
+					减少 10% 伤害减免
+					'''
+			}
+
+			SoulOfVision: {
+				DisplayName: 全视之魂
+				Tooltip:
+					'''
+					我无所不见!
+					高亮矿物, 宝物, 生物和陷阱
+					'''
+			}
+
+			SupremeRampageComponents: {
+				DisplayName: 至尊狂暴组件
+				Tooltip:
+					'''
+					把子弹转变成致命的橓裂弹
+					他们看起来就像是叶绿弹和水晶尘子弹的疯狂组合
+					给予狙击镜的效果 (15% 的额外远程伤害和暴击率, 允许缩放)
+					隐藏可见性以关闭狙击镜的效果
+					增加 40 点护甲穿透
+					弹药储备效果
+					加速所有箭矢
+					极大增加电击效果
+					穹苍洞开，上苍之手抚临吾生，赐谕于我曰：
+					“摧毁其下肢之力，承受那锋利的一击。”
+					（这句话原文为：""Rek thigh scrbs, an fk ther sht ahp."，疑似是"Wreck their thighs, and feel the sharp slap.",翻译仅展示此可能的含义）
+					'''
+			}
+
+			SuspiciousLookingScythe: {
+				DisplayName: 可疑镰刀
+				Tooltip: 召唤你自己的死神. 适度提高你的爆击.
+			}
+
+			Symbiote: {
+				DisplayName: 共生体
+				Tooltip:
+					'''
+					减少治疗药水冷却时间
+					增加受伤无敌帧
+					拥有两种模式：侵略(>50% HP)/守御(<50% HP)
+					攻击模式下增加 10-20% 攻击速度
+					防御模式下极大增加生命回复, 防御和伤害减免
+					装备后显示属性提升详细信息
+					'''
+			}
+
+			TerrarianA: {
+				DisplayName: Terrarian-A (V-05-516)
+				Tooltip:
+					'''
+					Angela的行为改写了对灵魂本身的理解
+					[c/FF0000:EGO 礼物]
+					增加受伤无敌帧
+					白天时阻挡 33% 接触伤害
+					夜晚时阻挡 33% 抛射物伤害
+					'''
+			}
+
+			TimeTwistBraclet: {
+				DisplayName: Braclet of Time Twist
+				Tooltip:
+					'''
+					时空扭曲手镯
+					降低 20% 伤害减免和 20 防御
+					'''
+			}
+
+			TwilightWings: {
+				DisplayName: 薄暝之翼 (O-02-63)
+				Tooltip:
+					'''
+					人们最终战胜了黄昏的黑暗, 准备面对黎明的光辉.
+					而在那片昏暗的森林中, 鸟儿的叽喳鸣唱依旧响彻着吗?
+					[c/FF0000:EGO 礼物]
+					视作翅膀
+					拥有很长的飞行时间和很快的飞行速度
+					'''
+			}
+
+			UltimateSephirothicFruit: {
+				DisplayName: 终极瑟芙罗克之果
+				Tooltip:
+					'''
+					埃凯德娜最后的种子... 拥有不可思议的力量.
+					增加 15% 召唤伤害
+					增加 3 个最大召唤物数量
+					召唤物有 10% 概率暴击
+					召唤物无视敌人无敌帧
+					'''
+			}
+
+			# Equipables End
+			
+			# Materials Start
+			AlchemicalBundle: {
+				DisplayName: 炼金捆绑包
+				Tooltip:
+					'''
+					包含一些月亮材料
+					制作仙丹需要用到它
+					'''
+			}
+
+			BrokenDimensionalCasket: {
+				DisplayName: 破损的次元匣
+				Tooltip:
+					'''
+					破损的次元匣
+					用于制作次元匣
+					'''
+			}
+
+			ChromaticCrystal: {
+				DisplayName: 炫彩水晶
+				Tooltip: 神圣的水晶, 充斥着无尽的能量
+			}
+
+			CrystalDust: {
+				DisplayName: 水晶粉尘
+				Tooltip: 用碎魔晶捻成的粉尘
+			}
+
+			CursedIce: {
+				DisplayName: 诅咒之冰
+				Tooltip: 诅咒之焰, 跃于冰内
+			}
+
+			DivineLava: {
+				DisplayName: 奇异岩浆
+				Tooltip: 用法力把灵液和岩浆相结合
+			}
+
+			EmagledFragmentation: {
+				DisplayName: 始源碎片
+				Tooltip:
+					'''
+					所有天界碎片的起源. 
+					10 片始源碎片可以转化为 2 片任意的天界碎片
+					'''
+			}
+
+			HateVial: {
+				DisplayName: 仇恨之瓶
+				Tooltip:
+					'''
+					充满着来自被击败敌人的仇恨
+					可消耗
+					使用获得仇恨Buff和药水疾病Debuff 2 分钟
+					仇恨Buff增加 15% 所有伤害和暴击率, 增加10生命恢复速度
+					同时减少 30 点防御力和 15% 耐力
+					'''
+			}
+
+			MasksBundle: {
+				DisplayName: 面具捆绑包
+				Tooltip:
+					'''
+					打包了所有原版boss的面具
+					是制作终极饰品的材料
+					“并不是Steam的游戏捆绑包哦!”
+					'''
+			}
+
+			NyctosythiaCrystal: {
+				DisplayName: 夜蛾水晶
+				Tooltip:
+					'''
+					夜蛾的钻石
+					消耗任意形式的光
+					'''
+			}
+
+			SoulEssence: {
+				DisplayName: 灵魂精华
+				Tooltip: 充满着来自被击败敌人的特质
+			}
+
+			SunkroveraCrystal: {
+				DisplayName: 森克罗维拉水晶
+				Tooltip:
+					'''
+					内含恶魔血霞珠
+					即使带着手套也会烧伤你
+					'''
+			}
+
+			SupremeEnergyCore: {
+				DisplayName: 至高能量核心
+				Tooltip: 无限能量之源
+			}
+
+			# Materials End
+			
+			# Misc Start
+			AlchemistCharmTier1: {
+				DisplayName: 炼金师符咒 T-1
+				Tooltip:
+					'''
+					放置物品栏中时, 小概率不消耗药剂
+					炼金师, 药剂师和年轻药剂师提供 10% 折扣
+					Buff持续时间增加10%
+					'''
+			}
+
+			AlchemistCharmTier2: {
+				DisplayName: 炼金师符咒 T-2
+				Tooltip:
+					'''
+					放置物品栏中时, 概率不消耗药剂
+					快速增益 键能够使用猪猪储蓄罐中的药剂
+					炼金师, 药剂师和年轻药剂师提供 25% 折扣
+					Buff持续时间增加 25%
+					'''
+			}
+
+			AlchemistCharmTier3: {
+				DisplayName: 炼金师符咒 T-3
+				Tooltip:
+					'''
+					放置物品栏中时, 大概率不消耗药剂
+					快速增益 键能够使用猪猪储蓄罐中的药剂
+					炼金师, 药剂师和年轻药剂师提供 35% 折扣
+					Buff持续时间增加 35%
+					'''
+			}
+
+			AlchemistCharmTier4: {
+				DisplayName: 炼金师符咒 T-4
+				Tooltip:
+					'''
+					放置物品栏中时, 极大概率不消耗药剂
+					快速增益 键能够使用猪猪储蓄罐中的药剂
+					炼金师, 药剂师和年轻药剂师提供 50% 折扣
+					如果至尊女巫，灾厄已被击败, 则不消耗药剂
+					Buff持续时间增加 50%
+					'''
+			}
+
+			AntiBuffItem: {
+				DisplayName: 反buff模式符文
+				Tooltip:
+					'''
+					使用以启用或取消反buff模式
+					在反buff模式中，你将免疫所有增益buff(而不是debuff)
+					没有持续时间的buff不会被禁止
+					Boss和一些小Boss会掉落永久增益物品
+					这些物品的效果只会在这个模式启动时生效
+					'''
+			}
+
+			BillCipherBag: {
+				DisplayName: 宝藏袋
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			BillSoul: {
+				DisplayName: 比尔之魂
+				Tooltip:
+					'''
+					浓缩蓝色火焰容器
+					它的涌动吸引着你
+					消耗获得永久增益“弑魔之人”
+					'''
+			}
+
+			BoomBox: {
+				DisplayName: Boom音乐盒
+				Tooltip: 放在你的背包里时，你的最后一个背包栏可以播放音乐盒
+			}
+
+			CursedMirror: {
+				DisplayName: 被诅咒的镜子
+				Tooltip:
+					'''
+					破碎的镜子
+					你的所有抛射物都会被反弹
+					'''
+			}
+
+			DimensionalCasket: {
+				DisplayName: 次元匣
+				Tooltip:
+					'''
+					修好的次元匣
+					允许无视距离与NPC交易
+					点击打开UI
+					按ESC键关闭
+					'''
+			}
+
+			Drainer: {
+				DisplayName: 吸收器
+				Tooltip:
+					'''
+					BROKEN FOR NOW
+					使用时吸收 25% 生命值, 填装 25% 怒气值
+					非常适合用来填满怒气条
+					请一次填满（bushi
+					'''
+			}
+
+			EnchantedMirror: {
+				DisplayName: 魔镜
+				Tooltip:
+					'''
+					左键传送回家
+					右键传送回上次使用此镜子的地点
+					'''
+			}
+
+			Extractor: {
+				DisplayName: 抽取器
+				Tooltip:
+					'''
+					允许你从Boss中抽取灵魂精华和仇恨
+					放置在背包中就会工作
+					如果Boss血量多于5万, 将有三分之一的几率抽取灵魂精华
+					如果Boss血量多于5.5万, 将有十分之一的几率抽取仇恨
+					'''
+			}
+
+			Fuaran: {
+				DisplayName: 魔泉书
+				Tooltip: 永久增加 100 魔力上限. 只能使用一次.
+			}
+
+			GlobalTeleporter: {
+				DisplayName: 世界传送装置
+				Tooltip:
+					'''
+					将你传送到地图的任意位置
+					在全屏地图界面点击右键传送
+					Boss存活时无法使用
+					使用后破坏
+					噢, 蔚蓝的正义, 深红的爱,
+					为了被命运吞没的人而战
+					我向光明宣誓
+					邪恶的坏蛋不能阻挡我们
+					爱之力量守护我们!
+					'''
+			}
+
+			GlobalTeleporterUp: {
+				DisplayName: 改良世界传送装置
+				Tooltip:
+					'''
+					将你传送到地图的任意位置
+					在全屏地图界面点击右键传送
+					Boss存活时无法使用
+					使用后不会破坏
+					噢, 蔚蓝的正义, 深红的爱,
+					为了被命运吞没的人而战
+					我向光明宣誓
+					邪恶的坏蛋不能阻挡我们
+					爱之力量守护我们!
+					'''
+			}
+
+			KnucklesBag: {
+				DisplayName: 宝藏袋
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			LifeElixir: {
+				DisplayName: 仙丹
+				Tooltip: 永久增加 50 最大生命值. 能使用两次.
+			}
+
+			LuckCharm: {
+				DisplayName: 幸运符咒
+				Tooltip:
+					'''
+					放置于物品栏时, 重铸时有更高概率获得更好的词缀
+					不能影响饰品
+					'''
+			}
+
+			LuckCharmT2: {
+				DisplayName: 绝对幸运符咒
+				Tooltip:
+					'''
+					放置于物品栏时, 重铸时有更高概率获得更好的词缀
+					够影响饰品 (险恶->幸运->护佑)
+					'''
+			}
+
+			LuckyToken: {
+				DisplayName: 幸运重铸币
+				Tooltip:
+					'''
+					放置于物品栏时, 饰品下一次重铸时词缀变为“幸运”
+					重铸优先级: 险恶->幸运->暴力->护佑
+					在过程中将会被消耗
+					'''
+			}
+
+			MannafromHeaven: {
+				DisplayName: 天赐食粮
+				Tooltip: 使你获得永久的“吃得好”效果
+			}
+
+			MenacingToken: {
+				DisplayName: 险恶重铸币
+				Tooltip:
+					'''
+					放置于物品栏时, 饰品下一次重铸时词缀变为“险恶”
+					重铸优先级: 险恶->幸运->暴力->护佑
+					在过程中将会被消耗
+					'''
+			}
+
+			MoneyVacuum: {
+				DisplayName: 贪欲之心
+				Tooltip: 在你的背包中时，所有掉落的钱币都会吸进你的背包
+			}
+
+			PaperTube: {
+				DisplayName: 蓝图纸管
+				Tooltip:
+					'''
+					包含一项随机饰品的蓝图
+					使用以解锁
+					'''
+			}
+
+			PaperTube2: {
+				DisplayName: 蓝图纸管 (T-2)
+				Tooltip:
+					'''
+					包含一项随机困难模式/骷髅王后饰品的蓝图
+					使用以解锁
+					'''
+			}
+
+			PaperTube3: {
+				DisplayName: 蓝图纸管 (T-3)
+				Tooltip:
+					'''
+					包含一项随机世纪之花后饰品的蓝图
+					使用以解锁
+					'''
+			}
+
+			PerfectionToken: {
+				DisplayName: 完美重铸币
+				Tooltip:
+					'''
+					放置于物品栏时, 武器/工具下一次重铸时获得完美词缀(炼金术士mod特有的传说级词缀)
+					在过程中将会被消耗
+					不兼容瑟银的乐师和牧师物品
+					'''
+			}
+
+			PHD: {
+				DisplayName: 博士学位证书
+				Tooltip:
+					'''
+					使用来永久升级你的护士
+					重生后打开治疗界面
+					该效果作用于本世界所有玩家
+					只有在护士活着时起作用
+					'''
+			}
+
+			Pommel: {
+				DisplayName: 球饰
+				Tooltip: 包含着纯净之光
+			}
+
+			ReversivityCoinTier1: {
+				DisplayName: 逆转硬币 T-1
+				Tooltip: 可以用来在操作员处购买宝藏袋
+			}
+
+			ReversivityCoinTier2: {
+				DisplayName: 逆转硬币 T-2
+				Tooltip: 可以用来在操作员处购买宝藏袋
+			}
+
+			ReversivityCoinTier3: {
+				DisplayName: 逆转硬币 T-3
+				Tooltip: 可以用来在操作员处购买宝藏袋
+			}
+
+			ReversivityCoinTier4: {
+				DisplayName: 逆转硬币 T-4
+				Tooltip: 可以用来在操作员处购买宝藏袋
+			}
+
+			ReversivityCoinTier5: {
+				DisplayName: 逆转硬币 T-5
+				Tooltip: 可以用来在操作员处购买宝藏袋
+			}
+
+			ReversivityCoinTier6: {
+				DisplayName: 逆转硬币 T-6
+				Tooltip: 可以用来在操作员处购买宝藏袋
+			}
+
+			ScreamingHead: {
+				DisplayName: 尖啸之颅
+				Tooltip:
+					'''
+					某人的尖叫的脑袋
+					使你精神不集中
+					'''
+			}
+
+			StatsChecker: {
+				DisplayName: 哔哔小子 3000
+				Tooltip: 放置于物品栏时, 显示玩家的绝大部分属性
+			}
+
+			StatsChecker2: {
+				DisplayName: 哔哔小子 4K
+				Tooltip:
+					'''
+					放置于物品栏时, 显示玩家的绝大部分属性
+					左键传送回家, 使用快捷键打开传送菜单
+					'''
+			}
+
+			SymbioteMeteorite: {
+				DisplayName: 神秘陨石
+				Tooltip:
+					'''
+					它的外壳非常结实
+					你可能需要找到一个能帮你打开它的人
+					'''
+			}
+
+			ViolentToken: {
+				DisplayName: 暴力重铸币
+				Tooltip:
+					'''
+					放置于物品栏时, 饰品下一次重铸时词缀变为“暴力”
+					重铸优先级: 险恶->幸运->暴力->护佑
+					在过程中将会被消耗
+					'''
+			}
+
+			VoodooDoll: {
+				DisplayName: 巫毒娃娃
+				Tooltip:
+					'''
+					你自己的娃娃
+					所造成伤害的一部分会施加给自己
+					'''
+			}
+
+			WardingToken: {
+				DisplayName: 护佑重铸币
+				Tooltip:
+					'''
+					放置于物品栏时, 饰品下一次重铸时词缀变为“护佑”
+					重铸优先级: 险恶->幸运->暴力->护佑
+					在过程中将会被消耗
+					'''
+			}
+
+			WorldControlUnit: {
+				DisplayName: 模拟控制单元
+				Tooltip:
+					'''
+					独家产品，Angle设计
+					左键昼夜交换
+					右键控制下雨（沙漠中控制沙尘暴）
+					'''
+			}
+
+			# Misc End
+			
+			# Notes Start
+			InformatingNote: {
+				DisplayName: 说明笔记
+				Tooltip:
+					'''
+					没有可用的宝藏袋.
+					击败骷髅王以解锁第一波.
+					'''
+			}
+
+			ResearchNote1: {
+				DisplayName: 研究笔记 #1
+				Tooltip:
+					'''
+					我知道那个名为萨斯卡德的悠悠球是真实存在的. 但是究竟要如何来制造它呢?
+					我很确定那个 [c/00FF00:泰拉悠悠球] 是第一个材料.
+					[c/00FF00:炼金捆绑包] 也许是第二个...
+					但什么是第三个呢? 我认为那是某种, 和 Sass 相关的东西...
+					也许 [c/00FF00:裂位法杖] 的核心就是?
+					最后的材料... 是 [c/00FF00:悠悠球袋]. 我100%确定.
+					'''
+			}
+
+			ResearchNote2: {
+				DisplayName: 研究笔记 #2
+				Tooltip:
+					'''
+					在一个古老的手稿中, 我找到了一些关于 [c/00FF00:皇家魔杖] 的信息.
+					上面说道... 无论用何种方式摧毁魔杖, 它都能再生出来.
+					魔杖的基础是 [c/00FF00:彩虹魔杖] .
+					[c/00FF00:终极棱镜] 可以作为魔力聚焦仪...
+					[c/00FF00:天使之翼] 也是必须的.
+					[c/00FF00:蝴蝶尘] 也许在欺骗使用者权限上很好用.
+					你需要抓住 [c/00FF00:独角兽] 作为动力源.
+					'''
+			}
+
+			ResearchNote3: {
+				DisplayName: 研究笔记 #3
+				Tooltip:
+					'''
+					在次元旅行中我遇见过一个科学家, 名字叫做 [c/00FF00:斯坦福] .
+					他想让我帮他制作武器, 一种甚至可以伤害到神灵的武器.
+					我们花了大半年来制作 [c/00FF00:蓝图 #618] 亦称 [c/00FF00:'量子干扰器']...
+					任意 [c/00FF00:带电爆破炮] 都可以作为基础.
+					来自 [c/00FF00:高温射线枪] 的透镜很合适.
+					某些部件需要夜明锭和天体碎片来制作...
+					所以, 这里需要 [c/00FF00:炼金捆绑包].
+					作为一个精准度极高的武器, 他需要一个 [c/00FF00:狙击镜].
+					但是最大的问题是能源. 我们不能凭空变出能量...
+					emmmm..., 只需要花点钱, 我可以卖给你专用的能源电池.
+					'''
+			}
+
+			ResearchNote4: {
+				DisplayName: 研究笔记 #4
+				Tooltip:
+					'''
+					在那之前我从来没有想过不止有人类可以使用魔法.
+					那天我亲眼看见, 骷髅居然在用魔法. 好像他们本身不是不会魔法是生物...
+					他们与人类的小孩打架. 一开始, 我准备去帮助弱小的孩子, 但是之后...
+					我十分震惊的看着孩子们是如何残忍地把那个骷髅拆成一片一片碎骨头的.
+					在这个... 怪物走开之后, 我从骨堆中得到了一些粉尘.
+					奇怪的是, 它发出魔力的光芒, 包含在其中.
+					之后, 我找到了制造人工制品的方法, 包含着那股难以置信的力量.
+					我将来自 [c/00FF00:炼金捆绑包] 的一些材料和来自骷髅王的 [c/00FF00:巨大骨头] 混合在一起.
+					然后我将 [c/00FF00:仇恨之瓶] 之中的东西在这里加了进去.
+					最后, 用 [c/00FF00:瓶中彩虹] 把所有东西都进行抛光
+					'''
+			}
+
+			ResearchNote5: {
+				DisplayName: 研究笔记 #5
+				Tooltip:
+					'''
+					很久以前, 我见过一个半恶魔, 叫 [c/00FF00:但丁].
+					他是一个强大的恶魔猎人. 在战斗中他使用一些... 十分有趣的物品.
+					尤其是, 我对他的一个远程武器十分好奇, 它叫 [c/00FF00:潘多拉].
+					传说, 它有666种形式. 它看起来就像是种科技武器.
+					在经过一些研究后, 我确定我可以制作一个复制品.
+					不幸的是, 我所制作的潘多拉只有一种形态, PF422...
+					它是悲伤的, 尖锐的手里剑, 一直盯着一个敌人, 直至死亡.
+					我使用来自 [c/00FF00:食人鱼枪] 的材料作为基础.
+					[c/00FF00:瓶中彩虹] 作为基础的外表覆盖物.
+					一如既往, 某些部分只能使用 [c/00FF00:炼金捆绑包].
+					最后的构成是 [c/00FF00:月亮石].
+					'''
+			}
+
+			ResearchNote6: {
+				DisplayName: 研究笔记 #6
+				Tooltip:
+					'''
+					曾经, [c/00FF00:恐惧] 有它真实的化身...
+					经历了数不清的战斗后, 这些存在最终被打败了.
+					灵魂, 这种就算主人死亡也不曾消散的东西, 我对它进行了深入的观察.
+					在这个过程中, 我提取出了恐惧的本质.
+					我设法得到了几小瓶.
+					如果你找到其它材料, 我就可以制造一个 [c/00FF00:''Akumu''], 一柄非常强大的镰刀.
+					[c/00FF00:死神镰刀] 是基础必需品.
+					需要 [c/00FF00:仇恨之瓶] 来释放恐惧的全部本质.
+					用于稳定各部件, 我们需要 [c/00FF00:炼金捆绑包].
+					最后一项材料, 我们需要一个 [c/00FF00:天界石].
+					'''
+			}
+
+			ResearchNote7: {
+				DisplayName: 研究笔记 #7
+				Tooltip:
+					'''
+					曾经, 我去过一个疯狂的世界
+					那儿有个老科学家, 名字叫[c/00FF00:瑞克].
+					我很幸运, 能够在没被抓到的情况下看到这一切.
+					他单凭自己从一所最高安全级别的监狱中逃了出来.
+					然后在同一天内覆灭了整个银河联邦.
+					在这其中, 我最感兴趣的是他的传送枪.
+					他把它作为武器使用. 我真的想为自己做一个...
+					理所当然的, 我们首先需要[c/00FF00:传送枪]作为基础...
+					为了制作一些部件, 我们需要一个[c/00FF00:炼金捆绑包].
+					我们同样需要[c/00FF00:月球传送门法杖]来稳定传送门.
+					为了改变维度, 我们可以使用[c/00FF00:R.E.K. 3000].
+					我还不确定能量源该用什么...
+					瑞克用某种[c/00FF00:能量胶囊]作为弹药.
+					希望我能合成它...
+					'''
+			}
+
+			ResearchNote8: {
+				DisplayName: 研究笔记 #8
+				Tooltip:
+					'''
+					曾经, 我在一个有趣的世界. 那是个巨大的实验室. 这个实验室的核心是机器人, 她的名字是“GlaDos”(G姐).
+					她告诉我我必须通过她的“房间”测试. 房间里堆满了各种各样的谜题. 她也给我了一个名为“传送枪”的工具.
+					但最有趣的是这些小可爱炮塔. 我必须自己做一个!
+					首先, 我们需要知道这些炮塔所用的技术. 我们可以从[c/00FF00:传送枪]上学习.
+					然后我们也需要爱护他们, 所以我想我们需要一些[c/00FF00:伙伴方块]
+					最后, 我们需要给他们一个躯干. 我想那些旧日军团的[c/00FF00:烈焰哨兵炮塔]也许有用.
+					(注: GLaDOS,基因生命体和磁盘操作系统(Genetic Lifeform and Disk Operating System)的缩写，
+					是由Valve游戏公司为了Portal和Portal 2游戏所设计的一个虚构的人工智能电脑，由Aperture Science研发)
+					'''
+			}
+
+			SecretNote: {
+				DisplayName: 秘密笔记 #1
+				Tooltip:
+					'''
+					如果你阅读这篇文章, 之后就会知道, 你可以召唤出自己的死神.
+					要做到这一点, 你需要找到一个叫做“可疑镰刀”的物品, 它有1/150的几率从任意肉后宝藏袋中掉落.
+					GLHF!(祝你好运)
+					还有一些内容, 但是你并读不到. 除非你有其它碎片.. 也许珠宝师可以帮助你
+
+					'''
+			}
+
+			SecretNote2: {
+				DisplayName: 秘密笔记 #2
+				Tooltip:
+					'''
+					有过几次, 我见到了一个十分古怪的生物.
+					她看起来像个仙女, 但与此同时...
+					她的外貌上有些古怪之处.
+					她... 对于一个普通的仙女来说, 过于完美了.
+					令人沮丧的是, 那是我最后一次见到她...
+					她被一个未知的生物击败, 并转化成了一个水晶.
+					就在世纪之花的栖息地附近.
+					还有一些内容, 但是你并读不到. 除非你有其它碎片.. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			SecretNote3: {
+				DisplayName: 秘密笔记 #3
+				Tooltip:
+					'''
+					在一幅古代卷轴中, 我发现了一个... 让人不愉快的消息.
+					上面写着一些关于... Pink Guy的事? 我不知道这是谁.
+					你可能会发现一些奇特的东西.
+					但你必须小心对待...
+					它能够吸引一个极·端危险生物的注意.
+					还有一些内容, 但是你并读不到. 除非你有其它碎片.. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote1: {
+				DisplayName: 破损的笔记 #1
+				Tooltip:
+					'''
+					有传说称击败地牢守卫可以获得叫做“异界护身符”的物品.
+					还有一些内容, 但是你并读不到. 除非你有碎片 #2 和 #3.. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote2: {
+				DisplayName: 破损的笔记 #2
+				Tooltip:
+					'''
+					它并不是众所周知的, 但是世界之翼可以制作[c/FF0000:EGO 器材], 某种意义上来说是独一无二的.
+					如果世界之翼被放置在了一间空房子里, 就会招来一个特殊的NPC, 叫做操作员
+					如果你想知道, [c/FF0000:EGO]到底代表了什么, 答案是：[c/FF0000:Extermination of Geometrical Organ.]
+					(汉化组无聊科普：全套EGO装备来自于游戏《脑叶公司》, 本模组EGO部分翻译参考中文Wiki)
+					还有一些内容, 但是你并读不到. 除非你有碎片 #1 和 #3. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote2Piece: {
+				DisplayName: 破损的笔记 碎片
+				Tooltip: 看看被遗忘的......
+			}
+
+			TornNote3: {
+				DisplayName: 破损的笔记 #3
+				Tooltip:
+					'''
+					当你击败所有的机械Boss之后, 你可以制造特殊的自动售卖机.
+					它的饮料可以帮助你度过一些巨大的威胁和危险.
+					但是要小心! 当你使用超过10次之后, 它会释放一些随机的机械Boss!
+					它会让机器计数器降为0, 所以你只有在打败这些Boss或逃跑后才能再次使用它.''
+					还有一些内容, 但是你并读不到. 除非你有碎片 #1 和 #2. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote4: {
+				DisplayName: 破损的笔记 #4
+				Tooltip:
+					'''
+					在击败月亮领主之后, 你可以制造一些终极饰品.
+					其中之一是瑟芙罗克之果.
+					它不仅使你的召唤伤害增加 10% 并且 +2 最大召唤物数量...
+					同时也会使得你的召唤物无视敌人无敌帧
+					还有一些内容, 但是你并读不到. 除非你有其它碎片. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote5: {
+				DisplayName: 破损的笔记 #5
+				Tooltip:
+					'''
+					在击败月亮领主之后, 你可以制造一些终极饰品.
+					其中之一是莉莉丝徽章.
+					它不仅给予你魔法师所需要的大部分Buff...
+					同时也会在你使用魔法武器的同时发射出一打致命的蜜蜂
+					还有一些内容, 但是你并读不到. 除非你有其它碎片. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote6: {
+				DisplayName: 破损的笔记 #6
+				Tooltip:
+					'''
+					在击败月亮领主之后, 你可以制造一些终极饰品.
+					其中之一是狂暴组件.
+					它增加 10% 远程伤害和暴击, 还提供了狙击镜的效果.
+					同样, 它将子弹转化为了致命的橓裂弹...
+					橓裂弹就像水晶尘子弹的伤害强化版.
+					还有一些内容, 但是你并读不到. 除非你有其它碎片. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote7: {
+				DisplayName: 破损的笔记 #7
+				Tooltip:
+					'''
+					不算其它终极饰品，这两个更特别.
+					其中之一是自动注射器.
+					它增加了 10% 所有伤害和 8% 暴击.
+					同时永久给予万能药剂包Buff.
+					但是自动注射器因为需要面具捆绑包所以制作起来十分的困难...
+					另一个是巴斯特卷轴.
+					它增加了10%的近战/投掷伤害, 给予了10% 伤害免疫.
+					也给予了忍者大师的效果并且允许三段跳.
+					但是它给予的最强大的能力是:
+					投掷武器能穿透物块并且所有的武器都能完全穿透敌人护甲...
+					还有一些内容, 但是你并读不到. 除非你有其它碎片. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote8: {
+				DisplayName: 破损的笔记 #8
+				Tooltip:
+					'''
+					我发现了一个古老的卷轴，里面有很多有价值的信息...
+					它说石头人可能有来自女巫的实验室日志, 叫做魔泉书, 就在它的身体里.
+					它可以大量增加法师的潜能, 羸弱抑或强大 - 这并不重要...
+					这份日志对每个人来说都是一份极大的经验. 我想知道有没有人可以得到它...
+					还有一些内容, 但是你并读不到. 除非你有其它碎片. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			TornNote9: {
+				DisplayName: 破损的笔记 #9
+				Tooltip:
+					'''
+					如果有人能找到这个笔记, 那么就会知道这是最后一份笔记了
+					我发现炼金术师可以提炼仙丹...
+					这个传说中的东西可以增加使用者的最大生命...
+					但是想要制作它, 你需要得到炼金师捆绑包以及找到点金石.
+					待一切都准备好, 他就会为你炼制一瓶仙丹.
+					哦不...这东西还在追踪我, 暗日现在也在我头顶
+					我将会使用那个传送装置, 我只是不想死! 我唯一的希望是我不会掉进空间裂隙里...
+					还有一些内容, 但是你并读不到. 除非你有其它碎片. 也许珠宝师可以帮助你.
+					'''
+			}
+
+			# Notes End
+			
+			# Placable Start
+			ArtificialAltar: {
+				DisplayName: 人造祭坛
+				Tooltip: 人造祭坛, 使用神秘力量制作而成
+			}
+
+			Beacon: {
+				DisplayName: 信标
+				Tooltip:
+					'''
+					放置后可以用来作为信标传送药剂的目标
+					在已经放置了一个信标的情况下无法放置第二个
+					'''
+			}
+
+			FearEmitter: {
+				DisplayName: 恐惧发射源
+				Tooltip: 限制非boss敌人经过这片区域
+			}
+
+			HMCraftPound: {
+				DisplayName: 豪华手工英镑
+				Tooltip:
+					'''
+					现在你可以做出最棒的东西了
+					可代替工作台
+					'''
+			}
+
+			HoloprojectorCorruption: {
+				DisplayName: 全息投影仪 “腐化”
+				Tooltip: 放置时强制把地形状态变为腐化
+			}
+
+			HoloprojectorCrimson: {
+				DisplayName: 全息投影仪 “猩红”
+				Tooltip: 放置时强制把地形状态变为猩红
+			}
+
+			HoloprojectorDesert: {
+				DisplayName: 全息投影仪 “沙漠”
+				Tooltip: 放置时强制把地形状态变为沙漠
+			}
+
+			HoloprojectorDungeon: {
+				DisplayName: 全息投影仪 “地牢”
+				Tooltip: 放置时强制把地形状态变为地牢
+			}
+
+			HoloprojectorHallowed: {
+				DisplayName: 全息投影仪 “神圣”
+				Tooltip: 放置时强制把地形状态变为神圣
+			}
+
+			HoloprojectorJungle: {
+				DisplayName: 全息投影仪 “丛林”
+				Tooltip: 放置时强制把地形状态变为丛林
+			}
+
+			HoloprojectorOcean: {
+				DisplayName: 全息投影仪 “海洋”
+				Tooltip:
+					'''
+					放置时强制把地形状态变为海洋
+					不会出现视觉/音乐效果
+					'''
+			}
+
+			HoloprojectorSnow: {
+				DisplayName: 全息投影仪 “雪原”
+				Tooltip: 放置时强制把地形状态变为雪原
+			}
+
+			HoloprojectorSpace: {
+				DisplayName: 全息投影仪 “太空”
+				Tooltip:
+					'''
+					放置时强制把地形状态变为太空
+					不会出现视觉/音乐效果
+					'''
+			}
+
+			ImmortalityFieldProjector: {
+				DisplayName: 稳恒场源投影仪
+				Tooltip:
+					'''
+					城镇NPC死亡时立即重生
+					启用场地可能需要一些时间
+					'''
+			}
+
+			MateriaTransmutator: {
+				DisplayName: 物质嬗变器
+				Tooltip:
+					'''
+					非常多制造环境的集合
+					包含了所有的原版制作环境 :)
+					同样可作为水/蜂蜜/岩浆环境
+					'''
+			}
+
+			MateriaTransmutatorMK2: {
+				DisplayName: 物质嬗变器 MK2
+				Tooltip:
+					'''
+					非常多制造环境的集合
+					增加嘉登熔炉的功能
+					包含了所有的制作环境 :)
+					同样可作为水/蜂蜜/岩浆环境
+					'''
+			}
+
+			MolecularReplicator: {
+				DisplayName: 分子复制器
+				Tooltip: 放置时回复附近友善NPC的生命
+			}
+
+			PreHMPenny: {
+				DisplayName: 简易手工便士
+				Tooltip:
+					'''
+					这让你看起来像是个制造大师
+					可代替工作台
+					'''
+			}
+
+			SpecCraftPoint: {
+				DisplayName: 特殊手工位点
+				Tooltip:
+					'''
+					你已经证明了你可以用任何材料做出任何东西
+					可代替工作台
+					'''
+			}
+
+			Wellcheers: {
+				DisplayName: 韦尔奇乐自动售货机
+				Tooltip:
+					'''
+					“韦尔奇乐牌汽水”自动售货机
+					[c/FF0000:异常]
+					危险等级: [c/00FF00:ZAYIN]
+					贩卖 4 种不同苏打水
+					只在夜晚工作
+					可以无条件使用 10 次
+					'''
+			}
+
+			WingoftheWorld: {
+				DisplayName: 世界之翼
+				Tooltip:
+					'''
+					用来制作[c/FF0000:EGO 装备]
+					可视为桌子, 椅子和光源
+					'''
+			}
+
+			# Placable End
+			
+			# Quest Fish Start
+			MiniShark: {
+				DisplayName: 迷你鲨
+				Tooltip: ""
+			}
+
+			MosesFish: {
+				DisplayName: 摩西鱼
+				Tooltip: ""
+			}
+
+			MutantFish: {
+				DisplayName: 变种鱼
+				Tooltip: ""
+			}
+
+			NebulaFish: {
+				DisplayName: 星云鱼
+				Tooltip: ""
+			}
+
+			SolarFish: {
+				DisplayName: 日耀鱼
+				Tooltip: ""
+			}
+
+			StardustFish: {
+				DisplayName: 星尘鱼
+				Tooltip: ""
+			}
+
+			VortexFish: {
+				DisplayName: 星旋鱼
+				Tooltip: ""
+			}
+
+			# Quest Fish End
+			
+			# Summoning Start
+			AlchemistHorcrux: {
+				DisplayName: 炼金师魂器
+				Tooltip: 里面有炼金师的一片灵魂
+			}
+
+			APMC: {
+				DisplayName: AI程序与记忆芯片
+				Tooltip: 这是Angela的备份.
+			}
+
+			ArchitectHorcrux: {
+				DisplayName: 建筑师魂器
+				Tooltip: 里面有建筑师的一片灵魂
+			}
+
+			BrewerHorcrux: {
+				DisplayName: 药剂师魂器
+				Tooltip: 里面有药剂师的一片灵魂
+			}
+
+			CaughtUnicorn: {
+				DisplayName: 被捕获的独角兽
+				Tooltip: 仍充满敌意, 最好别释放他
+			}
+
+			DimensionalRift: {
+				DisplayName: 次元裂隙
+				Tooltip:
+					'''
+					含有次元之间裂缝的玻璃球
+					别打破了!!!
+					'''
+			}
+
+			HorrifyingSkull: {
+				DisplayName: 可怖头骨
+				Tooltip:
+					'''
+					召唤最强大的敌人
+					使用时极端注意
+					'''
+			}
+
+			JewelerHorcrux: {
+				DisplayName: 珠宝师魂器
+				Tooltip: 里面有珠宝师的一片灵魂
+			}
+
+			KnucklesUgandaDoll: {
+				DisplayName: 乌干达国宝
+				Tooltip:
+					'''
+					“我100%确定这可以杀掉你”——格雷格
+					使用它可能会导致灾难性的后果...
+					但是奖励足以回报你的受苦
+
+					'''
+			}
+
+			MusicianHorcrux: {
+				DisplayName: 音乐家魂器
+				Tooltip: 里面有音乐家的一片灵魂.
+			}
+
+			NotesBook: {
+				DisplayName: 笔记本
+				Tooltip:
+					'''
+					无论它的纸张被破坏成什么样了, 隐藏的信息都已经可以阅读了
+					能开启一个前往其他世界的传送门
+					只能在某些条件下使用
+					“如果你已经收集了所有的笔记, 那么你就能读到这些信息了
+					月亮领主并不是普通的生物,击败他可能会产生一些意想不到的效果...
+					如果削弱世界间的屏障, 就算是在世界间打开一条通路也是有可能的
+					世界间的屏障将在日食时达到最弱状态
+					如果我被困在空间裂隙中, 你就能得到传送门的坐标....”
+					'''
+			}
+
+			RealityPiercer: {
+				DisplayName: 真实锐眼
+				Tooltip: 允许探险家来到未被观察的世界
+			}
+
+			TinkererHorcrux: {
+				DisplayName: 工匠魂器
+				Tooltip: 里面有工匠的一片灵魂.
+			}
+
+			# Summoning End
+			
+			# Weapons Start
+			Akumu: {
+				DisplayName: “Akumu”
+				Tooltip:
+					'''
+					在日语里,Akumu的意思是 [c/FF00FF:噩梦]
+					它的斩击能穿透经过的所有敌人
+					左键发射剑气
+					右键近距离攻击
+					生命值低于 25% 时, Akumu会生成反射抛射物的护盾
+					这将会降低武器的威力, 直至生命回复到25%
+					'''
+			}
+
+			BallisticNebularDestroyer: {
+				DisplayName: 星云狂怒毁灭者
+				Tooltip:
+					'''
+					发射出分裂的星旋弹
+					25% 的几率不消耗弹药
+					'''
+			}
+
+			BanHammer: {
+				DisplayName: 班锤
+				Tooltip:
+					'''
+					[c/FF0000:秒杀一切非Boss敌人]
+					[c/FF0000:如果Boss的某个部分不算做Boss, 同样也会被秒杀]
+					'''
+			}
+
+			BlackWidowGreatbow: {
+				DisplayName: 黑寡妇巨弓
+				Tooltip:
+					'''
+					发射 3 发高伤害蜘蛛毒牙
+					正常敌人会被刺穿并被束缚
+					'''
+			}
+
+			BloodthirstyBlade: {
+				DisplayName: 嗜血刃
+				Tooltip:
+					'''
+					用它杀死敌人会使它变得更强大
+					杀死Boss获得更大的伤害提升
+					蓝色史莱姆和蓝色尖刺史莱姆不会给予武器提升
+					不获得任何伤害/暴击率增益
+					困难模式前伤害上限为 36 , 月球领主前为 99
+					伤害达到 36 、 64 和 100 时会发生一些特殊的事情
+					'''
+			}
+
+			BreathOfTheVoid: {
+				DisplayName: 限度之息
+				Tooltip: 感受虚空的气息
+			}
+
+			ChaingunMeatGrinder: {
+				DisplayName: 机关炮 “绞肉机”
+				Tooltip:
+					'''
+					用古代殖民者的科技打造.
+					拥有6个17mm口径的旋转枪管
+					随时间增加射速
+					使用特殊子弹 (17mm 子弹)
+					66% 概率不消耗弹药
+					'''
+			}
+
+			ChaosBomb: {
+				DisplayName: 混沌爆弹
+				Tooltip:
+					'''
+					混·沌! 混·沌!
+					接触时爆炸, 释放随机混沌
+					'''
+			}
+
+			ChristmasW: {
+				DisplayName: 悲惨圣诞 (F-02-49)
+				Tooltip:
+					'''
+					掩盖在层层厚皮下的真相绝不能被人知道.
+					对真相的刻意隐瞒只会使这把武器更加强大.
+					[c/FF0000:EGO 武器]
+					挥舞时从天上掉落装饰球
+					任何敌人都有 3% 概率掉落礼物
+					'''
+			}
+
+			ChromovariaArrow: {
+				DisplayName: 炫彩箭
+				Tooltip:
+					'''
+					神圣材料的合理使用
+					释放出粗大的破坏光束并给予破晓Debuff
+					'''
+			}
+
+			ChromovariaArrowInfinite: {
+				DisplayName: 炫彩箭 (无限)
+				Tooltip:
+					'''
+					神圣材料的合理使用
+					释放出粗大的破坏光束并给予破晓Debuff
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			ChromovariaBullet: {
+				DisplayName: 炫彩弹
+				Tooltip: 造成巨大的伤害性爆炸并给予破晓Debuff
+			}
+
+			ChromovariaBulletInfinite: {
+				DisplayName: 炫彩弹
+				Tooltip:
+					'''
+					造成巨大的伤害性爆炸并给予破晓Debuff
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			ConeOfCold: {
+				DisplayName: 冰锥术
+				Tooltip:
+					'''
+					释放极寒冰锥的魔咒
+					概率缓慢或冻结普通敌人
+					'''
+			}
+
+			CorrosiveFlask: {
+				DisplayName: 腐蚀烧瓶
+				Tooltip: 被炼金师加强过的剧毒药水
+			}
+
+			CorrosiveFlaskThrown: {
+				DisplayName: 腐蚀烧瓶
+				Tooltip: 被炼金师加强过的剧毒药水
+			}
+
+			CounterMatter: {
+				DisplayName: 复位物质
+				Tooltip:
+					'''
+					球体 199
+					[c/00FF00:传奇武器]
+					摧毁附近的敌人抛射物
+					阻挡抛射物后, 下一次攻击 100% 暴击
+					[c/00FF00:属性随进程成长]
+					'''
+			}
+
+			CrystalDustBullet: {
+				DisplayName: 晶尘弹
+				Tooltip: 爆炸变成致命碎片
+			}
+
+			CrystalDustBulletInfinite: {
+				DisplayName: 晶尘弹 (无限)
+				Tooltip:
+					'''
+					爆炸变成致命碎片
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			CrystalyzedArrow: {
+				DisplayName: 晶尘箭
+				Tooltip: 爆炸变成致命碎片.
+			}
+
+			CrystalyzedArrowInfinite: {
+				DisplayName: 晶尘箭 (无限)
+				Tooltip:
+					'''
+					爆炸变成致命碎片
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			CursedWaspnade: {
+				DisplayName: 诅咒冰蜂
+				Tooltip:
+					'''
+					爆炸后释放友好黄蜂
+					黄蜂造成霜火和咒火Debuff
+					装备蜂窝背包/瘟疫蜂巢(灾厄)时威力增强
+					'''
+			}
+
+			CurseofArachna: {
+				DisplayName: 蛛王的咒缚
+				Tooltip: 第一次击中感染敌人, 第二次释放蜘蛛
+			}
+
+			DarkMagicWand: {
+				DisplayName: 魔杖
+				Tooltip:
+					'''
+					皇家魔杖
+					发射一束能消灭一切的激光束
+					激光持续时间越长, 威力越强
+					法力消耗分别增加
+					'''
+			}
+
+			DeterminationBlade: {
+				DisplayName: 决绝之剑
+				Tooltip:
+					'''
+					七魂之决绝蕴于此剑
+					攻击增加仇恨
+					攻击达到一定次数后, 右键释放仇恨.
+					'''
+			}
+
+			Devilsknife: {
+				DisplayName: 恶魔之刃
+				Tooltip:
+					'''
+					召唤恶魔之刃摧毁你的敌人
+					最多只能召唤 1 体
+					METAMORPHOSIS!
+					'''
+			}
+
+			DivineWaspnade: {
+				DisplayName: 神圣熔岩黄蜂雷
+				Tooltip:
+					'''
+					爆炸后释放友善黄蜂
+					黄蜂造成着火和脓液Debuff
+					装备蜂窝背包/瘟疫蜂巢(灾厄)时威力增强
+					'''
+			}
+
+			DriedFish: {
+				DisplayName: 鱼干
+				Tooltip: 攻击时释放伤害泡泡
+			}
+
+			EbonyIvory: {
+				DisplayName: 黑檀木&白象牙
+				Tooltip:
+					'''
+					一位恶魔猎人的双枪
+					极小概率暴击造成 66666 点伤害
+					发射定制的恶魔子弹, 撞击时爆炸
+					66% 概率不消耗弹药
+					'''
+			}
+
+			EdgeOfChaos: {
+				DisplayName: 混沌边缘
+				Tooltip:
+					'''
+					剑刃足以撕裂现实
+					攻击造成混沌状态Debuff
+					'''
+			}
+
+			ElementalWaspnade: {
+				DisplayName: 元素黄蜂雷
+				Tooltip:
+					'''
+					爆炸后释放友善黄蜂
+					黄蜂造成腐蚀, 咒火和脓液Debuff
+					装备蜂窝背包/瘟疫蜂巢(灾厄)时威力增强
+					'''
+			}
+
+			EnergyCapsule: {
+				DisplayName: 能量胶囊
+				Tooltip: 传送枪射击所需
+			}
+
+			EnergyCell: {
+				DisplayName: 能源电池
+				Tooltip: 用于量子干扰器的能源
+			}
+
+			EyeOfJudgement: {
+				DisplayName: 审判之眼
+				Tooltip:
+					'''
+					如果你继续现在的道路...
+					你的日子不会好过
+					当你手持此物时会不断产生骨刺自动追踪敌人
+					使用时在鼠标位置产生8根会追踪敌人的骨刺
+					不占用召唤栏位, 可以结合其他召唤物使用
+					33% 的几率减少 2 点所受伤害
+					降低 33% 耐力
+					'''
+			}
+
+			EyeOfJudgementP: {
+				DisplayName: 纯净审判之眼
+				Tooltip:
+					'''
+					如果你继续现在的道路...
+					你的日子不会好过
+					当你手持此物时会不断产生骨刺自动追踪敌人
+					使用时在鼠标位置产生 8 根会追踪敌人的骨刺
+					不占用召唤栏位, 可以结合其他召唤物使用
+					33% 的几率减少 2 点所受伤害
+					降低17%耐力
+					'''
+			}
+
+			FangBallista: {
+				DisplayName: 蛛牙弩
+				Tooltip:
+					'''
+					射出高伤害蜘蛛牙
+					正常敌人会被刺穿并被束缚
+					'''
+			}
+
+			FlaskoftheAlchemist: {
+				DisplayName: 炼金师烧瓶
+				Tooltip:
+					'''
+					传奇炼金师格雷格的武器
+					[c/00FF00:传奇武器]
+					投掷随机种类的的烧瓶
+					[c/00FF00:属性随进程成长]
+					'''
+			}
+
+			FuneralofDeadButterflies: {
+				DisplayName: 圣宣 (T-01-68)
+				Tooltip:
+					'''
+					这两把枪令人感到严肃.
+					死者之哀, 死亡之惧, 烙印其上.
+					[c/FF0000:EGO 武器]
+					造成暗影烈焰和霜火
+					35% 概率不消耗弹药
+					'''
+			}
+
+			Fungalosphere: {
+				DisplayName: 凝胶喷射器
+				Tooltip:
+					'''
+					消耗凝胶作为弹药
+					造成触电和霜火Debuff
+					33% 的概率不消耗凝胶
+					'''
+			}
+
+			GoldenKnuckles: {
+				DisplayName: 黄金指虎
+				Tooltip:
+					'''
+					传奇骗术师的武器
+					看起来不怎么牢固, 但是打人很疼
+					'''
+			}
+
+			GrinderMK4: {
+				DisplayName: 粉碎机MK4 (T-05-41)
+				Tooltip:
+					'''
+					锋利的刀刃能将它的目标干净利落地锯开.
+					[c/FF0000:EGO 武器]
+					攻击无视无敌帧
+					在命中一定次数之后将破碎的刀片释放入敌人体内
+					'''
+			}
+
+			Hive: {
+				DisplayName: 蜂巢
+				Tooltip:
+					'''
+					NOT THE BEES!
+					发射蜂巢, 在周围传播蜜蜂
+					碰撞时破坏, 释放更多蜜蜂
+					提升过后的属性将会在使用后显示
+					'''
+			}
+
+			HolyAvenger: {
+				DisplayName: 塞拉苏门, 神圣复仇者
+				Tooltip:
+					'''
+					老公爵埃尔德的[c/00FF00:传奇之剑]
+					真近战剑
+					造成诅咒之光Debuff
+					来自玩家的攻击对敌人多造成 20% 伤害
+					来自带有诅咒之光Debuff敌人的攻击有 25% 概率只造成一半伤害
+					[c/00FF00:属性随进程成长]
+					提升过后的属性将会在使用后显示
+					'''
+			}
+
+			IcedamnedArrow: {
+				DisplayName: 冰咒箭
+				Tooltip: 被诅咒材料的独特用法
+			}
+
+			IcedamnedArrowInfinite: {
+				DisplayName: 冰咒箭（无限）
+				Tooltip:
+					'''
+					被诅咒材料的独特用法
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			Justitia: {
+				DisplayName: 正义裁决者 (O-02-62)
+				Tooltip:
+					'''
+					这把武器象征着审判鸟的公平制裁
+					这也意味着它需要去权衡全部的罪恶.
+					[c/FF0000:EGO 武器]
+					'''
+			}
+
+			Laetitia: {
+				DisplayName: 蕾蒂希娅 (O-01-67)
+				Tooltip:
+					'''
+					粗糙的结构设计令它的外表有些老旧, 可它仍有不可忽视的威力.
+					[c/FF0000:EGO 武器]
+					一秒发射两发威力巨大的子弹
+					穿着全部蕾蒂希娅套装时可提升伤害
+					'''
+			}
+
+			Laoskadyn: {
+				DisplayName: 劳斯卡丁
+				Tooltip:
+					'''
+					挥舞时从天上降下自动追踪敌人的针
+					针会释放出有伤害的火焰
+					'''
+			}
+
+			LaserCannon: {
+				DisplayName: 激光炮
+				Tooltip:
+					'''
+					发射追踪的爆炸能量球
+					不消耗弹药
+					'''
+			}
+
+			LastTantrum: {
+				DisplayName: 最终之怒
+				Tooltip:
+					'''
+					发射自动追踪、全元素伤害的子弹
+					子弹不能造成严重伤害
+					'''
+			}
+
+			LightOfCeraSumat: {
+				DisplayName: 塞拉苏门之光
+				Tooltip:
+					'''
+					老公爵埃尔德的[c/00FF00:传奇之剑]
+					真近战剑
+					造成诅咒之光Debuff
+					来自玩家的攻击对敌人多造成 20% 伤害
+					来自带有诅咒之光Debuff敌人的攻击有 25% 概率只造成一半伤害
+					[c/00FF00:属性随进程成长]
+					提升过后的属性将会在使用后显示
+					'''
+			}
+
+			MagicBullet: {
+				DisplayName: 魔弹射手 (F-01-69)
+				Tooltip:
+					'''
+					尽管无法完全提取该异常核心中那股深奥的力量, 但利用那神奇力量所研制出来的武器仍然无比强大.
+					[c/FF0000:EGO 武器]
+					从该武器射出的子弹能穿透方块
+					子弹能穿透多个敌人
+					'''
+			}
+
+			MagicWand: {
+				DisplayName: 魔杖
+				Tooltip:
+					'''
+					皇家魔杖
+					发射一束能消灭一切的激光束
+					'''
+			}
+
+			MarcoMagicWand: {
+				DisplayName: 王子的魔杖
+				Tooltip:
+					'''
+					喵尼尔王子的魔杖
+					发射毁灭沿途一切事物的宽激光
+					激光持续时间越长, 威力越强
+					魔力消耗分别增加
+					右键发射小猫炸弹
+					'''
+			}
+
+			MeteorSwarm: {
+				DisplayName: 卷轴·流星雨
+				Tooltip:
+					'''
+					一次性物品
+					包含着法术·流星雨
+					使用时, 在玩家光标周围落下流星雨
+					使玩家精疲力尽 1 分钟, 期间无法使用魔法
+					'''
+			}
+
+			MGB: {
+				DisplayName: 17mm 子弹
+				Tooltip: 射击所需“绞肉机”
+			}
+
+			MordenkainenSword: {
+				DisplayName: 魔邓肯之剑
+				Tooltip:
+					'''
+					魔邓肯制作的无形之剑
+					远程斩杀敌人
+					'''
+			}
+
+			MP7: {
+				DisplayName: MP7
+				Tooltip:
+					'''
+					[c/00FF00:终极工匠奖励]
+					每分钟最多发射1K颗子弹
+					88% 概率不消耗弹药
+					'''
+			}
+
+			NULL: {
+				DisplayName: 武士刀
+				Tooltip: NULL
+			}
+
+			NyctosythiaArrow: {
+				DisplayName: 夜蛾箭
+				Tooltip:
+					'''
+					这些箭消耗任意形式的光
+					可穿墙, 第一次撞击墙壁或敌人后释放追踪敌人的子弹
+					'''
+			}
+
+			NyctosythiaArrowInfinite: {
+				DisplayName: 夜蛾箭（无限）
+				Tooltip:
+					'''
+					这些箭消耗任意形式的光
+					可穿墙, 第一次撞击墙壁或敌人后释放追踪敌人的子弹
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			NyctosythiaBullet: {
+				DisplayName: 夜蛾弹
+				Tooltip:
+					'''
+					最好尽可能快的抓住它
+					可穿墙, 第一次撞击墙壁或敌人后释放追踪敌人的子弹
+					'''
+			}
+
+			NyctosythiaBulletInfinite: {
+				DisplayName: 夜蛾弹（无限）
+				Tooltip:
+					'''
+					最好尽可能快的抓住它
+					可穿墙, 第一次撞击墙壁或敌人后释放追踪敌人的子弹
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			Nyx: {
+				DisplayName: 尼克斯
+				Tooltip:
+					'''
+					基本上, 它只是个高斯炮
+					能穿透多个敌人
+					有两种发射方式:
+					左键慢速发射 (1发/秒)
+					右键快速发射 (2发/秒, 伤害降低)
+					'''
+			}
+
+			OverloadedPortalGun: {
+				DisplayName: 瑞克的传送枪 (超载)
+				Tooltip:
+					'''
+					瑞克·桑切斯的传送枪的复制品
+					使用不稳定科技, 这使它工作得更快
+					打开通往随机危险维度的传送门
+					需要能量胶囊作为弹药
+					希望这玩意别引来瑞克海豹突击队
+					'''
+			}
+
+			Pandora: {
+				DisplayName: 潘多拉
+				Tooltip:
+					'''
+					来自地狱的武器, 有 666 种不同的形态
+					修复了的潘多拉, 解锁了破坏潜力
+					基础形态 422: 发射锋利的手里剑, 能粘在敌人身上
+					攻击装填灾难槽
+					灾难槽集满时能够切换武器形态
+					右键切换形态
+					'''
+			}
+
+			PandoraPF013: {
+				DisplayName: 潘多拉 (PF013)
+				Tooltip:
+					'''
+					来自地狱的武器, 有666种不同的形态
+					修复了的潘多拉, 解锁了破坏潜力
+					发射2枚高伤追踪火箭
+					攻击装填灾难槽
+					灾难槽集满时能够切换武器形态
+					右键切换形态
+					'''
+			}
+
+			PandoraPF124: {
+				DisplayName: 潘多拉 (PF014)
+				Tooltip:
+					'''
+					来自地狱的武器, 有666种不同的形态
+					修复了的潘多拉, 解锁了破坏潜力
+					发射2枚高伤追踪火箭
+					攻击装填灾难槽
+					灾难槽集满时能够切换武器形态
+					右键切换形态
+					'''
+			}
+
+			PandoraPF262: {
+				DisplayName: 潘多拉 (PF262)
+				Tooltip:
+					'''
+					来自地狱的武器, 有666种不同的形态
+					修复了的潘多拉, 解锁了破坏潜力
+					发射2枚高伤追踪火箭
+					攻击装填灾难槽
+					灾难槽集满时能够切换武器形态
+					右键切换形态
+					'''
+			}
+
+			PandoraPF398: {
+				DisplayName: 潘多拉 (PF398)
+				Tooltip:
+					'''
+					来自地狱的武器, 有666种不同的形态
+					修复了的潘多拉, 解锁了破坏潜力
+					发射2枚高伤追踪火箭
+					攻击装填灾难槽
+					灾难槽集满时能够切换武器形态
+					右键切换形态
+					'''
+			}
+
+			PandoraPF422: {
+				DisplayName: 潘多拉 (PF422)
+				Tooltip:
+					'''
+					来自地狱的武器, 有666种不同的形式
+					憾的是, 作为原型, 只能呈现一种形式
+					发射锋利的手里剑, 能粘在敌人身上
+					'''
+			}
+
+			PandoraPF594: {
+				DisplayName: 潘多拉 (PF594)
+				Tooltip:
+					'''
+					来自地狱的武器, 有666种不同的形态
+					修复了的潘多拉, 解锁了破坏潜力
+					特殊攻击 #1 (向各个方向发射追踪火箭)
+					攻击填装灾难条
+					右键切换特殊攻击
+					'''
+			}
+
+			PandoraPF666: {
+				DisplayName: 潘多拉 (PF666)
+				Tooltip:
+					'''
+					来自地狱的武器, 有666种不同的形态
+					修复了的潘多拉, 解锁了破坏潜力
+					特殊攻击 #2 (能量放出)
+					攻击填装灾难条
+					Full gauge allows you to switch weapon's form
+					Right click to change special attack
+					'''
+			}
+
+			ParadiseLost: {
+				DisplayName: 失乐园 (T-03-46)
+				Tooltip:
+					'''
+					乐园的大门因我的敲击而缓缓打开.
+					我自终末而来, 我并无留恋, 只是在此驻足.
+					我就是那个点燃希望之灯, 面对世界之人.
+					我心爱的人儿, 从现在开始, 我会将那最美妙的, 无比璀璨的道路展现在你们面前.
+					[c/FF0000:EGO 武器]
+					左键发射穿越方块的刀波
+					右键割裂周围的空间
+					只有穿着全套失乐园盔甲才能使用这件武器
+					'''
+			}
+
+			Penetrator: {
+				DisplayName: 洞察者
+				Tooltip:
+					'''
+					非常缓慢, 看起来让人不愉快的步枪
+					[c/00FF00:传奇武器]
+					暴击伤害从 3 倍到 6 倍浮动
+					消耗生命而不是弹药
+					[c/00FF00:属性随进程成长]
+					提升过后的属性将会在使用后显示
+					'''
+			}
+
+			PlasmaRound: {
+				DisplayName: 等离子体
+				Tooltip:
+					'''
+					里面包含原始能量
+					是三项之怒的弹药
+					'''
+			}
+
+			PortalGun: {
+				DisplayName: 瑞克的传送枪
+				Tooltip:
+					'''
+					瑞克·桑切斯的传送枪的复制品
+					打开通往随机危险维度的传送门
+					需要能量胶囊作为弹药
+					希望这玩意别引来瑞克海豹突击队
+					'''
+			}
+
+			QoHWeapon: {
+				DisplayName: 以爱与恨之名'' (O-01-04)
+				Tooltip:
+					'''
+					这根闪闪发光的魔法棒散发着魔法少女的爱之能量.
+					坏蛋将会被神圣的光辉净化, 然后重生.
+					他们将会被烈焰灼烧, 失去醒来的意志.
+					[c/FF0000:EGO 武器]
+					发射 4 种不同种类的抛射物
+					会根据伤害类型恢复生命值, 法力值, 造成Debuff或者双倍伤害.
+					'''
+			}
+
+			QuantumDestabilizer: {
+				DisplayName: 量子干扰器
+				Tooltip:
+					'''
+					蓝图 #618
+					释放出一束物质破坏光束, 能造成极高的伤害
+					需要一秒钟充能
+					需要能源电池作为弹药
+					'''
+			}
+
+			QuantumDestabilizerFixed: {
+				DisplayName: 量子干扰器F
+				Tooltip:
+					'''
+					蓝图 #618
+					释放出一束物质破坏光束, 能造成极高的伤害
+					需要一秒钟充能
+					不需要弹药
+					'''
+			}
+
+			RecluseFang: {
+				DisplayName: 黑隐士牙旋刃
+				Tooltip: 投掷剧毒回旋刃
+			}
+
+			Reverberation: {
+				DisplayName: 余香 (T-04-53)
+				Tooltip:
+					'''
+					或许, 当每个人内心的欲望都被花朵取代后, 就不再需要这把武器了吧?
+					[c/FF0000:EGO 武器]
+					有 50％ 的几率可以射出额外的子弹
+					子弹造成同样的伤害，但是每个需要消耗 15 点魔力
+					穿着全套余香盔甲可以提升伤害
+					'''
+			}
+
+			Sasscade: {
+				DisplayName: 萨斯卡德
+				Tooltip:
+					'''
+					[c/00FF00:传说中的悠悠球]
+					向附近的敌人发射跟踪的星云火焰
+					火焰会秒杀血量少于10K的敌人并且造成重伤Debuff
+					握持或放在物品栏里时, 提供悠悠球袋的效果
+					'''
+			}
+
+			SeepingArrow: {
+				DisplayName: 炽焚箭
+				Tooltip: 被诅咒材料的独特用法
+			}
+
+			SeepingArrowInfinite: {
+				DisplayName: 炽焚箭 (无限)
+				Tooltip:
+					'''
+					被诅咒材料的独特用法
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			ShroomiteArrow: {
+				DisplayName: 强化型菱形箭
+				Tooltip:
+					'''
+					释放出电云, 电云会向敌人发射电束
+					越飞越快
+					'''
+			}
+
+			ShroomiteArrowInfinite: {
+				DisplayName: 强化型菱形箭 (无限)
+				Tooltip:
+					'''
+					释放出电云, 电云会向敌人发射电束
+					越飞越快
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			ShroomiteBullet: {
+				DisplayName: 强化型菱形弹
+				Tooltip:
+					'''
+					释放出电云, 电云会向敌人发射电束
+					越飞越快
+					'''
+			}
+
+			ShroomiteBulletInfinite: {
+				DisplayName: Enhanced Shroomite Bullet
+				Tooltip:
+					'''
+					释放出电云, 电云会向敌人发射电束
+					越飞越快
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			SpearofJustice: {
+				DisplayName: 正义之矛
+				Tooltip:
+					'''
+					它的攻击可以摧毁沿途的一切
+					一个[c/FF0000:真英雄]特有的矛
+					右键会有特殊的攻击方式
+					特殊攻击需要 200/400 魔力
+					'''
+			}
+
+			SpiderFangarang: {
+				DisplayName: 蛛牙回旋镖
+				Tooltip:
+					'''
+					投掷涂毒回旋镖\
+					可以堆叠 3 个
+					'''
+			}
+
+			Spore: {
+				DisplayName: 荧光菌孢 (O-04-66)
+				Tooltip:
+					'''
+					这是一支生长着孢子, 并且寄宿着情感的长矛.
+					它能够揭示思维, 在他们脑海中如同繁星一般闪烁, 并且使他们逐渐变得驯服安分.
+					[c/FF0000:EGO 武器]
+					攻击能多次伤害敌人
+					在命中一定次数之后释放伤害性孢子进入敌人体内
+					'''
+			}
+
+			Stormbreaker: {
+				DisplayName: 风暴战锤
+				Tooltip:
+					'''
+					为了与宇宙中最强大的存在战斗而打造. 请明智地使用它.
+					在物品栏中右键切换伤害类型
+					'''
+			}
+
+			StormbreakerThrown: {
+				DisplayName: 风暴战锤
+				Tooltip:
+					'''
+					为了与宇宙中最强大的存在战斗而打造. 请明智地使用它.
+					在物品栏中右键切换伤害类型
+					'''
+			}
+
+			SunkroveraArrow: {
+				DisplayName: 森克罗维拉之箭
+				Tooltip:
+					'''
+					即便是带着它你也能感受到那份...压力
+					击中墙壁或敌人后释放可以汲取生命的子弹
+					'''
+			}
+
+			SunkroveraArrowInfinite: {
+				DisplayName: 森克罗维拉之箭 (无限)
+				Tooltip:
+					'''
+					即便是带着它你也能感受到那份...压力
+					击中墙壁或敌人后释放可以汲取生命的子弹
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			SunkroveraBullet: {
+				DisplayName: 森克罗维拉弹
+				Tooltip:
+					'''
+					即便是带着它你也能感受到那份...压力
+					击中墙壁或敌人后释放可以汲取生命的子弹
+					'''
+			}
+
+			SunkroveraBulletInfinite: {
+				DisplayName: 森克罗维拉弹
+				Tooltip:
+					'''
+					即便是带着它你也能感受到那份...压力
+					击中墙壁或敌人后释放可以汲取生命的子弹
+					[c/a10000:I][c/a18600:n][c/36a100:f][c/00a150:i][c/00a150:n][c/1b00a1:i][c/a100a1:t][c/a1001b:e]
+					'''
+			}
+
+			SwordofArachna: {
+				DisplayName: 蛛王剑
+				Tooltip: 第一次击中感染敌人, 第二次释放蜘蛛
+			}
+
+			SymbolOfPain: {
+				DisplayName: 卷轴·痛苦法印
+				Tooltip:
+					'''
+					一次性物品
+					包含着法术·痛苦法印
+					使用时, 屏幕内所有敌人都将被严重虚弱 1 分钟 (不会被任何限制降低)
+					对虚弱敌人多造成 25% 伤害
+					同样使敌人伤害降低 25%
+					使玩家精疲力尽 1 分钟, 期间无法使用魔法
+					'''
+			}
+
+			TerrarianW: {
+				DisplayName: Terrarian-W (V-05-516)
+				Tooltip:
+					'''
+					Angela的行为改写了对灵魂本身的理解
+					[c/FF0000:EGO 武器]
+					左键发射爆裂激光
+					右键发射爆裂弹
+					33% 概率不消耗弹药
+					'''
+			}
+
+			TheBeak: {
+				DisplayName: 小喙 (O-02-56)
+				Tooltip:
+					'''
+					虽然这只鸟的身材娇小, 可它有着很恐怖的嘴巴.
+					[c/FF0000:EGO 武器]
+					一次射出两发子弹
+					子弹会点燃敌人
+					25% 几率不消耗弹药
+					'''
+			}
+
+			TomeOfOrder: {
+				DisplayName: 秩序原典
+				Tooltip:
+					'''
+					[c/00FF00:传奇武器]
+					[c/00FF00:属性随游戏进程增长]
+					只有于善恶的彼岸之人才能领悟
+					发射可以扎在敌人或者地面的能量之矢
+					它们会在一段时间后爆炸，或者手动引爆，造成双倍伤害
+					'''
+			}
+
+			Tritantrum: {
+				DisplayName: 三项之怒
+				Tooltip:
+					'''
+					发射会爆炸的等离子体
+					需要特殊弹药 (等离子体)
+					50% 的几率不消耗弹药
+					'''
+			}
+
+			TrueSasscade: {
+				DisplayName: 真·萨斯卡德
+				Tooltip:
+					'''
+					[c/00FF00:传说中的悠悠球]
+					向附近的敌人发射跟踪的星云奥秘
+					握持或放在物品栏里时, 提供悠悠球袋的效果
+					'''
+			}
+
+			TurretStaff: {
+				DisplayName: G姐炮塔召唤杖
+				Tooltip: 召唤致命的G姐炮塔为你而战
+			}
+
+			Twilight: {
+				DisplayName: 薄暝 (O-02-63)
+				Tooltip:
+					'''
+					那永不闭合的眼睛, 那能衡量一切罪恶的天平, 那能吞噬一切的巨口
+					这三者守护着黑森林的和平, 而那些能够同时驾驭这三者的人也能带来和平.
+					[c/FF0000:EGO 武器]
+					对命中的敌人造成多种不同伤害
+					握持时, 每秒对屏幕内所有敌人造成 200 点伤害
+					右键传送到光标处, 伤害x3并且获得2秒无敌.
+					'''
+			}
+
+			UgandanTotem: {
+				DisplayName: 乌干达图腾
+				Tooltip:
+					'''
+					召唤乌干达战士保护你
+					召唤物伤害与最大召唤栏数量成正比
+					'''
+			}
+
+			UnchainedAkumu: {
+				DisplayName: 解封·Akumu
+				Tooltip:
+					'''
+					在日语里,Akumu的意思是 [c/FF00FF:噩梦]
+					它的斩击能穿透经过的所有敌人
+					左键发射剑气
+					右键近距离攻击
+					生命值低于 35% 时, Akumu会生成反射抛射物的护盾
+					高于 35% 时, Akumu会释放飞行的奴仆
+					'''
+			}
+
+			WailOfBanshee: {
+				DisplayName: 卷轴·女妖之嚎
+				Tooltip:
+					'''
+					一次性物品
+					包含着法术·女妖之嚎
+					使用时, 即死屏幕中所有普通敌人
+					使玩家精疲力尽1分钟, 期间无法使用魔法
+					'''
+			}
+
+			Waspnade: {
+				DisplayName: 黄蜂雷
+				Tooltip:
+					'''
+					爆炸后释放友善的黄蜂
+					装备蜂窝背包/瘟疫蜂巢(灾厄)时威力增强
+					'''
+			}
+
+			WatcherAmulet: {
+				DisplayName: 凝视者护符
+				Tooltip:
+					'''
+					怪不得中间有个奇形怪状的护身符.
+					通过某种方式, 你唤醒了这个护身符的真实形态.
+					它拥有怎样的可怕力量？没人知道.
+					'''
+			}
+
+			WrathOfTheCelestial: {
+				DisplayName: 天界之怒
+				Tooltip:
+					'''
+					发射一簇爆裂蓝焰
+					比看上去更强大
+					'''
+			}
+
+			XtraT: {
+				DisplayName: XtraT
+				Tooltip:
+					'''
+					发射两支箭和一个能量球
+					能量球造成三倍伤害并且能穿透敌人和方块
+					50% 几率不消耗弹药
+					'''
+			}
+
+			# Weapons End
+			
+			# Generics Start
+			CodexUmbra: {
+				DisplayName: 暗影秘典
+				Tooltip:
+					'''
+					对不起，查理......
+					[c/8b0088:*参考物品*]
+					汉化者注：参考自《饥荒：联机版》
+					'''
+			}
+
+			BattleCombination: {
+				DisplayName: 战斗药剂包
+				Tooltip: 获得你在战斗时需要的Buff(耐力, 生命力, 铁皮, 恢复, 暴怒, 怒气)
+			}
+
+			BeachTeleporterPotion: {
+				DisplayName: 海滩传送药剂
+				Tooltip:
+					'''
+					将你传送至海滩 (靠近最左/右边的棕榈木处)
+					方向取决于使用的鼠标按键
+					'''
+			}
+
+			BeaconTeleportator: {
+				DisplayName: 信标传送药剂
+				Tooltip:
+					'''
+					将你传送至信标处
+					没有放置信标无法工作
+					'''
+			}
+
+			BewitchingPotion: {
+				DisplayName: 迷人药剂
+				Tooltip:
+					'''
+					增加召唤物能力 (增加一个召唤物上限)
+					非灾厄药剂
+					'''
+			}
+
+			BlurringPotion: {
+				DisplayName: 模糊药水
+				Tooltip:
+					'''
+					获得模糊Buff (持续 10 秒暗影躲避,CD时间 30 秒)
+					非灾厄药剂
+					'''
+			}
+
+			BuilderCombination: {
+				DisplayName: 建筑师药剂包
+				Tooltip: 获得你在建筑时需要的Buff(镇静, 建筑工, 挖矿)
+			}
+
+			CalamityCombination: {
+				DisplayName: 灾厄药剂包
+				Tooltip: 给予大部分灾厄药剂的增益效果 (魔君牌兴奋剂, 尾音, 腾飞，泰坦之鳞, Fabsol伏特加)
+			}
+
+			CloakOfFear: {
+				DisplayName: 卷轴·恐惧之袍
+				Tooltip:
+					'''
+					一次性物品
+					包含着法术·恐惧之袍
+					使附近的非Boss敌人改变移动方向
+					使玩家精疲力尽1分钟, 期间无法使用魔法
+					'''
+			}
+
+			CrimsonCherrySoda: {
+				DisplayName: 绯红樱桃苏打水
+				Tooltip: 恢复175点生命值, 并在短时间内极大增加生命恢复速度.
+			}
+
+			DiscordPotion: {
+				DisplayName: 混乱药剂
+				Tooltip:
+					'''
+					允许使用快捷键传送到鼠标位置
+					传送后扭曲玩家一秒钟
+					混乱状态时使用会受到巨大的伤害
+					混乱状态延长至10秒
+					非灾厄药剂
+					'''
+			}
+
+			Dopamine: {
+				DisplayName: 多巴胺
+				Tooltip: 让你愉快
+			}
+
+			DungeonTeleportationPotion: {
+				DisplayName: 地牢传送药剂
+				Tooltip: 将你传送至地牢入口
+			}
+
+			ExecutionersEyes: {
+				DisplayName: 卷轴·行刑者之眼
+				Tooltip:
+					'''
+					一次性物品
+					包含着法术·行刑者之眼
+					使用时, 1 分钟内伤害增加 15%
+					同样增加 5% 暴击率
+					暴击有 5% 概率再次暴击, 造成 4 倍伤害
+					使玩家精疲力尽1分钟, 期间无法使用魔法
+					'''
+			}
+
+			ExplorerCombination: {
+				DisplayName: 探索者药剂包
+				Tooltip: 获得你在探索时所需的Buff(危险感知, 狩猎, 洞穴探险, 夜猫子, 光芒, 挖矿, 鱼鳃, 脚蹼, 水上行走)
+			}
+
+			ExplorersBrew: {
+				DisplayName: 探险者陈酿
+				Tooltip:
+					'''
+					[c/00FF00:特调探险者药剂]
+					获得所有感知效果, 极大增加玩家周围的光照效果, 并且你的攻击会电疗敌人
+					同时给予鱼鳃、脚蹼和水上行走药剂效果
+					'''
+			}
+
+			FishingCombination: {
+				DisplayName: 钓鱼药剂包
+				Tooltip: 获得板条箱, 声呐, 钓鱼, 再生, 荆棘, 铁皮, 心如止水, 熔岩领域Buff
+			}
+
+			FortitudePotion: {
+				DisplayName: 刚毅药剂
+				Tooltip:
+					'''
+					免疫击退
+					非灾厄药剂
+					'''
+			}
+
+			GreaterDangersensePotion: {
+				DisplayName: 强效危险感知药剂
+				Tooltip:
+					'''
+					获得强效危险感知Buff (高亮敌人抛射物)
+					该效果对所有玩家起效
+					'''
+			}
+
+			HeartAttackPotion: {
+				DisplayName: 黑暗药剂
+				Tooltip:
+					'''
+					装填愤怒槽, 造成心脏衰竭
+					如果Boss存活则无法使用
+					非灾厄药剂
+					'''
+			}
+
+			InvincibilityPotion: {
+				DisplayName: 无敌药剂
+				Tooltip:
+					'''
+					延长受伤后的无敌时间
+					非灾厄药剂
+					'''
+			}
+
+			JungleTeleporterPotion: {
+				DisplayName: 丛林传送药剂
+				Tooltip:
+					'''
+					将你传送至丛林
+					左键传送至丛林植物
+					右键传送至红木生命树树叶
+					'''
+			}
+
+			MageCombination: {
+				DisplayName: 魔法药剂包
+				Tooltip: 获得一些魔法buff(魔能, 法力再生, 智慧, 暴怒, 怒气)
+			}
+
+			NatureBlessingPotion: {
+				DisplayName: 自然祝福药剂
+				Tooltip: 获得树妖的祝福Buff
+			}
+
+			NinjaPotion: {
+				DisplayName: 忍者药剂
+				Tooltip:
+					'''
+					增加 5% 的伤害和暴击率
+					并获得忍者大师的能力
+					非灾厄药剂
+					'''
+			}
+
+			OceanTeleporterPotion: {
+				DisplayName: 海洋传送药剂
+				Tooltip:
+					'''
+					将你传送到海里 (最左边或最右边的珊瑚)
+					方向取决于鼠标按键
+					如果没有珊瑚存在将无法工作
+					'''
+			}
+
+			OnyxGrapeSoda: {
+				DisplayName: 玛瑙葡萄苏打水
+				Tooltip:
+					'''
+					传送回家并给予 5 秒钟的 75% 耐力
+					30 秒冷却, 使用混乱状态Debuff
+					'''
+			}
+
+			PerfectDiscordPotion: {
+				DisplayName: 完美裂位药剂
+				Tooltip:
+					'''
+					[c/00FF00:特调探险者药剂]
+					允许使用快捷键传送到鼠标位置
+					效果等同于裂位法杖
+					非灾厄药剂
+					'''
+			}
+
+			InvalidItem: {
+				DisplayName: 无效物品
+				Tooltip: ""
+			}
+
+			PinkGoldStrawberrySoda: {
+				DisplayName: 桃金草莓苏打水
+				Tooltip: 恢复150点生命值和150点法力值, 短时间内移除大部分Debuff
+			}
+
+			RainbowFlask: {
+				DisplayName: 瓶中彩虹
+				Tooltip: ""
+			}
+
+			RangerCombination: {
+				DisplayName: Ranger Combination
+				Tooltip:
+					'''
+					使你的武器造成破甲并且给予许多高伤的Debuff.
+					移除敌人对脓液, 贝特西的诅咒以及破晓的免疫
+					'''
+			}
+
+			SapphireBlueberrySoda: {
+				DisplayName: 宝蓝蓝莓苏打水
+				Tooltip: 恢复200点法力值, 短时间内移除法力病Debuff.
+			}
+
+			SummonerCombination: {
+				DisplayName: 召唤师药剂包
+				Tooltip: 获得一些召唤Buff (召唤, 迷人, 怒气)
+			}
+
+			SunshinePotion: {
+				DisplayName: 阳光药剂
+				Tooltip: 极大的增强光照半径
+			}
+
+			TankCombination: {
+				DisplayName: 坦克药剂包 (炼金)
+				Tooltip: 获得一些坦克Buff (耐力, 生命力, 铁皮, 敏捷, 黑曜石皮肤, 荆棘, 再生, 泰坦皮肤, 无敌)
+			}
+
+			TempleTeleportationPotion: {
+				DisplayName: 神庙传送药剂
+				Tooltip: 将你传送至神庙
+			}
+
+			TerrainReformer: {
+				DisplayName: 大地重塑者
+				Tooltip:
+					'''
+					由远古文明所制作的传奇地形改造装置
+					左键精确开采
+					右键极速挖掘
+					'''
+			}
+
+			ThoriumCombination: {
+				DisplayName: 瑟银捆绑包
+				Tooltip:
+					'''
+					获得瑟银的大部分药水Buff
+					嗜血, 精准, 狂热, 狂怒, 创造力, 耳虫, 灵感爆发, 光辉, 圣洁
+					'''
+			}
+
+			TitanSkinPotion: {
+				DisplayName: 泰坦皮肤药剂
+				Tooltip:
+					'''
+					使你免疫部分Debuff (着火, 霜火, 咒火, 寒冷, 冰冻, 脓液)
+					对咒火和脓液的免疫能力只有在击败双子魔眼后才会生效
+					'''
+			}
+
+			TrapsPotion: {
+				DisplayName: 布陷人药剂
+				Tooltip: 增强所有陷阱
+			}
+
+			UltimaCake: {
+				DisplayName: 终极蛋糕
+				Tooltip: 给予终极站Buff
+			}
+
+			UnderworldTeleportationPotion: {
+				DisplayName: 地狱传送药剂
+				Tooltip: 将你传送至最靠近地狱两端的黑曜石塔楼
+			}
+
+			UniversalCombination: {
+				DisplayName: 万能药剂包
+				Tooltip:
+					'''
+					完美结合了以下药剂包的Buff：
+					坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包.
+					'''
+			}
+
+			VanTankCombination: {
+				DisplayName: 坦克药剂包 (原版)
+				Tooltip: 获得一些坦克Buff (敏捷, 耐力, 生命力, 铁皮, 黑曜石皮肤, 荆棘, 再生)
+			}
+		}
+
+		NPCs: {
+			BillCipher.DisplayName: 比尔·赛弗
+
+			Explorer: {
+				DisplayName: 探险家
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 你有多余的房子吗？你说我是个探险家所以不需要房子？我也需要休息啊！
+					FarFromHome: 这里离家太远了，让我回想起在外探险的经历了，可我需要一个地方来休息！
+					LoveSpace: 这里很好！足够大！足够放下我的旅途路上得到的一切了！
+					DislikeCrowded: 哦不，这里太挤了，甚至放不下我写的自传。
+					HateCrowded: 这里小的让我考虑搬出去了。
+					LoveNPC: 我最喜欢{NPCName}，他总是给予我帮助！
+					HateNPC: 我恨{NPCName}，他让我讨厌至极
+					LikeNPC_Princess: 我喜欢{NPCName}，她是最愿意听我讲故事的一个！
+					Princess_LovesNPC: 你说{NPCName}？我可喜欢听他讲故事了！
+				}
+
+				Census.SpawnCondition: 击败月球领主并找到方法使用九个破损的笔记来拯救他
+			}
+
+			GameError.DisplayName: Game Error
+			Knuckles.DisplayName: Knuckles
+
+			OtherworldlyPortal: {
+				DisplayName: 异界传送门
+
+				TownNPCMood: {
+					Content: 我很满足。
+					NoHome: 我恨我没有房子住。
+					FarFromHome: 我离家太远了。
+					LoveSpace: 我爱我有这么大的空间
+					DislikeCrowded: 我讨厌拥挤。
+					HateCrowded: 我恨拥挤
+					LikeNPC_Princess: 我喜欢 {NPCName}.
+					Princess_LovesNPC: 我喜欢 {NPCName}.
+				}
+
+				Census.SpawnCondition: 不是确切的一个NPC，解救探险家的一个步骤
+			}
+
+			Alchemist: {
+				DisplayName: 炼金师
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 你有多余的房子吗？没有房子做药水真的很不舒服
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 这个地方让我想起了以前和朋友一起训练的日子
+					LikeBiome: 温馨祥和，还有什么比做药水更好的呢？
+					DislikeBiome: 这里太冷了...我的手都冻僵了
+					LoveNPC: "{NPCName}在这里！谁是爸爸的儿子？"
+					LikeNPC: "{NPCName}她懂得努力工作的重要性.有她在身边真好"
+					DislikeNPC: 我觉得我无法集中注意力{NPCName}就在附近.她总是拿我开玩笑
+					LikeNPC_Princess: 我得去看看{NPCName}又有个女孩来找我！
+					Princess_LovesNPC: 你是在说{NPCName}吗？他给了我好多奇奇怪怪的花草，不过很好看！
+				}
+
+				Census.SpawnCondition: 击败克苏鲁之眼
+			}
+
+			Architect: {
+				DisplayName: 建筑师
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 作为一名建筑师，我特别不喜欢没有房子
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 这么多颜色，这么多建筑材料.完美的
+					LikeBiome: 很安静的地方.我喜欢
+					DislikeBiome: 我讨厌寒冷的感觉.我需要一个温暖的地方
+					LoveNPC: "{NPCName}知道如何制作各种颜色.这太棒了"
+					LikeNPC: "{NPCName}可能只是一个烦人的妖精，但他明白如何建造.我尊重这一点"
+					DislikeNPC: "{NPCName}脾气暴躁讨厌颜色.我想，让他生活在万圣节会很有趣吧"
+					LikeNPC_Princess: 我得去看看{NPCName}又有个女孩来找我！
+					Princess_LovesNPC: 不得不说{NPCName}的审美真的好，他给我装修了我的房间！
+				}
+
+				Census.SpawnCondition: 入住至少 3 个NPC
+			}
+
+			Brewer: {
+				DisplayName: 药剂师
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 你有多余的房子吗？没有房子做药水真的很不舒服
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 温馨祥和，正如我所愿！
+					LikeBiome: 这里有点太热，但空气很好
+					DislikeBiome: 这里太冷了...我的手都冻僵了
+					LoveNPC: "{NPCName}在这里！谁是妈妈的儿子？"
+					LikeNPC: "{NPCName}很容易被戏弄！我忍不住"
+					DislikeNPC: "{NPCName}他不停的警告真让人讨厌.简直受不了"
+					LikeNPC_Princess: 我得去看看{NPCName}又有个女孩来找我！
+					Princess_LovesNPC: 那个很像机械师的女生叫什么来着？{NPCName}！她有好多神奇的药剂！
+				}
+
+				Census.SpawnCondition: 击败克苏鲁之眼
+			}
+
+			Jeweler: {
+				DisplayName: 珠宝师
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 你有多余的房子吗？没有房子做珠宝真的很不舒服
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 温馨祥和，正如我所愿！
+					LikeBiome: 这里有点太热，但空气很好
+					DislikeBiome: 这里太冷了...我的手都冻僵了
+					LoveNPC: "{NPCName}在这里！你可以清楚地看出我们几乎一模一样.但我不想留胡子"
+					LikeNPC: "{NPCName}对钱很敏感.有点太贪婪了，但我完全能理解"
+					DislikeNPC: 我不能忍受这样的女孩{NPCName},她完全分散了我的注意力
+					LikeNPC_Princess: 我得去看看{NPCName}又有个女孩来找我！
+					Princess_LovesNPC: 一个男生，却喜欢珠宝，真是......太有品味了！嗯？你问我说的是谁，当然是{NPCName}！
+				}
+
+				Census.SpawnCondition: 击败克苏鲁之眼
+			}
+
+			Musician: {
+				DisplayName: 音乐家
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 你有多余的房子吗？如果我没有房子住，我怎么做音乐？
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 我喜欢这个地方的闪亮和明亮.也非常适合举办派对
+					LikeBiome: 安静与和平，我还需要什么来创作音乐？这里的音响效果非常棒！
+					DislikeBiome: 这里太冷了...我的手都冻僵了
+					LoveNPC: "{NPCName}和我一样喜欢音乐！我可以整天和她在一起"
+					LikeNPC: "{NPCName}当我没有音乐盒的时候很有用.你知制作这些有多难吗？"
+					DislikeNPC: 这个吝啬鬼{NPCName}太烦人了.你能把他带到外面的什么地方吗？
+					LikeNPC_Princess: 我得去看看{NPCName}又有个女孩来找我！
+					Princess_LovesNPC: 我最喜欢听{NPCName}放歌！他真的很有品位！
+				}
+
+				Census.SpawnCondition: 击败骷髅王
+			}
+
+			Operator: {
+				DisplayName: 操作员
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 我需要一个庇护所.我不喜欢没有房子
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 我的电路在这里运行良好.令人惊讶的是我喜欢雪
+					LikeBiome: 海洋是我想看的东西.谢谢
+					DislikeBiome: 我讨厌地下.你知道的.对吧？
+					LoveNPC: "{NPCName}可能是唯一能理解我的人.做为一个半机械人"
+					// LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.LikeNPC}"
+					DislikeNPC: "{NPCName}似乎害怕我.我不知道为什么，但他的恐惧让我有些恼火"
+					LikeNPC_Princess: 我得去看看{NPCName}又有个女孩来找我！
+					Princess_LovesNPC: "{NPCName}，那个女孩总是能把一切整理的井井有条"
+				}
+
+				Census.SpawnCondition: 击败世界吞噬者/克苏鲁之脑
+			}
+
+			Tinkerer: {
+				DisplayName: 工匠
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 制作配饰需要耐心.没有房子我也做不到
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 我和姐姐习惯了在寒冷的地方生活，所以我完全可以接受
+					LikeBiome: 有点黑，但我完全可以住在这里
+					DislikeBiome: 我讨厌炎热的天气和沙子，所以我不会住在这里
+					LoveNPC: "{NPCName}终于来了？我有很多话要说，姐姐！"
+					LikeNPC: "{NPCName}是如此的善良和聪明.我尊重这一点"
+					DislikeNPC: 不要让{NPCName} 在我周围的任何地方.他衣服上的沙子总是堵塞我的机械
+					LikeNPC_Princess: 我得去看看{NPCName}又有个女孩来找我！
+					Princess_LovesNPC: 我身上的所有首饰都是{NPCName}为我定制的！
+				}
+
+				Census.SpawnCondition: 击败克苏鲁之眼
+			}
+
+			YoungBrewer: {
+				DisplayName: 年轻的药剂师
+
+				TownNPCMood: {
+					Content: 我感觉很好！
+					NoHome: 我不喜欢长时间呆在外面.我需要一个自己的房间
+					FarFromHome: 我想我的房子就是这样...除非你要带我去什么地方？
+					LoveSpace: 和平与宁静意味着我可以尽情享受！
+					DislikeCrowded: 人越多越开心，但我开始觉得有点太拥挤了
+					HateCrowded: 我无法在不踢到人的情况下踢腿放松
+					LoveBiome: 我喜欢森林！新鲜空气和周围的绿色植物.此人还需要什么？
+					LikeBiome: 我可以在周围暖和的时候生活，所以我可以接受
+					DislikeBiome: 我不喜欢这样.我想要一个更温暖的地方居住
+					LoveNPC: 妈妈来了？太棒了我喜欢我爸爸，是的，但是妈妈...她的药水几乎无所不能，而且非常有用！
+					LikeNPC: 爸爸也在这里？他有时会很傻，但妈妈尊重他的传送药水.无论她怎么努力，她都无法重现
+					DislikeNPC: "{NPCName} 脾气暴躁.我问过他几次做玩具的事，但他总是没有时间"
+					LikeNPC_Princess: 我得去看看 {NPCName}. 她真的很喜欢和我一起玩.我也是
+					Princess_LovesNPC: 那个小宝宝？你是说{NPCName}吗？他真的很可爱！和他玩最开心了！
+				}
+
+				Census.SpawnCondition: 进入困难模式
+			}
+		}
+
+		Projectiles: {
+			CelestialHookProjectile.DisplayName: 天界钩-钩
+			GrapplingHookGunProjectile.DisplayName: 抓钩枪-钩
+			Akumu.DisplayName: Akumu
+			AkumuMirror.DisplayName: Akumu Mirror
+			AkumuShield.DisplayName: Akumu Shield
+			AkumuSphere.DisplayName: Akumu Sphere
+			AkumuThrow.DisplayName: Akumu Throw
+			BB.DisplayName: B B
+			Bees.DisplayName: Bees
+			BlueFlame.DisplayName: Blue Flame
+			Bolt.DisplayName: Bolt
+			BreathOfTheVoid.DisplayName: Breath Of The Void
+			CAE.DisplayName: C A E
+			CB1.DisplayName: C B1
+			CB2.DisplayName: C B2
+			CB3.DisplayName: C B3
+			CB4.DisplayName: C B4
+			ChaosBomb.DisplayName: Chaos Bomb
+			Chloroshard.DisplayName: Chloroshard
+			Chloroshard1.DisplayName: Chloroshard1
+			ChloroshardArrow.DisplayName: Chloroshard Arrow
+			ChromovariaArrow.DisplayName: Chromovaria Arrow
+			ChromovariaBullet.DisplayName: Chromovaria Bullet
+			CloakOfFear.DisplayName: Cloak Of Fear
+			ConeOfColdProjectile.DisplayName: Cone Of Cold Projectile
+			CorrosiveFlask.DisplayName: Corrosive Flask
+			CorrosiveFlaskCloud.DisplayName: Corrosive Flask Cloud
+			CorrosiveFlaskCloudMagic.DisplayName: Corrosive Flask Cloud Magic
+			CorrosiveFlaskMagic.DisplayName: Corrosive Flask Magic
+			Counter.DisplayName: Counter
+			CrystalDust.DisplayName: Crystal Dust
+			CrystalyzedArrow.DisplayName: Crystalyzed Arrow
+			CursedWaspnade.DisplayName: Cursed Waspnade
+			CursedWasps.DisplayName: Cursed Wasps
+			DarkBomb.DisplayName: Dark Bomb
+			DarkShot.DisplayName: Dark Shot
+			DBB.DisplayName: D B B
+			DBD.DisplayName: D B D
+			DBI.DisplayName: D B I
+			DBJ.DisplayName: D B J
+			DBK.DisplayName: D B K
+			DBP.DisplayName: D B P
+			DBPV.DisplayName: D B P V
+			DeadlyLaser.DisplayName: Deadly Laser
+			DemonicBullet.DisplayName: Demonic Bullet
+			DemonicExplosion.DisplayName: Demonic Explosion
+			DimensionalRift.DisplayName: Dimensional Rift
+			DivineWaspnade.DisplayName: Divine Waspnade
+			DivineWasps.DisplayName: Divine Wasps
+			Drainer.DisplayName: Drainer
+			DriedFishBubble.DisplayName: Dried Fish Bubble
+			DTH.DisplayName: D T H
+			DTHL.DisplayName: D T H L
+			ElectricBolt.DisplayName: Electric Bolt
+			ElementalWaspnade.DisplayName: Elemental Waspnade
+			ElementalWasps1.DisplayName: Elemental Wasps1
+			ElementalWasps2.DisplayName: Elemental Wasps2
+			ElementalWasps3.DisplayName: Elemental Wasps3
+			EnergyBall.DisplayName: Energy Ball
+			EnergyBurst.DisplayName: Energy Burst
+			Explosion.DisplayName: Explosion
+			ExplosionAvenger.DisplayName: Explosion Avenger
+			ExplosionDummy.DisplayName: Explosion Dummy
+			ExplosionDummyL.DisplayName: Explosion Dummy L
+			ExplosionDummyQD.DisplayName: Explosion Dummy Q D
+			ExplosionDummySB.DisplayName: Explosion Dummy S B
+			ExplosionNyx.DisplayName: Explosion Nyx
+			ExplosionPlasma.DisplayName: Explosion Plasma
+			ExplosionShroom.DisplayName: Explosion Shroom
+			ExplosionSOJ.DisplayName: Explosion S O J
+			FA1.DisplayName: F A1
+			FA11.DisplayName: F A11
+			FA12.DisplayName: F A12
+			FA13.DisplayName: F A13
+			FA2.DisplayName: F A2
+			FA21.DisplayName: F A21
+			FA22.DisplayName: F A22
+			FA23.DisplayName: F A23
+			FA3.DisplayName: F A3
+			FA31.DisplayName: F A31
+			FA32.DisplayName: F A32
+			FA33.DisplayName: F A33
+			FA4.DisplayName: F A4
+			FDB.DisplayName: F D B
+			Fear.DisplayName: Fear
+			Fear2.DisplayName: Fear2
+			FearEm.DisplayName: Fear Em
+			FlaskExp.DisplayName: Flask Exp
+			FungalosphereProjectile.DisplayName: Fungalosphere Projectile
+			FungalosphereProjectileDummy.DisplayName: Fungalosphere Projectile Dummy
+			Gemstone.DisplayName: Gemstone
+			Globe199.DisplayName: Globe199
+			GrimReaper.DisplayName: Grim Reaper
+			GrinderMK4.DisplayName: Grinder M K4
+			HealingPulse.DisplayName: Healing Pulse
+			Hive.DisplayName: Hive
+			Home.DisplayName: Home
+			IcedamnedArrow.DisplayName: Icedamned Arrow
+			IField.DisplayName: I Field
+			IlluminatiFreeze.DisplayName: Illuminati Freeze
+			JP.DisplayName: J P
+			L1.DisplayName: L1
+			L2.DisplayName: L2
+			L3.DisplayName: L3
+			LaserCannon.DisplayName: Laser Cannon
+			LastTantrum.DisplayName: Last Tantrum
+			Lightning.DisplayName: Lightning
+			LocatorProjectile.DisplayName: Locator Projectile
+			Madness.DisplayName: Madness
+			MagicWand.DisplayName: Magic Wand
+			MagicWandC.DisplayName: Magic Wand C
+			MagicWandM.DisplayName: Magic Wand M
+			MB.DisplayName: M B
+			Devilsknife.DisplayName: Devilsknife
+			LittleWitchMonster.DisplayName: Little Witch Monster
+			Turret.DisplayName: Turret
+			UgandanWarrior.DisplayName: Ugandan Warrior
+			MM.DisplayName: M M
+			MordenkainenSword.DisplayName: Mordenkainen Sword
+			NULL.DisplayName: N U L L
+			NyctosyphiaBeam.DisplayName: Nyctosyphia Beam
+			NyctosythiaArrow.DisplayName: Nyctosythia Arrow
+			NyctosythiaArrowGhost.DisplayName: Nyctosythia Arrow Ghost
+			NyctosythiaBullet.DisplayName: Nyctosythia Bullet
+			NyctosythiaBulletGhost.DisplayName: Nyctosythia Bullet Ghost
+			Nyx.DisplayName: Nyx
+			PaleStar.DisplayName: Pale Star
+			ParadiseLost.DisplayName: Paradise Lost
+			ParadiseLostMirror.DisplayName: Paradise Lost Mirror
+			ParadiseLostProjectile.DisplayName: Paradise Lost Projectile
+			Snatcher.DisplayName: Snatcher
+			Yui.DisplayName: Yui
+			YuiS.DisplayName: Yui S
+			PF398.DisplayName: P F398
+			PF422.DisplayName: P F422
+			PF666.DisplayName: P F666
+			PlasmaBurst.DisplayName: Plasma Burst
+			PlasmaRound.DisplayName: Plasma Round
+			PortalGunProj.DisplayName: Portal Gun Proj
+			QoH1.DisplayName: Qo H1
+			QoH2.DisplayName: Qo H2
+			QoH3.DisplayName: Qo H3
+			QoH4.DisplayName: Qo H4
+			QuantumDestabilizer.DisplayName: Quantum Destabilizer
+			RecluseFang.DisplayName: Recluse Fang
+			RedWave.DisplayName: Red Wave
+			RedWaveExp.DisplayName: Red Wave Exp
+			Returner.DisplayName: Returner
+			Returner2.DisplayName: Returner2
+			RickPortal1.DisplayName: Rick Portal1
+			RickPortal2.DisplayName: Rick Portal2
+			RickPortal3.DisplayName: Rick Portal3
+			RickPortal4.DisplayName: Rick Portal4
+			RickPortal5.DisplayName: Rick Portal5
+			SasscadeYoyo.DisplayName: Sasscade Yoyo
+			SB.DisplayName: S B
+			SeepingArrow.DisplayName: Seeping Arrow
+			ShadowBurst.DisplayName: Shadow Burst
+			SharpBone.DisplayName: Sharp Bone
+			SharpNeedle.DisplayName: Sharp Needle
+			ShroomiteArrow.DisplayName: Shroomite Arrow
+			ShroomiteBullet.DisplayName: Shroomite Bullet
+			SpearofJustice.DisplayName: Spearof Justice
+			SpearofJusticeB.DisplayName: Spearof Justice B
+			SpearofJusticeG.DisplayName: Spearof Justice G
+			SpiderFang.DisplayName: Spider Fang
+			SpiderFangarang.DisplayName: Spider Fangarang
+			Spore.DisplayName: Spore
+			SporeTrap.DisplayName: Spore Trap
+			SpringShield.DisplayName: Spring Shield
+			Stormbreaker.DisplayName: Stormbreaker
+			StormbreakerSwing.DisplayName: Stormbreaker Swing
+			StormbreakerT.DisplayName: Stormbreaker T
+			SunkroveraArrow.DisplayName: Sunkrovera Arrow
+			SunkroveraBullet.DisplayName: Sunkrovera Bullet
+			SymbioteMeteor.DisplayName: Symbiote Meteor
+			SymbolOfPain.DisplayName: Symbol Of Pain
+			SymbolOfPainVision.DisplayName: Symbol Of Pain Vision
+			TP.DisplayName: T P
+			TrueAkumuShield.DisplayName: True Akumu Shield
+			TrueSasscadeYoyo.DisplayName: True Sasscade Yoyo
+			Vaporizer.DisplayName: Vaporizer
+			Void.DisplayName: Void
+			VoidDummy.DisplayName: Void Dummy
+			WailOfBanshee.DisplayName: Wail Of Banshee
+			Waspnade.DisplayName: Waspnade
+			Wasps.DisplayName: Wasps
+			WatcherCrystal.DisplayName: Watcher Crystal
+		}
+
+		Configs: {
+			ModConfiguration: {
+				DisplayName: Mod Configuration
+
+				AlchemistSpawn: {
+					Label: 炼金师生成切换开关
+					Tooltip: 是, 以激活炼金师NPC生成, 否, 以取消. 默认为是
+				}
+
+				BrewerSpawn: {
+					Label: 药剂师生成切换开关
+					Tooltip: 是, 以激活药剂师NPC生成, 否, 以取消. 默认为是
+				}
+
+				JewelerSpawn: {
+					Label: 珠宝师生成切换开关
+					Tooltip: 是, 以激活珠宝师NPC生成, 否, 以取消. 默认为是
+				}
+
+				YoungBrewerSpawn: {
+					Label: 年轻的药剂师生成切换开关
+					Tooltip: 是, 以激活年轻的药剂师NPC生成, 否, 以取消. 默认为是
+				}
+
+				ArchitectSpawn: {
+					Label: 建筑师生成切换开关
+					Tooltip: 是, 以激活建筑师NPC生成, 否, 以取消. 默认为是
+				}
+
+				OperatorSpawn: {
+					Label: 操作员生成切换开关
+					Tooltip: 是, 以激活操作员NPC生成, 否, 以取消. 默认为是
+				}
+
+				MusicianSpawn: {
+					Label: 音乐家生成切换开关
+					Tooltip: 是, 以激活音乐家NPC生成, 否, 以取消. 默认为是
+				}
+
+				TinkererSpawn: {
+					Label: 工匠生成切换开关
+					Tooltip: 是, 以激活工匠NPC生成, 否, 以取消. 默认为是
+				}
+
+				ExplorerSpawn: {
+					Label: 探险家生成切换开关
+					Tooltip: 是, 以激活探险家NPC生成, 否, 以取消. 默认为是
+				}
+
+				TornNotesDrop: {
+					Label: 破损的笔记掉落开关
+					Tooltip: 是, 以启用破损笔记掉落, 否, 以取消. 默认为是
+				}
+
+				CoinsDrop: {
+					Label: 逆转硬币掉落开关
+					Tooltip: 是, 以启用逆转硬币掉落, 否, 以取消. 默认为是
+				}
+
+				LifeformAnalyzer: {
+					Label: 生命体分析仪激光标定
+					Tooltip: 激活或取消生命体分析仪激光标定 (每秒标记一次). 默认为是
+				}
+
+				LocatorRange: {
+					Label: 生命体分析仪指向范围
+					Tooltip: 指针将跟踪的最大距离.默认4000
+				}
+
+				DisabledLocatorNpcs: {
+					Label: 生命体分析仪定位禁用NPC
+					Tooltip: 箭头不会指向这些NPC
+				}
+
+				RevPrices: {
+					Label: 灾厄复仇模式价格调整
+					Tooltip: 是, 灾厄复仇模式下药水的价格将更高. 默认为是
+				}
+
+				CatchNPC: {
+					Label: 模组NPC可抓捕开关
+					Tooltip: 是, 让模组NPC可被抓捕. 默认为是
+				}
+
+				PotsPriceMulti: {
+					Label: 多人药水价格加倍
+					Tooltip: 提升价格倍率. 默认为1
+				}
+
+				StarPrice: {
+					Label: 落星价格
+					Tooltip: 默认1000, 等价于价值10银
+				}
+
+				RecallPrice: {
+					Label: 回程药剂价格
+					Tooltip: 默认1000, 等价于价值10银
+				}
+
+				WormholePrice: {
+					Label: 虫洞药剂价格
+					Tooltip: 默认1000, 等价于价值10银
+				}
+
+				SiltSlushPrice: {
+					Label: 泥沙块/雪泥块价格
+					Tooltip: 默认700, 等价于价值7银
+				}
+
+				DesertFossilPrice: {
+					Label: 坚固化石价值
+					Tooltip: 默认1000, 等价于价值10银
+				}
+
+				ShopChangeDelay: {
+					Label: 商店延迟更改
+					Tooltip: 打开界面后，店铺可以更改之前的延迟.默认情况下为10帧
+				}
+
+				GameError: {
+					Label: 支持AlchemistNPC Lite版
+					Tooltip: 汉化者注：快去支持！！！
+				}
+			}
+		}
+
+		Prefixes.InvalidPrefix.DisplayName: 无效前缀
+	}
+}

@@ -1,0 +1,5457 @@
+Mods: {
+	AlchemistNPCRebornAgain: {
+		Misc: {
+			TheRagnarok: The Ragnarok Treasure Bag
+			AbyssionTheForgottenOne: Abyssion, The Forgotten One Treasure Bag
+			TheLich: The Lich Treasure Bag
+			CoznixTheFallenBeholder: Coznix, The Fallen Beholder Treasure Bag
+			BoreanStrider: Borean Strider Treasure Bag
+			TheStarScouter: The Star Scouter Treasure Bag
+			TheBuriedChampion: The Buried Champion Treasure Bag
+			GraniteEnergyStorm: Granite Energy Storm Treasure Bag
+			CountEcho: Count Echo Treasure Bag
+			QueenJellyfish: The Queen Jellyfish Treasure Bag
+			ThunderBird: The Great Thunder Bird Treasure Bag
+			Ogre: Ogre Treasure Bag
+			DarkMage: Dark Mage Treasure Bag
+			SupremeCalamitas: Supreme Calamitas Treasure Bag
+			ExoMechs: Exo Mechs Treasure Bag
+			Yharon: Jungle Dragon, Yharon Treasure Bag
+			Bumblebirb: The Dragonfolly Treasure Bag
+			DevourerofGods: The Devourer of Gods Treasure Bag
+			OldDuke: The Old Duke Treasure Bag
+			Polterghast: Polterghast Treasure Bag
+			Signus: Signus, Envoy of the Devourer Treasure Bag
+			CeaselessVoid: Ceaseless Void Treasure Bag
+			StormWeaver: Storm Weaver Treasure Bag
+			Providence: Providence, the Profaned Goddess Treasure Bag
+			Ravager: Ravager Treasure Bag
+			PlaguebringerGoliath: The Plaguebringer Goliath Treasure Bag
+			Leviathan: The Leviathan Treasure Bag
+			AstrumDeus: Astrum Deus Treasure Bag
+			AstrageldonSlime: Astrum Aureus Treasure Bag
+			Calamitas: Calamitas Doppelganger Treasure Bag
+			AquaticScourge: Aquatic Scourge Treasure Bag
+			BrimstoneElemental: Brimstone Elemental Treasure Bag
+			Cryogen: Cryogen Treasure Bag
+			SlimeGod: The Slime God Treasure Bag
+			Perforator: The Perforators Treasure Bag
+			HiveMind: The Hive Mind Treasure Bag
+			Crabulon: Crabulon Treasure Bag
+			DesertScourge: Desert Scourge Treasure Bag
+			MoonLord: Moon Lord Treasure Bag
+			DukeFishron: Duke Fishron Treasure Bag
+			Betsy: Betsy Treasure Bag
+			Golem: Golem Treasure Bag
+			EmpressOfLight: Empress of Light Treasure Bag
+			Plantera: Plantera Treasure Bag
+			SkeletronPrime: Skeletron Prime Treasure Bag
+			Twins: Twins Treasure Bag
+			Destroyer: Destroyer Treasure Bag
+			QueenSlime: Queen Slime Treasure Bag
+			WallOfFlesh: Wall Of Flesh Treasure Bag
+			Deerclops: Deerclops Treasure Bag
+			Skeletron: Skeletron Treasure Bag
+			QueenBee: Queen Bee Treasure Bag
+			BrainOfCthulhu: Brain Of Cthulhu Treasure Bag
+			EaterOfWorlds: Eater Of Worlds Treasure Bag
+			EyeofCthulhu: Eye of Cthulhu Treasure Bag
+			KingSlime: King Slime Treasure Bag
+			tier3Watch: tier 3 Watch
+			LunarHamaxe: Lunar Hamaxe
+			CelestialWings: Celestial Wings
+			tier1anvil: tier 1 anvil
+			tier2forge: tier 2 forge
+			tier2anvil: tier 2 anvil
+			evilDrop: evil drop
+			evilComponent: evil component
+			evilMushroom: evil mushroom
+			evilBar: Crimson/Corruption bar
+			hardmodeComponent: Hardmode component
+			tier3HardmodeBar: Tier 3 Hardmode Bar
+			cultist: Cultist mask/hood
+			evilBossMask: Corruption/Crimson boss mask
+		}
+
+		Common: {
+			DayTimeSet: Time is set to morning.
+			NightTimeSet: Time is set to evening.
+			SandstormStarted: Sandstorm was started.
+			SandstormStopped: Sandstorm was stopped.
+			RainStarted: Rain is starting.
+			RainStopped: Rain is stopping.
+		}
+
+		TownNPCMood: {
+			Alchemist: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Warm and peaceful, what can be better for potionsmaking?
+				LoveBiome: This place reminds me of the old days when I was training with my friend.
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} understands the importance of hard work. It is good having her around."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is here! Who's the dad's boy?"
+				DislikeNPC: I don't think I could focus when {NPCName} is around. She can't stop making jokes of me.
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Brewer: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: It is a bit too hot here, but the air is perfect.
+				LoveBiome: Warm and peaceful, just as I wanted!
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is so easy to tease! I can't help it..."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is here! Who's the momma's boy?"
+				DislikeNPC: "{NPCName} is so annoying with his constant warnings. Can barely stand it."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Jeweler: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? It is really uncomfortable to make jewelry without roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: It is a bit too hot here, but the air is perfect.
+				LoveBiome: Warm and peaceful, just as I wanted!
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} has a sence for money. A bit too greedy, but I can totally relate."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is here! You can clearly tell that we are almost the same. I don't want to grow a beard, tho."
+				DislikeNPC: I can't stand girls like {NPCName}, she totally distracts my focus.
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Musician: {
+				Content: I'm feeling good!
+				NoHome: Do you have any spare housing? How can I do music if I don't have a roof above my head?
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Silence and peace, what else do I need for making music? And acoustics here is amazing!
+				LoveBiome: I like how shiny and bright this place is. Also perfect for parties.
+				DislikeBiome: It is way too cold here... My hands are freezing.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is useful when I am out of music boxes. You know how hard is to make them?"
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} likes music just as I do! I can hang out with her all day."
+				DislikeNPC: This cheapskate {NPCName} is so annoying. Can you get him somewhere out here?
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Operator: {
+				Content: I'm feeling good!
+				NoHome: I need a shelter. I don't like being without a roof above my head.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Ocean. It is the thing I wanted to see. Thanks.
+				LoveBiome: My circuits are working perfectly here. Surprisingly. I like snow.
+				DislikeBiome: I hate underground. You know it, right?
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is one of the many persons I could talk about the technology."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} probably is the only person who can understand me. Being a cyborg."
+				DislikeNPC: "{NPCName} seems to be afraid of me. I wonder why, but his fear somewhat annoys me."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Architect: {
+				Content: I'm feeling good!
+				NoHome: Being an Architect, I especially don't like NOT having any house.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: Pretty calming place to be. I like it.
+				LoveBiome: So many colors, so many building materials. Perfect.
+				DislikeBiome: I hate feeling chill. I need a warmer place.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} may just be an annoying goblin but he understands, how to build. I respect that."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} knows how to make every color. Which is great."
+				DislikeNPC: "{NPCName} is so grumpy and hates colors. Would be fun making him living in Hallow, I guess."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			Tinkerer: {
+				Content: I'm feeling good!
+				NoHome: Making accessories requires patience. And I wouldn't be able to do it without any house.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: A bit dark, but I can totally live here.
+				LoveBiome: Me and my sister are used to live in cold places so I am totally ok with that.
+				DislikeBiome: I hate hot weather and sand so no, I wouldn't live here.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: "{NPCName} is so nice and smart. I respect that."
+				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				LoveNPC: "{NPCName} is finally here? I have a lot to tell, big sis!"
+				DislikeNPC: Don't let {NPCName} anywhere around me. Sand from his clothes always clogs my mechanisms.
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+
+			YoungBrewer: {
+				Content: I'm feeling good!
+				NoHome: I don't like being outside for a long time. I need a room for myself.
+				LoveSpace: Peace and quiet means I get to live it up!
+				FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				HateCrowded: I can't kick my legs out and relax without hitting someone...
+				LikeBiome: I can live when it is some warm around, so I am ok with that.
+				LoveBiome: I like forest! Fresh air and greens around. What else may the person need?
+				DislikeBiome: I don't like this. I want a warmer place to live.
+				HateBiome: I wanna live elsewhere! This is awful.
+				LikeNPC: Dad is here too? He can be silly sometimes, but mom respects him for his teleporter potions. She wasn't able to recreate them no matter how she tried.
+				LikeNPC_Princess: I gotta visit {NPCName}. She really likes to play with me. And so do I.
+				LoveNPC: Mom is here? Great! I like my dad, yes, but mom... Her potions can do almost everything and are most useful!
+				DislikeNPC: "{NPCName} is so grumpy. I asked him about making a toy a few times but he ALWAYS don't have any time for that."
+				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+			}
+		}
+
+		Keybinds: {
+			LampLightToggle.DisplayName: Lamp Light Toggle
+			DiscordBuffTeleportation.DisplayName: Discord Buff Teleportation
+			"Discord Buff Teleportation.DisplayName": Discord  Buff  Teleportation
+		}
+
+		GlobalNPC: {
+			Chat: {
+				UgandanKnucklesChat1: I have a question to ask from you...
+				BillCipherChat4: WHAT? You again? I was already defeated with your help! What else do you want from me?
+				BillCipherChat5: You dared summon me? This is going to be fun!
+				BillCipherChat6: Hey catch this!
+				BillCipherChat7: Do you really think that you would be able to defeat me? That's hilarious!
+				BillCipherChat8: Hey you! Yes, you! I am asking the one who is controlling this 'puppet'!
+				BillCipherChat9: Enough playing around, now you are gonna die!
+				BillCipherChat10: Madness is unleashed!
+				BillCipherChat11: You are starting to annoy me, worm!
+				BillCipherChat12: Don't start thinking you're safe behind that screen...
+				BillCipherChat13: I will come to your dreams and will turn them into the horrible nightmare!
+				BillCipherChat14: I will not get defeated again!
+				BillCipherChat15: Prepare to suffer!
+			}
+		}
+
+		BlackCatSetBonus:
+			'''
+			Increases current melee damage by 25% and adds 15% to melee critical strike chance
+			+48 defense
+			Increases movement speed by 33%
+			Player is under permanent effect of Battle Combination
+			Grants the abilities of a Master Ninja
+			'''
+		BloodMoonSetBonus:
+			'''
+			Increases all damage by 25% and adds 20% to critical strike chance
+			+36 defense
+			Increases movement speed by 25%
+			You have a chance to dodge attacks
+			Player is under permanent effect of Mage Combination
+			'''
+		JustitiaSetBonus: Increases current melee damage by 30% and adds 15% to melee critical strike chance
+		LaetitiaSetBonus:
+			'''
+			Allows to summon Little Witch Monster from the Gift
+			Minion damage grows stronger by additional 25% in Hardmode
+			Doubles speed of Laetitia Rifle
+			'''
+		ParadiseLostSetBonus:
+			'''
+			Increases all damage by 35% and adds 25% to critical strike chance
+			Increases damage dealt by EGO weapons
+			Changes would be seen after first usage of weapons
+			If hit taken deals less than 100 damage, then it will be nullified.
+			'''
+		PGSetBonus:
+			'''
+			Increases current ranged/melee damage by 15% and adds 15% to ranged/melee critical strike chance
+			+56 defense
+			Increases movement speed greatly
+			Player is under permanent effect of Tank Combination
+			National Ugandan Treasure can now be dropped from Moon Lord
+			'''
+		ReverberationSetBonus:
+			'''
+			Forms shield around weilder. Shield reduces all incoming damage by 15%
+			Speeds up all arrows
+			Improves ''Reverberation'' repeater:
+			Lowers manacost for additional projectiles
+			Makes repeater shoot multiple projectiles
+			Boosts Druidic type damage and critical strike chance by 20%
+			'''
+		NoireSetBonus:
+			'''
+			Increases current ranged/minion damage by 20% and adds 20% to ranged critical strike chance
+			+40 defense
+			Prices are lower
+			'''
+		somebody0214SetBonus:
+			'''
+			Increases current magic damage by 30% and adds 20% to magic critical strike chance
+			+32 defense
+			+25% damage reduction
+			'''
+		TheSecretVRBonus:
+			'''
+			Gives you unlimited power,
+			but remember [c/4d180d:forbidden fruit is sweetest]
+			'''
+		TwilightSetBonus:
+			'''
+			Increases current melee/magic damage by 30% and adds 15% to melee/magic critical strike chance
+			Includes all bonuses from Big Bird Lamp
+			'''
+		AntiBuffmodeactive: AntiBuff mode is on.
+		AntiBuffmodeisdisabled: AntiBuff mode is off.
+		PaperTubeInfo1: There was nothing interesting in those blueprints.
+		PaperTubeInfo2: You have found a new accessory blueprint. You can ask Tinkerer about making it now.
+		PaperTubeInfo3: You have found all prehardmode blueprints. Congratulations! Now you may sell all leftover Paper Tubes to Tinkerer.
+		PaperTubeT2Info1: You need to defeat any mechanical boss to unlock 2 leftover early hardmode accessories.
+		PaperTubeT2Info2: There was nothing interesting in those blueprints.
+		PaperTubeT2Info3: You have found a new accessory blueprint. You can ask Tinkerer about making it now.
+		PaperTubeT2Info4: You have found all early hardmode blueprints. Congratulations! Now you may sell all leftover Paper Tubes to Tinkerer.
+		PaperTubeT3Info1: You need to defeat Golem to unlock leftover post Plantera accessory.
+		PaperTubeT3Info2: There was nothing interesting in those blueprints.
+		PaperTubeT3Info3: You have found a new accessory blueprint. You can ask Tinkerer about making it now.
+		PaperTubeT3Info4: You have found all post Plantera blueprints. Congratulations! Now you may sell all leftover Paper Tubes to Tinkerer.
+		PaperTubeT3Info5: Talk to Tinkerer when you will defeat Moon Lord and unlock all accessories.
+		Pip-Boy3000text1: "Melee damage/critical strike chance boosts are "
+		Pip-Boy3000text2: "Ranged damage/critical strike chance boosts are "
+		Pip-Boy3000text3: "Magic damage/critical strike chance boosts are "
+		Pip-Boy3000text4: "Thrown damage/critical strike chance boosts are "
+		Pip-Boy3000text5: "Summoner damage boost is "
+		Pip-Boy3000text6: "Damage Reduction boost is "
+		Pip-Boy3000text7: "Movement speed boost is "
+		Pip-Boy3000text8: "Max life boost is "
+		Pip-Boy3000text9: "Life regeneration is "
+		Pip-Boy3000text10: "Mana usage reduction is "
+		Pip-Boy3000text11: "Max amounts of minions/sentries are "
+		Pip-Boy3000text12: "Melee swing time is "
+		PIP1: Pip-Boy 4K (SpawnPoint)
+		PIP2: Pip-Boy 4K (Beach)
+		PIP3: Pip-Boy 4K (Ocean)
+		PIP4: Pip-Boy 4K (Dungeon)
+		PIP5: Pip-Boy 4K (Underworld)
+		PIP6: Pip-Boy 4K (Jungle)
+		PIP7: Pip-Boy 4K (Temple)
+		MiniSharkDesc1: As I heard, sometimes sharks can't grow big enough to be counted as actual sharks. Then they should be called 'Mini Sharks'. And now you are gonna get me one of these!
+		MiniSharkCatch1: Caught in the Ocean.
+		MosesDesc1: You heard about Moses, don't you? Then hear what I found in one old fairy tale book. There said that Moses still returning to our world even after his life. And he is prefering Desert pools. Long story short, I want you to get me this fish! It could be a really hard catch, but the reward can be great too!
+		MosesCatch1: Caught in Desert.
+		MutantDesc1: As I heard, sometimes sharks can't grow big enough to be counted as actual sharks. Then they should be called ''Mini Sharks''. And now you are gonna get me one of these!
+		MutantCatch1: Caught anywhere.
+		NebulaDesc1: There's this unearthly looking fish... probably looks that way because it's from celestial bodies of water. Probably tastes heavenly too, so go get it for me!
+		NebulaCatch1: Caught nearby Nebula Pillar.
+		SolarDesc1: There's this unearthly looking fish... probably looks that way because it's from celestial bodies of water. Probably tastes heavenly too, so go get it for me!
+		SolarCatch1: Caught nearby Solar Pillar.
+		StardustDesc1: There's this unearthly looking fish... probably looks that way because it's from celestial bodies of water. Probably tastes heavenly too, so go get it for me!
+		StardustCatch1: Caught nearby Stardust Pillar.
+		VortexDesc1: There's this unearthly looking fish... probably looks that way because it's from celestial bodies of water. Probably tastes heavenly too, so go get it for me!
+		VortexCatch1: Caught nearby Vortex Pillar.
+		DiscordBuffTeleportation: Discord Buff Teleportation
+		evilBossMask: Corruption/Crimson boss mask
+		cultist: Cultist mask/hood
+		tier3HardmodeBar: tier 3 Hardmode Bar
+		hardmodeComponent: Hardmode component
+		evilBar: Crimson/Corruption bar
+		evilMushroom: evil mushroom
+		evilComponent: evil component
+		evilDrop: evil drop
+		tier2anvil: tier 2 anvil
+		tier2forge: tier 2 forge
+		tier1anvil: tier 1 anvil
+		CelestialWings: Celestial Wings
+		LunarHamaxe: Lunar Hamaxe
+		tier3Watch: tier 3 Watch
+		tier3PreHmOre: tier 3 Pre-hardmode ore
+		KingSlime: King Slime Treasure Bag
+		EyeofCthulhu: Eye of Cthulhu Treasure Bag
+		EaterOfWorlds: Eater Of Worlds Treasure Bag
+		BrainOfCthulhu: Brain Of Cthulhu Treasure Bag
+		QueenBee: Queen Bee Treasure Bag
+		Skeletron: Skeletron Treasure Bag
+		Deerclops: Deerclops Treasure Bag
+		WallOfFlesh: Wall Of Flesh Treasure Bag
+		QueenSlime: Queen Slime Treasure Bag
+		Destroyer: Destroyer Treasure Bag
+		Twins: Twins Treasure Bag
+		SkeletronPrime: Skeletron Prime Treasure Bag
+		Plantera: Plantera Treasure Bag
+		EmpressOfLight: Empress of Light Treasure Bag
+		Golem: Golem Treasure Bag
+		Betsy: Betsy Treasure Bag
+		DukeFishron: Duke Fishron Treasure Bag
+		MoonLord: Moon Lord Treasure Bag
+		DesertScourge: Desert Scourge Treasure Bag
+		Crabulon: Crabulon Treasure Bag
+		HiveMind: The Hive Mind Treasure Bag
+		Perforator: The Perforators Treasure Bag
+		SlimeGod: The Slime God Treasure Bag
+		Cryogen: Cryogen Treasure Bag
+		BrimstoneElemental: Brimstone Elemental Treasure Bag
+		AquaticScourge: Aquatic Scourge Treasure Bag
+		Calamitas: Calamitas Doppelganger Treasure Bag
+		AstrageldonSlime: Astrum Aureus Treasure Bag
+		AstrumDeus: Astrum Deus Treasure Bag
+		Leviathan: The Leviathan Treasure Bag
+		PlaguebringerGoliath: The Plaguebringer Goliath Treasure Bag
+		Ravager: Ravager Treasure Bag
+		Providence: Providence, the Profaned Goddess Treasure Bag
+		StormWeaver: Storm Weaver Treasure Bag
+		CeaselessVoid: Ceaseless Void Treasure Bag
+		Signus: Signus, Envoy of the Devourer Treasure Bag
+		Polterghast: Polterghast Treasure Bag
+		OldDuke: The Old Duke Treasure Bag
+		DevourerofGods: The Devourer of Gods Treasure Bag
+		Bumblebirb: The Dragonfolly Treasure Bag
+		Yharon: Jungle Dragon, Yharon Treasure Bag
+		ExoMechs: Exo Mechs Treasure Bag
+		SupremeCalamitas: Supreme Calamitas Treasure Bag
+		DarkMage: Dark Mage Treasure Bag
+		Ogre: Ogre Treasure Bag
+		ThunderBird: The Great Thunder Bird Treasure Bag
+		QueenJellyfish: The Queen Jellyfish Treasure Bag
+		CountEcho: Count Echo Treasure Bag
+		GraniteEnergyStorm: Granite Energy Storm Treasure Bag
+		TheBuriedChampion: The Buried Champion Treasure Bag
+		TheStarScouter: The Star Scouter Treasure Bag
+		BoreanStrider: Borean Strider Treasure Bag
+		CoznixTheFallenBeholder: Coznix, The Fallen Beholder Treasure Bag
+		TheLich: The Lich Treasure Bag
+		AbyssionTheForgottenOne: Abyssion, The Forgotten One Treasure Bag
+		TheRagnarok: The Ragnarok Treasure Bag
+		KingChicken: The Mighty King Chicken Treasure Bag
+		ThornBane: Thorn, Bane of the Forest Treasure Bag
+		TheKeeper: The Keeper Treasure Bag
+		XenoCrystal: Xenomite Crystal Treasure Bag
+		IEye: Infected Eye Treasure Bag
+		KingSlayer: King Slayer III Treasure Bag
+		V1: Vlitch Cleaver Treasure Bag
+		V2: Vlitch Gigipede Treasure Bag
+		V3: Omega Obliterator Treasure Bag
+		PZ: Patient Zero Treasure Bag
+		ThornRematch: Thorn, Bane of the Forest Rematch Treasure Bag
+		Nebuleus: Nebuleus, Angel of the Cosmos Treasure Bag
+		Wasteland: Wasteland Treasure Bag
+		Infernace: Infernace Treasure Bag
+		ScourgeFighter: Scourge Fighter Treasure Bag
+		Regaroth: Regaroth Treasure Bag
+		TheCelestials: The Celestials Treasure Bag
+		Permafrost: Permafrost Treasure Bag
+		Obsidious: Obsidious Treasure Bag
+		Aqueous: Aqueous Treasure Bag
+		TempleKeepers: The Temple Keepers Treasure Bag
+		Guardian: The Guardian Treasure Bag
+		Volcanox: Volcanox Treasure Bag
+		VoidLevi: Void Leviathan Treasure Bag
+		Azana: Azana Treasure Bag
+		Ancients: The Ancients Treasure Bag
+		Decree: The Decree Treasure Bag
+		FlamingPumpkin: The Flaming Pumpkin Treasure Bag
+		Jensen: Jensen, the Grand Harpy Treasure Bag
+		Araneas: Araneas Treasure Bag
+		Raynare: Harpy Queen, Raynare Treasure Bag
+		Primordia: Primordia Treasure Bag
+		Abaddon: Abaddon, the Emissary of Nightmares Treasure Bag
+		Araghur: Araghur, the Flare Serpent Treasure Bag
+		Lunarians: The Lunarians Treasure Bag
+		Challenger: Erazor Treasure Bag
+		Spookboi: Nihilus Treasure Bag
+		Scarabeus: Scarabeus Treasure Bag
+		Bane: Vinewrath Bane Treasure Bag
+		Flier: Ancient Flier Treasure Bag
+		Raider: Starplate Raider Treasure Bag
+		Infernon: Infernon Treasure Bag
+		Dusking: Dusking Treasure Bag
+		EtherialUmbra: Etherial Umbra Treasure Bag
+		IlluminantMaster: Illuminant Master Treasure Bag
+		Atlas: Atlas Treasure Bag
+		Overseer: Overseer Treasure Bag
+		Sharkron: Dune Sharkron Treasure Bag
+		Hypothema: Hypothema Treasure Bag
+		Ragnar: Ragnar Treasure Bag
+		AnDio: Andesia & Dioritus Treasure Bag
+		Annihilator: The Annihilator Treasure Bag
+		Slybertron: Slybertron Treasure Bag
+		SteamTrain: Steam Train Treasure Bag
+		SunlightTrader: Sunlight Trader Treasure Bag
+		THOFC: The Heart of the Cavern Treasure Bag
+		MythrilSlime: Mythril Slime Treasure Bag
+		Valdaris: Valdaris Treasure Bag
+		Gatekeeper: The Gatekeeper Treasure Bag
+		Monarch: Mushroom Monarch Treasure Bag
+		Grips: Grips of Chaos Treasure Bag
+		Broodmother: Broodmother Treasure Bag
+		Hydra: Hydra Treasure Bag
+		Serpent: Subzero Serpent Treasure Bag
+		Djinn: Desert Djinn Treasure Bag
+		Retriever: Retriever Treasure Bag
+		RaiderU: Raider Ultima Treasure Bag
+		Orthrus: Orthrus X Treasure Bag
+		EFish: Emperor Fishron Treasure Bag
+		Nightcrawler: Nightcrawler Treasure Bag
+		Daybringer: Daybringer Treasure Bag
+		Yamata: Yamata Treasure Bag
+		Akuma: Akuma Treasure Bag
+		Zero: Zero Treasure Bag
+		Shen: Shen Doragon Treasure Cache
+		ShenGrips: Shen Doragon Grips Treasure Bag
+		PlantsShop: Plants shop
+		GetCharm: Get Charm
+		Edward: Edward
+		Severus: Severus
+		Horace: Horace
+		Tilyorn: Tilyorn
+		Nicolas: Nicolas
+		Gregg: Gregg
+		EntryA1: My Healing potions will cure your deepest wounds.
+		EntryA2: My Mana potions will restore your magic power.
+		EntryA3: Restoration potions... I'm not sure if I trust them...
+		EntryA4: There's a legendary yoyo known as the Sasscade.
+		EntryA5: The Strange Brew I bought from the Skeleton Merchant smells awful, but its Mana Restoration effect is awesome!
+		EntryA6: Hi, *cough*... That definitely wasn't a Teleporation potion.
+		EntryA7: Have you seen any Mechanical Skulls around?
+		EntryA8: Have you ever heard of Ultra Mushroom? If you find one, I do believe I got some stuff to aid you in boosting that thing.
+		EntryA9: "I asked "
+		EntryA10: " if I could buy the recipe for the Potent Extract. He said no because, and I quote, ''Even an idiot would figure it out.''"
+		EntryA11: And to think, she's getting the potions and not me... but I can't argue there.
+		EntryA12: "What is his name? "
+		EntryA13: ? So... Teacher's here? Better step up my game!
+		EntryA14: Thank goodness I got those pieces from Skeletron. Want to check it out?
+		EntryA15: "Can you please ask "
+		EntryA16: " to stop mocking me? I know my potions can't make you stronger, but at least they aren't as dangerous to drink."
+		EntryA17: These goblins are so annoying... Thankfully, they cannot stay here for too long.
+		EntryA18: You better deal with Pirates as fast, as you can. I can't wait to talk with Captain! Haven't seen him for years!
+		EntryA19: I hope that you will not let them into my house, will you?
+		EntryA20: Perhaps there are better things for you to do, rather than talking to me, at the moment. I don't know... maybe defend us?!
+		EntryA21: ...My friend, the best thing to do in this case is not bother me during this time.
+		EntryA22: I have an explosive flask. You do NOT want to know what it tastes like.
+		EntryA23: "How can "
+		EntryA24: " stay calm in a time like this? I want to know, NOW."
+		EntryA25: "Don't let the dark one that came from the Jungle fool you with charming wisdom. Me and "
+		EntryA26: " were once his apprentices. I quit when his lessons turned too dark but "
+		EntryA27: " interest in occult Alchemy did nothing but grow."
+		Joe: Joe
+		Mark: Mark
+		Walter: Walter
+		Archer: Archer
+		Frido: Frido
+		Li: Li
+		A1: "If this dastardly "
+		A2: " isn't going to shut up, I'm letting "
+		A3: " bite her."
+		A4: KILL THE ZOMBIES! KILL THE BUNNIES! IN THE NAME OF THE BLOO- oh sorry I didn't notice you here.
+		A5: Why hello there I'm just getting some blood buckets for a lake I'm making pleasedontaskanymorequestions
+		A6: I like it when there is a gigantic horde of zombies behind our doors. But I HATE WHEN THEY BREAK MY DOORS!
+		A7: Ah, the feeling that I'm not safe, the paranoia is embraced the moment the bloodmoon rises up in the sky.
+		A8: Are you interested in my religion? It invloves sacrifices to the bloody moon.
+		A9: Do you know why I hate these goblins? They are mildly annoying.
+		A10: Hooray to pirates! They supply me with my golden furniture!
+		A11: Ah! Finally some proper plating to have my roof done!
+		A12: "No explosives please, "
+		A13: " is already annoying me enough."
+		A14: BUILDER POTIONS FREE FOR EVERYONE but you.
+		A15: What? Where I got my architect degree? There's an architect degree?
+		A16: Did'ja know that wood somehow doesn't burn? Though under certain circumstances it does. Weird...
+		A17: No, I am not the guy. I'm the dude.
+		A18: Well, the one you recently made was ALMOST impressive. (not really)
+		A19: So, you say that chests are furniture too. I reply: Screw you.
+		A20: I saw your buildings but I am still not impressed
+		A21: Have you heard 'bout that FuryForged guy? I taught him all he knows!
+		A22: I was once hired by a certain company to build a supermassive hi-tech, hi-security installation. Lemme tell ya its my magnum opus in terms of security and containment.
+		AS1: 1st shop (Filler Blocks)
+		AS2: 2nd shop (Building Blocks)
+		AS3: 3rd shop (Basic Furniture)
+		AS4: 4th shop (Advanced Furniture)
+		AS5: 5th shop (Torches)
+		AS6: 6th shop (Candles)
+		AS7: 7th shop (Lamps)
+		AS8: 8th shop (Lanterns)
+		AS9: 9th shop (Chandeliers)
+		AS10: 10th shop (Candelabras)
+		ShopsChanger: Shops Changer
+		ShopB1: 1st shop (Vanilla)
+		ShopB2: 2nd shop (Mod/Calamity)
+		ShopB3: 3rd shop (Thorium/RG)
+		ShopB4: 4th shop (MorePotions/Atheria)
+		ShopB5: 5th shop (UnuBattleRods/Tacklebox/Tremor)
+		ShopB6: 6th shop (Wildlife/Sacred/Spirit/Cristilium/ExpSentr)
+		Lillian: Lillian
+		Lucy: Lucy
+		Alice: Alice
+		Rocksahn: Rocksahn
+		Agness: Agness
+		Mary: Mary
+		EntryB1: Care to try this potion? It's supposed to grant wings.
+		EntryB2: I don't think that was a Spelunker potion...
+		EntryB3: I got my degrees in Riddle University.
+		EntryB4: There's a legendary yoyo known as the Sasscade.
+		EntryB5: Aww, bread crumbs and beaver spit!
+		EntryB6: Hi, *cough* that wasn't an Inferno potion!
+		EntryB7: Have you seen two mechanical eyes around?
+		EntryB8: "That silly goose "
+		EntryB9: " is too afraid of using occult powers in Alchemy. And so his potions are just some useless water."
+		EntryB10: *sneezes* Eww... I always sneeze while these Goblins are around!
+		EntryB11: Just don't let them in my house... There are so many needed supplies and instruments.
+		EntryB12: Is this a Martians Invasion? Are they going to enslave us all? Or they want to destroy us all? No one knows the answer...
+		EntryB13: Is it Blood Moon in the sky? I love it! It is so beautiful!
+		EntryB14: I was born under the light of Blood Moon. I am always so excited when IT appears!
+		EntryB15: Yeah, I can understand why the other girls are annoyed, but that's not stopping me!
+		EntryB16: As happy as I am, I'm not giving discounts - I'm not dumb.
+		EntryB17: "Normally I'm confused with how "
+		EntryB18: " is just as calm as I am, but then I remember "
+		EntryB19: I once traveled far away from Terraria to learn more about Alchemy. In my travels I met a ''scientist of magic'' called Azanor. He showed me the secrets of something called ''thaumaturgy''.
+		ArenaShop: Arena Shop
+		Carl: Carl
+		John: John
+		JanMare: JanMare
+		LuiFransua: LuiFransua
+		Daniel: Daniel
+		Charley: Charley
+		EntryJ1: I found some gems for selling. Would you check them?
+		EntryJ2: Magic rings are not as powerful as Legendary Emblems, but still can give you some advantage against powerful creatures.
+		EntryJ3: Ouch... what do you want, my friend?
+		EntryJ4: I can make a Diamond Ring for you.
+		EntryJ5: No, don't think that I somehow related to Skeleton Merchant.
+		EntryJ6: If you somehow find all Magic Rings,then you could make the Omniring.
+		EntryJ7: Have you seen Mechanical Creatures?
+		EntryJ8: "Did you notice that "
+		EntryJ9: " and I looks almost the same? It's because we're twin brothers."
+		EntryJ10: Should you find enought of those torn notes, bring the to me and ill decipher them for you. Dont ask me why, just know that they hold a value for me.
+		Shop2: 2nd shop
+		Shop3: 3rd shop
+		Shop4: 4th shop
+		Shop5: 5th shop
+		ShopChanger: Shop Changer
+		Beethoven: Beethoven
+		Bach: Bach
+		Johan: Johan
+		Edison: Edison
+		Scott: Scott
+		Lloyd: Lloyd
+		Gamma: Gamma
+		EntryM1: I would wear headphones, but I'm not sure if Terrarians even have ears...
+		EntryM2: I have to wonder why Boss 1 and Boss 2 didn't get better names in the OST. Those names are soooo bland.
+		EntryM3: Look, the Cyborg may have my name, but I've still got the better job here.
+		EntryM4: Shhhhh! You'll ruin my recording!
+		EntryM5: I swear, if one more person asks me to sell them a ''Megalovania'' music box....
+		EntryM6: Look, your enthusiasm is awesome, but could you maybe record the next boss track yourself? I don't really want to risk my life for some tunes.
+		EntryM7: Ah, I see you were able to save the Explorer! Well done! Perhaps my next song is going to be about your triumph.
+		EntryM8: "You know, "
+		EntryM9: " has been really helpful while I've been setting up this sound system. Wires are key!"
+		EntryM10: "If you run into "
+		EntryM11: ", let him know he still owes me for those music boxes I sold him."
+		EntryM12: "I'll be honest, I'm not sure if I trust "
+		EntryM13: . He claims to not be possessed, and yet he still is using skulls to fight... I'm getting mixed messages here.
+		EntryM14: Man, my mixtape is so much better than this, but I can't sell you that due to copyright.
+		EntryM15: No, I don't have an ''All Star'' music box. Code it in yourself.
+		EntryM16: Wait, NPC? I thought I was the protagonist!
+		EntryM17: Never thought I'd be selling a music box with lyrics... DM DOKURO, you're a madman and I love it!
+		EntryM18: A whole music based class? That sounds amazing! Too bad I don't have any gear for that, huh?
+		EntryM19: This is your fault. GET. OUT.
+		EntryM20: Ah, this takes me back! I remember when this song used to play in the dungeon and the underworld... good times!
+		EntryM21: Is there a name for the fear of being spied by a cake?
+		EntryM22: You are hurting my ears! Turn it down!
+		BossDropsShop: Boss Drops & Materials Shop
+		BossDropsModsShop: Modded Boss Drops & Materials Shop
+		VanillaTreasureBagsShop: Vanilla Treasure Bags Shop
+		ModdedTreasureBagsShop: Modded Treasure Bags Shop
+		ModdedTreasureBagsShop2: Modded Treasure Bags Shop #2
+		ModdedTreasureBagsShop3: Modded Treasure Bags Shop #3
+		Angela: Angela
+		Carmen: Carmen
+		EntryO1: How is your day, Manager? Can I help you?
+		EntryO2: That 'The Great Thunder Bird' doesn't seems so dangerous. I am only hoping that it isn't a part of Apocalypse Bird...
+		EntryO3: Hello, Manager! Isn't this day silent, is it?
+		EntryO4: Do you want anything special, Manager?
+		EntryO5: Eater of Worlds is an Abnormality with risk class TETH. And now it is contained. Do you need something from it?
+		EntryO6: If you manage to supress Ragnarok, then you could do everything imaginable.
+		EntryO7: Eye of Cthulhu is a pretty strange creature. It seems like it is just a small part of something really dangerous. It would be better for us if it never escapes.
+		EntryO8: Brain of Cthulhu may look horrifying, but without its minions it can't do anything.
+		EntryO9: Something changed in this world, Manager. Evil is spreading even wider, but at the same time, my sensor system caught the birth of new biome, called Hallow.
+		EntryO10: All these Mechanical Bosses... They definitely could have Trauma origin. What classification numbers will they get? I think they would be started as T-05-...
+		EntryO11: Goblins... Such a pathetic creatures. And the only useful things from them are just Spiky Balls and Harpoons.
+		EntryO12: Pretty strange Abnormal event... They all look as living creatures, but their 'Flying Dutchman' is definetly a ghost with HE risk class.
+		EntryO13: Martians came again. Last time they were here, several big towns were destroyed. But we could say as an excuse that we weren't as ready, as we were now.
+		EntryO14: Blood Moon? Shouldn't it happen once in 666 years?
+		EntryO15: All these strange cratures just keep coming and coming to this 'Beacon'... Hope we all will survive until Dawn.
+		EntryO16: Anyway, there are some reasons for optimism. Blood Moon attracts some creatures, which cannot be seen in normal conditions.
+		EntryO17: I read a few manuscripts about creature, named Slime God. They say that he is one of the first creatures in this world.
+		EntryO18: Yharim... I am pretty sure I heard that name before. But my memory data is corrupted. Try asking Calamitas about him...
+		EntryO19: This carnivorous plant was really dangerous... Looks like it was at least HE Risk Class. Glad to see you again in one piece after all.
+		EntryO20: This ancient machine was holding celestial powers inside. With its death, world can change forever...
+		EntryO21: An insect the size of the Queen Bee defies current methods of classification. I propose insects of this size be given a new classification MI-XX. It is a wonder that nobody has used them for their own means, let us be the first.
+		EntryO22: It appears I was wrong about the queen bees. Their memory storage contains the ramblings of a scientist who was blinded by ambition and cruelly introduced the plague to them. Let us classify them as MP-0X.
+		EntryO23: According to my notes, this Coznix you speak of was a lesser Void Observer, classified as OB-V-01. There are greater threats waiting beyond the veil of reality.
+		EntryO24: This flying scouter..... curious. From the memory banks stored in the wreckage, this looks to have been a scouting ship for the Martians, to determine how hospitable Terraria is. I fear the pilot's last moments have been transmitted to the main Martian command centre.
+		EntryO25: Turning a mages' power in on himself and trapping him within it is no easy task, but to observe cruelty of such magnitude..... Permafrost, former lord of the Ice Castle, may you see peace.
+		EntryO26: The Starplate raider is a Genius Stardust Centipede, or a G-S-C3, popular with the Martian elite as lifelong companions and raiding partners. It must have wandered far from home, judging from the transmitter memory banks I recovered.
+		EntryO27: I took the time to analyze the remains of this incredible creature. Every time it attacked, the entire planet seemed to resonate against its will. I can do nothing but to worry about the consequences of its death. At least, you saved Terraria of certain doom..........again.
+		EntryO28: Such an ancient presence is worth documenting - the material of its plates can withstand temperatures equal to the core of the Terrarian Sun! This will revolutionize containment procedures for ARS-0N prisoners if we can make materials half as resistant to heat!
+		EntryO29: Whoever made the Ravager deserves to be put in HI-MAX containment. All those tortured souls....... Well, at least you put them out of their misery.
+		EntryO30: Interesting... those Bumblebirbs were actually meant to be clones of Yharon. I’m glad that experiment was a failure!
+		EntryO31: You were lucky that thing got complacent and didn't open a portal to the Sun on our heads. The sheer strength and intelligence it exhibited means I need to make a whole new category for the classification of Worms.
+		EntryO32: I have my theories about the origin of this being, frightening more than his soul (if he even has one)... Irradiates negative energy, experimentation shown how in darkness this ''oblivion energy'', irradiated light but in light places irradiated shadow. I don't know where he came from but I know that whatever it is, it must be contained at any cost!
+		EntryO33: Supreme Calamitas has been defeated but she speaks of a being even stronger than herself. We must hope that he hasn't taken notice of us yet.
+		EntryO34: I’m honestly not sure why giant spinning skulls are the key to everything, but somehow they seem to contain the power of celestial beings within them...
+		EntryO35: Yeah, I know that we are the ones capturing and farming horrifying eldritch entities. But who the hell thought It was a good idea to put loot bags inside a giant monster?!?!
+		EntryO36: Кemember Manager, Treasure Bags are valuable but not everything comes inside them. That mutant man can help you get a boss's most elusive drops.
+		Alexander: Alexander
+		Peter: Peter
+		TinkererButton1: Movement/Misc
+		TinkererButton2: Combat
+		EntryT1: Do you need something special? Just say if so...
+		EntryT2: Have you seen my elder sister yet? She is more Steampunker than Tinkerer...
+		EntryT3: If you seen Paper Tube somewhere, bring it to me and I will unlock it for you.
+		EntryT4: As you will progress through the world, you may found more valueable things. Counting blueprints for creating rarer accessories.
+		EntryT5: You never know where you may get really rare or valueable things. So explore every possible corner with patience.
+		Harold: Harold
+		Charles: Charles
+		Monty: Monty
+		Lucas: Lucas
+		Porky: Porky
+		Leeland: Leeland
+		Atreus: Atreus
+		Entry1: I'm trading potions which were made by my parents.
+		Entry2: I have some potions I can sell to you.
+		Entry3: Although, the Battle Combination was my idea.
+		Entry4: There's a legendary yoyo known as the Sasscade.
+		Entry5: Strange Brew from Skeleton Merchant smells really terrible, but Mana Restoration effect is awesome.
+		Entry6: Hi, *cough*.. That definetly wasn't a lemonade.
+		Entry7: Have you seen a Mechanical Worm around?
+		Entry8: "My mom, "
+		Entry9: ", is the coolest brewer ever, isn't she? She can brew the hardest potions with ease."
+		Entry10: Certain combinations can only be brewed if certain types of magic are present in the world.
+
+		Tiles: {
+			ArtificialAltar.ArtificialAltar: Artificial Altar
+			Beacon.Beacon: Beacon
+			FearEmitter.FearEmitter: Fear Emitter
+			HMCraftPound.HMCraftPound: Superb Crafting Pound
+			HoloprojectorCorruption.HoloprojectorCorruption: Holoprojector 'Corruption'
+			HoloprojectorCrimson.HoloprojectorCrimson: Holoprojector 'Crimson'
+			HoloprojectorDesert.HoloprojectorDesert: Holoprojector 'Desert'
+			HoloprojectorDungeon.HoloprojectorDungeon: Holoprojector 'Dungeon'
+			HoloprojectorHallowed.HoloprojectorHallowed: Holoprojector 'Hallow'
+			HoloprojectorJungle.HoloprojectorJungle: Holoprojector 'Jungle'
+			HoloprojectorOcean.HoloprojectorOcean: Holoprojector 'Ocean'
+			HoloprojectorSnow.HoloprojectorSnow: Holoprojector 'Snow'
+			HoloprojectorSpace.HoloprojectorSpace: Holoprojector 'Space'
+			ImmortalityFieldProjector.ImmortalityFieldProjector: Immortality Field Projector
+			MateriaTransmutator.MateriaTransmutator: Materia Transmutator
+			MateriaTransmutatorMK2.MateriaTransmutatorMK2: Materia Transmutator MK2
+			MolecularReplicator.MolecularReplicator: Molecular Replicator
+			PreHMPenny.PreHMPenny: Simple Crafting Penny
+			SpecCraftPoint.PreHMPenny: Special Crafting Point
+			Wellcheers.Wellcheers: Wellcheers
+			WingoftheWorld.WingoftheWorld: Wing of the World
+		}
+
+		NPC: {
+			Alchemist: {
+				PlantsShop: Plants shop
+				GetCharm: Get Charm
+				Edward: Edward
+				Severus: Severus
+				Horace: Horace
+				Tilyorn: Tilyorn
+				Nicolas: Nicolas
+				Gregg: Gregg
+				BrewElixir: Brew Life Elixer
+				EntryA1: My Healing potions will cure your deepest wounds.
+				EntryA2: My Mana potions will restore your magic power.
+				EntryA3: Restoration potions... I'm not sure if I trust them...
+				EntryA4: There's a legendary yoyo known as the Sasscade.
+				EntryA5: The Strange Brew I bought from the Skeleton Merchant smells awful, but its Mana Restoration effect is awesome!
+				EntryA6: Hi, *cough*... That definitely wasn't a Teleporation potion.
+				EntryA7: Have you seen any Mechanical Skulls around?
+				EntryA8: Have you ever heard of Ultra Mushroom? If you find one, I do believe I got some stuff to aid you in boosting that thing.
+				EntryA9: "I asked "
+				EntryA10: " if I could buy the recipe for the Potent Extract. He said no because, and I quote, ''Even an idiot would figure it out.''"
+				EntryA11: And to think, she's getting the potions and not me... but I can't argue there.
+				EntryA12: "What is his name? "
+				EntryA13: ? So... Teacher's here? Better step up my game!
+				EntryA14: Thank goodness I got those pieces from Skeletron. Want to check it out?
+				EntryA15: "Can you please ask "
+				EntryA16: " to stop mocking me? I know my potions can't make you stronger, but at least they aren't as dangerous to drink."
+				EntryA17: These goblins are so annoying... Thankfully, they cannot stay here for too long.
+				EntryA18: You better deal with Pirates as fast, as you can. I can't wait to talk with Captain! Haven't seen him for years!
+				EntryA19: I hope that you will not let them into my house, will you?
+				EntryA20: Perhaps there are better things for you to do, rather than talking to me, at the moment. I don't know... maybe defend us?!
+				EntryA21: ...My friend, the best thing to do in this case is not bother me during this time.
+				EntryA22: I have an explosive flask. You do NOT want to know what it tastes like.
+				EntryA23: "How can "
+				EntryA24: " stay calm in a time like this? I want to know, NOW."
+				EntryA25: "Don't let the dark one that came from the Jungle fool you with charming wisdom. Me and "
+				EntryA26: " were once his apprentices. I quit when his lessons turned too dark but "
+				EntryA27: " interest in occult Alchemy did nothing but grow."
+			}
+
+			Architect: {
+				Joe: Joe
+				Mark: Mark
+				Walter: Walter
+				Archer: Archer
+				Frido: Frido
+				Li: Li
+				A1: "If this dastardly "
+				A2: " isn't going to shut up, I'm letting "
+				A3: " bite her."
+				A4: KILL THE ZOMBIES! KILL THE BUNNIES! IN THE NAME OF THE BLOO- oh sorry I didn't notice you here.
+				A5: Why hello there I'm just getting some blood buckets for a lake I'm making please dont ask any more questions
+				A6: I like it when there is a gigantic horde of zombies behind our doors. But I HATE WHEN THEY BREAK MY DOORS!
+				A7: Ah, the feeling that I'm not safe, the paranoia is embraced the moment the bloodmoon rises up in the sky.
+				A8: Are you interested in my religion? It invloves sacrifices to the bloody moon.
+				A9: Do you know why I hate these goblins? They are mildly annoying.
+				A10: Hooray to pirates! They supply me with my golden furniture!
+				A11: Ah! Finally some proper plating to have my roof done!
+				A12: "No explosives please, "
+				A13: " is already annoying me enough."
+				A14: What? Where I got my architect degree? There's an architect degree?
+				A15: Did'ja know that wood somehow doesn't burn? Though under certain circumstances it does. Weird...
+				A16: No, I am not the guy. I'm the dude.
+				A17: Well, the one you recently made was ALMOST impressive. (not really)
+				A18: So, you say that chests are furniture too. I reply: Screw you.
+				A19: I saw your buildings but I am still not impressed
+				A20: Have you heard 'bout that FuryForged guy? I taught him all he knows!
+				A21: I was once hired by a certain company to build a supermassive hi-tech, hi-security installation. Lemme tell ya its my magnum opus in terms of security and containment.
+				AS1: "1st shop (Filler Blocks)       "
+				AS2: "2nd shop (Building Blocks)     "
+				AS3: "3rd shop (Basic Furniture)     "
+				AS4: "4th shop (Advanced Furniture)  "
+				AS5: "5th shop (Torches)             "
+				AS6: "6th shop (Candles)             "
+				AS7: "7th shop (Lamps)               "
+				AS8: "8th shop (Lanterns)            "
+				AS9: "9th shop (Chandeliers)         "
+				AS10: "10th shop (Candelabras)        "
+				ShopsChanger: Shops Changer
+			}
+
+			BillCipher: {
+				Chat1: What? Are you my namesake? Well, I don't want to fight you.
+				Chat2: Here, catch my present! Bye!
+				Chat3: Don't think you can run from me, mortal!
+			}
+
+			Brewer: {
+				ShopB1: 1st shop Vanilla
+				ShopB2: 2nd shop (AlchemistNPC Mod)
+				ShopB21: 3rd shop (CalamityMod)
+				ShopB3: 4th shop (ThoriumMod)
+				ShopsChanger: Shops Changer
+
+				Names: {
+					Lillian: Lillian
+					Lucy: Lucy
+					Alice: Alice
+					Rocksahn: Rocksahn
+					Agness: Agness
+					Mary: Mary
+				}
+
+				Text: {
+					B1: Care to try this potion? It's supposed to grant wings.
+					B2: I don't think that was a Spelunker potion...
+					B3: I got my degrees in Riddle University.
+					B4: There's a legendary yoyo known as the Sasscade.
+					B5: Aww, bread crumbs and beaver spit!
+					B6: Hi, *cough* that wasn't an Inferno potion!
+					B7: Have you seen two mechanical eyes around?
+					B8: "That silly goose "
+					B9: " is too afraid of using occult powers in Alchemy. And so his potions are just some useless water."
+					B10: *sneezes* Eww... I always sneeze while these Goblins are around!
+					B11: Just don't let them in my house... There are so many needed supplies and instruments.
+					B12: Is this a Martians Invasion? Are they going to enslave us all? Or they want to destroy us all? No one knows the answer...
+					B13: Is it Blood Moon in the sky? I love it! It is so beautiful!
+					B14: I was born under the light of Blood Moon. I am always so excited when IT appears!
+					B15: Yeah, I can understand why the other girls are annoyed, but that's not stopping me!
+					B16: As happy as I am, I'm not giving discounts - I'm not dumb.
+					B17: "Normally I'm confused with how "
+					B18: " is just as calm as I am, but then I remember "
+					B19: I once traveled far away from Terraria to learn more about Alchemy. In my travels I met a ''scientist of magic'' called Azanor. He showed me the secrets of something called ''thaumaturgy''.
+				}
+			}
+
+			Explorer: {
+				Names: {
+					Elizabeth: Elizabeth
+					Dora: Dora
+				}
+
+				Create1: Create #1
+				Create2: Create #2
+				Create3: Create #3
+				Create4: Create #4
+				Create5: Create #5
+				Create6: Create #6
+				Create7: Create #7
+				Create8: Create #8
+
+				Text: {
+					A1: So, were my notes of any use to you?
+					A2: I know about special materials which can help you.
+					A3: You want to try Blade with power of Determination? Just make Extractor and get some Soul Essences and Hate Vials.
+					A4: "''There's a legendary yoyo known as the Sasscade.''... I am pretty sure you heard about that before. But I know how you can get it."
+					A5: If you want to take part in my researches, then grab my notes and check if you can help. All results will belong to you.
+					A6: Luckily, I get my Interdimensional Casket with me, so I can make potions. My inventions, of course.
+					A7: Celestial's Particles are pretty interesting... You can use them for crafting some special accessories and equipment or simply for making Celestial Fragments.
+					A8: "If you've already found the Otherworldly Amulet, then you can ask "
+					A9: " to sell Celestial Fragments."
+					A10: That was the most powerful and dangerous creature in the jungle, but you killed it. Does that mean that you are now the most dangerous creature in the jungle?
+					A11: Otherworldly Amulet has much more uses than you ever thought... It could help Alchemist to make Celestial's Particles, it could summon mount Poro for you and it is required for making Autoinjector or Watcher Amulet.
+					A12: If you managed to create Watcher Amulet, then you could buy Flask of Rainbows from Young Brewer. It is a very powerful imbuement, which can help you overcome great enemies.
+					A13: I once met a man that traveled on top an alicorn. He looked truly FABulous!
+					A14: Can you bring me the Unicorn for examination? I am sure that your bug net is strong enough for that.
+					A15: Messing with the quantic shroud is no fun-time business, hero. Be careful when choosing what power to pick on.
+					A16: The time-space continuum is possibly the worst combination in this existance: both a delicate but mastercrafted estructure in a skillfully achieved but pathetically fragile balance and at the same time an absolute and undeniable force of nature that posseses total control of our everything and composes what we call ''reality and fiction'', volatile as you wouldn't believe.
+					A17: Take it from someone with experience on it, friend: ''A flying giant divine cosmic worm of the heavens of who-damn-knows-what-deities is the most normal thing you'll find out there compared to what lurks in the darkness of deep space.''
+				}
+			}
+
+			Jewler: {
+				Names: {
+					Carl: Carl
+					John: John
+					JanMare: JanMare
+					LuiFransua: LuiFransua
+					Daniel: Daniel
+					Charley: Charley
+				}
+
+				Actions: {
+					ArenaShop: Arena Shop
+					Combine: Combine notes
+				}
+
+				Text: {
+					A1: I found some gems for selling. Would you check them?
+					A2: Magic rings are not as powerful as Legendary Emblems, but still can give you some advantage against powerful creatures.
+					A3: Ouch... what do you want, my friend?
+					A4: I can make a Diamond Ring for you.
+					A5: No, don't think that I somehow related to Skeleton Merchant.
+					A6: If you somehow find all Magic Rings,then you could make the Omniring.
+					A7: Have you seen Mechanical Creatures?
+					A8: "Did you notice that "
+					A9: " and I looks almost the same? It's because we're twin brothers."
+					A10: Should you find enought of those torn notes, bring the to me and ill decipher them for you. Dont ask me why, just know that they hold a value for me.
+				}
+			}
+
+			Musician: {
+				Names: {
+					Beethoven: Beethoven
+					Bach: Bach
+					Johan: Johan
+					Edison: Edison
+					Scott: Scott
+					Lloyd: Lloyd
+					Gamma: Gamma
+				}
+
+				Actions: {
+					Shop2: 1st Shop
+					Shop3: 2nd Shop
+					ShopChanger: Shop Changer
+				}
+
+				Text: {
+					E1: I would wear headphones, but I'm not sure if Terrarians even have ears...
+					E2: I have to wonder why Boss 1 and Boss 2 didn't get better names in the OST. Those names are soooo bland.
+					E3: Look, the Cyborg may have my name, but I've still got the better job here.
+					E4: Shhhhh! You'll ruin my recording!
+					E5: I swear, if one more person asks me to sell them a ''Megalovania'' music box....
+					E6: Look, your enthusiasm is awesome, but could you maybe record the next boss track yourself? I don't really want to risk my life for some tunes.
+					E7: Ah, I see you were able to save the Explorer! Well done! Perhaps my next song is going to be about your triumph.
+					E8: "You know, "
+					E9: " has been really helpful while I've been setting up this sound system. Wires are key!"
+					E10: "If you run into "
+					E11: ", let him know he still owes me for those music boxes I sold him."
+					E12: "I'll be honest, I'm not sure if I trust "
+					E13: . He claims to not be possessed, and yet he still is using skulls to fight... I'm getting mixed messages here.
+					E14: Man, my mixtape is so much better than this, but I can't sell you that due to copyright.
+					E15: No, I don't have an ''All Star'' music box. Code it in yourself.
+					E16: Wait, NPC? I thought I was the protagonist!
+					E17: Never thought I'd be selling a music box with lyrics... DM DOKURO, you're a madman and I love it!
+					E18: A whole music based class? That sounds amazing! Too bad I don't have any gear for that, huh?
+					E19: This is your fault. GET. OUT.
+					E20: Ah, this takes me back! I remember when this song used to play in the dungeon and the underworld... good times!
+					E21: Is there a name for the fear of being spied by a cake?
+					E22: You are hurting my ears! Turn it down!
+				}
+			}
+
+			Operator: {
+				Names: {
+					Angela: Angela
+					Carmen: Carmen
+				}
+
+				Actions: {
+					Shop1: Boss Drops & Materials Shop
+					Shop2: EGO Equipment Shop
+					Shop3: Modded Boss Drops & Materials Shop
+					Shop4: Vanilla Treasure Bags Shop
+					Shop5: Modded Treasure Bags Shop
+					Shop6: Modded Treasure Bags Shop #2
+					Shop7: Modded Treasure Bags Shop #3
+					ShopChanger: Shop Changer
+				}
+
+				Text: {
+					E1: How is your day, Manager? Can I help you?
+					E2: That 'The Great Thunder Bird' doesn't seems so dangerous. I am only hoping that it isn't a part of Apocalypse Bird...
+					E3: Hello, Manager! Isn't this day silent, is it?
+					E4: Do you want anything special, Manager?
+					E5: Eater of Worlds is an Abnormality with risk class TETH. And now it is contained. Do you need something from it?
+					E6: If you manage to supress Ragnarok, then you could do everything imaginable.
+					E7: Eye of Cthulhu is a pretty strange creature. It seems like it is just a small part of something really dangerous. It would be better for us if it never escapes.
+					E8: Brain of Cthulhu may look horrifying, but without its minions it can't do anything.
+					E9: Something changed in this world, Manager. Evil is spreading even wider, but at the same time, my sensor system caught the birth of new biome, called Hallow.
+					E10: All these Mechanical Bosses... They definitely could have Trauma origin. What classification numbers will they get? I think they would be started as T-05-...
+					E11: Goblins... Such a pathetic creatures. And the only useful things from them are just Spiky Balls and Harpoons.
+					E12: Pretty strange Abnormal event... They all look as living creatures, but their 'Flying Dutchman' is definetly a ghost with HE risk class.
+					E13: Martians came again. Last time they were here, several big towns were destroyed. But we could say as an excuse that we weren't as ready, as we were now.
+					E14: Blood Moon? Shouldn't it happen once in 666 years?
+					E15: All these strange cratures just keep coming and coming to this 'Beacon'... Hope we all will survive until Dawn.
+					E16: Anyway, there are some reasons for optimism. Blood Moon attracts some creatures, which cannot be seen in normal conditions.
+					E17: I read a few manuscripts about creature, named Slime God. They say that he is one of the first creatures in this world.
+					E18: Yharim... I am pretty sure I heard that name before. But my memory data is corrupted. Try asking Calamitas about him...
+					E19: This carnivorous plant was really dangerous... Looks like it was at least HE Risk Class. Glad to see you again in one piece after all.
+					E20: This ancient machine was holding celestial powers inside. With its death, world can change forever...
+					E21: An insect the size of the Queen Bee defies current methods of classification. I propose insects of this size be given a new classification MI-XX. It is a wonder that nobody has used them for their own means, let us be the first.
+					E22: It appears I was wrong about the queen bees. Their memory storage contains the ramblings of a scientist who was blinded by ambition and cruelly introduced the plague to them. Let us classify them as MP-0X.
+					E23: According to my notes, this Coznix you speak of was a lesser Void Observer, classified as OB-V-01. There are greater threats waiting beyond the veil of reality.
+					E24: This flying scouter..... curious. From the memory banks stored in the wreckage, this looks to have been a scouting ship for the Martians, to determine how hospitable Terraria is. I fear the pilot's last moments have been transmitted to the main Martian command centre.
+					E25: Turning a mages' power in on himself and trapping him within it is no easy task, but to observe cruelty of such magnitude..... Permafrost, former lord of the Ice Castle, may you see peace.
+					E26: The Starplate raider is a Genius Stardust Centipede, or a G-S-C3, popular with the Martian elite as lifelong companions and raiding partners. It must have wandered far from home, judging from the transmitter memory banks I recovered.
+					E27: I took the time to analyze the remains of this incredible creature. Every time it attacked, the entire planet seemed to resonate against its will. I can do nothing but to worry about the consequences of its death. At least, you saved Terraria of certain doom..........again.
+					E28: Such an ancient presence is worth documenting - the material of its plates can withstand temperatures equal to the core of the Terrarian Sun! This will revolutionize containment procedures for ARS-0N prisoners if we can make materials half as resistant to heat!
+					E29: Whoever made the Ravager deserves to be put in HI-MAX containment. All those tortured souls....... Well, at least you put them out of their misery.
+					E30: Interesting... those Bumblebirbs were actually meant to be clones of Yharon. I’m glad that experiment was a failure!
+					E31: You were lucky that thing got complacent and didn't open a portal to the Sun on our heads. The sheer strength and intelligence it exhibited means I need to make a whole new category for the classification of Worms.
+					E32: I have my theories about the origin of this being, frightening more than his soul (if he even has one)... Irradiates negative energy, experimentation shown how in darkness this ''oblivion energy'', irradiated light but in light places irradiated shadow. I don't know where he came from but I know that whatever it is, it must be contained at any cost!
+					E33: Supreme Calamitas has been defeated but she speaks of a being even stronger than herself. We must hope that he hasn't taken notice of us yet.
+					E34: I’m honestly not sure why giant spinning skulls are the key to everything, but somehow they seem to contain the power of celestial beings within them...
+					E35: Yeah, I know that we are the ones capturing and farming horrifying eldritch entities. But who the hell thought It was a good idea to put loot bags inside a giant monster?!?!
+					E36: Кemember Manager, Treasure Bags are valuable but not everything comes inside them. That mutant man can help you get a boss's most elusive drops.
+				}
+			}
+
+			Tinkerer: {
+				Names: {
+					Alexander: Alexander
+					Peter: Peter
+				}
+
+				Actions: {
+					TinkererButton1: Sell
+					TinkererButton2: Shop
+					TinkererButton3: Reward
+				}
+
+				Entry: {
+					E1: Do you need something special? Just say if so...
+					E2: Have you seen my elder sister yet? She is more Steampunker than Tinkerer...
+					E3: If you seen Paper Tube somewhere, bring it to me and I will unlock it for you.
+					E4: As you will progress through the world, you may found more valueable things. Counting blueprints for creating rarer accessories.
+					E5: You never know where you may get really rare or valueable things. So explore every possible corner with patience.
+					E6: If you wil collect every single blueprint, I will give you the special reward.
+				}
+
+				EntryTube: {
+					E1: You don't have any Paper Tubes for selling right now. Go and get some!
+					E2: Here is some money, take it.
+				}
+			}
+
+			YoungBrewer: {
+				Names: {
+					Harold: Harold
+					Charles: Charles
+					Monty: Monty
+					Lucas: Lucas
+					Porky: Porky
+					Leeland: Leeland
+					Atreus: Atreus
+				}
+
+				Chat: {
+					E1: I'm trading potions which were made by my parents.
+					E2: I have some potions I can sell to you.
+					E3: Although, the Battle Combination was my idea.
+					E4: There's a legendary yoyo known as the Sasscade.
+					E5: Strange Brew from Skeleton Merchant smells really terrible, but Mana Restoration effect is awesome.
+					E6: Hi, *cough*.. That definetly wasn't a lemonade.
+					E7: Have you seen a Mechanical Worm around?
+					E8: "My mom, "
+					E9: ", is the coolest brewer ever, isn't she? She can brew the hardest potions with ease."
+					E10: Certain combinations can only be brewed if certain types of magic are present in the world.
+					E11: You might be wondering how do i put actual rainbows in a flask... Well, with the power of maaagic...... and eternal sufferings.
+				}
+			}
+		}
+
+		Buffs: {
+			Akumu: {
+				DisplayName: Akumu
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Akumu.Description
+			}
+
+			AntiBuff: {
+				DisplayName: Anti Buff
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.AntiBuff.Description
+			}
+
+			ArmorDestruction: {
+				DisplayName: Armor Destruction
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ArmorDestruction.Description
+			}
+
+			Banned: {
+				DisplayName: Banned
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Banned.Description
+			}
+
+			BastScroll: {
+				DisplayName: Bast Scroll
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.BastScroll.Description
+			}
+
+			BattleComb: {
+				DisplayName: Battle Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.BattleComb.Description
+			}
+
+			BigBirdLamp: {
+				DisplayName: Big Bird Lamp
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.BigBirdLamp.Description
+			}
+
+			Blurring: {
+				DisplayName: Blurring
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Blurring.Description
+			}
+
+			BuilderComb: {
+				DisplayName: Builder Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.BuilderComb.Description
+			}
+
+			CalamityComb: {
+				DisplayName: Calamity Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.CalamityComb.Description
+			}
+
+			ChaosState: {
+				DisplayName: Chaos State
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ChaosState.Description
+			}
+
+			CloakOfFear: {
+				DisplayName: Cloak Of Fear
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.CloakOfFear.Description
+			}
+
+			CloakOfFearDebuff: {
+				DisplayName: Cloak Of Fear Debuff
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.CloakOfFearDebuff.Description
+			}
+
+			Corrosion: {
+				DisplayName: Corrosion
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Corrosion.Description
+			}
+
+			CrimsonSoda: {
+				DisplayName: Crimson Soda
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.CrimsonSoda.Description
+			}
+
+			CurseOfLight: {
+				DisplayName: Curse Of Light
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.CurseOfLight.Description
+			}
+
+			DemonSlayer: {
+				DisplayName: Demon Slayer
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.DemonSlayer.Description
+			}
+
+			Devilsknife: {
+				DisplayName: Devilsknife
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Devilsknife.Description
+			}
+
+			DiscordBuff: {
+				DisplayName: Discord Buff
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.DiscordBuff.Description
+			}
+
+			Drainer: {
+				DisplayName: Drainer
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Drainer.Description
+			}
+
+			Electrocute: {
+				DisplayName: Electrocute
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Electrocute.Description
+			}
+
+			EvilPresence: {
+				DisplayName: Evil Presence
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.EvilPresence.Description
+			}
+
+			ExecutionersEyes: {
+				DisplayName: Executioners Eyes
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ExecutionersEyes.Description
+			}
+
+			Exhausted: {
+				DisplayName: Exhausted
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Exhausted.Description
+			}
+
+			ExplorerComb: {
+				DisplayName: Explorer Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ExplorerComb.Description
+			}
+
+			ExplorersBrew: {
+				DisplayName: Explorers Brew
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ExplorersBrew.Description
+			}
+
+			FishingComb: {
+				DisplayName: Fishing Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.FishingComb.Description
+			}
+
+			Fortitude: {
+				DisplayName: Fortitude
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Fortitude.Description
+			}
+
+			GreaterDangersense: {
+				DisplayName: Greater Dangersense
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.GreaterDangersense.Description
+			}
+
+			GrimReaper: {
+				DisplayName: Grim Reaper
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.GrimReaper.Description
+			}
+
+			GuarantCrit: {
+				DisplayName: Guarant Crit
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.GuarantCrit.Description
+			}
+
+			Hate: {
+				DisplayName: Hate
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Hate.Description
+			}
+
+			HoloprojectorCorruption: {
+				DisplayName: Holoprojector Corruption
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorCorruption.Description
+			}
+
+			HoloprojectorCrimson: {
+				DisplayName: Holoprojector Crimson
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorCrimson.Description
+			}
+
+			HoloprojectorDesert: {
+				DisplayName: Holoprojector Desert
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorDesert.Description
+			}
+
+			HoloprojectorDungeon: {
+				DisplayName: Holoprojector Dungeon
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorDungeon.Description
+			}
+
+			HoloprojectorHallowed: {
+				DisplayName: Holoprojector Hallowed
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorHallowed.Description
+			}
+
+			HoloprojectorJungle: {
+				DisplayName: Holoprojector Jungle
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorJungle.Description
+			}
+
+			HoloprojectorOcean: {
+				DisplayName: Holoprojector Ocean
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorOcean.Description
+			}
+
+			HoloprojectorSnow: {
+				DisplayName: Holoprojector Snow
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorSnow.Description
+			}
+
+			HoloprojectorSpace: {
+				DisplayName: Holoprojector Space
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.HoloprojectorSpace.Description
+			}
+
+			IField: {
+				DisplayName: I Field
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.IField.Description
+			}
+
+			IlluminatiCooldown: {
+				DisplayName: Illuminati Cooldown
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.IlluminatiCooldown.Description
+			}
+
+			IlluminatiHeal: {
+				DisplayName: Illuminati Heal
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.IlluminatiHeal.Description
+			}
+
+			Infested: {
+				DisplayName: Infested
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Infested.Description
+			}
+
+			Judgement: {
+				DisplayName: Judgement
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Judgement.Description
+			}
+
+			JustitiaPale: {
+				DisplayName: Justitia Pale
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.JustitiaPale.Description
+			}
+
+			LaserBattery: {
+				DisplayName: Laser Battery
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.LaserBattery.Description
+			}
+
+			LittleWitchMonster: {
+				DisplayName: Little Witch Monster
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.LittleWitchMonster.Description
+			}
+
+			LongInvincible: {
+				DisplayName: Long Invincible
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.LongInvincible.Description
+			}
+
+			Madness: {
+				DisplayName: Madness
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Madness.Description
+			}
+
+			MageComb: {
+				DisplayName: Mage Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.MageComb.Description
+			}
+
+			MindBurn: {
+				DisplayName: Mind Burn
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.MindBurn.Description
+			}
+
+			MysticAmulet: {
+				DisplayName: Mystic Amulet
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.MysticAmulet.Description
+			}
+
+			NinjaSkill: {
+				DisplayName: Ninja Skill
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.NinjaSkill.Description
+			}
+
+			NULL: {
+				DisplayName: N U L L
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.NULL.Description
+			}
+
+			NULLCD: {
+				DisplayName: N U L L C D
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.NULLCD.Description
+			}
+
+			OnyxSoda: {
+				DisplayName: Onyx Soda
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.OnyxSoda.Description
+			}
+
+			Patience: {
+				DisplayName: Patience
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Patience.Description
+			}
+
+			Petrified: {
+				DisplayName: Petrified
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Petrified.Description
+			}
+
+			PinkGoldSoda: {
+				DisplayName: Pink Gold Soda
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.PinkGoldSoda.Description
+			}
+
+			Poro: {
+				DisplayName: Poro
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Poro.Description
+			}
+
+			ProjCounter: {
+				DisplayName: Proj Counter
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ProjCounter.Description
+			}
+
+			RainbowFlaskBuff: {
+				DisplayName: Rainbow Flask Buff
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.RainbowFlaskBuff.Description
+			}
+
+			RangerComb: {
+				DisplayName: Ranger Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.RangerComb.Description
+			}
+
+			SapphireSoda: {
+				DisplayName: Sapphire Soda
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.SapphireSoda.Description
+			}
+
+			ShieldofSpring: {
+				DisplayName: Shieldof Spring
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ShieldofSpring.Description
+			}
+
+			Slowness: {
+				DisplayName: Slowness
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Slowness.Description
+			}
+
+			Snatcher: {
+				DisplayName: Snatcher
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Snatcher.Description
+			}
+
+			StationUltimaBuff: {
+				DisplayName: Station Ultima Buff
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.StationUltimaBuff.Description
+			}
+
+			SummonerComb: {
+				DisplayName: Summoner Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.SummonerComb.Description
+			}
+
+			Sunshine: {
+				DisplayName: Sunshine
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Sunshine.Description
+			}
+
+			SymbDef: {
+				DisplayName: Symb Def
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.SymbDef.Description
+			}
+
+			SymbOff: {
+				DisplayName: Symb Off
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.SymbOff.Description
+			}
+
+			SymbolOfPain: {
+				DisplayName: Symbol Of Pain
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.SymbolOfPain.Description
+			}
+
+			TankComb: {
+				DisplayName: Tank Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TankComb.Description
+			}
+
+			ThoriumComb: {
+				DisplayName: Thorium Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.ThoriumComb.Description
+			}
+
+			TitanSkin: {
+				DisplayName: Titan Skin
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TitanSkin.Description
+			}
+
+			TrapsBuff: {
+				DisplayName: Traps Buff
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TrapsBuff.Description
+			}
+
+			TrueAkumu: {
+				DisplayName: True Akumu
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TrueAkumu.Description
+			}
+
+			TrueAkumuAttack: {
+				DisplayName: True Akumu Attack
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TrueAkumuAttack.Description
+			}
+
+			TrueDiscordBuff: {
+				DisplayName: True Discord Buff
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TrueDiscordBuff.Description
+			}
+
+			TrueUganda: {
+				DisplayName: True Uganda
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TrueUganda.Description
+			}
+
+			Turret: {
+				DisplayName: Turret
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Turret.Description
+			}
+
+			Twilight: {
+				DisplayName: Twilight
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Twilight.Description
+			}
+
+			TwilightBoost: {
+				DisplayName: Twilight Boost
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TwilightBoost.Description
+			}
+
+			TwilightCD: {
+				DisplayName: Twilight C D
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.TwilightCD.Description
+			}
+
+			UgandanWarrior: {
+				DisplayName: Ugandan Warrior
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.UgandanWarrior.Description
+			}
+
+			UniversalComb: {
+				DisplayName: Universal Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.UniversalComb.Description
+			}
+
+			VanTankComb: {
+				DisplayName: Van Tank Comb
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.VanTankComb.Description
+			}
+
+			WatcherCrystal: {
+				DisplayName: Watcher Crystal
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.WatcherCrystal.Description
+			}
+
+			Yui: {
+				DisplayName: Yui
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.Yui.Description
+			}
+
+			YuiS: {
+				DisplayName: Yui S
+				Description: Mods.AlchemistNPCRebornAgain.Buffs.YuiS.Description
+			}
+		}
+
+		Items: {
+			# Armor Start
+			BlackCatBody: {
+				DisplayName: Black Cat's dress
+				Tooltip: ""
+			}
+
+			BlackCatHead: {
+				DisplayName: Black Cat's bow and ears
+				Tooltip: ""
+			}
+
+			BlackCatLegs: {
+				DisplayName: Black Cat's leggings & shoes
+				Tooltip: ""
+			}
+
+			BloodMoonCirclet: {
+				DisplayName: Horns Circlet
+				Tooltip: Changes player's hairstyle and hair color (can be changed back by Stylist)
+			}
+
+			BloodMoonDress: {
+				DisplayName: Blood Moon Dress
+				Tooltip: Changes player's gender to female
+			}
+
+			BloodMoonStockings: {
+				DisplayName: Blood Moon stockings and boots
+				Tooltip: ""
+			}
+
+			JustitiaCrown: {
+				DisplayName: Justitia Crown (O-02-62)
+				Tooltip:
+					'''
+					Just like anything else, it had hope at first. The desire for peace now only exists in fairy tales.
+					[c/FF0000:EGO armor piece]
+					Increases melee speed by 20%
+					'''
+			}
+
+			JustitiaLeggings: {
+				DisplayName: Justitia Leggings (O-02-62)
+				Tooltip:
+					'''
+					Just like anything else, it had hope at first. The desire for peace now only exists in fairy tales.
+					[c/FF0000:EGO armor piece]
+					25% increased movement speed
+					'''
+			}
+
+			JustitiaSuit: {
+				DisplayName: Justitia Suit (O-02-62)
+				Tooltip:
+					'''
+					Just like anything else, it had hope at first. The desire for peace now only exists in fairy tales.
+					[c/FF0000:EGO armor piece]
+					+100 maximum HP
+					+15% damage reduction
+					'''
+			}
+
+			LaetitiaCoat: {
+				DisplayName: Laetitia Coat (O-01-67)
+				Tooltip:
+					'''
+					The ribbon on the coat represents a child’s yearn for happiness. A child who could not leave their friends.
+					[c/FF0000:EGO armor piece]
+					Increases summon damage by 20%
+					Defense grows stronger when certain bosses are killed
+					Armor's base defense is 5
+					'''
+			}
+
+			LaetitiaLeggings: {
+				DisplayName: Laetitia Leggings (O-01-67)
+				Tooltip:
+					'''
+					The ribbon on the coat represents a child’s yearn for happiness. A child who could not leave their friends.
+					[c/FF0000:EGO armor piece]
+					Increases summon damage by 10%
+					Defense grows stronger when certain bosses are killed
+					Armor's base defense is 4
+					'''
+			}
+
+			LaetitiaRibbon: {
+				DisplayName: Laetitia Ribbon (O-01-67)
+				Tooltip:
+					'''
+					The ribbon on the coat represents a child’s yearn for happiness. A child who could not leave their friends.
+					[c/FF0000:EGO armor piece]
+					Increases summon damage by 5%
+					Defense grows stronger when certain bosses are killed
+					Armor's base defense is 3
+					'''
+			}
+
+			ParadiseLostBody: {
+				DisplayName: Paradise Lost Suit (T-03-46)
+				Tooltip:
+					'''
+					''Thou shall not worry; I have heard your prayers.
+					Have thou not yet realized that pain is nothing?
+					Thou want me to prove the miracle.
+					Thou shall believe in me and granted with life. I shall show you the power.''
+					[c/FF0000:EGO armor piece]
+					+200 maximum HP
+					+25% damage reduction
+					Immune to most vanilla debuffs
+					'''
+			}
+
+			ParadiseLostHead: {
+				DisplayName: Paradise Lost Crown of Thorns (T-03-46)
+				Tooltip:
+					'''
+					''Thou shall not worry; I have heard your prayers.
+					      Have thou not yet realized that pain is nothing?
+					      Thou want me to prove the miracle.
+					      Thou shall believe in me and granted with life. I shall show you the power.''
+					      [c/FF0000:EGO armor piece]
+					      +100 max mana
+					      Increases melee speed by 33%
+					'''
+			}
+
+			ParadiseLostLegs: {
+				DisplayName: Paradise Lost Leggings (T-03-46)
+				Tooltip:
+					'''
+					''Thou shall not worry; I have heard your prayers.
+					      Have thou not yet realized that pain is nothing?
+					      Thou want me to prove the miracle.
+					      Thou shall believe in me and granted with life. I shall show you the power.''
+					      [c/FF0000:EGO armor piece]
+					      66% increased movement speed
+					'''
+			}
+
+			PinkGuyBody: {
+				DisplayName: Pink Guy's Suit
+				Tooltip: Forged from the darkest of materials. Only the best of the best can wear it.
+			}
+
+			PinkGuyHead: {
+				DisplayName: Pink Guy's Hood
+				Tooltip: Could this be a legendary piece of clothing? No one knows, but once you wear it, you can't go back.
+			}
+
+			PinkGuyLegs: {
+				DisplayName: Pink Guy's Leggings
+				Tooltip: The perfect pants for leg day. Perhaps they could even make you stronger.
+			}
+
+			ReverberationBody: {
+				DisplayName: Reverberation Suit (T-04-53)
+				Tooltip:
+					'''
+					The sleek surface is tough as if it had been cured several times.
+					      [c/FF0000:EGO armor piece]
+					      Increases ranged critical strike chance by 20%
+					'''
+			}
+
+			ReverberationHead: {
+				DisplayName: Reverberation Wreath (T-04-53)
+				Tooltip:
+					'''
+					The sleek surface is tough as if it had been cured several times.
+					      [c/FF0000:EGO armor piece]
+					      Increases ranged damage by 20%
+						
+					'''
+			}
+
+			ReverberationLegs: {
+				DisplayName: Reverberation Leggings (T-04-53)
+				Tooltip:
+					'''
+					The sleek surface is tough as if it had been cured several times.
+					[c/FF0000:EGO armor piece]
+					Increases movement speed by 25%
+					'''
+			}
+
+			Skyline222Body: {
+				DisplayName: Skyline222's (Noire) shirt
+				Tooltip: Skyline222's cute shirt
+			}
+
+			Skyline222Hair: {
+				DisplayName: Skyline222's (Noire) hairstyle
+				Tooltip: Skyline222's fancy hairstyle
+			}
+
+			Skyline222Legs: {
+				DisplayName: Skyline222's (Noire) skirt
+				Tooltip: Skyline222's short skirt with boots
+			}
+
+			somebody0214Hood: {
+				DisplayName: somebody0214's Hood
+				Tooltip: Great for impersonating a Sun Praiser!
+			}
+
+			somebody0214Robe: {
+				DisplayName: somebody0214's Robe
+				Tooltip: Great for impersonating a Sun Praiser!
+			}
+
+			StrangeTopHat: {
+				DisplayName: Strange Top Hat
+				Tooltip:
+					'''
+					''We'll meet again, don't know where, don't know when!
+					Oh, I know we'll meet again some sunny day!''
+					'''
+			}
+
+			TheSecretVR: {
+				DisplayName: Secret VR Glasses
+				Tooltip: It's better for you not to know why you have it!
+			}
+
+			TwilightCrown: {
+				DisplayName: Twilight Crown (O-02-63)
+				Tooltip:
+					'''
+					''Efforts of three birds to defeat the beast became one.
+					It could stop countless incidents but you’d have to be prepared to step into the Black Forest.''
+					[c/FF0000:EGO armor piece]
+					Increases melee speed by 30%
+					'''
+			}
+
+			TwilightLeggings: {
+				DisplayName: Twilight Leggings (O-02-63)
+				Tooltip:
+					'''
+					''Efforts of three birds to defeat the beast became one.
+					It could stop countless incidents but you’d have to be prepared to step into the Black Forest.''
+					[c/FF0000:EGO armor piece]
+					30% increased movement speed
+					'''
+			}
+
+			TwilightSuit: {
+				DisplayName: Twilight Suit (O-02-63)
+				Tooltip:
+					'''
+					''Efforts of three birds to defeat the beast became one.
+					It could stop countless incidents but you’d have to be prepared to step into the Black Forest.''
+					[c/FF0000:EGO armor piece]
+					+200 maximum HP
+					+20% damage reduction
+					Immune to most vanilla debuffs
+					'''
+			}
+
+			# Armor End
+			
+			# Boosters Start
+			BetsyBooster: {
+				DisplayName: Betsy Booster
+				Tooltip: Your attacks inflict Daybroken, flight abilities are increased
+			}
+
+			BrainOfCthulhuBooster: {
+				DisplayName: Brain of Cthulhu booster
+				Tooltip: Increases max amount of minions by 1, Heartreach effect
+			}
+
+			BrokenBooster1: {
+				DisplayName: Broken Booster (1)
+				Tooltip: Can be fixed if use certain materials
+			}
+
+			BrokenBooster2: {
+				DisplayName: Broken Booster (2)
+				Tooltip: Can be fixed if use certain materials
+			}
+
+			CultistBooster: {
+				DisplayName: Cultist booster
+				Tooltip: Reduces damage taken from Pillars enemies, mobs may drop lunar fragments
+			}
+
+			CustomBooster1: {
+				DisplayName: Vision Booster 1
+				Tooltip: Gives Shine and Nightvision effects
+			}
+
+			CustomBooster2: {
+				DisplayName: Immunity Booster 2
+				Tooltip: Provides immunity to fire blocks, gives Obsidian Skin, Gills and Flipper effects
+			}
+
+			DarkMageBooster: {
+				DisplayName: Dark Mage Booster
+				Tooltip: Increases magic damage by 25%, max mana by 50 and mana regeneration greatly
+			}
+
+			DestroyerBooster: {
+				DisplayName: Destroyer booster
+				Tooltip: Increases mining speed by 33% and increases max life by 25%
+			}
+
+			EaterOfWorldsBooster: {
+				DisplayName: Eater Of Worlds booster
+				Tooltip: Increases melee speed by 5%, movement and mining speed by 25%
+			}
+
+			EyeOfCthulhuBooster: {
+				DisplayName: Eye of Cthulhu booster
+				Tooltip: Provides creatures, treasures and traps detection
+			}
+
+			FishronBooster: {
+				DisplayName: Duke Fishron booster
+				Tooltip: +4% all stats up while on surface, mount is always accelerated
+			}
+
+			GolemBooster: {
+				DisplayName: Golem booster
+				Tooltip: Increases attack speed by 10% and increases melee knockback
+			}
+
+			GSummonerBooster: {
+				DisplayName: Goblin Summoner booster
+				Tooltip: Makes your attacks inflict Shadowflame and makes you immune to it
+			}
+
+			IceGolemBooster: {
+				DisplayName: Ice Golem Booster
+				Tooltip: Provides immunity to Chilled, Frozen and Frostburn debuffs
+			}
+
+			KingSlimeBooster: {
+				DisplayName: King Slime booster
+				Tooltip: Increases jump height and safe fall distance greatly
+			}
+
+			MartianSaucerBooster: {
+				DisplayName: Martian Saucer booster
+				Tooltip: Provides immunity to Electrified and Distorted debuffs
+			}
+
+			MoonLordBooster: {
+				DisplayName: Moon Lord booster
+				Tooltip: You emit aura which weakens enemies around
+			}
+
+			OgreBooster: {
+				DisplayName: Ogre booster
+				Tooltip: Increases defense and damage reduction by 5/5% and provides knockback immunity
+			}
+
+			PigronBooster: {
+				DisplayName: Pigron Booster
+				Tooltip: Provides Well Fed
+			}
+
+			PlanteraBooster: {
+				DisplayName: Plantera booster
+				Tooltip: Damages and critical strike chances are boosted while you are moving, Philosopher's stone effect
+			}
+
+			PrimeBooster: {
+				DisplayName: Skeletron Prime booster
+				Tooltip: Increases armor penetration and melee speed by 15/15%, gives 200% thorns effect
+			}
+
+			QueenBeeBooster: {
+				DisplayName: Queen Bee booster
+				Tooltip: Hostile bees do less damage and your regeneration is increased by 6, immunity to poisons
+			}
+
+			SkeletronBooster: {
+				DisplayName: Skeletron booster
+				Tooltip: Skeletons contact damage is reduced, all damages/critical strike chances are increased by 10%
+			}
+
+			TwinsBooster: {
+				DisplayName: Twins booster
+				Tooltip: Archery and Ammo Reservation effects, immunity to Cursed Flames and Ichor
+			}
+
+			WoFBooster: {
+				DisplayName: Wall of Flesh booster
+				Tooltip: Increases max amount of minions/sentries by 1, defense and DR by 10/10%
+			}
+
+			# Boosters End
+			
+			# Equipables Start
+			AlchemistNecklace: {
+				DisplayName: Alchemist Necklace
+				Tooltip: Provides life regeneration, lowers cooldown of healing potions, and increases length of invincibility after taking damage
+			}
+
+			Autoinjector: {
+				DisplayName: Autoinjector
+				Tooltip:
+					'''
+					Provides life regeneration, lowers cooldown of healing potions and increases length of invincibility after taking hit
+					            Adds 10% to all damage and 8% to all critical chances
+					            Gives effect of Universal Combination
+					            Can be consumed to give permanent effects to player:
+					            Buffs will never wear off after death
+					            Buffs's duration will become 2x
+					            Will also give permanent effect of Philosopher's Stone
+					'''
+			}
+
+			AutoinjectorMK2: {
+				DisplayName: Autoinjector MK2
+				Tooltip:
+					'''
+					Provides life regeneration, lowers cooldown of healing potions and increases length of invincibility after taking hit
+					            Adds 15% to all damage and 10% to all critical chances
+					            Gives all effects of Universal Combination
+					            Gives effects of modded Combinations as well
+					            Hiding visual disables Thorium and Spirit buffs
+					            Lowers critical strike chance reduction of Memer's Riposte
+					'''
+			}
+
+			Barrage: {
+				DisplayName: Armor's module ''Barrage''
+				Tooltip:
+					'''
+					Follows any attack with some energy shots
+					Deals 1/4 of current weapon's damage
+					Does not require any ammo
+					'''
+			}
+
+			BastScroll: {
+				DisplayName: Bast's Scroll
+				Tooltip:
+					'''
+					'The strong shall hunt the weak — that is the law of nature! And my rule is law!'"
+					Gives effects of Master Ninja Gear
+					Allows to jump higher
+					Allows to jump 3 times
+					Bonus jumps could be disabled by changing visibility of accessory
+					+10% damage reduction
+					Increases melee/throwing damage and crits by 15%
+					Melee/throwing attacks destroy enemy defense (may not work with some weapons)
+					Defense destruction effect is global for all players
+					Throwing attacks go through tiles
+					'''
+			}
+
+			BigBirdLamp: {
+				DisplayName: Big Bird's Lamp (O-02-40)
+				Tooltip:
+					'''
+					A month later we concluded, there was no such thing as the beast.
+					   [c/FF0000:EGO Gift]
+					   Provides light around the character
+					   Increases all damages and critical strike chances by 5%
+					   Attacks remove some of the enemy's defense depending on progression
+					'''
+			}
+
+			Blinker: {
+				DisplayName: Blinker
+				Tooltip:
+					'''
+					Gives you dash in the form of instant teleport for short distance
+					Gives a chance to dodge attacks and allows the ability to climb walls
+					'''
+			}
+
+			CelestialHookItem: {
+				DisplayName: Celestial Hook
+				Tooltip: ""
+			}
+
+			CelestialHookProjectile: {
+				DisplayName: Celestial Hook
+				Tooltip: ""
+			}
+
+			CrackedCrown: {
+				DisplayName: Cracked Crown
+				Tooltip: Summons the soul hunting entity
+			}
+
+			DeltaRune: {
+				DisplayName: Delta Rune
+				Tooltip:
+					'''
+					Adds 10% melee and magic damage and critical strike chances
+					Increases defense by 10
+					Increases damage reduction by 10%
+					Your melee attacks have a chance to release red damaging wave
+					Your magic attacks have a chance to release swarm of homing magic missiles
+					Regenerates life rapidly while standing still
+					'''
+			}
+
+			Godhead: {
+				DisplayName: Godhead
+				Tooltip:
+					'''
+					''I am fear!''
+					''I see everything''
+					''No one can stop me now!''
+					Gives effects of all 3 souls
+					In addition, increases damage by 5% more and adds 5 defense
+					'''
+			}
+
+			GrapplingHookGunItem: {
+				DisplayName: Grappling Hook Gun
+				Tooltip: Shoots insanely fast hook very far away
+			}
+
+			GrapplingHookGunProjectile: {
+				DisplayName: Grappling Hook Gun Projectile
+				Tooltip: ""
+			}
+
+			HeartofYui: {
+				DisplayName: Heart of Yui
+				Tooltip:
+					'''
+					Summons Pixie Helper
+					Highlights treasures, creatures and traps
+					'''
+			}
+
+			HeartofYuiS: {
+				DisplayName: Heart of Yui
+				Tooltip:
+					'''
+					Summons small Pixie Helper
+					Highlights treasures, creatures and traps
+					'''
+			}
+
+			IlluminatiGift: {
+				DisplayName: Illuminati Gift
+				Tooltip:
+					'''
+					Increases all items reach and quantity of dropped coins
+					Stated above would work if accessory is visible
+					Most traders provide discounts
+					Paralyzes all enemies on screen after being hit
+					If you HP reaches 10% or less, activates special regeneration
+					This ability has 2 minute cooldown
+					If damage taken would have killed you, you will survive
+					Would only work if cooldown is not active
+					Allows to inflict Midas Touch debuff by any attack
+					'''
+			}
+
+			LaetitiaGift: {
+				DisplayName: Laetitia Gift (O-01-67-1)
+				Tooltip:
+					'''
+					She says that she has many friends, but they can't come with you. So she came up with this brilliant idea!
+					[c/FF0000:EGO Gift/Weapon]
+					[c/FF0000:Warning!!! Will slowly consume your life if full set of armor is not equipped]
+					Allows to summon Little Witch Monster if full set of armor is on
+					Little Witch Monster will dissapear if EGO armor set is not on
+					Increases maximum amount of minions by 3
+					'''
+			}
+
+			LilithCharm: {
+				DisplayName: Lilith Charm
+				Tooltip:
+					'''
+					Gives 15% magic bonus damage and 10% to critical strike chance
+					Decreases mana usage by 25%
+					Increases max mana by 100
+					Increases mana regeneration rate greatly
+					Increases mana stars pickup range
+					Automatically uses mana potions
+					You shoot cluster of deadly bees while using magic weapons
+					Bees has low chance to heal you after hitting the enemy
+					Hide visual to disable bees
+					Doesn't work with some very specific weapons
+					'''
+			}
+
+			LilithEmblem: {
+				DisplayName: Lilith Emblem
+				Tooltip:
+					'''
+					Gives 10% magic bonus damage and 10% to critical strike chance
+					Decreases mana usage by 15%
+					Increases max mana by 50
+					Increases mana regeneration rate
+					Increases mana stars pickup range
+					Automatically uses mana potions
+					You shoot cluster of deadly bees while using magic weapons
+					Hide visual to disable bees
+					Doesn't work with some very specific weapons
+					'''
+			}
+
+			MasterYoyoBag: {
+				DisplayName: Master Yoyo Bag
+				Tooltip:
+					'''
+					Increases melee damage and melee speed by 15%
+					Gives effects of Fire Gauntlet, Yoyo Glove and Counterweight
+					Greatly increases max range of any yoyo
+					'''
+			}
+
+			MechanicalWings: {
+				DisplayName: Mechanical Wings
+				Tooltip:
+					'''
+					Allows you to fly
+					Shoots deadly lasers at nearby enemies
+					'''
+			}
+
+			MemerRiposte: {
+				DisplayName: Memer's Riposte
+				Tooltip:
+					'''
+					Mirrors 500% of damage back to all enemies on screen
+					         Increase all damage by 15%
+					         Cuts your critical strike chance by 25%, but they can deal 4x damage
+					         Weakens any hostile memes
+					'''
+			}
+
+			MysticAmulet: {
+				DisplayName: Mystic Amulet
+				Tooltip:
+					'''
+					Grants Telekinesis ability to its wielder
+					Can be used for flying
+					'''
+			}
+
+			OtherworldlyAmulet: {
+				DisplayName: Otherworldly Amulet
+				Tooltip:
+					'''
+					Only obtainable from the strongest of enemies.
+					Legends say that it can do something amazing
+					'''
+			}
+
+			ParadiseLostWings: {
+				DisplayName: Paradise Lost Wings (T-03-46)
+				Tooltip:
+					'''
+					''Thou shall not worry; I have heard your prayers.
+					Have thou not yet realized that pain is nothing?
+					Thou want me to prove the miracle.
+					Thou shall believe in me and granted with life. I shall show you the power.''
+					[c/FF0000:EGO Gift]
+					Counts as wings
+					Also allows to run
+					Has very huge wing time and excellent horizontal speed
+					'''
+			}
+
+			RampageComponents: {
+				DisplayName: Rampage Components
+				Tooltip:
+					'''
+					Turns Musket Balls into deadly Chloroshard Bullets
+					They work like crazy combination of Chlorophyte and Crystal Dust Bullets
+					Gives effect of Sniper Scope (10% bonus ranged damage and crit, ability to zoom)
+					Ammo Reservation Effect
+					Hide visual to disable Sniper Scope effect
+					Speeds up all arrows
+					Empowers any Electrospheres greatly
+					''And the lord poked his head out from the patron clouds,
+					to look down on his followers in chaos and anarchy as the world is already aflame,
+					out he tossed an canister of gasoline and out from his mouth, his words were: Screw it.''
+					'''
+			}
+
+			SephirothicFruit: {
+				DisplayName: Sephirotic Fruit
+				Tooltip:
+					'''
+					The last of Echidna's seeds... Holds incredible powers inside.
+					Increases minions damage by 15%
+					Increases max amount of minions by 2
+					Minions nearly ignore enemy invincibility frames
+					'''
+			}
+
+			ShieldBelt: {
+				DisplayName: Shield Belt
+				Tooltip:
+					'''
+					Allows you to take less damage depending on belt's charge
+					Maximal damage reduction is 150
+					Consumes belt charge while getting hit
+					Damage reduction is weaker on Revengeance/Death Mode:
+					Damage cannot be lower than 30
+					'''
+			}
+
+			SoulOfFear: {
+				DisplayName: Soul Of Fear
+				Tooltip:
+					'''
+					''I am fear!''
+					Weakening nearby enemies, inflicting several debuffs
+					'''
+			}
+
+			SoulOfPower: {
+				DisplayName: Soul Of Power
+				Tooltip:
+					'''
+					''No one can stop me now!''
+					Increases all damages by 15%
+					Reduces damage reduction by 10%
+					'''
+			}
+
+			SoulOfVision: {
+				DisplayName: Soul Of Vision
+				Tooltip:
+					'''
+					''I can see everything!''
+					Free ores, treasures, creatures and traps vision
+					'''
+			}
+
+			SupremeRampageComponents: {
+				DisplayName: Supreme Rampage Components
+				Tooltip:
+					'''
+					Turns Musket Balls into deadly Chloroshard Bullets
+					They work like crazy combination of Chlorophyte and Crystal Dust Bullets
+					Gives effect of Sniper Scope (15% bonus ranged damage and crit, ability to zoom)
+					Hide visual to disable Sniper Scope effect
+					Increases armor penetration by 40
+					Ammo Reservation Effect
+					Speeds up all arrows
+					Empowers any Electrospheres greatly
+					''And the Heavens have opened, and God reached down upon my life, and said upon me:
+					Rek thigh scrbs, an fk ther sht ahp.''
+					'''
+			}
+
+			SuspiciousLookingScythe: {
+				DisplayName: Suspicious Looking Scythe
+				Tooltip: Summons your own Grim Reaper. Increases your crits moderately.
+			}
+
+			Symbiote: {
+				DisplayName: Symbiote
+				Tooltip:
+					'''
+					Lowers cooldown of healing potions
+					            Increases length of invincibility after taking hit
+					            Has two states (Offense(>50% HP) and Defense (<50% HP))
+					            Offensive state increases attack speed by 10-20%
+					            Defensive state greatly increases regeneration, defense and damage reduction
+					            Stats boosts are shown when accessory is equipped
+					'''
+			}
+
+			TerrarianA: {
+				DisplayName: Terrarian-A (V-05-516)
+				Tooltip:
+					'''
+					''Angela's actions have rewrote the understandings of souls themselves''
+					[c/FF0000:EGO Gift]
+					Increases invincility after taking damage
+					Blocks 33% of contact damage at daytime
+					Blocks 33% of projectile damage at night
+					'''
+			}
+
+			TimeTwistBraclet: {
+				DisplayName: Braclet of Time Twist
+				Tooltip:
+					'''
+					Gives a chance to get double loot from defeated mobs
+					Lowers defense/damage reduction by 20/20%
+					'''
+			}
+
+			TwilightWings: {
+				DisplayName: Twilight Wings (O-02-63)
+				Tooltip:
+					'''
+					''They withstood the twilight and faced the dawn. In the forest, did the birds twitter stop?''
+					         [c/FF0000:EGO Gift]
+					         Counts as wings
+					         Has huge wing time and excellent horizontal speed
+					'''
+			}
+
+			UltimateSephirothicFruit: {
+				DisplayName: Ultimate Sephirotic Fruit
+				Tooltip:
+					'''
+					The last of Echidna's seeds... Holds incredible powers inside.
+					Increases minion damage by 15%
+					Increases max amount of minions by 3
+					Minions can critically hit with 10% chance
+					Minions nearly ignore enemy invincibility frames
+					'''
+			}
+
+			# Equipables End
+			
+			# Materials Start
+			AlchemicalBundle: {
+				DisplayName: Alchemical Bundle
+				Tooltip:
+					'''
+					Contains some Lunar Materials
+					Required for making Elixir of Life
+					'''
+			}
+
+			BrokenDimensionalCasket: {
+				DisplayName: Broken Dimensional Casket
+				Tooltip:
+					'''
+					Broken Dimensional Casket
+					Required for making working one
+					'''
+			}
+
+			ChromaticCrystal: {
+				DisplayName: Chromatic Crystal
+				Tooltip: Hallowed Crystal, overflowed by power
+			}
+
+			CrystalDust: {
+				DisplayName: Crystal Dust
+				Tooltip: Dust made from Crystal Shards.
+			}
+
+			CursedIce: {
+				DisplayName: Cursed Ice
+				Tooltip: Cursed Flame, encapsulated in ice.
+			}
+
+			DivineLava: {
+				DisplayName: Divine Lava
+				Tooltip: Ichor & Lava, combined together by magic
+			}
+
+			EmagledFragmentation: {
+				DisplayName: Celestial's Particle
+				Tooltip:
+					'''
+					Origin of any Lunar Fragment
+					10 of it could be transformed into 2 fragments of any type.
+					'''
+			}
+
+			HateVial: {
+				DisplayName: Hate Vial
+				Tooltip:
+					'''
+					Contains concentrated Hate of a defeated foe
+					Can be consumed
+					Consuming grants Hate buff and Potion Sickness debuff for 2 minutes
+					Hate buff gives +15% to all damages and crits and +20 to life regeneration
+					Also decreases your defense by 30 and endurance by 15%
+					'''
+			}
+
+			MasksBundle: {
+				DisplayName: Masks Bundle
+				Tooltip:
+					'''
+					Contains masks of all vanilla bosses
+					Required for making ultimate accessory
+					'''
+			}
+
+			NyctosythiaCrystal: {
+				DisplayName: Nyctosythia Crystal
+				Tooltip:
+					'''
+					Diamond of Nihility
+					Consumes any form of light
+					'''
+			}
+
+			SoulEssence: {
+				DisplayName: Soul Essence
+				Tooltip: Contains all traits of a defeated foe
+			}
+
+			SunkroveraCrystal: {
+				DisplayName: Sunkrovera Crystal
+				Tooltip:
+					'''
+					Ruby, containing Blood of Demons
+					It burns you even through gloves
+					'''
+			}
+
+			SupremeEnergyCore: {
+				DisplayName: Supreme Energy Core
+				Tooltip: Infinite source of Energy
+			}
+
+			# Materials End
+			
+			# Misc Start
+			AlchemistCharmTier1: {
+				DisplayName: Alchemist Charm Tier 1
+				Tooltip:
+					'''
+					While this is in your inventory, you have a low chance not to consume potion
+					         Alchemist, Brewer and Young Brewer are providing 10% discount
+					         Buffs duration is 10% longer
+					'''
+			}
+
+			AlchemistCharmTier2: {
+				DisplayName: Alchemist Charm Tier 2
+				Tooltip:
+					'''
+					While this is in your inventory, you have a moderate chance not to consume potion
+					Allows to use potions from Piggy Bank by Quick Buff
+					Alchemist, Brewer and Young Brewer are providing 25% discount
+					Buffs duration is 25% longer
+					'''
+			}
+
+			AlchemistCharmTier3: {
+				DisplayName: Alchemist Charm Tier 3
+				Tooltip:
+					'''
+					While this is in your inventory, you have a high chance not to consume potion
+					         Allows to use potions from Piggy Bank by Quick Buff
+					         Alchemist, Brewer and Young Brewer are providing 35% discount
+					         Buffs duration is 35% longer
+					'''
+			}
+
+			AlchemistCharmTier4: {
+				DisplayName: Alchemist Charm Tier 4
+				Tooltip:
+					'''
+					While this is in your inventory, you have a very high chance not to consume potion
+					         Allows to use potions from Piggy Bank by Quick Buff
+					         Alchemist, Brewer and Young Brewer are providing 50% discount
+					         Makes potions non-consumable if Supreme Calamitas is defeated
+					         Buffs duration is 50% longer
+					'''
+			}
+
+			AntiBuffItem: {
+				DisplayName: Anti Buff
+				Tooltip:
+					'''
+					Use to toggle Anti Buff mode
+					During Anti Buff mode, you are immune to all buffs (not debuffs)
+					Buffs without duration display are not disabled
+					Bosses and minibosses may drop permament boosting items
+					Their effects would work only if mode is on
+					'''
+			}
+
+			BillCipherBag: {
+				DisplayName: Treasure Bag
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			BillSoul: {
+				DisplayName: Bill's Soul
+				Tooltip:
+					'''
+					Container with concentrated blue flame
+					Its fluctuations charm you
+					Consume to get permanent buff 'Demon Slayer'
+					'''
+			}
+
+			BoomBox: {
+				DisplayName: Boom Box
+				Tooltip: While this is in your inventory, your last inventory slot plays music boxes passively
+			}
+
+			CursedMirror: {
+				DisplayName: Cursed Mirror
+				Tooltip:
+					'''
+					Broken Mirror
+					All your attacks heals enemies
+					'''
+			}
+
+			DimensionalCasket: {
+				DisplayName: Dimensional Casket
+				Tooltip:
+					'''
+					Modified Dimensional Casket
+					Allows to trade with any NPC from any distance
+					Click to open UI
+					Press ESC to stop dialing
+					'''
+			}
+
+			Drainer: {
+				DisplayName: Drainer
+				Tooltip:
+					'''
+					BROKEN FOR NOW
+					Drains 1/4 of HP while used, fills 1/4 of Rage Meter
+					Perfect for filling Rage Meter
+					'''
+			}
+
+			EnchantedMirror: {
+				DisplayName: Enchanted Mirror
+				Tooltip:
+					'''
+					Left click returns you home
+					Right click teleports you back to recall point
+					'''
+			}
+
+			Extractor: {
+				DisplayName: Extractor
+				Tooltip:
+					'''
+					Allows to extract Soul Essences and Hate Vials from bosses
+					Would work if placed in inventory
+					Can extract essence with 1/3 chance if boss has more than 50K HP
+					Can extract Hate with 1/10 chance if boss has more than 55K HP
+					'''
+			}
+
+			Fuaran: {
+				DisplayName: Fuaran
+				Tooltip: Permanently increases maximum mana by 100. Can only be used once.
+			}
+
+			GlobalTeleporter: {
+				DisplayName: World Warper
+				Tooltip:
+					'''
+					Teleports you to any point of the map
+					Use right-click on full screen map to teleport
+					Will not work if any boss is alive
+					Breaks after use
+					''O, the azure justice, the crimson love,
+					In the name of the one buried in destiny,
+					I shall make an oath to the light,
+					that we will show those who
+					stand in front of us - the power of love!''
+					'''
+			}
+
+			GlobalTeleporterUp: {
+				DisplayName: Modified World Warper
+				Tooltip:
+					'''
+					Teleports you to any point of the map
+					Use right-click on full screen map to teleport
+					Will not work if any boss is alive
+					Not breaks after use
+					''O, the azure justice, the crimson love,
+					In the name of the one buried in destiny,
+					I shall make an oath to the light,
+					that we will show those who
+					stand in front of us - the power of love!''
+					'''
+			}
+
+			KnucklesBag: {
+				DisplayName: Treasure Bag
+				Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+			}
+
+			LifeElixir: {
+				DisplayName: Life Elixir
+				Tooltip: Permanently increases maximum life by 50. Can be used twice.
+			}
+
+			LuckCharm: {
+				DisplayName: Charm of Luck
+				Tooltip:
+					'''
+					While this is in your inventory, you have better chance of getting better reforges
+					Does not affect accessories
+					'''
+			}
+
+			LuckCharmT2: {
+				DisplayName: Charm of Absolute Luck
+				Tooltip:
+					'''
+					While this is in your inventory, you have better chance of getting better reforges
+					Also affects accessories (Menacing->Lucky->Warding)
+					'''
+			}
+
+			LuckyToken: {
+				DisplayName: Lucky Token
+				Tooltip:
+					'''
+					While this is in your inventory, your next accessory reforge would be ''Lucky''
+					Reforging priorities: Menacing->Lucky->Violent->Warding
+					Consumes in process
+					'''
+			}
+
+			MannafromHeaven: {
+				DisplayName: Manna from Heaven
+				Tooltip: Makes you permanently Well Fed
+			}
+
+			MenacingToken: {
+				DisplayName: Menacing Token
+				Tooltip:
+					'''
+					While this is in your inventory, your next accessory reforge would be ''Menacing''
+					Reforging priorities: Menacing->Lucky->Violent->Warding
+					Consumes in process
+					'''
+			}
+
+			MoneyVacuum: {
+				DisplayName: Heart of Greed
+				Tooltip: While in your inventory, all money dropped goes in your inventory
+			}
+
+			PaperTube: {
+				DisplayName: Paper Tube
+				Tooltip:
+					'''
+					Contains blueprints of a random prehardmode accessory
+					Use to unlock
+					'''
+			}
+
+			PaperTube2: {
+				DisplayName: Paper Tube (T2)
+				Tooltip:
+					'''
+					Contains blueprints of a random hardmode/post Skeletron accessory
+					Use to unlock
+					'''
+			}
+
+			PaperTube3: {
+				DisplayName: Paper Tube (T3)
+				Tooltip:
+					'''
+					Contains blueprints of a random post Plantera accessory
+					Use to unlock
+					'''
+			}
+
+			PerfectionToken: {
+				DisplayName: Perfection Token
+				Tooltip:
+					'''
+					While this is in your inventory, your next weapon/tool reforge would get best possible result
+					Consumes in process
+					Not compatible with Thorium Mod's Bard and Healer items
+					'''
+			}
+
+			PHD: {
+				DisplayName: PhD Degree Diploma
+				Tooltip:
+					'''
+					Use to permanently upgrade your Nurse
+					Opens up healing interface after respawn
+					This effect is global for all players in this world
+					Would work only if Nurse is alive
+					'''
+			}
+
+			Pommel: {
+				DisplayName: Pommel
+				Tooltip: Contains the Light of Purity
+			}
+
+			ReversivityCoinTier1: {
+				DisplayName: Reversivity Coin Tier 1
+				Tooltip: Can be used for buying Treasure Bags from Operator
+			}
+
+			ReversivityCoinTier2: {
+				DisplayName: Reversivity Coin Tier 2
+				Tooltip: Can be used for buying Treasure Bags from Operator
+			}
+
+			ReversivityCoinTier3: {
+				DisplayName: Reversivity Coin Tier 3
+				Tooltip: Can be used for buying Treasure Bags from Operator
+			}
+
+			ReversivityCoinTier4: {
+				DisplayName: Reversivity Coin Tier 4
+				Tooltip: Can be used for buying Treasure Bags from Operator
+			}
+
+			ReversivityCoinTier5: {
+				DisplayName: Reversivity Coin Tier 5
+				Tooltip: Can be used for buying Treasure Bags from Operator
+			}
+
+			ReversivityCoinTier6: {
+				DisplayName: Reversivity Coin Tier 6
+				Tooltip: Can be used for buying Treasure Bags from Operator
+			}
+
+			ScreamingHead: {
+				DisplayName: Screaming Head
+				Tooltip:
+					'''
+					Someone's screaming head
+					Breaks concentration
+					'''
+			}
+
+			StatsChecker: {
+				DisplayName: Pip-Boy 3000
+				Tooltip: Shows most of the player's stats while in your inventory
+			}
+
+			StatsChecker2: {
+				DisplayName: Pip-Boy 4K (SpawnPoint)
+				Tooltip: Left click to teleport, right click to change teleportation location
+			}
+
+			SymbioteMeteorite: {
+				DisplayName: Mystery Meteorite
+				Tooltip:
+					'''
+					Its external shell is insanely durable
+					You probably need to find someone who may help you break it
+					'''
+			}
+
+			ViolentToken: {
+				DisplayName: Violent Token
+				Tooltip:
+					'''
+					While this is in your inventory, your next accessory reforge would be ''Violent''
+					Reforging priorities: Menacing->Lucky->Violent->Warding
+					Consumes in process
+					'''
+			}
+
+			VoodooDoll: {
+				DisplayName: Voodoo Doll
+				Tooltip:
+					'''
+					Your very own doll
+					Will make you take part of your dealt damage
+					'''
+			}
+
+			WardingToken: {
+				DisplayName: Warding Token
+				Tooltip:
+					'''
+					While this is in your inventory, your next accessory reforge would be ''Warding''
+					Reforging priorities: Menacing->Lucky->Violent->Warding
+					Consumes in process
+					'''
+			}
+
+			WorldControlUnit: {
+				DisplayName: Simalation Control Unit
+				Tooltip:
+					'''
+					Exclusive product, designed by Angela
+					Left click to change between day and night time
+					Right click to enable or disable rain (sandstorm in desert)
+					'''
+			}
+
+			# Misc End
+			
+			# Notes Start
+			InformatingNote: {
+				DisplayName: Informating Note
+				Tooltip:
+					'''
+					No Treasure Bags available yet.
+					Beat Skeletron to unlock the first wave.
+					'''
+			}
+
+			ResearchNote1: {
+				DisplayName: Research Note #1
+				Tooltip:
+					'''
+					'I know that Sasscade Yo-Yo exists. But how do you make it?
+					I am pretty sure that the [c/00FF00:Terrarian Yo-Yo] is the first component.
+					An [c/00FF00:Alchemical Bundle] should be the second component...
+					But what could be the third one? I think that it is something, related to the Sass...
+					Maybe inner part of the [c/00FF00:Rod of Discord] can be it?
+					And the final component... Is the [c/00FF00:Yo-yo Bag]. I am 100% sure about this.'
+					'''
+			}
+
+			ResearchNote2: {
+				DisplayName: Research Note #2
+				Tooltip:
+					'''
+					''I have found some information about the [c/00FF00:Royal Magic Wand] in one ancient manuscript.
+					What I found was that no matter how exactly Wand was destroyed, it can still be recreated.
+					Base for Magic Wand is [c/00FF00:the Rainbow Rod].
+					[c/00FF00:Last Prism] could work as Magical Focus...
+					[c/00FF00:Angel Wings] are required too.
+					[c/00FF00:Butterfly Dust] may be useful to bypass allowed user check.
+					And you will need to catch a [c/00FF00:Unicorn] as power source.''
+					'''
+			}
+
+			ResearchNote3: {
+				DisplayName: Research Note #3
+				Tooltip:
+					'''
+					In my interdimensional travels I have met a scientist, name's [c/00FF00:Stanford].
+					He asked fme to aid him in making a weapon which could cause damage to a Godlike Creature.
+					It took us about half year to actually made working [c/00FF00:Prototype #618] aka [c/00FF00:'Quantum Destabilizer']...
+					[c/00FF00:Charged Blaster] from Martians would fit as base.
+					Lens from [c/00FF00:Heat Ray] would be just fine.
+					Some parts should be made from both Luminite and Celestial Fragments...
+					As usual, [c/00FF00:Alchemical Bundle] is needed here.
+					Since this is an extremely accurate weapon, it also requires [c/00FF00:Sniper Scope].
+					But the biggest problem here is the Power Source. We can't just get energy from nothing...
+					Well, for some money, I could sell you special Energy Cells for it.'
+					'''
+			}
+
+			ResearchNote4: {
+				DisplayName: Research Note #4
+				Tooltip:
+					'''
+					'I used to think that only humans could use magic."
+					I saw it with my own eyes. Skeleton was using magic. Despite them being magical creatures, they normally can't use it...
+					He fought against Human Child. At first, I was going to help poor kid, but later on...
+					I was shocked seeing how kid brutally crushed that Skeleton to pile of bones.
+					When this... monster was gone, I took some dust from this pile.
+					Strangely, it was glowing from magic, contained inside.
+					Later on, I found the way to create artifact, containing that incredible power.
+					I mixed some stuff from [c/00FF00:Alchemical Bundle] with [c/00FF00:enormously big bone] from ''Skeletron'' .
+					Then I added contents of [c/00FF00:Hate Vial].
+					And then, just polished everything with [c/00FF00:Flask of Rainbows]'
+					'''
+			}
+
+			ResearchNote5: {
+				DisplayName: Research Note #5
+				Tooltip:
+					'''
+					'Long ago, I have seen one half-demon, called [c/00FF00:Dante].
+					He is a powerful Demon Hunter. He uses some... interesting devices in his battles.
+					Especially, I was very intrigued by one of his ranged weapons, [c/00FF00:Pandora].
+					According to legends, it has 666 forms. And it looks like technical weapon.
+					After some researches, I was sure I could made a copy of it.
+					Sadly, the prototype I made was able to transform into only 1 form, PF422...
+					It is Grief, sharp Shuriken, which targets one enemy, slashing it to death.
+					I was using metal from [c/00FF00:Piranha Gun] as base...
+					Covered it with [c/00FF00:Flask of Rainbows] for extra durability...
+					As always, some parts can only be made from [c/00FF00:Alchemical Bundle].
+					And final ingredient is [c/00FF00:Moon Stone].'
+					'''
+			}
+
+			ResearchNote6: {
+				DisplayName: Research Note #6
+				Tooltip:
+					'''
+					''Once, there was existing an actual incarnation of [c/00FF00:FEAR] itself...
+					After countless battles, this being was finally defeated.
+					Soul, which was persisting after host's death, was put into deep observations.
+					Essence of FEAR was extracted during these observations.
+					And I managed to get a few vials of it."
+					If you find other ingredients, then I could make [c/00FF00:''Akumu''], a very powerful scythe.
+					[c/00FF00:Death Sickle] is needed as base for it.
+					[c/00FF00:Hate Vial] is required for unleashing full potential of FEAR essence.
+					For stabilizing components, we need an [c/00FF00:Alchemical Bundle].
+					And for the last ingredient, we need [c/00FF00:Celestial Stone].''
+					'''
+			}
+
+			ResearchNote7: {
+				DisplayName: Research Note #7
+				Tooltip:
+					'''
+					''Once, I was in quite insane world.
+					There was one old scientist, named [c/00FF00:Rick].
+					Luckly, I was able to saw all that without being caught...
+					He escaped from the maximum security prison without help from outside.
+					And then destroyed the entire Galactic Federation in the same day.
+					The thing what I was the most interested in is his Portal Gun.
+					He managed to use it as a weapon. And I really want to make one for myself..
+					Naturally we need [c/00FF00:Portal Gun] as the base...
+					For some parts, we need an [c/00FF00:Alchemical Bundle].
+					We also need the [c/00FF00:Lunar Portal Staff] for stabilizing the portals.
+					To variate dimensions, we can use [c/00FF00:R.E.K. 3000].
+					I am still not sure about source of energy...
+					Rick used some kind of [c/00FF00:Energy Capsules] as ammo.
+					I hope I'm able to synthesize it...''
+					'''
+			}
+
+			ResearchNote8: {
+				DisplayName: Research Note #8
+				Tooltip:
+					'''
+					Once, I was in an interesting world. It was a giant laboratory. Heart of this laboratory was robot, her name was ''GlaDOS''.
+					She has told me that I must test her ''rooms''. There were halls with tons of puzzles. She also gave me a tool called ''Portal Gun''.
+					But the most interesting thing was these cute turrets. I must make one for my own!
+					First, we need tech which these turrets use. We can get it from the [c/00FF00:Portal Gun].
+					Also we need to give them love, so I think we need some sort of ''[c/00FF00:Companion Cube]''.
+					And as the last part, we need to give them a body. I think  that [c/00FF00:fire sentry] from the Elders army could work.
+					'''
+			}
+
+			SecretNote: {
+				DisplayName: Secret Note #1
+				Tooltip:
+					'''
+					''If you are reading this, then know, that you could spawn your own Grim Reaper.
+					To do this, you simply need to find the ''Suspicious Looking Scythe'';
+					It drops with a very low chance from any Treasure Bag in Hardmode.
+					GLHF!''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+
+					'''
+			}
+
+			SecretNote2: {
+				DisplayName: Secret Note #2
+				Tooltip:
+					'''
+					''Few times, I saw one pretty strange creature.
+					She looked like Fairy, but at the same time...
+					There were something strange in her appearance.
+					She was... way too perfect for an ordinary Fairy.
+					Sadly, that was the last time I saw her...
+					She was beaten by unknown creature and transformed into a Crystal.
+					It was nearby Plantera's habitat.''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			SecretNote3: {
+				DisplayName: Secret Note #3
+				Tooltip:
+					'''
+					''In one ancient scroll I found quite... unpleasant information.
+					It said something about... Pink Guy? I have no idea who is this.
+					So, if you find his armor and equip it as actual armor in fight against Moon Lord...
+					You may get something very unique.
+					But you need to be very careful with that thing...
+					It can attract attention of a VERY dangerous creature.''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			TornNote1: {
+				DisplayName: Torn Note #1
+				Tooltip:
+					'''
+					''Legends say that an Otherworldly Amulet can be obtained by defeating a Dungeon Guardian.''
+					There is something else, but you couldn't read it. Not without parts #2 & #3.. Maybe the Jeweler could help you.
+					'''
+			}
+
+			TornNote2: {
+				DisplayName: Torn Note #2
+				Tooltip:
+					'''
+					''It is not well known, but the Wing of the World allows you to make EGO equipment, which is unique in its own ways.
+					If the Wing of the World is placed in empty housing, it can attract a special NPC, called Operator.
+					And if you are wondering what EGO stands for, then here it is: Extermination of Geometrical Organ.''
+					There is something else, but you couldn't read it. Not without parts #1 & #3. Maybe the Jeweler could help you.
+					'''
+			}
+
+			TornNote2Piece: {
+				DisplayName: Note Piece
+				Tooltip: Looks forgotten...
+			}
+
+			TornNote3: {
+				DisplayName: Torn Note #3
+				Tooltip:
+					'''
+					''Defeating all Mechanical Bosses allows you to make a special Vending Machine.
+					Its drinks can help you overcome great threats and dangers.
+					But be careful! If you use it more than 10 times, it will release a random Mechanical Boss!
+					This will reset the machine counter to 0, so you can use it again after destroying or evading the boss.''
+					There is something else, but you couldn't read it. Not without parts #1 & #2. Maybe the Jeweler could help you.
+					'''
+			}
+
+			TornNote4: {
+				DisplayName: Torn Note #4
+				Tooltip:
+					'''
+					''Defeating the Moon Lord allows the creation of Ultimate Accessories.
+					One of them is the Sephirothic Fruit.
+					Not only does it increase your minion damage by 15% and give +2 max minions...
+					But it also allows your minions to ignore invincibility frames''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			TornNote5: {
+				DisplayName: Torn Note #5
+				Tooltip:
+					'''
+					''Defeating the Moon Lord allows the creation of Ultimate Accessories.
+					One of them is the Lilith Emblem.
+					Not only does it combine all the effects of multiple mage essential accessories...
+					But it also allows you to shoot dozens of deadly bees while using magic attacks''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			TornNote6: {
+				DisplayName: Torn Note #6
+				Tooltip:
+					'''
+					''Defeating the Moon Lord allows the creation of Ultimate Accessories.
+					One of them are the Rampage Components.
+					They increase your ranged damage & crit by 10% and provide the effect of the Sniper Scope.
+					They also turn your Musket Balls into deadly Chloroshard Bullets...
+					Chloroshard bullets are basically homing Crystal Bullets with increased damage.
+					Any weapons, which shoot Electrospheres would get buffed too.
+					Also, it speed ups all arrows.''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			TornNote7: {
+				DisplayName: Torn Note #7
+				Tooltip:
+					'''
+					''Continuing on the Ultimate Accessories, there are 2 more.
+					One of them is the Autoinjector.
+					It increases all damage by 10% and crit by 8%.
+					It also permanently grants you the effect of the Universal Combination.
+					It can be consumed to give you permanent effects:
+					Buffs will never wear off after death and cooldown of healing potions will be reduced
+					However, the Autoinjector is pretty expensive as it requires a Masks Bundle...
+					Another one is Bast's Scroll.
+					It increases Melee/Throwing damage & crit by 15%, gives 10% damage reduction.
+					It also gives the abilities of a Master Ninja and allows a triple jump.
+					But its most powerful abilities are:
+					Throwing weapons go through tiles and melee/throwing weapon destroys enemy defense...''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			TornNote8: {
+				DisplayName: Torn Note #8
+				Tooltip:
+					'''
+					''I once found an ancient scroll which had pretty valuable information...
+					It was said that the Golem can contain the laboratory journal from the Witch, called Fuaran, inside its body.
+					It can massively increase the magical potential of any mage, weak or powerful - that doesn't matter...
+					That journal can be a great experience for everyone. I wonder if anyone will ever find it...''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			TornNote9: {
+				DisplayName: Torn Note #9
+				Tooltip:
+					'''
+					''If anyone finds this, then know that this could be the last note
+					I found out that the Alchemist could make a Life Elixir...
+					A legendary brew which increases the max life of the user...
+					But to make it, you need an Alchemical Bundle and a Philosopher's stone.
+					With all of that, he will brew you a portion of Life Elixir.
+					Oh no... This thing is still chasing me. And Dark Sun is right above my head now.
+					I will use that Portal Device. I just don't wanna die! My only hope is that I will not stuck inbetween worlds...''
+					There seems to be something important, but you can't read it yet. Not without other parts. Maybe Jeweler can help you.
+					'''
+			}
+
+			# Notes End
+			
+			# Placable Start
+			ArtificialAltar: {
+				DisplayName: Artificial Altar
+				Tooltip: Artificial Altar, made by occult powers
+			}
+
+			Beacon: {
+				DisplayName: Beacon
+				Tooltip:
+					'''
+					Can be used as target for Beacon Teleporter potion while placed
+					Cannot be placed if another one is already placed in the world
+					'''
+			}
+
+			FearEmitter: {
+				DisplayName: FEAR Emitter
+				Tooltip: Restricts non-boss enemies from going through certain region
+			}
+
+			HMCraftPound: {
+				DisplayName: Superb Crafting Pound
+				Tooltip:
+					'''
+					Now you can do the best stuff
+					Can be placed as crafting station
+					'''
+			}
+
+			HoloprojectorCorruption: {
+				DisplayName: Holoprojector 'Corruption'
+				Tooltip: Forces biome state to Corruption while placed
+			}
+
+			HoloprojectorCrimson: {
+				DisplayName: Holoprojector 'Crimson'
+				Tooltip: Forces biome state to Crimson while placed
+			}
+
+			HoloprojectorDesert: {
+				DisplayName: Holoprojector 'Desert'
+				Tooltip: Forces biome state to Desert while placed
+			}
+
+			HoloprojectorDungeon: {
+				DisplayName: Holoprojector 'Dungeon'
+				Tooltip: Forces biome state to Dungeon while placed
+			}
+
+			HoloprojectorHallowed: {
+				DisplayName: Holoprojector 'Hallow'
+				Tooltip: Forces biome state to Hallow while placed
+			}
+
+			HoloprojectorJungle: {
+				DisplayName: Holoprojector 'Jungle'
+				Tooltip: Forces biome state to Jungle while placed
+			}
+
+			HoloprojectorOcean: {
+				DisplayName: Holoprojector 'Ocean'
+				Tooltip:
+					'''
+					Forces biome state to ocean while placed
+					No visual/music effect will appear
+					'''
+			}
+
+			HoloprojectorSnow: {
+				DisplayName: Holoprojector 'Snow'
+				Tooltip: Forces biome state to Snow while placed
+			}
+
+			HoloprojectorSpace: {
+				DisplayName: Holoprojector 'Space'
+				Tooltip:
+					'''
+					Forces biome state to Space while placed
+					No visual/music effect will appear
+					'''
+			}
+
+			ImmortalityFieldProjector: {
+				DisplayName: Immortality Field Projector
+				Tooltip:
+					'''
+					Makes town NPCs instantly respawn after being killed
+					Might need to take some time to enable the field
+					'''
+			}
+
+			MateriaTransmutator: {
+				DisplayName: Materia Transmutator
+				Tooltip:
+					'''
+					Same functionality as most of crafting stations in one
+					All crafting stations included :)
+					Also works as Water/Honey/Lava source
+					'''
+			}
+
+			MateriaTransmutatorMK2: {
+				DisplayName: Materia Transmutator MK2
+				Tooltip:
+					'''
+					Same functionality as most of crafting stations in one
+					Added functionality of Draedon's Forge
+					All crafting stations included :)
+					Also works as Water/Honey/Lava source
+					'''
+			}
+
+			MolecularReplicator: {
+				DisplayName: Molecular Replicator
+				Tooltip: Restores life of nearby friendly NPCs while placed
+			}
+
+			PreHMPenny: {
+				DisplayName: Simple Crafting Penny
+				Tooltip:
+					'''
+					Makes you look like a master of carpentry
+					Can be placed as crafting station
+					'''
+			}
+
+			SpecCraftPoint: {
+				DisplayName: Special Crafting Point
+				Tooltip:
+					'''
+					You've proven that you can do anything with any material
+					Can be placed as crafting station
+					'''
+			}
+
+			Wellcheers: {
+				DisplayName: "'Wellcheers' Vending Machine"
+				Tooltip:
+					'''
+					'Opened can of Wellcheers' Vending Machine
+					[c/FF0000:Abnormality]
+					Risk level: [c/00FF00:ZAYIN]
+					Produces 4 different types of Soda
+					Works only on Night Time
+					Can be used 10 times without any consequences
+					'''
+			}
+
+			WingoftheWorld: {
+				DisplayName: Wing of the World
+				Tooltip:
+					'''
+					Needed to craft EGO equipment
+					Counts as table, chair and light source
+					'''
+			}
+
+			# Placable End
+			
+			# Quest Fish Start
+			MiniShark: {
+				DisplayName: Mini Shark
+				Tooltip: ""
+			}
+
+			MosesFish: {
+				DisplayName: Moses Fish
+				Tooltip: ""
+			}
+
+			MutantFish: {
+				DisplayName: Mutant Fish
+				Tooltip: ""
+			}
+
+			NebulaFish: {
+				DisplayName: Nebula Fish
+				Tooltip: ""
+			}
+
+			SolarFish: {
+				DisplayName: Solar Fish
+				Tooltip: ""
+			}
+
+			StardustFish: {
+				DisplayName: Stardust Fish
+				Tooltip: ""
+			}
+
+			VortexFish: {
+				DisplayName: Vortex Fish
+				Tooltip: ""
+			}
+
+			# Quest Fish End
+			
+			# Summoning Start
+			AlchemistHorcrux: {
+				DisplayName: Alchemist Horcrux
+				Tooltip: The piece of Alchemist's soul is inside it.
+			}
+
+			APMC: {
+				DisplayName: AI Programming and Memory Chip
+				Tooltip: It is Angela's backup.
+			}
+
+			ArchitectHorcrux: {
+				DisplayName: Architect Horcrux
+				Tooltip: The piece of Architect's soul is inside it.
+			}
+
+			BrewerHorcrux: {
+				DisplayName: Brewer Horcrux
+				Tooltip: The piece of Brewer's soul is inside it.
+			}
+
+			CaughtUnicorn: {
+				DisplayName: Caught Unicorn
+				Tooltip: It is still hostile, better do not release him
+			}
+
+			DimensionalRift: {
+				DisplayName: Dimensional Rift
+				Tooltip:
+					'''
+					Glass globe containing the rift between dimensions
+					Don't break it!!!
+					'''
+			}
+
+			HorrifyingSkull: {
+				DisplayName: Horrifying Skull
+				Tooltip:
+					'''
+					Summons the mightiest enemy
+					Use with the extreme care
+					'''
+			}
+
+			JewelerHorcrux: {
+				DisplayName: Jeweler Horcrux
+				Tooltip: The piece of Jeweler's soul is inside it.
+			}
+
+			KnucklesUgandaDoll: {
+				DisplayName: National Ugandan Treasure
+				Tooltip:
+					'''
+					''I'm 100% sure this will kill you'' - Gregg
+					Using this may cause disasterous consequences...
+					But the reward can retribute all your sufferings
+
+					'''
+			}
+
+			MusicianHorcrux: {
+				DisplayName: Musician Horcrux
+				Tooltip: The piece of Musician's soul is inside it.
+			}
+
+			NotesBook: {
+				DisplayName: Notes Book
+				Tooltip:
+					'''
+					Doesn't matter if the pages are torn, hidden information is now accessible.
+					This can open Otherwordly Portal
+					Can be used only on certain conditions
+					''If you managed to collect all Notes, then you will be able to read this information.
+					Moon Lord is not an ordinary creature. Defeating him may have some unexpected effects...
+					Like weakening barrier between worlds. Even a pathway between worlds may appear.
+					This barrier becomes especially weak during the event called ''The Dark Sun''.
+					If I will get stuck in Interdimension and you will know coordinates of the Porta......''
+					'''
+			}
+
+			RealityPiercer: {
+				DisplayName: Reality Piercer
+				Tooltip: Makes Explorer to come into unobserved world.
+			}
+
+			TinkererHorcrux: {
+				DisplayName: Tinkerer Horcrux
+				Tooltip: The piece of Tinkerer's soul is inside it.
+			}
+
+			# Summoning End
+			
+			# Weapons Start
+			Akumu: {
+				DisplayName: "'Akumu'"
+				Tooltip:
+					'''
+					It means '[c/FF00FF:nightmare]' in Japanese
+					Its slice pierces through any amount of enemies on its way
+					Left click launches a short travelling projectile
+					Right click slices the air in place
+					While at 25% of life or lower, Akumu generates projectile reflecting shield
+					This would lower weapon's power until life regens back to 25%
+					'''
+			}
+
+			BallisticNebularDestroyer: {
+				DisplayName: Ballistic Nebular Destroyer
+				Tooltip:
+					'''
+					Shoots spread of Vortex Rockets
+					25% chance to not consume ammo
+					'''
+			}
+
+			BanHammer: {
+				DisplayName: Ban Hammer
+				Tooltip:
+					'''
+					[c/FF0000:Instantly kills any non-boss enemies]
+					[c/FF0000:If a part of the boss doesn't count as boss, it would be killed too]
+					'''
+			}
+
+			BlackWidowGreatbow: {
+				DisplayName: Black Widow Greatbow
+				Tooltip:
+					'''
+					Shoots 3 highly damaging spider fangs
+					Normal enemies would be impaled and immobilized
+					'''
+			}
+
+			BloodthirstyBlade: {
+				DisplayName: Bloodthirsty Blade
+				Tooltip:
+					'''
+					Becomes stronger the more enemies are defeated by it
+					Killing boss gives bigger damage boost
+					Blue Slimes and Spiked Blue Slimes will not give the weapon boosts
+					Does not getting any benefits from bonus damage/critical strike chance
+					Damage is capped until entering Hardmode (36) and beating Moon Lord (99)
+					Reaching 36, 64 and 100 damage makes special things to happen
+					'''
+			}
+
+			BreathOfTheVoid: {
+				DisplayName: Expiration
+				Tooltip: Feel the Breath of the Void
+			}
+
+			ChaingunMeatGrinder: {
+				DisplayName: Chain Gun ''Meat Grinder''
+				Tooltip:
+					'''
+					Forged by technologies of ancient colonizers.
+					Has 6 rotating barrels with 17mm caliber
+					Gains shooting speed over time
+					Uses special ammo (17mm rounds)
+					66% chance not to consume ammo
+					'''
+			}
+
+			ChaosBomb: {
+				DisplayName: Chaos Bomb
+				Tooltip:
+					'''
+					CHAOS! CHAOS!
+					Explodes on contact, releasing random chaos
+					'''
+			}
+
+			ChristmasW: {
+				DisplayName: Christmas (F-02-49)
+				Tooltip:
+					'''
+					''It is patched with heavy leather. No one knows where the leather came from though.
+					Its true identity under the leather is classified, but its secrecy only makes the weapon all the more powerful.''
+					[c/FF0000:EGO weapon]
+					Causes some ornament balls to fall from the sky on swing
+					Gives 3% chance to get Present from any enemy as drop
+					'''
+			}
+
+			ChromovariaArrow: {
+				DisplayName: Chromovaria Arrow
+				Tooltip:
+					'''
+					The worthy usage of Hallowed material
+					Releases heavy damaging light beams and inflicts Daybroken debuff
+					'''
+			}
+
+			ChromovariaArrowInfinite: {
+				DisplayName: Chromovaria Arrow
+				Tooltip:
+					'''
+					The worthy usage of Hallowed material
+					Releases heavy damaging light beams and inflicts Daybroken debuff
+					Infinite
+					'''
+			}
+
+			ChromovariaBullet: {
+				DisplayName: Chromovaria Bullet
+				Tooltip: Creates heavy damaging light explosion and inflicts Daybroken debuff
+			}
+
+			ChromovariaBulletInfinite: {
+				DisplayName: Chromovaria Bullet
+				Tooltip:
+					'''
+					Creates heavy damaging light explosion and inflicts Daybroken debuff
+					Infinite
+					'''
+			}
+
+			ConeOfCold: {
+				DisplayName: Cone of Cold
+				Tooltip:
+					'''
+					Magic spell which releases cone of arctic cold
+					May slowdown or freeze normal enemies in place
+					'''
+			}
+
+			CorrosiveFlask: {
+				DisplayName: Corrosive Flask
+				Tooltip: Toxic Flask, improved by Celestial Powers.
+			}
+
+			CorrosiveFlaskThrown: {
+				DisplayName: Corrosive Flask
+				Tooltip: Toxic Flask, improved by Celestial Powers.
+			}
+
+			CounterMatter: {
+				DisplayName: Counter Matter
+				Tooltip:
+					'''
+					Globe 199
+					[c/00FF00:Legendary Weapon]
+					Destroys nearby enemy projectiles
+					After blocking the projectile, your next strike would be 100% critical
+					[c/00FF00:Stats are growing through progression]
+					'''
+			}
+
+			CrystalDustBullet: {
+				DisplayName: Crystal Dust Bullet
+				Tooltip: Explodes into even deadlier shards
+			}
+
+			CrystalDustBulletInfinite: {
+				DisplayName: Crystal Dust Bullet
+				Tooltip:
+					'''
+					Explodes into even deadlier shards
+					Infinite
+					'''
+			}
+
+			CrystalyzedArrow: {
+				DisplayName: Crystalyzed Arrow
+				Tooltip: Explodes to shards on hit.
+			}
+
+			CrystalyzedArrowInfinite: {
+				DisplayName: Crystalyzed Arrow
+				Tooltip:
+					'''
+					Explodes to shards on hit
+					Infinite
+					'''
+			}
+
+			CursedWaspnade: {
+				DisplayName: Cursed Ice Waspnade
+				Tooltip:
+					'''
+					Releases friendly Wasps after explosion
+					Wasps are inflicting Frostburn and Cursed Flame debuffs
+					Empowered with Hive Pack/Plague Hive equipped
+					'''
+			}
+
+			CurseofArachna: {
+				DisplayName: Arachna's Curse
+				Tooltip: Infects enemies on first hit, releases spiders on second
+			}
+
+			DarkMagicWand: {
+				DisplayName: Dark Magic Wand
+				Tooltip:
+					'''
+					Royal Dark Magic Wand
+					Shoots wide beam that can eliminate everything on its way.
+					The longer you are holding the beam, the more powerful it becomes
+					Mana cost grows respectively
+					'''
+			}
+
+			DeterminationBlade: {
+				DisplayName: Determination Blade
+				Tooltip:
+					'''
+					Contains Determination of 7 souls
+					Attacks build Hate
+					After a certain amount of hits, right-clicking will release the Hate
+					'''
+			}
+
+			Devilsknife: {
+				DisplayName: Devilsknife
+				Tooltip:
+					'''
+					Summons Devilsknife to destroy your foes
+					More than 1 cannot be summoned
+					METAMORPHOSIS!
+					'''
+			}
+
+			DivineWaspnade: {
+				DisplayName: Divine Lava Waspnade
+				Tooltip:
+					'''
+					Releases friendly Wasps after explosion
+					Wasps are inflicting On Fire! and Ichor debuffs
+					Empowered with Hive Pack/Plague Hive equipped
+					'''
+			}
+
+			DriedFish: {
+				DisplayName: Dried Fish
+				Tooltip: Releases damaging bubbles on enemy hits
+			}
+
+			EbonyIvory: {
+				DisplayName: Ebony & Ivory
+				Tooltip:
+					'''
+					''Twin handguns of a Demon Hunter''
+					Can very rarely crit for 66666 damage
+					Shoot custom demonic bullets, which are exploding on hit
+					66% chance not to consume ammo
+					'''
+			}
+
+			EdgeOfChaos: {
+				DisplayName: Edge of Chaos
+				Tooltip:
+					'''
+					Swing of this blade may tear reality in half
+					Inflicts Chaos State debuff on hit
+					'''
+			}
+
+			ElementalWaspnade: {
+				DisplayName: Elemental Waspnade
+				Tooltip:
+					'''
+					Releases friendly Wasps after explosion
+					Wasps inflicting Corrosion, Cursed Flames and Ichor debuffs
+					Empowered with Hive Pack/Plague Hive equipped
+					'''
+			}
+
+			EnergyCapsule: {
+				DisplayName: Energy Capsule
+				Tooltip: Requred to shoot from Portal Gun
+			}
+
+			EnergyCell: {
+				DisplayName: Energy Cell
+				Tooltip: Requred to shoot from Quantum Destabilizer
+			}
+
+			EyeOfJudgement: {
+				DisplayName: Eye of Judgement
+				Tooltip:
+					'''
+					'If you keep going the way you are now...
+					You're gonna have a bad time.'
+					Endlessly generates sharp bones, which will home onto enemies while you hold this
+					Creates 8 homing bones on cursor position on use
+					Doesn't take minion slots. Can be combined with other minions
+					33% chance to reduce damage taken by player to 2 hitpoints
+					Reduces player's endurance by 33%
+					'''
+			}
+
+			EyeOfJudgementP: {
+				DisplayName: Eye of Pure Judgement
+				Tooltip:
+					'''
+					'If you keep going the way you are now...
+					You're gonna have a bad time.'
+					Endlessly generates sharp bones, which are home to enemies while you hold this
+					Creates 8 homing bones on cursor position on use
+					Doesn't take minion slots. Can be combined with other minions
+					33% chance to reduce damage taken by player to 2 hitpoints
+					Reduces player's endurance by 17%
+					'''
+			}
+
+			FangBallista: {
+				DisplayName: Fang Ballista
+				Tooltip:
+					'''
+					Shoots highly damaging spider fang
+					Normal enemies would be impaled and immobilized
+					'''
+			}
+
+			FlaskoftheAlchemist: {
+				DisplayName: Flask of the Alchemist
+				Tooltip:
+					'''
+					Very own weapon of legendary Alchemist, Gregg
+					[c/00FF00:Legendary Weapon]
+					Throws Flask of random type
+					[c/00FF00:Stats are growing through progression]
+					'''
+			}
+
+			FuneralofDeadButterflies: {
+				DisplayName: Solemn Vow (T-01-68)
+				Tooltip:
+					'''
+					''The atmosphere is grave.
+					One represents the sadness of the dead, the other represents fear of the quick.''
+					[c/FF0000:EGO weapon]
+					Inflicts Shadowflame and Frostburn
+					35% chance not to consume ammo
+					'''
+			}
+
+			Fungalosphere: {
+				DisplayName: Fungalosphere
+				Tooltip:
+					'''
+					Consumes gel as ammo
+					Inflicts Electrocute and Frostburn debuffs
+					33% chance not to consume gel
+					'''
+			}
+
+			GoldenKnuckles: {
+				DisplayName: Golden Knuckles
+				Tooltip:
+					'''
+					The weapon of the legendary grifter
+					May not look so tough, but hits hard
+					'''
+			}
+
+			GrinderMK4: {
+				DisplayName: Grinder MK4 (T-05-41)
+				Tooltip:
+					'''
+					''The sharp teeth of the grinder makes a clean cut through the enemy.''
+					[c/FF0000:EGO weapon]
+					Its attack goes through enemy invincibility frames
+					After certain amount of hits releases broken blades into enemies
+					'''
+			}
+
+			Hive: {
+				DisplayName: Hive
+				Tooltip:
+					'''
+					''NOT THE BEES!''
+					Shoots beehive, which is spreading bees around it
+					Breaks on collide, releasing even more bees
+					Boosted stats will be shown after the first use
+					'''
+			}
+
+			HolyAvenger: {
+				DisplayName: "''Cera Sumat'', Holy Avenger"
+				Tooltip:
+					'''
+					[c/00FF00:Legendary Sword] of Old Duke Ehld.
+					True Melee sword
+					Inflicts Curse of Light debuff
+					Makes enemies take 20% more damage from player
+					25% to take only half of the damage from debuffed enemy
+					[c/00FF00:Stats are growing up through progression]
+					Boosted stats will be shown after the first swing
+					'''
+			}
+
+			IcedamnedArrow: {
+				DisplayName: Icedamned Arrow
+				Tooltip: The unusual usage of cursed materials.
+			}
+
+			IcedamnedArrowInfinite: {
+				DisplayName: Icedamned Arrow
+				Tooltip:
+					'''
+					The unusual usage of cursed materials
+					Infinite
+					'''
+			}
+
+			Justitia: {
+				DisplayName: Justitia (O-02-62)
+				Tooltip:
+					'''
+					''It remembers the balance of the Long Bird that never forgot others' sins.
+					This weapon may be able to not only cut flesh but trace of sins as well.''
+					[c/FF0000:EGO weapon]
+					'''
+			}
+
+			Laetitia: {
+				DisplayName: Laetitia (O-01-67)
+				Tooltip:
+					'''
+					''It takes a lot of time, but its power cannot be ignored''
+					[c/FF0000:EGO weapon]
+					Shoots heavy damaging bullets 2 times in 1 second
+					Can be powered up by equipping full set of 'Laetitia'
+					'''
+			}
+
+			Laoskadyn: {
+				DisplayName: Laoskadyn
+				Tooltip:
+					'''
+					Rains exploding homing needles from the sky on swing
+					Needles release damaging flames
+					'''
+			}
+
+			LaserCannon: {
+				DisplayName: Laser Cannon
+				Tooltip:
+					'''
+					Shoots homing exploding energy balls
+					Does not require ammo
+					'''
+			}
+
+			LastTantrum: {
+				DisplayName: Last Tantrum
+				Tooltip:
+					'''
+					Shoots homing bullets that eradicate everything
+					Bullets cannot do critical damage
+					'''
+			}
+
+			LightOfCeraSumat: {
+				DisplayName: "''The Light of Cera Sumat''"
+				Tooltip:
+					'''
+					[c/00FF00:Legendary Sword] of Old Duke Ehld.
+					True Melee sword
+					Inflicts Curse of Light debuff
+					Makes enemies take 20% more damage from player
+					25% to take only half of the damage from debuffed enemy
+					[c/00FF00:Stats are growing up through post Moon Lord progression]
+					Boosted stats will be shown after the first swing
+					'''
+			}
+
+			MagicBullet: {
+				DisplayName: Magic Bullet (F-01-69)
+				Tooltip:
+					'''
+					''Though, unable to fully extract its original power, the magical power it holds is still potent.''
+					[c/FF0000:EGO weapon]
+					Bullets shot by this weapon will go through tiles
+					Pierces through multiple enemies
+					'''
+			}
+
+			MagicWand: {
+				DisplayName: MagicWand
+				Tooltip:
+					'''
+					Royal Magic Wand
+					Shoots a laser beam that can eliminate everything on its way.
+					'''
+			}
+
+			MarcoMagicWand: {
+				DisplayName: Prince's Magic Wand
+				Tooltip:
+					'''
+					Magic Wand of Mewnian Prince
+					Shoots wide beam that can eliminate everything on its way.
+					The longer you are holding the beam, the more powerful it becomes
+					Mana cost grows respectively
+					Right click to launch kitten bombs
+					'''
+			}
+
+			MeteorSwarm: {
+				DisplayName: Scroll ''Meteor Swarm''
+				Tooltip:
+					'''
+					One-use item
+					Contains the spell ''Meteor Swarm''
+					While used, causes short meteorite rain around player's position
+					Exhausts player for 1 minute, making him unable to use magic
+					'''
+			}
+
+			MGB: {
+				DisplayName: 17mm Round
+				Tooltip: Requred to shoot from ''Meat Grinder''
+			}
+
+			MordenkainenSword: {
+				DisplayName: Mordenkainen's Sword
+				Tooltip:
+					'''
+					Immaterial sword created by Mordenkainen
+					Slashes enemies from the distance
+					'''
+			}
+
+			MP7: {
+				DisplayName: MP7
+				Tooltip:
+					'''
+					[c/00FF00:Ultimate Tinkerer's Reward]
+					Shoots up to 1K bullets per minute
+					88% chance not to consume ammo
+					'''
+			}
+
+			NULL: {
+				DisplayName: Katana
+				Tooltip: NULL
+			}
+
+			NyctosythiaArrow: {
+				DisplayName: Nyctosythia Arrow
+				Tooltip:
+					'''
+					These arrows consume any form of light.
+					Phases through walls, releases homing projectiles on enemy/wall impact
+					'''
+			}
+
+			NyctosythiaArrowInfinite: {
+				DisplayName: Nyctosythia Arrow
+				Tooltip:
+					'''
+					These arrows consume any form of light.
+					Phases through walls, releases homing projectiles on enemy/wall impact
+					Infinite
+					'''
+			}
+
+			NyctosythiaBullet: {
+				DisplayName: Nyctosythia Bullet
+				Tooltip:
+					'''
+					Don't keep them close.
+					Phases through walls, releases homing projectiles on enemy/wall impact
+					'''
+			}
+
+			NyctosythiaBulletInfinite: {
+				DisplayName: Nyctosythia Bullet
+				Tooltip:
+					'''
+					Don't keep them close.
+					Phases through walls, releases homing projectiles on enemy/wall impact
+					Infinite
+					'''
+			}
+
+			Nyx: {
+				DisplayName: Nyx
+				Tooltip:
+					'''
+					Basically, it is just a Gauss Gun
+					Pierces through multiple enemies
+					Has 2 modes:
+					Slowmode on left click (1 shot per second)
+					Fastmode on right click (2 shots per second, damage is reduced)
+					'''
+			}
+
+			OverloadedPortalGun: {
+				DisplayName: Rick's Portal Gun (Overloaded)
+				Tooltip:
+					'''
+					Copy of Rick Sanchez's Portal Gun
+					Uses unstable technologies, making it work more rapidly
+					Opens portals to the random dangerous dimensions
+					Requires Energy Capsules as ammo
+					Hope this thing wouldn't cause appearence of SEAL team Ricks
+					'''
+			}
+
+			Pandora: {
+				DisplayName: Pandora
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Fixed Pandora with unlocked damaging potential
+					Base form 422: Launches sharp shuriken, which sticks to enemies.
+					Attacking fills Disaster Gauge
+					Full gauge allows you to switch weapon's form
+					Right click to change form
+					'''
+			}
+
+			PandoraPF013: {
+				DisplayName: Pandora (PF013)
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Fixed Pandora with unlocked damaging potential
+					Launches 2 heavy damaging homing rockets.
+					Attacking fills Disaster Gauge
+					Full gauge allows you to switch weapon's form
+					Right click to change form
+					'''
+			}
+
+			PandoraPF124: {
+				DisplayName: Pandora (PF013)
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Fixed Pandora with unlocked damaging potential
+					Launches 3 heavy damaging homing rockets.
+					Attacking fills Disaster Gauge
+					Full gauge allows you to switch weapon's form
+					Right click to change form
+					'''
+			}
+
+			PandoraPF262: {
+				DisplayName: Pandora (PF262)
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Fixed Pandora with unlocked damaging potential
+					Chaingun with very high shooting speed
+					Attacking fills Disaster Gauge
+					Full gauge allows you to switch weapon's form
+					Right click to change form
+					'''
+			}
+
+			PandoraPF398: {
+				DisplayName: Pandora (PF398)
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Fixed Pandora with unlocked damaging potential
+					Chargeable Laser Device
+					Attacking fills Disaster Gauge
+					Full gauge allows you to switch weapon's form
+					Right click to change form
+					'''
+			}
+
+			PandoraPF422: {
+				DisplayName: Pandora (PF422)
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Sadly, this is a prototype, capable of using only one form
+					Launches sharp shuriken, which sticks to enemies.
+					'''
+			}
+
+			PandoraPF594: {
+				DisplayName: Pandora (PF594)
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Fixed Pandora with unlocked damaging potential
+					Special attack #1 (Homing Rockets to all directions)
+					Attack depletes Disaster Gauge
+					Right click to change special attack
+					'''
+			}
+
+			PandoraPF666: {
+				DisplayName: Pandora (PF666)
+				Tooltip:
+					'''
+					'A weapon of the underworld, capable of 666 different forms'
+					Fixed Pandora with unlocked damaging potential
+					Special attack #2 (Energy Release)
+					Attack depletes Disaster Gauge
+					Full gauge allows you to switch weapon's form
+					Right click to change special attack
+					'''
+			}
+
+			ParadiseLost: {
+				DisplayName: Paradise Lost (T-03-46)
+				Tooltip:
+					'''
+					''I knocked on the door, and it opened.
+					I am from the end, I am merely staying.
+					I am the one who kindled the lantern to face the world.
+					My loved ones, I shall show thou the best path from now on``
+					[c/FF0000:EGO weapon]
+					Left click launcher travelling through walls projectile
+					Right click slices the air in place
+					Full set of Paradise Lost is required to use this weapon
+					'''
+			}
+
+			Penetrator: {
+				DisplayName: Penetrator
+				Tooltip:
+					'''
+					Pretty slow, unpleasent looking rifle
+					[c/00FF00:Legendary Weapon]
+					Critical hits damage varies from 3x to 6x
+					Uses health instead of ammo
+					[c/00FF00:Stats are growing up through progression]
+					Boosted stats will be shown after the first use
+					'''
+			}
+
+			PlasmaRound: {
+				DisplayName: Plasma Round
+				Tooltip:
+					'''
+					Contains raw energy inside
+					Required for using Tritantrum
+					'''
+			}
+
+			PortalGun: {
+				DisplayName: Rick's Portal Gun
+				Tooltip:
+					'''
+					Copy of Rick Sanchez's Portal Gun
+					Opens portals to the random dangerous dimensions
+					Requires Energy Capsules as ammo
+					Hope this thing wouldn't cause appearence of SEAL team Ricks
+					'''
+			}
+
+			QoHWeapon: {
+				DisplayName: "''In the name of Love and Hate'' (O-01-04)"
+				Tooltip:
+					'''
+					''A magical rod radiating with magical girl's lovely energy.
+					Bad people will be purified by its holy light and be born again.
+					They will burn. They won't want to wake up.''
+					[c/FF0000:EGO weapon]
+					Shots 4 different types of projectile
+					They may restore HP, Mana, inflict debuff or deal double damage.
+					'''
+			}
+
+			QuantumDestabilizer: {
+				DisplayName: Quantum Destabilizer
+				Tooltip:
+					'''
+					Experiment #618
+					Releases entity destabilizing beam, which deals extremely high damage
+					Requires 1 seconds to charge the shot
+					Requires Energy Cells as ammo
+					'''
+			}
+
+			QuantumDestabilizerFixed: {
+				DisplayName: Fixed Quantum Destabilizer
+				Tooltip:
+					'''
+					Experiment #618
+					Releases entity destabilizing beam, which deals extremely high damage
+					Requires 1 seconds to charge the shot
+					Does not require any ammo
+					'''
+			}
+
+			RecluseFang: {
+				DisplayName: Recluse's Fang
+				Tooltip: Throws venomous boomerang
+			}
+
+			Reverberation: {
+				DisplayName: Reverberation (T-04-53)
+				Tooltip:
+					'''
+					This weapon will no longer be needed if the time comes when everyone's lust is substituted with flowers.
+					[c/FF0000:EGO weapon]
+					50% chance to shot additional tile piercing projectile
+					Projectile deals same damage is main, but consumes 15 mana each
+					Can be powered up by equipping full 'Reverberation' set
+					'''
+			}
+
+			Sasscade: {
+				DisplayName: Sasscade Yo-Yo
+				Tooltip:
+					'''
+					Legendary Yo-Yo
+					Shoots homing Nebula Blazes to nearby enemies
+					Blazes destroy enemies with less than 10K HP and inflict heavy damaging debuff
+					Gives effects of Yo-yo Bag while placed in inventory or being held
+					'''
+			}
+
+			SeepingArrow: {
+				DisplayName: Seeping Arrow
+				Tooltip: The unusual usage of cursed materials.
+			}
+
+			SeepingArrowInfinite: {
+				DisplayName: Seeping Arrow
+				Tooltip:
+					'''
+					The unusual usage of cursed materials
+					Infinite
+					'''
+			}
+
+			ShroomiteArrow: {
+				DisplayName: Enhanced Shroomite Arrow
+				Tooltip:
+					'''
+					Releases electric cloud, which shoots electric beams to enemies
+					Speeds up over time
+					'''
+			}
+
+			ShroomiteArrowInfinite: {
+				DisplayName: Enhanced Shroomite Arrow
+				Tooltip:
+					'''
+					Releases electric cloud, which shoots electric beams to enemies
+					Speeds up over time
+					Infinite
+					'''
+			}
+
+			ShroomiteBullet: {
+				DisplayName: Enhanced Shroomite Bullet
+				Tooltip:
+					'''
+					Releases electric cloud, which shoots electric beams to enemies
+					Speeds up over time
+					'''
+			}
+
+			ShroomiteBulletInfinite: {
+				DisplayName: Enhanced Shroomite Bullet
+				Tooltip:
+					'''
+					Releases electric cloud, which shoots electric beams to enemies
+					Speeds up over time
+					Infinite
+					'''
+			}
+
+			SpearofJustice: {
+				DisplayName: Spear of Justice
+				Tooltip:
+					'''
+					Its strike can destroy everything in its way
+					Very own spear of a [c/FF0000:True Hero]
+					Has alternative attack mode on right-click
+					200 or 400 mana is required for using alternative attack
+					'''
+			}
+
+			SpiderFangarang: {
+				DisplayName: Spider Fangarang
+				Tooltip:
+					'''
+					Throws poisoning boomerang
+					Can stack up to 3
+					'''
+			}
+
+			Spore: {
+				DisplayName: Spore (O-04-66)
+				Tooltip:
+					'''
+					''The spear, covered with spores and attention.
+					It expands mind, shines like a star and gradually becomes closer to weilder.''
+					[c/FF0000:EGO weapon]
+					Its attack hits enemy several times
+					After certain amount of hits releases damaging spores into enemy
+					'''
+			}
+
+			Stormbreaker: {
+				DisplayName: Stormbreaker
+				Tooltip:
+					'''
+					Forged to fight the most powerful beings in the universe. Wield it wisely.
+					Right click in inventory to change damage type
+					'''
+			}
+
+			StormbreakerThrown: {
+				DisplayName: Stormbreaker
+				Tooltip:
+					'''
+					Forged to fight the most powerful beings in the universe. Wield it wisely.
+					Right click in inventory to change damage type
+					'''
+			}
+
+			SunkroveraArrow: {
+				DisplayName: Sunkrovera Arrow
+				Tooltip:
+					'''
+					Even holding these make you feel... uneasy.
+					Releases life stealing projectiles on enemy/wall impact
+					'''
+			}
+
+			SunkroveraArrowInfinite: {
+				DisplayName: Sunkrovera Arrow
+				Tooltip:
+					'''
+					Even holding these make you feel... uneasy.
+					Releases life stealing projectiles on enemy/wall impact
+					Infinite
+					'''
+			}
+
+			SunkroveraBullet: {
+				DisplayName: Sunkrovera Bullet
+				Tooltip:
+					'''
+					Its glow makes you chill.
+					Releases life stealing projectiles on enemy/wall impact
+					'''
+			}
+
+			SunkroveraBulletInfinite: {
+				DisplayName: Sunkrovera Bullet
+				Tooltip:
+					'''
+					Its glow makes you chill.
+					Releases life stealing projectiles on enemy/wall impact
+					Infinite
+					'''
+			}
+
+			SwordofArachna: {
+				DisplayName: Sword of Arachna
+				Tooltip: Infects enemies on first hit, releases spiders on second
+			}
+
+			SymbolOfPain: {
+				DisplayName: Scroll ''Symbol of Pain''
+				Tooltip:
+					'''
+					One-use item
+					Contains the spell ''Symbol of Pain''
+					While used, all enemies on the screen would be heavily weakened for 1 minute
+					Makes you deal 25% more damage to affected enemies (not lowered by any caps)
+					Also makes them deal 1/4 less damage
+					Exhausts player for 1 minute, making him unable to use magic
+					'''
+			}
+
+			TerrarianW: {
+				DisplayName: Terrarian-W (V-05-516)
+				Tooltip:
+					'''
+					''Angela's actions have rewritten the very understandment of souls''
+					[c/FF0000:EGO weapon]
+					Left click to shoot burst of lasers
+					Right click to shoot burst of bullets
+					33% chance not to consume ammo
+					'''
+			}
+
+			TheBeak: {
+				DisplayName: The Beak (O-02-56)
+				Tooltip:
+					'''
+					''Size has no meaning while it overflows with power.''
+					[c/FF0000:EGO weapon]
+					Shoots 2 times in one use
+					Bullets set enemies ablaze
+					25% chance not to consume ammo
+					'''
+			}
+
+			TomeOfOrder: {
+				DisplayName: Tome of Order
+				Tooltip:
+					'''
+					[c/00FF00:Legendary Weapon]
+					[c/00FF00:Stats are growing up through progression]
+					''Only the ones who are equally good and evil may weild this''
+					Shoots energy bolts which stick to enemies and tiles
+					They explode after some time or can be blown up manually, dealing double damage
+					'''
+			}
+
+			Tritantrum: {
+				DisplayName: Tritantrum
+				Tooltip:
+					'''
+					Shoots exploding plasma balls
+					Requires special ammo (Plasma Round)
+					50% chance not to consume ammo
+					'''
+			}
+
+			TrueSasscade: {
+				DisplayName: True Sasscade Yo-Yo
+				Tooltip:
+					'''
+					Legendary Yo-Yo
+					Shoots homing Nebula Arcanums to nearby enemies
+					Gives effects of Yo-yo Bag while placed in inventory or being held
+					'''
+			}
+
+			TurretStaff: {
+				DisplayName: Turret Staff
+				Tooltip: Summons deadly GLaDOS turret to fight for you
+			}
+
+			Twilight: {
+				DisplayName: Twilight (O-02-63)
+				Tooltip:
+					'''
+					''Eyes that never close, a scale that could measure all sins, and a beak that could swallow everything
+					protected the Black Forest in peace, and those who could wield this could also bring peace.''
+					[c/FF0000:EGO weapon]
+					Inflicts several types of damage on hit
+					Hits every enemy on screen by 200 each second while held
+					Right click teleports you to cursor, boosting your damage by 3x and making you unvulnerable for 2 seconds
+					'''
+			}
+
+			UgandanTotem: {
+				DisplayName: Ugandan Totem
+				Tooltip:
+					'''
+					Summons Ugandan Warrior to protect you
+					Max minions slots multiply summon's damage
+					'''
+			}
+
+			UnchainedAkumu: {
+				DisplayName: Unchained ''Akumu''
+				Tooltip:
+					'''
+					It means ''[c/FF00FF:nightmare]'' in Japanese
+					Its slice pierces through any amount of enemies on its way
+					Left click launches a short travelling projectile
+					Right click slices the air in place
+					While at 35% HP or lower, Akumu generates projectile reflecting shield
+					While above 35% HP, Akumu releases flying minion
+					'''
+			}
+
+			WailOfBanshee: {
+				DisplayName: Scroll ''Wail Of Banshee''
+				Tooltip:
+					'''
+					One-use item
+					Contains the spell ''Wail of Banshee''
+					When used causes all normal enemies on the screen to instantly die
+					Exhausts player for 1 minute, making him unable to use magic
+					'''
+			}
+
+			Waspnade: {
+				DisplayName: Waspnade
+				Tooltip:
+					'''
+					Releases friendly Wasps after explosion
+					Empowered with Hive Pack/Plague Hive equipped
+					'''
+			}
+
+			WatcherAmulet: {
+				DisplayName: Watcher Amulet
+				Tooltip:
+					'''
+					No wonder it had an oddly shaped amulet in the middle.
+					By obtaining certain essentials you have awakened the true form of this amulet.
+					What unearthly powers does it have? Nobody knows.
+					'''
+			}
+
+			WrathOfTheCelestial: {
+				DisplayName: Wrath of the Celestial
+				Tooltip:
+					'''
+					Shoots cluster of exploding blue flames
+					Way more powerful than it seems
+					'''
+			}
+
+			XtraT: {
+				DisplayName: XtraT
+				Tooltip:
+					'''
+					Shoots 2 arrows and an energy bolt
+					Bolt deals triple weapon damage and pierces through enemies and tiles
+					50% chance not to consume ammo
+					'''
+			}
+
+			# Weapons End
+			
+			# Generics Start
+			CodexUmbra: {
+				DisplayName: Codex Umbra
+				Tooltip:
+					'''
+					I'm so sorry, Charlie...
+					[c/8b0088:*Reference Item*]
+					'''
+			}
+
+			BattleCombination: {
+				DisplayName: Battle Combination
+				Tooltip: Grants buffs, which are necessary for battle (Endurance, Lifeforce, Ironskin, Regeneration, Rage & Wrath)
+			}
+
+			BeachTeleporterPotion: {
+				DisplayName: Beach Teleporter Potion
+				Tooltip:
+					'''
+					Teleports you to the Beach
+					Side depends on used mouse button
+					'''
+			}
+
+			BeaconTeleportator: {
+				DisplayName: Beacon Teleporter Potion
+				Tooltip:
+					'''
+					Teleports you to placed Beacon
+					Will not teleport you anywhere if Beacon is not placed
+					'''
+			}
+
+			BewitchingPotion: {
+				DisplayName: Bewitching Potion
+				Tooltip:
+					'''
+					Grants Bewitched buff (increases max number of minions)
+					NON-CALAMITY BUFF POTION
+					'''
+			}
+
+			BlurringPotion: {
+				DisplayName: Blurring Potion
+				Tooltip:
+					'''
+					Grants Blurring buff (activates Shadow Dodge for 10 sec after 30 sec CD)
+					NON-CALAMITY BUFF POTION
+					'''
+			}
+
+			BuilderCombination: {
+				DisplayName: Builder Combination
+				Tooltip: Grants buffs, which are necessary for building (Calm, Builder, Mining)
+			}
+
+			CalamityCombination: {
+				DisplayName: Calamity Combination
+				Tooltip: Grants most buffs from Calamity Mod potions (Yharim's Stimulants, Cadance, Titan Scale, Soaring, Bounding and Fabsol's Vodka)
+			}
+
+			CloakOfFear: {
+				DisplayName: Scroll ''Cloak of Fear''
+				Tooltip:
+					'''
+					One-use Item
+					Contains the spell ''Cloak of Fear''
+					Makes nearby non-boss enemies change their movement direction
+					Exhausts player for 30 seconds after effect ends, making him unable to use magic
+					'''
+			}
+
+			CrimsonCherrySoda: {
+				DisplayName: Crimson Cherry Soda
+				Tooltip: Heals for 175 hp and increases life regeneration greatly for a short time.
+			}
+
+			DiscordPotion: {
+				DisplayName: Discord Potion
+				Tooltip:
+					'''
+					Allows to teleport on cursor position by hotkey
+					Distorts player for 1 second after teleport
+					Inflicts heavy damage while you have Chaos State
+					Chaos State time is increased to 10 seconds
+					NON-CALAMITY BUFF POTION
+					'''
+			}
+
+			Dopamine: {
+				DisplayName: Dopamine
+				Tooltip: Makes you Happy
+			}
+
+			DungeonTeleportationPotion: {
+				DisplayName: Dungeon Teleportation Potion
+				Tooltip: Teleports you to Dungeon entrance
+			}
+
+			ExecutionersEyes: {
+				DisplayName: Scroll ''Executioner's Eyes''
+				Tooltip:
+					'''
+					One-use Item
+					Contains the spell ''Executioner's Eyes''
+					While used, you are getting your damage multiplied by 15% for 1 minute
+					Also increases critical strike chance by 5%
+					Gives you 5% chance to crit your crit, dealing 4x damage
+					Exhausts player for 1 minute after ending of effect, making him unable to use magic
+					'''
+			}
+
+			ExplorerCombination: {
+				DisplayName: Explorer Combination
+				Tooltip: Grants buffs, which are necessary for exploring (Dangersense, Hunter, Spelunker, Night Owl, Shine, Mining, Gills, Flippers, Water Walking)
+			}
+
+			ExplorersBrew: {
+				DisplayName: Explorer's Brew
+				Tooltip:
+					'''
+					[c/00FF00:Unique Explorer's potion]
+					Grants all possible visions, greatly increases light radius around player and your attacks can Electrocute enemies
+					Also gives effects of Gills, Flippers and Water Walking potions
+					'''
+			}
+
+			FishingCombination: {
+				DisplayName: Fishing Combination
+				Tooltip: Grants Crate, Sonar, Fishing, Regeneration, Thorns, Iron Skin, Calming & Inferno buffs
+			}
+
+			FortitudePotion: {
+				DisplayName: Fortitude Potion
+				Tooltip:
+					'''
+					Grants immunity to knockback
+					NON-CALAMITY BUFF POTION
+					'''
+			}
+
+			GreaterDangersensePotion: {
+				DisplayName: Greater Dangersense Potion
+				Tooltip:
+					'''
+					Grants Greater Dangersense buff (light up enemy projectiles)
+					This effect is global for all players
+					'''
+			}
+
+			HeartAttackPotion: {
+				DisplayName: Potion of Darkness
+				Tooltip:
+					'''
+					Fills Rage meter and causes Heart Attack
+					Cannot be used if any boss is alive
+					NON-CALAMITY POTION
+					'''
+			}
+
+			InvincibilityPotion: {
+				DisplayName: Invincibility Potion
+				Tooltip:
+					'''
+					Increases length of invincibility after taking damage
+					NON-CALAMITY BUFF POTION
+					'''
+			}
+
+			JungleTeleporterPotion: {
+				DisplayName: Jungle Teleporter Potion
+				Tooltip:
+					'''
+					Teleports you to the Jungle
+					Left click teleports to jungle plant
+					Right click teleports to living mahogany leaves
+					'''
+			}
+
+			MageCombination: {
+				DisplayName: Mage Combination
+				Tooltip: Grants buffs, which are necesary for Mages (Magic Power, Mana Regeneration, Сlairvoyance Wrath, Rage)
+			}
+
+			NatureBlessingPotion: {
+				DisplayName: Nature Blessing Potion
+				Tooltip: Grants Dryad's Blessing buff
+			}
+
+			NinjaPotion: {
+				DisplayName: Ninja Potion
+				Tooltip:
+					'''
+					Increases damage and critical chance by 5%
+					Gives a chance to dodge attacks and allows the ability to climb walls
+					NON-CALAMITY BUFF POTION
+					'''
+			}
+
+			OceanTeleporterPotion: {
+				DisplayName: Ocean Teleporter Potion
+				Tooltip:
+					'''
+					Teleports you to the Ocean (near leftest or rightest сoral)
+					Side depends on used mouse button
+					Will not teleport you anywhere if no сorals exist
+					'''
+			}
+
+			OnyxGrapeSoda: {
+				DisplayName: Onyx Grape Soda
+				Tooltip:
+					'''
+					Returns you home and gives you 75% endurance for 5 seconds.
+					Has a 30 seconds cooldown, applies Chaos State debuff
+					'''
+			}
+
+			PerfectDiscordPotion: {
+				DisplayName: Perfect Discord Potion
+				Tooltip:
+					'''
+					[c/00FF00:Unique Explorer's potion]
+					Allows to teleport on cursor position by hotkey
+					Behaves exactly like Rod of Discord
+					NON-CALAMITY BUFF POTION
+					'''
+			}
+
+			InvalidItem: {
+				DisplayName: Invalid Item
+				Tooltip: ""
+			}
+
+			PinkGoldStrawberrySoda: {
+				DisplayName: Pink Gold Strawberry Soda
+				Tooltip: ""
+			}
+
+			RainbowFlask: {
+				DisplayName: Rainbow Flask
+				Tooltip: ""
+			}
+
+			RangerCombination: {
+				DisplayName: Ranger Combination
+				Tooltip: ""
+			}
+
+			SapphireBlueberrySoda: {
+				DisplayName: Sapphire Blueberry Soda
+				Tooltip: ""
+			}
+
+			SummonerCombination: {
+				DisplayName: Summoner Combination
+				Tooltip: ""
+			}
+
+			SunshinePotion: {
+				DisplayName: Sunshine Potion
+				Tooltip: ""
+			}
+
+			TankCombination: {
+				DisplayName: Tank Combination
+				Tooltip: ""
+			}
+
+			TempleTeleportationPotion: {
+				DisplayName: Temple Teleportation Potion
+				Tooltip: ""
+			}
+
+			TerrainReformer: {
+				DisplayName: Terrain Reformer
+				Tooltip: ""
+			}
+
+			ThoriumCombination: {
+				DisplayName: Thorium Combination
+				Tooltip: ""
+			}
+
+			TitanSkinPotion: {
+				DisplayName: Titan Skin Potion
+				Tooltip: ""
+			}
+
+			TrapsPotion: {
+				DisplayName: Traps Potion
+				Tooltip: ""
+			}
+
+			UltimaCake: {
+				DisplayName: Ultima Cake
+				Tooltip: ""
+			}
+
+			UnderworldTeleportationPotion: {
+				DisplayName: Underworld Teleportation Potion
+				Tooltip: ""
+			}
+
+			UniversalCombination: {
+				DisplayName: Universal Combination
+				Tooltip: ""
+			}
+
+			VanTankCombination: {
+				DisplayName: Van Tank Combination
+				Tooltip: ""
+			}
+		}
+
+		NPCs: {
+			BillCipher.DisplayName: Bill Cipher
+
+			Explorer: {
+				DisplayName: Explorer
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LoveNPC: I love {NPCName}.
+					HateNPC: I hate {NPCName}.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Defeat Moon Lord and find the way to use all 9 Torn Notes for saving her
+			}
+
+			GameError.DisplayName: Game Error
+			Knuckles.DisplayName: Knuckles
+
+			OtherworldlyPortal: {
+				DisplayName: Otherworldly Portal
+
+				TownNPCMood: {
+					Content: I am content.
+					NoHome: I hate not having a home.
+					FarFromHome: I am too far from home.
+					LoveSpace: I love having so much space.
+					DislikeCrowded: I dislike how crowded I am.
+					HateCrowded: I hate how crowded I am.
+					LikeNPC_Princess: I like {NPCName}.
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Not exactly a Town NPC, one of the steps for saving the Explorer
+			}
+
+			Alchemist: {
+				DisplayName: Alchemist
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.Alchemist.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Defeat Eye of Cthulhu
+			}
+
+			Architect: {
+				DisplayName: Architect
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.Architect.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Have at least 3 NPCs
+			}
+
+			Brewer: {
+				DisplayName: Brewer
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.Brewer.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Defeat Eye of Cthulhu
+			}
+
+			Jeweler: {
+				DisplayName: Jeweler
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.Jeweler.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Defeat Eye of Cthulhu
+			}
+
+			Musician: {
+				DisplayName: Musician
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.Musician.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Defeat Skeletron
+			}
+
+			Operator: {
+				DisplayName: Operator
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.Operator.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Defeat Eater of Worlds/Brain of Cthulhu
+			}
+
+			Tinkerer: {
+				DisplayName: Tinkerer
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.Tinkerer.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: Defeat Eye of Cthulhu
+			}
+
+			YoungBrewer: {
+				DisplayName: Young Brewer
+
+				TownNPCMood: {
+					Content: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.Content}"
+					NoHome: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.NoHome}"
+					FarFromHome: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.FarFromHome}"
+					LoveSpace: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.LoveSpace}"
+					DislikeCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.DislikeCrowded}"
+					HateCrowded: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.HateCrowded}"
+					LoveBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.LoveBiome}"
+					LikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.LikeBiome}"
+					DislikeBiome: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.DislikeBiome}"
+					LoveNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.LoveNPC}"
+					LikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.LikeNPC}"
+					DislikeNPC: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.DislikeNPC}"
+					LikeNPC_Princess: "{$Mods.AlchemistNPCLite.TownNPCMood.YoungBrewer.LikeNPC_Princess}"
+					Princess_LovesNPC: I like {NPCName}.
+				}
+
+				Census.SpawnCondition: World is in hardmode state
+			}
+		}
+
+		Projectiles: {
+			CelestialHookProjectile.DisplayName: Celestial Hook Projectile
+			GrapplingHookGunProjectile.DisplayName: Grappling Hook Gun Projectile
+			Akumu.DisplayName: Akumu
+			AkumuMirror.DisplayName: Akumu Mirror
+			AkumuShield.DisplayName: Akumu Shield
+			AkumuSphere.DisplayName: Akumu Sphere
+			AkumuThrow.DisplayName: Akumu Throw
+			BB.DisplayName: B B
+			Bees.DisplayName: Bees
+			BlueFlame.DisplayName: Blue Flame
+			Bolt.DisplayName: Bolt
+			BreathOfTheVoid.DisplayName: Breath Of The Void
+			CAE.DisplayName: C A E
+			CB1.DisplayName: C B1
+			CB2.DisplayName: C B2
+			CB3.DisplayName: C B3
+			CB4.DisplayName: C B4
+			ChaosBomb.DisplayName: Chaos Bomb
+			Chloroshard.DisplayName: Chloroshard
+			Chloroshard1.DisplayName: Chloroshard1
+			ChloroshardArrow.DisplayName: Chloroshard Arrow
+			ChromovariaArrow.DisplayName: Chromovaria Arrow
+			ChromovariaBullet.DisplayName: Chromovaria Bullet
+			CloakOfFear.DisplayName: Cloak Of Fear
+			ConeOfColdProjectile.DisplayName: Cone Of Cold Projectile
+			CorrosiveFlask.DisplayName: Corrosive Flask
+			CorrosiveFlaskCloud.DisplayName: Corrosive Flask Cloud
+			CorrosiveFlaskCloudMagic.DisplayName: Corrosive Flask Cloud Magic
+			CorrosiveFlaskMagic.DisplayName: Corrosive Flask Magic
+			Counter.DisplayName: Counter
+			CrystalDust.DisplayName: Crystal Dust
+			CrystalyzedArrow.DisplayName: Crystalyzed Arrow
+			CursedWaspnade.DisplayName: Cursed Waspnade
+			CursedWasps.DisplayName: Cursed Wasps
+			DarkBomb.DisplayName: Dark Bomb
+			DarkShot.DisplayName: Dark Shot
+			DBB.DisplayName: D B B
+			DBD.DisplayName: D B D
+			DBI.DisplayName: D B I
+			DBJ.DisplayName: D B J
+			DBK.DisplayName: D B K
+			DBP.DisplayName: D B P
+			DBPV.DisplayName: D B P V
+			DeadlyLaser.DisplayName: Deadly Laser
+			DemonicBullet.DisplayName: Demonic Bullet
+			DemonicExplosion.DisplayName: Demonic Explosion
+			DimensionalRift.DisplayName: Dimensional Rift
+			DivineWaspnade.DisplayName: Divine Waspnade
+			DivineWasps.DisplayName: Divine Wasps
+			Drainer.DisplayName: Drainer
+			DriedFishBubble.DisplayName: Dried Fish Bubble
+			DTH.DisplayName: D T H
+			DTHL.DisplayName: D T H L
+			ElectricBolt.DisplayName: Electric Bolt
+			ElementalWaspnade.DisplayName: Elemental Waspnade
+			ElementalWasps1.DisplayName: Elemental Wasps1
+			ElementalWasps2.DisplayName: Elemental Wasps2
+			ElementalWasps3.DisplayName: Elemental Wasps3
+			EnergyBall.DisplayName: Energy Ball
+			EnergyBurst.DisplayName: Energy Burst
+			Explosion.DisplayName: Explosion
+			ExplosionAvenger.DisplayName: Explosion Avenger
+			ExplosionDummy.DisplayName: Explosion Dummy
+			ExplosionDummyL.DisplayName: Explosion Dummy L
+			ExplosionDummyQD.DisplayName: Explosion Dummy Q D
+			ExplosionDummySB.DisplayName: Explosion Dummy S B
+			ExplosionNyx.DisplayName: Explosion Nyx
+			ExplosionPlasma.DisplayName: Explosion Plasma
+			ExplosionShroom.DisplayName: Explosion Shroom
+			ExplosionSOJ.DisplayName: Explosion S O J
+			FA1.DisplayName: F A1
+			FA11.DisplayName: F A11
+			FA12.DisplayName: F A12
+			FA13.DisplayName: F A13
+			FA2.DisplayName: F A2
+			FA21.DisplayName: F A21
+			FA22.DisplayName: F A22
+			FA23.DisplayName: F A23
+			FA3.DisplayName: F A3
+			FA31.DisplayName: F A31
+			FA32.DisplayName: F A32
+			FA33.DisplayName: F A33
+			FA4.DisplayName: F A4
+			FDB.DisplayName: F D B
+			Fear.DisplayName: Fear
+			Fear2.DisplayName: Fear2
+			FearEm.DisplayName: Fear Em
+			FlaskExp.DisplayName: Flask Exp
+			FungalosphereProjectile.DisplayName: Fungalosphere Projectile
+			FungalosphereProjectileDummy.DisplayName: Fungalosphere Projectile Dummy
+			Gemstone.DisplayName: Gemstone
+			Globe199.DisplayName: Globe199
+			GrimReaper.DisplayName: Grim Reaper
+			GrinderMK4.DisplayName: Grinder M K4
+			HealingPulse.DisplayName: Healing Pulse
+			Hive.DisplayName: Hive
+			Home.DisplayName: Home
+			IcedamnedArrow.DisplayName: Icedamned Arrow
+			IField.DisplayName: I Field
+			IlluminatiFreeze.DisplayName: Illuminati Freeze
+			JP.DisplayName: J P
+			L1.DisplayName: L1
+			L2.DisplayName: L2
+			L3.DisplayName: L3
+			LaserCannon.DisplayName: Laser Cannon
+			LastTantrum.DisplayName: Last Tantrum
+			Lightning.DisplayName: Lightning
+			LocatorProjectile.DisplayName: Locator Projectile
+			Madness.DisplayName: Madness
+			MagicWand.DisplayName: Magic Wand
+			MagicWandC.DisplayName: Magic Wand C
+			MagicWandM.DisplayName: Magic Wand M
+			MB.DisplayName: M B
+			Devilsknife.DisplayName: Devilsknife
+			LittleWitchMonster.DisplayName: Little Witch Monster
+			Turret.DisplayName: Turret
+			UgandanWarrior.DisplayName: Ugandan Warrior
+			MM.DisplayName: M M
+			MordenkainenSword.DisplayName: Mordenkainen Sword
+			NULL.DisplayName: N U L L
+			NyctosyphiaBeam.DisplayName: Nyctosyphia Beam
+			NyctosythiaArrow.DisplayName: Nyctosythia Arrow
+			NyctosythiaArrowGhost.DisplayName: Nyctosythia Arrow Ghost
+			NyctosythiaBullet.DisplayName: Nyctosythia Bullet
+			NyctosythiaBulletGhost.DisplayName: Nyctosythia Bullet Ghost
+			Nyx.DisplayName: Nyx
+			PaleStar.DisplayName: Pale Star
+			ParadiseLost.DisplayName: Paradise Lost
+			ParadiseLostMirror.DisplayName: Paradise Lost Mirror
+			ParadiseLostProjectile.DisplayName: Paradise Lost Projectile
+			Snatcher.DisplayName: Snatcher
+			Yui.DisplayName: Yui
+			YuiS.DisplayName: Yui S
+			PF398.DisplayName: P F398
+			PF422.DisplayName: P F422
+			PF666.DisplayName: P F666
+			PlasmaBurst.DisplayName: Plasma Burst
+			PlasmaRound.DisplayName: Plasma Round
+			PortalGunProj.DisplayName: Portal Gun Proj
+			QoH1.DisplayName: Qo H1
+			QoH2.DisplayName: Qo H2
+			QoH3.DisplayName: Qo H3
+			QoH4.DisplayName: Qo H4
+			QuantumDestabilizer.DisplayName: Quantum Destabilizer
+			RecluseFang.DisplayName: Recluse Fang
+			RedWave.DisplayName: Red Wave
+			RedWaveExp.DisplayName: Red Wave Exp
+			Returner.DisplayName: Returner
+			Returner2.DisplayName: Returner2
+			RickPortal1.DisplayName: Rick Portal1
+			RickPortal2.DisplayName: Rick Portal2
+			RickPortal3.DisplayName: Rick Portal3
+			RickPortal4.DisplayName: Rick Portal4
+			RickPortal5.DisplayName: Rick Portal5
+			SasscadeYoyo.DisplayName: Sasscade Yoyo
+			SB.DisplayName: S B
+			SeepingArrow.DisplayName: Seeping Arrow
+			ShadowBurst.DisplayName: Shadow Burst
+			SharpBone.DisplayName: Sharp Bone
+			SharpNeedle.DisplayName: Sharp Needle
+			ShroomiteArrow.DisplayName: Shroomite Arrow
+			ShroomiteBullet.DisplayName: Shroomite Bullet
+			SpearofJustice.DisplayName: Spearof Justice
+			SpearofJusticeB.DisplayName: Spearof Justice B
+			SpearofJusticeG.DisplayName: Spearof Justice G
+			SpiderFang.DisplayName: Spider Fang
+			SpiderFangarang.DisplayName: Spider Fangarang
+			Spore.DisplayName: Spore
+			SporeTrap.DisplayName: Spore Trap
+			SpringShield.DisplayName: Spring Shield
+			Stormbreaker.DisplayName: Stormbreaker
+			StormbreakerSwing.DisplayName: Stormbreaker Swing
+			StormbreakerT.DisplayName: Stormbreaker T
+			SunkroveraArrow.DisplayName: Sunkrovera Arrow
+			SunkroveraBullet.DisplayName: Sunkrovera Bullet
+			SymbioteMeteor.DisplayName: Symbiote Meteor
+			SymbolOfPain.DisplayName: Symbol Of Pain
+			SymbolOfPainVision.DisplayName: Symbol Of Pain Vision
+			TP.DisplayName: T P
+			TrueAkumuShield.DisplayName: True Akumu Shield
+			TrueSasscadeYoyo.DisplayName: True Sasscade Yoyo
+			Vaporizer.DisplayName: Vaporizer
+			Void.DisplayName: Void
+			VoidDummy.DisplayName: Void Dummy
+			WailOfBanshee.DisplayName: Wail Of Banshee
+			Waspnade.DisplayName: Waspnade
+			Wasps.DisplayName: Wasps
+			WatcherCrystal.DisplayName: Watcher Crystal
+		}
+
+		Configs: {
+			ModConfiguration: {
+				DisplayName: Mod Configuration
+
+				AlchemistSpawn: {
+					Label: Alchemist Spawn toggle
+					Tooltip: True to enable Alchemist NPC spawn, false to disable. True by default
+				}
+
+				BrewerSpawn: {
+					Label: Brewer Spawn toggle
+					Tooltip: True to enable Brewer NPC spawn, false to disable. True by default
+				}
+
+				JewelerSpawn: {
+					Label: Jeweler Spawn toggle
+					Tooltip: True to enable Jeweler NPC spawn, false to disable. True by default
+				}
+
+				YoungBrewerSpawn: {
+					Label: Young Brewer Spawn toggle
+					Tooltip: True to enable Young Brewer NPC spawn, false to disable. True by default
+				}
+
+				ArchitectSpawn: {
+					Label: Architect Spawn toggle
+					Tooltip: True to enable Architect NPC spawn, false to disable. True by default
+				}
+
+				OperatorSpawn: {
+					Label: Operator Spawn toggle
+					Tooltip: True to enable Operator NPC spawn, false to disable. True by default
+				}
+
+				MusicianSpawn: {
+					Label: Musician Spawn toggle
+					Tooltip: True to enable Musician NPC spawn, false to disable. True by default
+				}
+
+				TinkererSpawn: {
+					Label: Tinkerer Spawn toggle
+					Tooltip: True to enable Tinkerer NPC spawn, false to disable. True by default
+				}
+
+				ExplorerSpawn: {
+					Label: Explorer Spawn toggle
+					Tooltip: True to enable Explorer NPC spawn, false to disable. True by default
+				}
+
+				TornNotesDrop: {
+					Label: Torn Notes Drop toggle
+					Tooltip: True to enable Torn Notes drop, false to disable. True by default
+				}
+
+				CoinsDrop: {
+					Label: Reversity Coins Drop toggle
+					Tooltip: True to enable Reversity Coins drop, false to disable. True by default
+				}
+
+				LifeformAnalyzer: {
+					Label: Lifeform Analyzer laser pointing
+					Tooltip: Enable or disable laser pointing of Lifeform Analyzer (ticks each second). False by default
+				}
+
+				LocatorRange: {
+					Label: Lifeform Analyzer Pointing Range
+					Tooltip: Max distance the pointer will track. 4000 by default
+				}
+
+				DisabledLocatorNpcs: {
+					Label: Disabled NPCs for Lifeform Analyzer Locator
+					Tooltip: Arrows won't point to these NPCs
+				}
+
+				RevPrices: {
+					Label: Revengeance mode prices scaling
+					Tooltip: True to make potions prices bigger. True by default
+				}
+
+				CatchNPC: {
+					Label: Catcheable mod's NPCs toggle
+					Tooltip: True to make mod's town NPCs catcheable. True by default
+				}
+
+				PotsPriceMulti: {
+					Label: Potions price multiplier
+					Tooltip: Multiplies potions price by X. 1 by default
+				}
+
+				StarPrice: {
+					Label: Fallen Stars Price
+					Tooltip: 1000 is 10 silver price by default
+				}
+
+				RecallPrice: {
+					Label: Recall Potion Price
+					Tooltip: 1000 is 10 silver price by default
+				}
+
+				WormholePrice: {
+					Label: Wormhole Potion Price
+					Tooltip: 1000 is 10 silver price by default
+				}
+
+				SiltSlushPrice: {
+					Label: Silt/Slush blocks Price
+					Tooltip: 700 is 7 silver price by default
+				}
+
+				DesertFossilPrice: {
+					Label: Desert Fossil Price
+					Tooltip: 1000 is 10 silver price by default
+				}
+
+				ShopChangeDelay: {
+					Label: Shop Change Delay
+					Tooltip: Delay before shop can be changed after opening interface. 10 frames by default
+				}
+
+				GameError: {
+					Label: Support for the Lite version?
+					Tooltip: ???
+				}
+			}
+		}
+
+		Prefixes.InvalidPrefix.DisplayName: Invalid Prefix
+	}
+}
