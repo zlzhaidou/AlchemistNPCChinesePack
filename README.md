@@ -1,0 +1,2 @@
+# AlchemistNPCChinesePack
+这里是炼金NPC重生再一次汉化
