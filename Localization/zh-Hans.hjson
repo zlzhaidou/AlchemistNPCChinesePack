@@ -4255,8 +4255,8 @@ Mods: {
 					修复了的潘多拉, 解锁了破坏潜力
 					特殊攻击 #2 (能量放出)
 					攻击填装灾难条
-					Full gauge allows you to switch weapon's form
-					Right click to change special attack
+					灾厄槽集满时能够切换武器形态
+					右键切换特殊攻击
 					'''
 			}
 
@@ -5239,7 +5239,7 @@ Mods: {
 				Census.SpawnCondition: 进入困难模式
 			}
 		}
-
+//这里是弹幕名称
 		Projectiles: {
 			CelestialHookProjectile.DisplayName: 天界钩-钩
 			GrapplingHookGunProjectile.DisplayName: 抓钩枪-钩
