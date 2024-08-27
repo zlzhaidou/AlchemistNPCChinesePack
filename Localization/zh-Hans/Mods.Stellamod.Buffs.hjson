@@ -1,0 +1,789 @@
+VoidMinionBuff: {
+	Description: 嗡嗡嗡.........
+	DisplayName: 寰虚奇点
+}
+
+TheBurningRodMinionBuff: {
+	Description: 它燃烧着激情
+	DisplayName: 生火的木棍
+}
+
+SwarmerMinionBuff: {
+	Description: 蜂拥而至
+	DisplayName: 蜂群
+}
+
+SolMothMinionBuff: {
+	Description: 哦~一只飞蛾！
+	DisplayName: 光之蛾
+}
+
+ProbeMinionBuff: {
+	DisplayName: 探测器
+	Description: biu biu biu~
+}
+
+MushroomStaveMinionBuff: {
+	Description: 我发誓我不吃蘑菇长官!
+	DisplayName: 小荧绽菇
+}
+
+ManaWandMinionBuff: {
+	Description: 阿瓦达!
+	DisplayName: 魔杖
+}
+
+LifeWandMinionBuff: {
+	Description: 岁月!
+	DisplayName: 生命法杖
+}
+
+JellyMinionBuff: {
+	Description: 我喜欢黏黏的东西~
+	DisplayName: 凝胶水母
+}
+
+IvyakenMinionBuff: {
+	Description: 强而有力的弓!
+	DisplayName: 伊维亚肯
+}
+
+IrradiatedCreeperMinionBuff: {
+	Description: 这是你印象中的爬行动物吗?
+	DisplayName: 辐射爬行者
+}
+
+IceboundMinionBuff: {
+	Description: 逐渐冻结.
+	DisplayName: 寒冰蝙蝠
+}
+
+HMMinionBuff: {
+	Description: 你死定了.
+	DisplayName: H M
+}
+
+FCMinionBuff: {
+	Description: 我们正在逐步变强不是吗?
+	DisplayName: F C
+}
+
+DripplerMinionBuff: {
+	Description: 滴滴答答...
+	DisplayName: 滴滴怪
+}
+
+AuroranSeekerMinionBuff: {
+	Description: 魔法咒语百科.
+	DisplayName: 寻星之籍
+}
+
+ArncharMinionBuff: {
+	Description: 远程控制!
+	DisplayName: 阿恩查尔试作一号
+}
+
+Wounded: {
+	Description: 受伤了
+	DisplayName: 负伤
+}
+
+Whipdeath: {
+	Description: 受虐
+	DisplayName: 鞭打我吧主人~ :<
+}
+
+MorrowWhipDebuff: {
+	Description: 挥鞭时无力.
+	DisplayName: 余辉之鞭
+}
+
+Morrow: {
+	Description: 幽曦噬咬
+	DisplayName: 幽曦
+}
+
+SnowFlame: {
+	Description: 燃烧似雪
+	DisplayName: 雪焰
+}
+
+Rekin: {
+	Description: 莱克
+	DisplayName: 涅槃
+}
+
+PocketSandBuff: {
+	Description: 诡秘之沙
+	DisplayName: 袋中砂
+}
+
+Love: {
+	Description: 有时小小的诡计会加速接近幸福!
+	DisplayName: 爱
+}
+
+Irradiation: {
+	Description: 新的肢体从你身上萌芽.
+	DisplayName: 辐射
+}
+
+Harvester: {
+	Description: 收获之地
+	DisplayName: 收割者
+}
+
+Gintzingwinds: {
+	Description: 令人惊奇的事件
+	DisplayName: 金戈亚狂风
+}
+
+GintzeSeen: {
+	Description: 你正被监视.
+	DisplayName: 玄铁视界
+}
+
+GintzelSheildCD: {
+	Description: 这个盾牌的确很有用
+	DisplayName: 玄铁盾冷却
+}
+
+GintzelSheild: {
+	Description: 一个不错的盾牌
+	DisplayName: 玄铁盾
+}
+
+Elegance: {
+	Description: 你优雅地漂浮着.
+	DisplayName: 高雅
+}
+
+VoiddDust: {
+	Description: Mods.Stellamod.Buffs.VoiddDust.Description
+	DisplayName: 虚无之尘
+}
+
+TrickDust: {
+	Description: Mods.Stellamod.Buffs.TrickDust.Description
+	DisplayName: 恶作剧之尘
+}
+
+SongDust: {
+	Description: Mods.Stellamod.Buffs.SongDust.Description
+	DisplayName: 歌颂之尘
+}
+
+ShadeDust: {
+	Description: Mods.Stellamod.Buffs.ShadeDust.Description
+	DisplayName: 阴影之尘
+}
+
+KaevDust: {
+	Description: Mods.Stellamod.Buffs.KaevDust.Description
+	DisplayName: Kaev之尘
+}
+
+IceDust: {
+	Description: Mods.Stellamod.Buffs.IceDust.Description
+	DisplayName: 冰之尘
+}
+
+GrassBuff: {
+	Description: Mods.Stellamod.Buffs.GrassBuff.Description
+	DisplayName: 绿草茵茵
+}
+
+GovheilDust: {
+	Description: Mods.Stellamod.Buffs.GovheilDust.Description
+	DisplayName: 歌维赫之尘
+}
+
+FlowerBuff: {
+	Description: Mods.Stellamod.Buffs.FlowerBuff.Description
+	DisplayName: 花团锦簇
+}
+
+FlameDust: {
+	Description: Mods.Stellamod.Buffs.FlameDust.Description
+	DisplayName: 火光烛天
+}
+
+EXPtime4: {
+	Description: Mods.Stellamod.Buffs.EXPtime4.Description
+	DisplayName: 型号: X Ptime4
+}
+
+EXPtime3: {
+	Description: Mods.Stellamod.Buffs.EXPtime3.Description
+	DisplayName: 型号: X Ptime3
+}
+
+EXPtime2: {
+	Description: Mods.Stellamod.Buffs.EXPtime2.Description
+	DisplayName: 型号: X Ptime2
+}
+
+EXPtime: {
+	Description: Mods.Stellamod.Buffs.EXPtime.Description
+	DisplayName: 型号: X Ptime
+}
+
+CrystalDust: {
+	Description: Mods.Stellamod.Buffs.CrystalDust.Description
+	DisplayName: 水晶之尘
+}
+
+CoalBuff: {
+	Description: Mods.Stellamod.Buffs.CoalBuff.Description
+	DisplayName: 煤炭
+}
+
+AlcadDust: {
+	Description: Mods.Stellamod.Buffs.AlcadDust.Description
+	DisplayName: 阿尔卡德之尘
+}
+
+AivanDust: {
+	Description: Mods.Stellamod.Buffs.AivanDust.Description
+	DisplayName: 艾万之尘
+}
+
+Dusted: {
+	Description: Mods.Stellamod.Buffs.Dusted.Description
+	DisplayName: 完成
+}
+
+DeathMultiplierBloodLamp: {
+	Description: 挥动冥界血光
+	DisplayName: 恂影血灯
+}
+
+DeathMultiplier: {
+	Description: 伤害在成倍增加
+	DisplayName: 亡悼
+}
+
+DarkHold: {
+	Description: 什么东西覆盖住了你的视线. 死亡在阴影中伺机而动...
+	DisplayName: 昏暗密室
+}
+
+VixedB: {
+	Description: 暖意传遍你的指尖.
+	DisplayName: 遗忘！
+}
+
+VerliaBroo: {
+	Description: 她的灵魂仍然时刻伴你左右.
+	DisplayName: 薇莉娅饰符
+}
+
+StoneB: {
+	Description: 我tm很兴奋#%#
+	DisplayName: 你喝醉了.
+}
+
+Spragald: {
+	Description: 看看它强大的防御力!
+	DisplayName: 斯普拉德戈饰符
+}
+
+Slimee: {
+	Description: 我祈祷现在就能拥有这个头衔.
+	DisplayName: 粘液!
+}
+
+MalB: {
+	Description: 邪恶事物正在酝酿...
+	DisplayName: 恶意饰符
+}
+
+IceBrooch: {
+	Description: 比你感受过的一切都要冷.
+	DisplayName: 极冰饰符
+}
+
+GovheilB: {
+	Description: 有用的很呐!
+	DisplayName: 歌维赫饰符
+}
+
+Goldren: {
+	Description: 金光闪闪不是吗?
+	DisplayName: 金色的
+}
+
+GintBroo: {
+	Description: 一点用没有呢...
+	DisplayName: 玄铁饰符
+}
+
+Flyfish: {
+	Description: 健步如飞!
+	DisplayName: 飞鱼饰符
+}
+
+DreadB: {
+	Description: 昔人逝去已久
+	DisplayName: 惧怖饰符
+}
+
+Diarii: {
+	Description: 感谢你的游玩!
+	DisplayName: Diarii
+}
+
+BurningGB: {
+	Description: 和名字描述的一样.
+	DisplayName: 燃烧的蟑螂
+}
+
+BearB: {
+	Description: 熊的力量
+	DisplayName: 熊饰符
+}
+
+AurelusB: {
+	Description: 你还能看见吗?
+	DisplayName: 匿影饰符
+}
+
+AmethystBroo: {
+	Description: 我爱紫色的水晶!
+	DisplayName: 紫晶饰符
+}
+
+AssassinsSlashBuff: {
+	Description: 万物皆虚,万事皆允
+	DisplayName: 刺客之剑
+}
+
+ArcaneDust: {
+	Description: Mods.Stellamod.Buffs.ArcaneDust.Description
+	DisplayName: 隐秘之尘
+}
+
+AcidFlame: {
+	Description: 你感觉自己长出了第六根手指.
+	DisplayName: 酸性火焰
+}
+
+AbyssalFlame: {
+	Description: 黑夜以此灼烧你.
+	DisplayName: 深渊火焰
+}
+
+VehementMinionBuff: {
+	Description: Mods.Stellamod.Buffs.VehementBuff.Description
+	DisplayName: 崩决
+}
+
+VampireTorchMinionBuff: {
+	Description: 帅气登场，对吗?
+	DisplayName: 吸血鬼火炬
+}
+
+ToxicHornetMinionBuff: {
+	Description: 它的枪口弹道偏左.
+	DisplayName: 瘟疫黄蜂
+}
+
+HallowWandMinionBuff: {
+	Description: 一剂毫无功效的药水，别多想
+	DisplayName: 圣水瓶
+}
+
+FireflyMinionBuff: {
+	Description: 当心眼睛！
+	DisplayName: 萤火虫
+}
+
+CloudMinionBuff: {
+	Description: 雨停之后，我便会死
+	DisplayName: 唤雷乌云
+}
+
+ChromaCutterMinionBuff: {
+	Description: 斩碎切割在泰拉瑞亚中!
+	DisplayName: 能谱切割仪
+}
+
+AlcadWandMinionBuff: {
+	Description: 轻轻洒出凤涅克丝的洗澡水.
+	DisplayName: 阿尔法德魔杖
+}
+
+CameraMinBuff: {
+	Description: 光彩照人!
+	DisplayName: 小型摄影机
+}
+
+LaceratorDebuff: {
+	Description: 固定好了吗？
+	DisplayName: 撕裂扭曲
+}
+
+DarkWhipDebuff: {
+	Description: 受黑暗鞭策.亘古不变的话语
+	DisplayName: 黑暗之鞭
+}
+
+VialedUp: {
+	Description: 这种有毒的酒真是让我兴奋不已
+	DisplayName: 上头
+}
+
+Starbombin: {
+	Description: 这真是颗星星吗?
+	DisplayName: 恒星轰炸
+}
+
+ShadowBoost: {
+	Description: 贯穿恒夜的阴暗
+	DisplayName: 熵增之影
+}
+
+Sected: {
+	Description: 好吧我的意思是性欲
+	DisplayName: 兴致
+}
+
+MiracleBoost: {
+	Description: 桀桀桀桀桀
+	DisplayName: 得道飞升
+}
+
+MasteryMagic: {
+	Description: 这个无所不会的魔法小家伙会跟着你!
+	DisplayName: 魔法精通
+}
+
+Liberator: {
+	Description: 脉冲光束!
+	DisplayName: 士兵男孩
+}
+
+Lacerated: {
+	Description: 紧束
+	DisplayName: 感受撕裂
+}
+
+Genesis: {
+	Description: 微型塌缩
+	DisplayName: 起源
+}
+
+Friendzied: {
+	Description: 我嗨的不行
+	DisplayName: 朋友齐聚
+}
+
+Executor: {
+	Description: 用激光烤熟他们的蛋蛋
+	DisplayName: 执 行 者
+}
+
+UseIgniter: {
+	Description: 现在握住并喷射你的点火器!
+	DisplayName: 火焰喷射者
+}
+
+SpiritDust: {
+	Description: Mods.Stellamod.Buffs.SpiritDust.Description
+	DisplayName: 心灵之尘
+}
+
+JungleDust: {
+	Description: Mods.Stellamod.Buffs.JungleDust.Description
+	DisplayName: 丛林之尘
+}
+
+EldritchDust: {
+	Description: Mods.Stellamod.Buffs.EldritchDust.Description
+	DisplayName: 幽古之尘
+}
+
+AgreviDust: {
+	Description: Mods.Stellamod.Buffs.AgreviDust.Description
+	DisplayName: 阿格雷茜之尘
+}
+
+SandyB: {
+	Description: 这不是一张沙子的脸
+	DisplayName: 沙暴饰符
+}
+
+RoseB: {
+	Description: 小小的玫瑰花盾环绕着你
+	DisplayName: 玫瑰饰符
+}
+
+MagicalBroo: {
+	Description: 你撒谎并不让人意外
+	DisplayName: 神奇饰符
+}
+
+LuckyB: {
+	Description: 一条好运的母狗
+	DisplayName: 幸运饰符
+}
+
+JellyB: {
+	Description: 你可以将我凝固 ;)
+	DisplayName: 凝胶饰符
+}
+
+BonedB: {
+	Description: 你真是太瘦了
+	DisplayName: 骨瘦如柴
+}
+
+Chained: {
+	Description: 像是奴隶一样被锁住
+	DisplayName: 束缚
+}
+
+CannotUseFlask: {
+	Description: 你现在不能使用瓶子
+	DisplayName: 禁用瓶子
+}
+
+Alcadded: {
+	Description: 阿尔卡德
+	DisplayName: 阿尔卡德化
+}
+
+BucketScrapperMinionBuff: {
+	DisplayName: 切削铲齿
+	Description: 准备好冲向-
+}
+
+Zuid: {
+	Description: Mods.Stellamod.Buffs.Zuid.Description
+	DisplayName: 瑞徳
+}
+
+VillagersB: {
+	Description: Mods.Stellamod.Buffs.VillagersB.Description
+	DisplayName: 村民B
+}
+
+AmberB: {
+	Description: Mods.Stellamod.Buffs.AmberB.Description
+	DisplayName: 琥珀B
+}
+
+SFBuff: {
+	Description: Mods.Stellamod.Buffs.SFBuff.Description
+	DisplayName: S F
+}
+
+AuroreanStarballDebuff: {
+	DisplayName: 曦光星体减益
+	Description: Mods.Stellamod.Buffs.AuroreanStarballDebuff.Description
+}
+
+ReflectionSeekerBuff: {
+	DisplayName: 仿生泪滴
+	Description: Mods.Stellamod.Buffs.ReflectionSeekerBuff.Description
+}
+
+TwinStarbombasDebuff: {
+	Description: Mods.Stellamod.Buffs.TwinStarbombasDebuff.Description
+	DisplayName: 双星炸弹减益
+}
+
+SupernovaChained: {
+	DisplayName: 超新星连锁减益
+	Description: Mods.Stellamod.Buffs.SupernovaChained.Description
+}
+
+ThePollinatorDebuff: {
+	Description: Mods.Stellamod.Buffs.ThePollinatorDebuff.Description
+	DisplayName: 传粉者减益
+}
+
+BlackballDebuff: {
+	Description: Mods.Stellamod.Buffs.BlackballDebuff.Description
+	DisplayName: 排斥减益
+}
+
+MiracleLiquid: {
+	DisplayName: 神圣液体
+	Description: 你觉得很蠢... 2.2倍伤害!!!!
+}
+
+SplashAttackDebuff: {
+	DisplayName: 飞溅攻击
+	Description: 华丽
+}
+
+SineSireDebuff: {
+	Description: 已生成
+	DisplayName: 正弦生成减益
+}
+
+IllurianB: {
+	Description: 感觉不健康
+	DisplayName: 星树B
+}
+
+FlowerPower: {
+	Description: Mods.Stellamod.Buffs.FlowerPower.Description
+	DisplayName: 花之能源
+}
+
+SigfriedsInsanity: {
+	Description: 齐格飞用你无法想象的癫狂灼烧你.在蕊之后归来.
+	DisplayName: 齐格飞狂怒
+}
+
+ShadeWrath: {
+	DisplayName: 幽影之怒
+	Description: 暗影的力量遍布全身!
+}
+
+ShadeWrathCooldown: {
+	DisplayName: 幽影之怒冷却
+	Description: 重新充能你的暗影...
+}
+
+BabySwarmerMinionBuff: {
+	DisplayName: 妖黄蜂
+	Description: 它们无处不在!
+}
+
+FlamesOfIlluria: {
+	Description: 熊熊燃烧
+	DisplayName: 星树焰火
+}
+
+ISHNYIREShow: {
+	DisplayName: 伊 什 尼 尔
+	Description: 希丝忒莉亚武器模式
+}
+
+IshShow: {
+	DisplayName: 艾希
+	Description: 希丝忒莉亚武器模式
+}
+
+VireShow: {
+	DisplayName: 维尔
+	Description: 希丝忒莉亚武器模式
+}
+
+YireShow: {
+	DisplayName: 伊云
+	Description: 希丝忒莉亚武器模式
+}
+
+ColdheartAnklebiterDebuff: {
+	DisplayName: 脚踝冰冷减益
+	Description: 被咬啦
+}
+
+IlluBuff: {
+	DisplayName: 幻
+	Description: 迷惑不定
+}
+
+IshyBuff: {
+	DisplayName: 伊希
+	Description: Mods.Stellamod.Buffs.IshyBuff.Description
+}
+
+MushyBuff: {
+	DisplayName: 糊状
+	Description: Mods.Stellamod.Buffs.MushyBuff.Description
+}
+
+RibbonWrapped: {
+	DisplayName: 丝带包裹
+	Description: Mods.Stellamod.Buffs.RibbonWrapped.Description
+}
+
+StarSuper: {
+	Description: 你是我的超级明星
+	DisplayName: 璀璨巨星
+}
+
+VixylDodgeBuff: {
+	DisplayName: 月光奏鸣曲
+	Description: 看看我的薇莉娅cosplay!
+}
+
+JacksonPollockMinionBuff: {
+	DisplayName: 杰森·布拉克
+	Description: 如此伟大的艺术创作 :)
+}
+
+PotOfGreedMinionBuff: {
+	DisplayName: 贪婪
+	Description: 贪欲之壶，发动!
+}
+
+ReflectionSeekerMinionBuff: {
+	DisplayName: 仿生泪滴
+	Description: 你为什么盯着你自己?
+}
+
+XScissorMinionBuff: {
+	DisplayName: X裂隙
+	Description: 在太空中撕开一条裂缝!
+}
+
+SerpentMinionBuff: {
+	DisplayName: 焚天巨蟒
+	Description: 身可敝日，火口灼息!
+}
+
+IlluriasBlessing: {
+	DisplayName: 星树祝福
+	Description: 宇宙空间已无法阻碍你!
+}
+
+PegasusMinionBuff: {
+	DisplayName: 水晶三重奏
+	Description: 尼伊维的水晶元素庇佑着你!
+}
+
+WoodyB: {
+	DisplayName: 木遁
+	Description: 脚踩大地会让你力量倍增!
+}
+
+CentipedeMinionBuff: {
+	DisplayName: 多腿多灾
+	Description: 它有如此多的腿!
+}
+
+MoonFlame: {
+	DisplayName: 月焰
+	Description: Mods.Stellamod.Buffs.MoonFlame.Description
+}
+
+IridineNecklaceCDBuff: {
+	DisplayName: 冥顽项链冷却
+	Description: 你不能复活!
+}
+
+MarksMan: {
+	DisplayName: 马克斯·曼
+	Description: 看呐，手握双枪!
+}
+
+OrbMaster: {
+	DisplayName: 控球大师
+	Description: 你在操纵着一颗魔法球!
+}
+
+Overheated: {
+	DisplayName: 过热
+	Description: 激光模式已过载!
+}
+
+GothivianFlames: {
+	DisplayName: 歌瑟梵之火
+	Description: 你的灵魂随风燃尽...
+}

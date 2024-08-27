@@ -1,0 +1,234 @@
+ExampleDialogue1:
+	'''
+	你好，年轻的旅者！！！你好？！
+	这是一些测试语音，用以确保我们的系统运作正常。
+	我期望这能顺利进行，毕竟重复工作并非我所愿。
+	'''
+ExampleDialogue2:
+	'''
+	那么，你今日的旅程如何？我的生活简直棒极了！
+	我等不及今晚了，有许多事在等着我！
+	这将是一段疯狂的时光！
+	'''
+ExampleDialogue3:
+	'''
+	那么，嗯，是的:P
+	我想这就是全部了。
+	我希望这样还不错吧？！？！？！？！？！
+	'''
+VerliaDialogue1:
+	'''
+	我终于自由了！
+	这真是太令人兴奋了，谢谢你！
+	'''
+VerliaDialogue2:
+	'''
+	等等，你拿着那盏灯笼在做什么？
+	你不应该拿着那个——
+	'''
+VerliaDialogue3:
+	'''
+	你肯定是来杀我的，对吧？
+	我猜你是在凤涅克丝手下工作？
+	没关系，我会在这里完成我的事情，然后去找我的妹妹。
+	谢谢，但你不会结束我的生命的。
+	'''
+SirestiasDialogue1:
+	'''
+	嘿亲爱的，你能听到我吗？
+	我想你听到了对吗？
+	'''
+SirestiasDialogue2:
+	'''
+	好的，好的，你能听到我。
+	让我们将这个世界恢复到和谐的状态。
+	我已经为你准备了一些物资，装在一个包里，你将需要它们来继续你的旅程。
+	'''
+SirestiasDialogue3:
+	'''
+	安魅凯拉也加入了我们的远足，有机会时请务必联系她。
+	这个世界已被凋残的力量所吞噬，我指派你去净化它。弹了太久的钢琴让我感到疲惫。
+	'''
+SirestiasDialogue4:
+	'''
+	如果你在地图上找到我，我会告诉你接下来我们需要做些什么，但如果你能够击败更高级的存在，我会给予你一些不错的奖励。
+	这个世界似乎已经遭受了严重的创伤，所以一旦所有拥有力量的人都消失了，我就能净化它，因此我将把执行他们的任务留给你。
+	'''
+SirestiasDialogue5: 记得，如果你需要帮助，随时打电话给我！爱你，玩得开心！
+SirestiasTalk1:
+	'''
+	嘿，我认为你应该下去挑战！我想我给过你的那个新手包里有一个石头，可以帮助你找到他。
+	这样做将会挑衅金戈亚指挥官！不久之后，他就会来找到你。同时作为旅者，不要忘记探索！传说中的沼泽就在右边！
+	'''
+SirestiasTalk2:
+	'''
+	你召唤我了？我看到你在幽曦之地。真有趣，居然在这个地方召唤我。这里应该有很多易碎品，打碎他们来收集一些东西吧！
+	这里还有一些相当难对付的敌人，要小心！
+	'''
+SirestiasTalk3:
+	'''
+	或者，这里有一个重要的人，我们需要杀了他，代达罗斯。他可能会收集一种尘。但一个极其微弱的奇点注定会降临到他身上。
+	奇点是这些地方的能量和力量的来源。你可以将它们与灵魂等联系起来，但它们也有副作用。
+	'''
+SirestiasTalk4:
+	'''
+	你击败了金戈亚的军队？不错！我想你可以试着去看古谕遗境，它应该就在你降落的地方的右边。
+	你可以试着为蕊做些任务。她和我们有相同的想法，所以可以把她当做盟友！
+	'''
+SirestiasTalk5:
+	'''
+	有趣的是，我过去从金戈亚的军队那里拿了一些面包，他们似乎什么都没有察觉到。我的意思是，他们似乎真的只是迷失的战士。
+	回去睡觉吧。
+	'''
+SirestiasTalk7:
+	'''
+	所以我们需要去杀死绛渊恶巫，我想她就是堕悼者。正好她现在很虚弱，破绽，稍纵即逝！不是么？
+	你应该也看到天上那红色的东西了吧！或许等到血月的时候，你就可以攻击他们了！我会给予你奖励的！;p
+	'''
+SirestiasTalk6:
+	'''
+	只要代达斯让路，我们就可以自由进出歌维赫堡了。歌瑟梵可能已经将他绑定到奇点和堡垒上了以提供保护。
+	既然你清除了他和他的奇点，它应该能让你进入那个地方，关于代达斯的一切都将会被抹去。很残酷吗？
+	'''
+SirestiasTalk8:
+	'''
+	随着代达斯的消失，有了更多的东西需要探索。绛渊恶巫，或者说堕悼者。无论怎么称呼，她都需要尽快被清除。所以要为此做好准备，但除此之外，我们应该前往瘴煞之地。
+	那些传说中的人是瘴煞地里歌维赫堡的老居民。那里有一些相当不错的东西。
+	'''
+SirestiasTalk9: 根据安魅凯拉的说法，占据丛林的酸性绿色地方被称为“瘴煞”。它接管了歌瑟梵的村庄，并引发了一些重大问题。它似乎源于一个实验室，但我不确定那些传说中的老人是否知道这一点。
+SirestiasTalk10: 哦！宝贝你在这！我想你已经为我们处理了绛渊恶巫对吗？ 如果你完成了探险，请把那个神像交给我。你应该去搜寻一些战利品，并且尽快找到一把虚空钥匙。我们应该开始对付薇莉亚以及她的束缚了。
+SirestiasTalk11:
+	'''
+	很好！你已经解决了那个邪恶的怪物！尽管我认为它们并没有构成威胁，但为了我们的净化过程，这是必要的一步！
+	安魅凯拉 在地狱附近发现了一个地方，炽星烬土。由于世界日益炎热，它已经被烧成了地狱。
+	'''
+SirestiasTalk12:
+	'''
+	我们需要收集一些材料来制作一个假的虚空钥匙。凤涅克丝将薇莉亚的灵魂绑在这个奇点上，以保护她免受姐姐歌瑟梵的伤害。
+	为了找到另一条大鱼，就需要杀死薇莉亚来激怒歌瑟梵。我们可以当着她的面吹嘘，她会想来找我们的，所以赶紧行动吧：）
+	'''
+SirestiasTalk13:
+	'''
+	炽星烬土那里极其炎热，对吧？它绝对是一些龙类的家园。据说很久以前就因为这里的高温而灭绝了。
+	这里的怪物很有趣。我们可能需要收集一些这些怪物的灵魂之皮来做钥匙模具。
+	'''
+SirestiasTalk14:
+	'''
+	我想这个地方遭到了一个隐匿奇点的破坏。我之前去找蕊谈了谈，她告诉了我关于齐格飞的事情。显然，他被囚禁在这下面的某个地方。
+	我们需要他的原始力量来报复琉米，但我们还有其他事情要做，所以我们应该离开这里，拿出薇莉娅的奇点束缚。
+	'''
+ZuiDialogue1:
+	'''
+	哇喔！我看到你击败了世纪之花！！！
+	我想和你谈些事，虽然我知道你会恨我。
+	'''
+ZuiDialogue2:
+	'''
+	希丝忒莉亚让我训练你，我想这正是最好的时机。
+	我不知道你有没有注意到，你从世纪之花那里得到了一个钥匙模具，石巨人受到了相当严密的保护，厄莉什基迦勒可能与此有关。
+	'''
+ZuiDialogue3:
+	'''
+	哦，真是不好意思！我完全忘了自我介绍，我叫蕊！我想我们在女巫村谈过，要么就是你经常经过。
+	不管怎样，我不想太干涉你和希丝忒莉亚正在做的事情，但她真的让我感到害怕。
+	'''
+ZuiDialogue4:
+	'''
+	不管怎样，希丝忒莉亚让我训练你，因为你的下一个目标相当困难。
+	我猜既然我已经参与了，我可以帮你找到一种方法与地底深处的狂渊的厄莉什基迦勒对话。
+	'''
+ZuiDialogue5:
+	'''
+	我知道你要追捕齐格飞和阿祖琳，但你肯定会被狠狠地揍一顿。首先，你得先处理掉她的奇点才能对她造成伤害。
+	Nobody knows better how to deal with singularities than the person who trapped one being Ereshkigal. I'll help you if you prove you're strong enough, soo come fight me :)
+	'''
+ZuiDialogue6:
+	'''
+	Ok Ok fine we can stop, I have a headache.
+	I think you're ready :)
+	'''
+ZuiDialogue7: I might be a bit rusty since I haven't fought in a while but you seem to be pretty good at this! Anyway to the point, Ereshkigal I believe is the strongest sorceress I know? Although I don't think anyone knows her existence other than me and other higher beings.
+ZuiDialogue8: Ereshkigal you have to know is VERY attached to Sigfried, like she's actually crazy for that guy and for what? I don't really know. She was so crazy that she made a whole prison for him during his big outrage just to keep in a place to be with her. I mean I know a tsundere when I see one and she has GOT to fall in that category.
+ZuiDialogue9:
+	'''
+	You wanna know why the temple is locked?? Before Sigfried went crazy and was still the King of the Illuria, he decided to indulge in the Lihzahrd Temple's magic systems to gain power.
+	Ereshkigal's CRAZY ASS decided it would be a good idea to lock the place with a super special key so HE COULD PAY ATTENTION TO HER MORE. She really said that she'd win.
+	'''
+ZuiDialogue10: I used to be friends with her until she dropped me for that guy, she started to obsess really badly over him. Even in the state he is in now that temple is still locked.
+ZuiDialogue11: Anyway since I think you're ready, I'll give her a call and allow her to cast some magic on you or something, just don't get on her bad side, she can solo you. You can ask about your other targets there. I marked the location but you might need a key.
+IrradiaDialogue1: "What, what... -- That's Verlia's soul. What did you do to her. "
+IrradiaDialogue2: "No, no not like this, not from you of all people. I've spent my years sitting here to wait for them and you out of all things come to me with her soul in hand?? A damn monster you are. "
+IrradiaDialogue3:
+	'''
+	I will mangle your corpse and showcase it for everyone to see, Gothivia will return and you'll be the first one to hang. I'll show you what harming my friend does for you.
+	HAVOC. 
+	Engage...
+	'''
+GothiviaDialogue1: Of all the people who could have, it was you who tore down what I have built. All the people I care for- not ruined by the plague that lived upon us but you who decided to seek harm.
+GothiviaDialogue2: I see why my sister has fallen to you and if nobody stops you, at what point will your slaughter end? You could be helping all those with that power you're granted and use it poorly.
+GothiviaDialogue3: No matter, I will show what my love for those around me through vengence. I will not let them fall with their aspirations on deaf ears. Be well on the other side, you will not be forgiven by me.
+EreshTalk1: Woa woa woa, I let you in here to look at my beautiful husband here but what's this?? It even has my dear's signature, I know it when I see it! You also love him too don't you???
+EreshTalk2: I knew Zui contacted me because she is so nice to me. I didn't know they'd be sending someone to give me gifts! Thank you, this is very much appreciated and I will go through it very, very thoroughly...
+EreshTalk3: What's that? You want one of my doors for a singularity? Oh you're going after that harlet Azurerin aren't you? She hasn't done anything to me specifically but I can see why you want to meet her. She is a good looker.
+EreshTalk4: I can pull down her singularity if you want me to you know. Actually I have a door that should pull it down from it's space. Let me see....　ふじゅつ　すぱのら　フラグメント。 There, you should have it.
+SirestiasTalk15: It's time to kill one of our more challenging specimens. Take on Verlia at the top of the Cathedral, but before then make her lantern, you might need to explore a bit. Let me know how you do.
+SirestiasTalk16: "Wowie, goodness gracious. I think we're getting places! "
+SirestiasTalk17: Ok so um, I hate to say this but I don't really have any tasks for you to do for now. Feel free to explore and do some other things. I'll catch up with you when I'm done exploring the world. I have some old friends to talk to..
+SirestiasTalk18: Verlia is our first step to getting to Gothivia, and her influence keeps ruining everything. She doesn't seem too bad but her influence on the world is so negative that we have to kill her. I think you should go find the catacombs soon. Anyways I'll be back.
+SirestiasTalk19: You're getting pretty good at this you know. Take that manifestation to Ordin, he seemed pretty compliant, except her kind of wants everything gone. I think I have to start doing something at least.
+DreadTalk1:
+	'''
+	Who are you...
+	Whatever you're doing stop now. 
+	...
+	'''
+DreadTalk2:
+	'''
+	Why destroy something so important to me. 
+	Do you seek destruction?
+	...
+	'''
+DreadTalk3:
+	'''
+	So persistent..
+	Maybe I can put my powers to use.
+	...
+	'''
+DreadTalk4:
+	'''
+	Must you use your ignorance as a shield?
+	Stop...
+	I need to call Azurerin...
+	...
+	'''
+DreadTalk5: ...
+GothLoose1: No no no, not like this..
+GothLoose2: Why won't you just die???? I can't keep doing this..
+GothLoose3: I just want them back...
+SireLoose4: I mean you can have them back, I have their souls with me :)
+GothLoose5: What- who even are you...
+SireLoose6: The one who has your sister's soul currently. I may have snatched it but I have a proposal for you.
+GothLoose7: Is this punishment?? I haven't even done anything to you and this is how we're treated? Ok fine, what's the deal?
+SireLoose8: You can have your sister if you decide to work alongside us. I know you're not totally bad but your influnce is very negative and I can't have that stand.
+GothLoose9: So what are you saying?
+SireLoose10: Just be apart of the team and use your powers for good and we can try to help save your little sister Verlia here.
+GothLoose11: ... Fine
+GothLoose12: Just give me back my sister, I can forgive you partially but you still killed Irradia..
+SireLoose13: I apologize but some things must be done for my goals to be met.
+SireLoose14: Here. You can have your sister back and we'll call you when needbe, otherwise, no more magic or weapon usage from you anymore, if you do I'll send them to kill you for real :)
+GothLoose15: Whatever. Thanks I guess.
+SirestiasTalk20:
+	'''
+	*This is a message from Sirestias*
+	Please take this time to explore the world! I'm going to be out to find and talk to some people to help us on our expedition. Alternatively could you kill Irradia for us? It would set things in motion, thank you!
+	'''
+SirestiasTalk21: Sorry I've been quite busy as you've seen.. Ereshkigal you say?? That's a name I havent heard in a while. I'm suprised she's here. If she's attached to Sigfried like you suggest than maybe Ordin in the cinderspark has something for you.
+SirestiasTalk22: She can definitely help us getting things down from Azurerin since her power is to turn exponential space into a confined smaller space. She might be able to take the singularity really easily so go to Ordin.
+SirestiasTalk23: Woa nice! I'm so proud of you dear. I think we are definitely cleaning up this world for the purest of intentions. Soon enough we can move onto bigger goals and hunt the most powerful of beings.
+SirestiasTalk24: Although enough yip-yap, we are a step closer to killing all these ill-wounded beings, making Gothivia our next target. If you haven't killed Irradia yet, go ahead and do so. If you have I can move on to go get Verlia's soul.
+SirestiasTalk25: For now it'll be up to me to harvest her soul from her decayed explosion but we may be able to use it as leverage against Gothivia. I've learned information that she wasn't that bad of a person but caused bad things to happen. So maybe we can bargain.
+SirestiasTalk26: Woop woop we got the moonlord 2! And I got the moonlady Verlia's soul! You scattered her soul quite a bit I have to say but overall I finished that up so we're ready!
+SirestiasTalk27: This may sound crazy but I think we are ok to take down Rek and Gothivia now. Rek is her personal bodyguard and from what I've learned he's sort of a big deal to her as he's been around her since she was a child. He is a serpent so he's fast, beware.
+SirestiasTalk28: Gothivia isn't all too hostile and she didn't accept a singularity but used it for good so she isn't nearly that evil but Rek definitely is. He's the last living dragon serpent from what Ordin told me. We should kill him.
+SirestiasTalk29: Sun Serpent down. Operation kill beat Gothivia. I'll take it from there...
+SirestiasTalk30: For the time being, I have nothing for you. I'll schedule some future plans but in the meantime I think Aimacra would like to talk to you in Ekrose. Please go play Diari on steam, thank you :)

@@ -1,0 +1,9 @@
+[h1]This is a Chinese-translation Mod for[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3019925104] Lunar Veil[/url][/h1]
+v0.24082601
+目前写完了本地化文件里的大部分内容！
+暂时先发一个版本征求修改意见
+目前由于没有进行多方核对
+翻译还有些乱！
+不是最终品质！
+（其实我知道这个有的地方写的很差，我准备先把文本写完，最后我们会统一再审核）
+反馈：QQ3412615165

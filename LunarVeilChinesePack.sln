@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarVeilChinesePack", "LunarVeilChinesePack.csproj", "{425E539C-68FD-43F8-88F6-ECE28A03261C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425E539C-68FD-43F8-88F6-ECE28A03261C}.Debug|x86.ActiveCfg = Debug|x86
+		{425E539C-68FD-43F8-88F6-ECE28A03261C}.Debug|x86.Build.0 = Debug|x86
+		{425E539C-68FD-43F8-88F6-ECE28A03261C}.Release|x86.ActiveCfg = Release|x86
+		{425E539C-68FD-43F8-88F6-ECE28A03261C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72DB1CE7-D62B-46FB-9CDE-B8C3ADDF4A54}
+	EndGlobalSection
+EndGlobal

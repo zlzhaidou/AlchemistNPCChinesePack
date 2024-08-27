@@ -1,0 +1,7588 @@
+Accessories: {
+	HikersBackpack: {
+		DisplayName: 旅者的行囊
+		Description:
+			'''
+			+1 生命再生速度*
+			+3% 伤害
+			在你走过的路上留下树根！
+			'''
+	}
+}
+
+PlaceItem: {
+	DisplayName: 放置物品[应该是作者用来测试的]
+	Tooltip: ""
+}
+
+SaveItem: {
+	DisplayName: 保存物品[应该是作者用来测试的]
+	Tooltip: ""
+}
+
+AdvancedBroochesBackpack: {
+	DisplayName: 高级饰符背包
+	Tooltip:
+		'''
+		+1 远程伤害*
+		+4% 伤害
+		允许你装备高级饰符！这非常有用！
+		包含了旅者的行囊所有效果！
+		'''
+}
+
+DiariBroochA: {
+	DisplayName: Diari饰符
+	Tooltip:
+		'''
+		+2 防御
+		火焰行走特效？
+		还有永久饱腹！
+		+10 最大生命值上限和最大魔力值上限
+		+5% 伤害！
+		（Diari是作者在Steam上的一款游戏）
+		'''
+}
+
+FlyingFishBroochA: {
+	DisplayName: 飞鱼饰符
+	Tooltip:
+		'''
+		增加速度，+2防御！
+		咸鱼都会飞了，你还有什么理由躺平呢？？？
+		'''
+}
+
+FrileBroochA: {
+	DisplayName: 月冰饰符
+	Tooltip:
+		'''
+		令受到攻击的敌人结冰！
+		对他使用冰雪的力量吧：P
+		'''
+}
+
+MorrowedBroochA: {
+	DisplayName: 古谕猎手饰符
+	Tooltip:
+		'''
+		+2防御
+		+2%远程伤害
+		+25%弓箭伤害
+		这就是Deep Dark ♂ 寓言的力量吗
+		'''
+}
+
+SlimeBroochA: {
+	DisplayName: 萌萌史莱姆饰符
+	Tooltip:
+		'''
+		跳得更高！
+		快速下落，弹弹的！
+		（汉化者注：不免疫摔落伤害）
+		好可耐~ ：P
+		'''
+}
+
+SpragaldBroochA: {
+	DisplayName: 蜘蛛饰符
+	Tooltip:
+		'''
+		+10防御
+		令蜘蛛恐惧症患者当场去世
+		'''
+}
+
+HikersBackpack: {
+	DisplayName: 旅者的行囊
+	Tooltip:
+		'''
+		增加生命回复！
+		+3%伤害
+		在你走过的路上留下树根！
+		'''
+}
+
+IllusionistBook: {
+	DisplayName: 木遁秘术书
+	Tooltip:
+		'''
+		增加生命回复！
+		+3%伤害
+		+5%暴击率
+		'''
+}
+
+JellyfishTissue: {
+	DisplayName: 水母组织
+	Tooltip:
+		'''
+		哇哦，好东西！
+		+40防御
+		但代价是减少40%伤害...
+		'''
+}
+
+MOTT: {
+	DisplayName: M.O.T.T
+	Tooltip:
+		'''
+		每10秒钟在地上留下刺球
+		+5%远程伤害
+		'''
+}
+
+PaperPaws: {
+	DisplayName: 爪印纸符
+	Tooltip:
+		'''
+		你的召唤物们已经很努力啦，关照一下它们吧
+		+1召唤栏位
+		'''
+}
+
+PlantH: {
+	DisplayName: 传承盛花
+	Tooltip:
+		'''
+		百花草木之力与你同在！
+		+40生命 +15防御
+		但你的速度会降低 0v0
+		'''
+}
+
+SapContainer: {
+	DisplayName: 甘露瓶
+	Tooltip:
+		'''
+		每10秒钟喝下其中甘露并获得巨大的魔法伤害提升
+		常驻+7%魔法伤害
+		'''
+}
+
+WoodenShield: {
+	DisplayName: 木制盾牌
+	Tooltip:
+		'''
+		真棒，一面木盾？
+		你想要挡住什么，弓箭吗？
+		不知为何完全不能用来格挡
+		+1防御并增加生命回复！
+		'''
+}
+
+Steali: {
+	DisplayName: 潜遁披巾
+	Tooltip:
+		'''
+		双击方向键冲刺，冲刺过程中无敌！
+		增加生命回复
+		冲刺过程中不能攻击
+		某穿着黑色披风的白色小骑士表示很赞
+		'''
+}
+
+ThornedBook: {
+	DisplayName: 荆棘秘术书
+	Tooltip:
+		'''
+		攻击你的敌人会受到巨额反伤！
+		+3%近战伤害
+		-5防御
+		'''
+}
+
+CelestiaMoonBreastplate: {
+	DisplayName: Celestia Moon Breastplate
+	Tooltip:
+		'''
+		Magical essence of an empress!
+		+60 max mana and +1 minion slot
+		+20 Health
+		'''
+}
+
+CelestiaMoonHelmet: {
+	DisplayName: Celestia Moon Helmet
+	Tooltip:
+		'''
+		Magical essence of an Emperor
+		+2% increased ranged and melee damage
+		+35 Health
+		'''
+}
+
+CelestiaMoonLegs: {
+	DisplayName: Celestia Moon Leggings
+	Tooltip:
+		'''
+		Magical essence of an empress!
+		3% increased movement speed
+		+20 Health
+		'''
+}
+
+CelestiaMoonMask: {
+	DisplayName: Celestia Moon Mask
+	Tooltip:
+		'''
+		Magical essence of an empress!
+		+20 Max mana and +1 Minion Slot
+		'''
+}
+
+HuntrianBoots: {
+	DisplayName: Huntrian Boots
+	Tooltip:
+		'''
+		Corroded Woods
+		+5% Damage!
+		-10 Health
+		+7 Critical Strike Chance!
+		'''
+}
+
+HuntrianChestplate: {
+	DisplayName: Huntrian Chestplate
+	Tooltip:
+		'''
+		Corroded Woods
+		+5% Damage!" 
+		+10 Health" 
+		+10 Critical Strike Chance!
+		'''
+}
+
+HuntrianHelmet: {
+	DisplayName: Huntrian Helmet
+	Tooltip:
+		'''
+		Corroded Woods
+		+5% Damage!
+		+20 Health
+		'''
+}
+
+LovestruckBreastplate: {
+	DisplayName: Lovestruck Breastplate
+	Tooltip:
+		'''
+		Feel the love!
+		+60 Health and +1 minion slot
+		'''
+}
+
+LovestruckLegs: {
+	DisplayName: Lovestruck Thighs
+	Tooltip:
+		'''
+		Sexy!
+		10% increased movement speed
+		+60 Health
+		'''
+}
+
+LovestruckMask: {
+	DisplayName: Lovestruck Mask
+	Tooltip:
+		'''
+		Magical essence of an Lusting Goddess
+		+7% increased damage
+		+40 Health
+		'''
+}
+
+GintzeMask: {
+	DisplayName: Gintzi Mask
+	Tooltip:
+		'''
+		Rare Iron Mask!
+		+2 summons!
+		+50 Health
+		'''
+}
+
+StoniaBoots: {
+	DisplayName: Stonia Boots
+	Tooltip:
+		'''
+		Rizzy Stone
+		+2% Damage!
+		Heavily Increased Falling!
+		Woa rocks!
+		'''
+}
+
+StoniaChestplate: {
+	DisplayName: Stonia Chestplate
+	Tooltip:
+		'''
+		Weak Stone?
+		+1% Damage!
+		+2 Penetration
+		+2 Critical Strike Chance!
+		'''
+}
+
+StoniaHat: {
+	DisplayName: Stonia Hat
+	Tooltip:
+		'''
+		Happy Stone?
+		+3% Damage
+		+5 Penetration
+		+5 Critical Strike Chance!
+		'''
+}
+
+AstolfoBody: {
+	DisplayName: Astolfo Breasts
+	Tooltip:
+		'''
+		Nya~
+		Yummy!
+		+20 Health
+		'''
+}
+
+AstolfoMask: {
+	DisplayName: Astolfo Wig
+	Tooltip:
+		'''
+		Yummy kummy :3
+		+2% increased damage
+		+35 Health
+		Increased Pickaxe Speed!
+		'''
+}
+
+AstolfoSkirt: {
+	DisplayName: Astolfo Skirt
+	Tooltip:
+		'''
+		Woa it even smells like water!
+		5% increased movement speed
+		Rizz Thighs
+		'''
+}
+
+VerlBreastplate: {
+	DisplayName: Verl Breastplate
+	Tooltip:
+		'''
+		Shines with a blooming moon
+		+10% Ranged and Magic Damage!
+		+12 Penetration 
+		+5 Critical Strike Chance!
+		+20 Max Life
+		'''
+}
+
+VerlHat: {
+	DisplayName: Verl Hat
+	Tooltip:
+		'''
+		You feel prettier dont you?
+		+7% Magic Damage!
+		+Fast mana regeneration!
+		+100 Max Mana
+		+40 Max Life
+		'''
+}
+
+VerlLeggings: {
+	DisplayName: Verl Leggings
+	Tooltip:
+		'''
+		Look at them thighs go!
+		+7% Magic and Ranged Damage!
+		+Increased Movement speed
+		+40 Max Life
+		'''
+}
+
+VerlMask: {
+	DisplayName: Verl Mask
+	Tooltip:
+		'''
+		You feel prettier dont you?
+		+7% Ranged Damage!
+		+15 Critical Strike Chance!
+		+20 Max Life
+		'''
+}
+
+VextinBoots: {
+	DisplayName: Vextin Boots
+	Tooltip:
+		'''
+		Hide in the sands
+		+5% Damage
+		+20 Health
+		'''
+}
+
+VextinMask: {
+	DisplayName: Vextin Mask
+	Tooltip:
+		'''
+		You feel the hidden sands flow in you
+		+7% increased damage
+		+20 Health
+		'''
+}
+
+VextinRobe: {
+	DisplayName: Vextin Robe
+	Tooltip:
+		'''
+		Roam the wonderous sands	
+		+40 Health
+		'''
+}
+
+Gambit: {
+	DisplayName: 赌博骰子
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		孤注一掷，来赢得奖励吧！
+		'''
+}
+
+GambitToken: {
+	DisplayName: 赌博代币
+	Tooltip: 在掷骰子的时候用它来一场真正的赌博吧！
+}
+
+GildedBag1: {
+	DisplayName: 镶金宝袋
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+MoonflameLantern: {
+	DisplayName: 月辉提灯
+	Tooltip:
+		'''
+		歌瑟梵的姐妹薇莉娅之灵魂被囚于此物
+		夜幕之中，穹月仪殿之巅，使用圣坛将她释放
+		'''
+}
+
+SirestiasStarterBag: {
+	DisplayName: 希丝忒莉亚友情赞助新手礼包
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+VeribossBag: {
+	DisplayName: 殆绿boss袋
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+AlcadizMetal: {
+	DisplayName: 阿尔卡迪亚合金
+	Tooltip:
+		'''
+		坚硬而充满魔力！
+		这么好的材料是从哪来的？
+		最适合用于制作金属武器与魔法物品！
+		'''
+}
+
+Bagitem: {
+	DisplayName: 粉尘袋
+	Tooltip:
+		'''
+		装满易燃粉尘的袋子
+		这又是从哪来的？
+		用于制作粉尘！
+		'''
+}
+
+Cinderscrap: {
+	DisplayName: 烬土碎片
+	Tooltip:
+		'''
+		烬土残余，见证无尽燃烧
+		经历过无尽的燃烧
+		在植物中找到了归宿
+		'''
+}
+
+CondensedDirt: {
+	DisplayName: 凝土精华
+	Tooltip:
+		'''
+		恶心！它黏糊糊的！怎么会这样？？
+		一种从地下挖出的，像泥巴一样的黏糊糊的东西！
+		最适合用来做肥料和类似泥巴的物品！
+		'''
+}
+
+FlowerBatch: {
+	DisplayName: 繁花束
+	Tooltip:
+		'''
+		野芳发而幽香..
+		从某处收获来的花束
+		最适合用于制作植物相关物品！
+		'''
+}
+
+MorrowRocks: {
+	DisplayName: 古谕石块
+	Tooltip: 古谕遗境深处的岩石
+}
+
+Morrowshroom: {
+	DisplayName: 古谕蘑菇
+	Tooltip: 蘑菇小侠
+}
+
+MorrowVine: {
+	DisplayName: 春蔓
+	Tooltip: 它如地下蔓延的藤蔓，无声无息，却遍布世界，展现生命的力量
+}
+
+Mushroom: {
+	DisplayName: 春蘑菇
+	Tooltip: 生长在地下的蘑菇
+}
+
+Stick: {
+	DisplayName: 木灵棒
+	Tooltip:
+		'''
+		这根棒子由林间嫩枝精制而成，虽然它在美学上堪称艺术品
+		但在实战中却显得有些力不从心，它或许更适合在你成为传奇英雄的传记中，作为一段有趣的开始
+		提醒你即便是最不起眼的起点，也可能预示着伟大的冒险旅程
+		'''
+}
+
+ViolinStick: {
+	DisplayName: 弦鸣战棍
+	Tooltip:
+		'''
+		哼，这玩意儿有何用途？
+		最佳的武器与音乐的结合！
+		'''
+}
+
+EmptyMoonflameLantern: {
+	DisplayName: 暗淡的月之提灯
+	Tooltip:
+		'''
+		地狱深处的烈火将它燃起
+		霜与月的精华融入火焰中
+		皎月当空之时，于仪巅邀其共舞
+		'''
+}
+
+HuntiacBlock: {
+	DisplayName: 亨提亚块
+	Tooltip: 危险
+}
+
+HuntiacwallBlock: {
+	DisplayName: 亨提亚墙
+	Tooltip: 更加危险
+}
+
+Medal: {
+	DisplayName: 遗迹勋章
+	Tooltip:
+		'''
+		一枚勋章，看起来十分古老
+		把他放在你的物品栏中，可以吸引某人，双重意义上的...
+		'''
+}
+
+OvermorrowDirt: {
+	DisplayName: 古谕土
+	Tooltip: ""
+}
+
+OvermorrowdirtwallBlock: {
+	DisplayName: 古谕墙
+	Tooltip: ""
+}
+
+OvermorrowWall: {
+	DisplayName: 古谕墙
+	Tooltip: ""
+}
+
+OvermorrowWood: {
+	DisplayName: 古谕木
+	Tooltip: 美味的木头，我说得对吧？
+}
+
+PearlescentScrap: {
+	DisplayName: 月华晶片
+	Tooltip:
+		'''
+		月华洒落，晶片闪烁夜的低语
+		星辰共舞，旋律回荡天际的诗篇
+		'''
+}
+
+RippedFabric: {
+	DisplayName: 报赏华叶
+	Tooltip:
+		'''
+		为梅瑞娜、希丝忒莉亚、吉娅和蕊做任务的奖赏！
+		完成的任务越多，奖励越多
+		困难模式下打开镶金宝袋也可能获得它
+		'''
+}
+
+Starrdew: {
+	DisplayName: 星烁露
+	Tooltip:
+		'''
+		恶！好粘啊！什么东西这么粘啊！
+		一种粘稠的物质，与古谕和群星有着联系
+		'''
+}
+
+Stelleanbrick: {
+	DisplayName: 群星砖
+	Tooltip: ""
+}
+
+VerianRuneBlock: {
+	DisplayName: 炽金符文石
+	Tooltip: ""
+}
+
+VerianWood: {
+	DisplayName: 古谕木
+	Tooltip: ""
+}
+
+FrileBar: {
+	DisplayName: 月冰锭
+	Tooltip: 由内到外都是冰冷无比，凝聚着冰霜与皎月的精华
+}
+
+FrileOre: {
+	DisplayName: 月冰矿
+	Tooltip: 超出常识的寒冷。用于制作寒冰物品！
+}
+
+VerianBar: {
+	DisplayName: 炽金锭
+	Tooltip:
+		'''
+		散发着热量，充盈着部族战士们的辉光与荣耀
+		摸上去滚烫，必须用隔热布才能拿起来
+		'''
+}
+
+VerianOre: {
+	DisplayName: 炽金矿
+	Tooltip: 一种焦热的矿物，与热熔金融为一体
+}
+
+AlcaologyI: {
+	DisplayName: 阿尔卡迪亚研究台
+	Tooltip: 用于制作粉尘，和利用一些有用的材料
+}
+
+Bar: {
+	DisplayName: 古谕架台
+	Tooltip: ""
+}
+
+Bench: {
+	DisplayName: 古谕长椅
+	Tooltip: ""
+}
+
+BroochesTableI: {
+	DisplayName: 符饰雕琢台
+	Tooltip: 在这里制作精美的饰符与符文吧！
+}
+
+CathediteBlock: {
+	DisplayName: 仪殿砖
+	Tooltip: ""
+}
+
+CathediteGrassBlock: {
+	DisplayName: 仪殿草块
+	Tooltip: ""
+}
+
+CathediteGrassWall: {
+	DisplayName: 仪殿草墙
+	Tooltip: ""
+}
+
+CathediteWall: {
+	DisplayName: 仪殿墙
+	Tooltip: ""
+}
+
+CathedralChestI: {
+	DisplayName: 仪殿箱
+	Tooltip: ""
+}
+
+Crystal1I: {
+	DisplayName: 月辉晶
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+Crystal2I: {
+	DisplayName: 月辉晶
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+FlowerMultiI: {
+	DisplayName: 花丛
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+Orb1I: {
+	DisplayName: 月辉晶球
+	Tooltip: 花哨又漂亮的家具！
+}
+
+ShrineI: {
+	DisplayName: 薇莉亚月华圣坛
+	Tooltip: ""
+}
+
+Flowersummon: {
+	DisplayName: 心石之花
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+GrassBig: {
+	DisplayName: 大型苔草
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+GrassMoss: {
+	DisplayName: 苔草
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+CurtainLeftI: {
+	DisplayName: 左帘幕
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+CurtainRightI: {
+	DisplayName: 右帘幕
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+Log: {
+	DisplayName: 空心树干
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+MediumPot: {
+	DisplayName: 中型花瓶
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+MorrowChesti: {
+	DisplayName: 幽曦箱
+	Tooltip: ""
+}
+
+MorrowChestKey: {
+	DisplayName: 古谕秘钥
+	Tooltip: 深夜降临，古谕秘钥在手，各地神秘宝箱，一触即开，奇珍异宝等你探索！
+}
+
+MorrowDeath: {
+	DisplayName: 幽曦剑骨
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+MorrowDeath2: {
+	DisplayName: 幽曦剑骨
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+MorrowSpike: {
+	DisplayName: 幽曦木刺
+	Tooltip: ""
+}
+
+MorrowStone: {
+	DisplayName: 幽曦岩石
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+MushroomBig: {
+	DisplayName: 大丛蘑菇
+	Tooltip: 绿伞伞，绿杆杆
+}
+
+SmallShroom: {
+	DisplayName: 小蘑菇
+	Tooltip: 吃完一起躺板板
+}
+
+StandN: {
+	DisplayName: 古谕台架
+	Tooltip: 你不应该有这个东西的 :(
+}
+
+VeriBossRel: {
+	DisplayName: 心石圣卫圣物
+	Tooltip: 这个boss本身已经算是个遗物了
+}
+
+walla: {
+	DisplayName: 墙a
+	Tooltip: ""
+}
+
+wallb: {
+	DisplayName: 墙b
+	Tooltip: ""
+}
+
+wallc: {
+	DisplayName: 墙c
+	Tooltip: ""
+}
+
+walld: {
+	DisplayName: 墙d
+	Tooltip: ""
+}
+
+walle: {
+	DisplayName: 墙e
+	Tooltip: ""
+}
+
+wallf: {
+	DisplayName: 墙f
+	Tooltip: ""
+}
+
+wallg: {
+	DisplayName: 墙g
+	Tooltip: ""
+}
+
+BonePicklerCard: {
+	DisplayName: 骨尘引爆符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手以神秘粉末标记敌手
+		挥动“骨尘引爆符牌”，长按攻击，连锁爆炸席卷战场，敌手瞬间化为尘埃
+		'''
+}
+
+DaedCard: {
+	DisplayName: 幽冥符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击，引爆标记处，幽冥之火瞬间吞噬敌人，战场为之震动
+		'''
+}
+
+EYIgniter: {
+	DisplayName: 天眼符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，释放出毁灭性的能量，让敌人无处遁形
+		'''
+}
+
+FrostCard: {
+	DisplayName: 霜寒符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，释放霜冻能量，引爆标记，让敌人在冰霜中颤抖，化为寒霜之下的尘埃
+		'''
+}
+
+GothivCard: {
+	DisplayName: 哥特符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+LovestruckCard: {
+	DisplayName: 恋心符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+ScorcheCard: {
+	DisplayName: 炙炎符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+StarrCard: {
+	DisplayName: 星辉符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+StarterCard: {
+	DisplayName: 起始符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+WCIgniter: {
+	DisplayName: 万能符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+Bongos: {
+	DisplayName: 星镀鼓王
+	Tooltip: 在光标处，嘭嘭嘭，奏响鼓乐
+}
+
+CocoSpark: {
+	DisplayName: 椰果秘典
+	Tooltip: 瞧，主人，我能召唤椰果！
+}
+
+EvasiveBalls: {
+	DisplayName: 珍珠冰晶弹
+	Tooltip: 快速追踪，光芒四射！
+}
+
+FlameburstBalls: {
+	DisplayName: 熔壳火球
+	Tooltip: 快速追踪，释放烈火！
+}
+
+GildedStaff: {
+	DisplayName: 金灵法杖
+	Tooltip: 向敌人发射两片旋转的精神魔法碎片，如同金光蝶舞！
+}
+
+PrismaticBalls: {
+	DisplayName: 虹彩晶球
+	Tooltip: 发射追踪的永恒水晶光芒，快速而准确！
+}
+
+Splitflame: {
+	DisplayName: 裂焰烛
+	Tooltip: 绝非寻常烛，裂变双焰，照亮黑暗，驱散邪灵
+}
+
+Antaciz: {
+	DisplayName: 安塔奇飞刃
+	Tooltip: 飞转利刃 扫清障碍
+}
+
+Auroran: {
+	DisplayName: 极光
+	Tooltip:
+		'''
+		在空中引发冲击波
+		用刀刃击中敌人会提升你的攻击速度！
+		灵感迸发！
+		'''
+}
+
+EnergizedNail: {
+	DisplayName: 能量之钉
+	Tooltip: 带电的钉子，真不可思议
+}
+
+FrostSwing: {
+	DisplayName: 双巫槲剑
+	Tooltip:
+		'''
+		世代相传于皇家首都的精英巫师家族，此剑最终传至维尔德里斯之手
+		如今，轮到你来挥舞这份美丽与力量
+		'''
+}
+
+Gutinier: {
+	DisplayName: 古蒂尼尔
+	Tooltip:
+		'''
+		卓绝之兵！
+		异界灵启！
+		'''
+}
+
+HornedNail: {
+	DisplayName: 角刺之钉
+	Tooltip: 于滑稽之爪下，净涤尘埃，笑意盎然
+}
+
+MorrowRapier: {
+	DisplayName: 幽曦之锋
+	Tooltip: 戳刺武器，功能明确——就是戳
+}
+
+MorrowSword: {
+	DisplayName: 幽曦之剑
+	Tooltip: 这把剑摸起来很温暖，这是什么材质的？
+}
+
+MorrowValswa: {
+	DisplayName: 幽曦鸣华
+	Tooltip: 一把喷射火焰火花的剑
+}
+
+PalmThrower: {
+	DisplayName: 掌心战斧
+	Tooltip: 随意挥舞着由掌心大小的战斧，听起来真乏味
+}
+
+Halhurish: {
+	DisplayName: 炽焰赫尔修里斯
+	Tooltip:
+		'''
+		凌空挥鞭，制敌于无形
+		触敌即爆，震撼天地间
+		'''
+}
+
+Verstibloom: {
+	DisplayName: 荆巫秘刃
+	Tooltip: 挥剑斩敌影，守护梅瑞娜与赛莉亚
+}
+
+VerstiDance: {
+	DisplayName: 韵律之舞
+	Tooltip:
+		'''
+		这技能宛如一场花瓣飞舞的舞蹈，它能显著提升你的移动速度与防御
+		但同时，高风险也潜藏其中，务必小心应对
+		'''
+}
+
+PocketSand: {
+	DisplayName: 秘袋金沙
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		穿透铠甲，敌人无处遁形，沙粒成刃
+		神秘之尘，战斗中不可或缺，巧用制胜
+		'''
+}
+
+ArcanalPowder: {
+	DisplayName: 星烁魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		这是一种闪烁的星光魔法尘，作为引燃物时能造成双倍伤害！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+BloodPowder: {
+	DisplayName: 燃血魔法尘
+	Tooltip:
+		'''
+		向他们投掷魔法尘并点燃
+		一种与符牌配合使用、能造成高额伤害的血色魔法尘
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+CoalDust: {
+	DisplayName: 墨煤魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		用这个击中敌人后，使用符牌引爆！
+		由你收集的宝石锻造而成！
+		'''
+}
+
+FlamePowder: {
+	DisplayName: 焰火魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		一种火焰般的粉尘，当你用符牌引爆时，它会爆炸！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+FrostedPowder: {
+	DisplayName: 霜冻魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		一种尘埃般的冰霜粉尘，当与符牌一同使用时，能够造成持续的伤害！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+GrassDirtPowder: {
+	DisplayName: 尘土魔法粉
+	Tooltip:
+		'''
+		向敌人投掷魔法尘埃！
+		这看似肮脏的尘埃，竟然能造成伤害？！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+LenaSongPowder: {
+	DisplayName: 莱娜之歌魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		一种音乐魔法尘，与你的符牌一同爆炸！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+ShadowFlamePowder: {
+	DisplayName: 暗焰魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		一种暗影魔法尘，使用你的符牌引爆时会发生爆炸！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+TrickPowder: {
+	DisplayName: 戏法魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		闪烁着诡计的魔法尘，造成大量伤害
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+Verstidust: {
+	DisplayName: 旋律魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		一种蕴含着宁静花香的旋律魔法尘
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+BoneNail: {
+	DisplayName: 骨钉
+	Tooltip: 怒火中烧
+}
+
+WoodenCrossbow: {
+	DisplayName: 木弩
+	Tooltip:
+		'''
+		这把简约的弩，一次三箭齐发，破空之声，震撼人心
+		只需轻按，连珠箭矢，如流星划破夜空，璀璨夺目
+		'''
+}
+
+Hornet: {
+	DisplayName: 火焰蜂鸣
+	Tooltip:
+		'''
+		风度翩翩，高贵非凡！
+		无关《空洞骑士》，纯属灵感巧合
+		射出优雅炸弹与弹丸，数量惊人，如星辰般璀璨
+		弹雨盛宴，彰显力量与尊贵，一场视觉与战斗的双重盛宴
+		'''
+}
+
+MorrowSalface: {
+	DisplayName: 古谕萨尔法斯
+	Tooltip: 先连射三箭，随后施放巨大秘法箭，古谕之力，破敌于无形
+}
+
+SteamedNail: {
+	DisplayName: 蒸气铁锥
+	Tooltip: 用力撞他们（我说的就是这个意思）
+}
+
+Teraciz: {
+	DisplayName: 彩绘魔炮
+	Tooltip:
+		'''
+		油漆子弹，现实重绘新画卷
+		现实涂鸦，一发入魂笑开颜
+		精准打击，色彩斑斓敌消散
+		'''
+}
+
+Violar: {
+	DisplayName: 维奥拉
+	Tooltip:
+		'''
+		让火焰与之共鸣！
+		由星辉砖石与古谕植物热力铸成的简朴武器
+		虽不实用，却收获非凡
+		'''
+}
+
+wowgun: {
+	DisplayName: WOW
+	Tooltip:
+		'''
+		你用木头造枪，想象它威力无边
+		我以声音为弹，助你击中所愿之地
+		'''
+}
+
+AlcadizDagger: {
+	DisplayName: 古谕绳系灵符
+	Tooltip:
+		'''
+		你的召唤物将优先攻击被集火的敌人
+		召唤物将从你的盾中显现出来
+		它们将作为临时召唤物，为你的其他随从提供支援！
+		当它激活时，它会为你加持，让你的防御力提升10点！
+		'''
+}
+
+BloodLamp: {
+	DisplayName: 血怒圣灯
+	Tooltip:
+		'''
+		攻击敌人，使你的召唤兽狂怒，标记血红印记！
+		召唤红色爆裂晶石，痛击对手！
+		连带召唤兽都染上嗜血之径，战力飙升！
+		'''
+}
+
+CanOfLeaves: {
+	DisplayName: 叶灵盒
+	Tooltip: 召唤自带魔法的叶子攻击敌人
+}
+
+StarCall: {
+	DisplayName: 星爆投弹者
+	Tooltip:
+		'''
+		召唤物将炸裂成壮观的星辰碎片！
+		召唤需两个单位
+		它们将作为临时召唤物，造成巨大伤害
+		Diari（模组作者制作的游戏）发布后，这绝对会勾起你的回忆。
+		'''
+}
+
+StumpBuster: {
+	DisplayName: 树桩破击者
+	Tooltip: 用树桩之力，粉碎一切！
+}
+
+MorrowWhipI: {
+	DisplayName: 古谕晨昏之鞭
+	Tooltip:
+		'''
+		召唤伙伴，锁定敌人，伤害加倍
+		攻击敌人后，使你的防御降低
+		战斗中，小心别死
+		标记敌人，要慎之又慎，生死一念间
+		'''
+}
+
+GovheilBlock: {
+	DisplayName: 歌维赫城堡砖块
+	Tooltip: ""
+}
+
+GardenWrecker: {
+	Tooltip:
+		'''
+		头骨子弹一旦发射，若不幸击中，后果不堪设想！
+		没错，他们把我心爱的花园破坏得面目全非！我一直都是科研团队中的一员！
+		'''
+	DisplayName: 翠破焰炮
+}
+
+AlcadizScrap: {
+	DisplayName: 古谕碎片
+	Tooltip:
+		'''
+		古谕碎片，顶级材料之魂
+		蕴含三相之力，握此碎片，即握传奇
+		'''
+}
+
+BurningAngel: {
+	DisplayName: 烈焰天使
+	Tooltip:
+		'''
+		斧雨连天，触地轰鸣
+		风向随心，连击加速
+		重金铸斧，力撼千钧
+		'''
+}
+
+GovheilBoreI: {
+	DisplayName: 歌维赫圣像
+	Tooltip: ""
+}
+
+MasistLI: {
+	DisplayName: 洞穴左
+	Tooltip: ""
+}
+
+MasistRI: {
+	DisplayName: 洞穴右
+	Tooltip: ""
+}
+
+VheilCurtainLI: {
+	DisplayName: 维尔拉汀帘幕左
+	Tooltip: ""
+}
+
+VheilCurtainRI: {
+	DisplayName: 维尔拉汀帘幕右
+	Tooltip: ""
+}
+
+WeiI: {
+	DisplayName: Wei I
+	Tooltip: ""
+}
+
+ZebiI: {
+	DisplayName: Zebi I
+	Tooltip: ""
+}
+
+ShrineLifeCI: {
+	Tooltip: ""
+	DisplayName: 生命水晶圣坛
+}
+
+Curlistine: {
+	DisplayName: 星河锁愿·夜语剑
+	Tooltip:
+		'''
+		唯有敌影临近，星辰漩涡始动，锁剑如流星雨倾泻而下，精准无遗。
+		维尔利亚之愿，化作守护之光，于你身畔绽放，赐予无尽勇气与希望。
+		'''
+}
+
+AlcadizPowder: {
+	DisplayName: 古谕魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		这是一种犹如火花般爆炸的魔法尘，能造成巨大的伤害！
+		它源自于古谕中陨落的遗迹……
+		'''
+}
+
+VerliaBossBag: {
+	DisplayName: 宝藏袋（薇莉娅）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+VerliaHat: {
+	Tooltip:
+		'''
+		非常时髦！
+		+50最大生命！
+		+100最大魔力！
+		我就知道你想戴上它...
+		'''
+	DisplayName: 薇莉娅的魔法帽
+}
+
+VerliaBroochA: {
+	Tooltip:
+		'''
+		爱你呦~
+		攻击敌人时有概率释放强力伤害雪花！
+		+50最大魔力！
+		+5防御！
+		'''
+	DisplayName: 薇莉娅的蕴魔饰符
+}
+
+SwordsOfRevengence: {
+	Tooltip:
+		'''
+		我心永恒，爱意不灭！
+		召唤一把卡里斯汀之剑，唤醒薇莉亚小剑的生命力！
+		仅在敌人近身时激活
+		激发薇莉亚胸针效果！
+		（魔力提升50，防御加5，击中时有密集雪花！）
+		'''
+	DisplayName: 复仇之剑
+}
+
+HarmonicBlasphemy: {
+	DisplayName: 和鸣亵神
+	Tooltip:
+		'''
+		爱意满满，宇宙回响！
+		月光炮强，威力无双！
+		薇莉亚赠，小月为弹，
+		音乐之力，响彻云霄。
+		'''
+}
+
+SupernovaSitar: {
+	DisplayName: 超星闪弦
+	Tooltip:
+		'''
+		爱意浓浓
+		月与星，薇莉亚之力
+		专属礼物，为你定制
+		'''
+}
+
+Parendine: {
+	DisplayName: 霜寒鞭
+	Tooltip: 霜冻鞭击！
+}
+
+AuroranSeeker: {
+	Tooltip:
+		'''
+		这是一本超能魔法书，施展时
+		召唤出的书册对敌人释放七种法术，花样繁多！
+		'''
+	DisplayName: 光渊觅法者
+}
+
+GovheilMask: {
+	DisplayName: Govheil Mask
+	Tooltip:
+		'''
+		8% Increased Magic and Summon damage!
+		+10 Mana
+		+12% Crit strike change
+		I've heard rumors that the flower gives a special affection bonus..
+		'''
+}
+
+GovheilHelmet: {
+	Tooltip:
+		'''
+		12% Increased Ranged and Melee damage!
+		Autoswing capabilities
+		+10% Crit strike change
+		You wanna be cool huh?
+		'''
+	DisplayName: Govheil Helmet
+}
+
+GovheilChainplate: {
+	Tooltip:
+		'''
+		12% Increased Ranged and Melee damage!
+		+50 Life
+		Gain effects of a magic quiver!
+		'''
+	DisplayName: Govheil Chainplate
+}
+
+GovheilBreastplate: {
+	Tooltip:
+		'''
+		6% Increased Magic and Summon damage!
+		+50 Mana
+		+10 Life!
+		+1 Summon
+		'''
+	DisplayName: Govheil Breastplate
+}
+
+GovheilThighs: {
+	DisplayName: Govheil Thighs
+	Tooltip:
+		'''
+		7% Increased Movement speed
+		+10 Life!
+		+5% Damage
+		+15 Armor Penetration
+		Mega thicc!
+		'''
+}
+
+XexterianLeggings: {
+	Tooltip: +5% Damage
+	DisplayName: Xexterian Leggings
+}
+
+XexterianHat: {
+	DisplayName: Xexterian Hat
+	Tooltip:
+		'''
+		+5% Damage
+		+20 Life
+		You really want this knock off Forbidden armor?
+		'''
+}
+
+XexterianHeatplate: {
+	DisplayName: Xexterian Heatplate
+	Tooltip:
+		'''
+		+10 Armor Penetration
+		+20 Life!
+		+6% Damage
+		+5 Critical Strike Chance
+		'''
+}
+
+DaediaThighs: {
+	Tooltip:
+		'''
+		+40 Life!
+		30% Increased movement speed!
+		Walk like a flowery goddess with flower boots!
+		'''
+	DisplayName: Daedia Thighs
+}
+
+DaediaMask: {
+	Tooltip:
+		'''
+		+65 Life!
+		A little halo over a new spiritual goddess!
+		'''
+	DisplayName: Daedia Mask
+}
+
+DaediaBreastplate: {
+	Tooltip:
+		'''
+		+60 Life!
+		+2 Summons
+		'''
+	DisplayName: Daedia Breastplate
+}
+
+PotionOfLifeWand: {
+	DisplayName: 生命药剂魔杖
+	Tooltip: 召唤一瓶甜甜的药剂灵，偶尔会掉下红心！
+}
+
+PotionOfManaWand: {
+	Tooltip: 召唤一瓶甜甜的药剂灵，偶尔会掉下魔力星星！
+	DisplayName: 魔力药剂魔杖
+}
+
+Ebistar: {
+	DisplayName: 星河破晓
+	Tooltip:
+		'''
+		这绝非你所愿的结局，却是一场星辰箭雨的华丽演出
+		无数旋转的星箭划破夜空，如同银河倾泻，将梦想与现实交织成最璀璨的篇章
+		'''
+}
+
+Hearstspire: {
+	DisplayName: 心之灵塔
+	Tooltip: 梦萦爱神，黛蒂亚！
+}
+
+Pearlinator: {
+	DisplayName: 爱之焰
+	Tooltip:
+		'''
+		梦中的爱神，黛蒂亚！
+		这是爱与热情的火焰，美丽而炽烈
+		'''
+}
+
+MerchantCrossbow: {
+	DisplayName: 商贾之弩
+	Tooltip:
+		'''
+		谁料商贾亦武行，售卖兵器显神通，跨界经营展宏图
+		手持弩弓显威风，商道江湖两相宜，刚柔并济显英姿
+		笑谈间，慷慨赠弩，商海浮沉皆从容，豪情洒脱笑江湖
+		'''
+}
+
+LeadCrossbow: {
+	Tooltip: 轻握简弩，蓄力倾泻箭雨，于战场织就一曲钢铁与勇气的颂歌。
+	DisplayName: 铅弩
+}
+
+IronCrossbow: {
+	Tooltip: 简约之弩，蓄力一按，化静为动，倾泻无尽箭矢，编织成夜空中最致命的流星雨。
+	DisplayName: 铁弩
+}
+
+DungeonCrossbow: {
+	Tooltip:
+		'''
+		哦，真有点阴森...
+		一把简单的弩弓，蓄力一按，射出弩箭
+		击中目标，骨骼显现，惊异无比
+		'''
+	DisplayName: 骨织弩
+}
+
+GoldCrossbow: {
+	DisplayName: 黄金弩
+	Tooltip:
+		'''
+		这柄弩，简约设计中蕴含着连续射击的力量，只需蓄力一按，箭矢如雨倾泻而出
+		它更镶嵌了红宝石箭头，每一次发射，都是瑰丽与力量的交织，让对手在惊艳中败退！
+		'''
+}
+
+PlatinumCrossbow: {
+	DisplayName: 铂金弩
+	Tooltip:
+		'''
+		寻常之弩，连珠射矢破长空
+		红宝石箭，璀璨光芒映血红
+		'''
+}
+
+SilverCrossbow: {
+	DisplayName: 银弩
+	Tooltip:
+		'''
+		寻常之弩，连珠射矢破长空
+		蓝宝石箭藏于简易之弩，射出的瞬间，夜空划过深邃的光芒
+		'''
+}
+
+TungstenCrossbow: {
+	DisplayName: 钨钢弩
+	Tooltip:
+		'''
+		这把朴素的弩，只需轻按，便能连发箭矢，穿梭于风中
+		内藏蓝宝石箭，光芒四射，于暗夜中点亮一抹璀璨
+		'''
+}
+
+MorrowedCrossbow: {
+	DisplayName: 古谕之弩
+	Tooltip:
+		'''
+		狙击之弩，连珠发矢疾如风
+		古谕苏醒，心中燃起传说之火！
+		'''
+}
+
+DustedSilk: {
+	DisplayName: 落尘丝绸
+	Tooltip:
+		'''
+		从蜘蛛收集来的特别材料
+		用于制作各种织物与绳子类物品！
+		'''
+}
+
+SpiderillaCrossbow: {
+	DisplayName: 蛛灵之弩
+	Tooltip:
+		'''
+		狙型弩，连发速矢，穿梭如风，破敌无声息
+		奇技突现，蛛卵四散，生命之舞，自然之谜
+		恐蛛者慎，此弩非彼，挑战心魔，勇者无惧
+		'''
+}
+
+DesertCrossbow: {
+	Tooltip:
+		'''
+		霰弹弩，弩箭纷飞，四散如雨
+		蓄力一按，风暴射击，力量与美
+		比风迅疾，传说中的速度，无人能及
+		'''
+	DisplayName: 旋风沙弩
+}
+
+FrostyCrossbow: {
+	DisplayName: 极光霜弩
+	Tooltip:
+		'''
+		这把霰弹弩，如同冬神的怒吼，向四周撒播冰霜的种子！
+		蓄力一按，召唤一场寒冰风暴，将敌人冻结在时间的裂缝中！
+		让你成为冰雪世界的主宰，让每一发箭矢都成为冰封的使者！
+		'''
+}
+
+CoralCrossbow: {
+	DisplayName: 夜珊瑚弩
+	Tooltip:
+		'''
+		这是一把专为猎人打造的速度型弩弓
+		蓄力一按，射出疾风之箭！
+		绝对的力量，愤怒的咆哮，混乱的熵，终章的序曲！
+		'''
+}
+
+MoltenCrossbow: {
+	DisplayName: 炽焰之弩
+	Tooltip:
+		'''
+		猎者之弩，速如疾风，专为狩猎而生
+		持而射之，箭矢连绵，如夜空流星雨
+		世间纷扰，吾欲观其燎原，以火照天，映人心之暗
+		'''
+}
+
+FabiliaCrossbow: {
+	DisplayName: 赤炎翔隼
+	Tooltip:
+		'''
+		这款霰弹弩炮，犹如狂风中的暴雨，能向四面八方喷射箭矢！
+		蓄力一按，释放你的火力风暴！
+		用这把威力十足的赤炎翔隼，让敌人在爆炸中灰飞烟灭，享受胜利的喜悦吧！
+		'''
+}
+
+JadeJungleCrossbow: {
+	DisplayName: 翠林幽弩
+	Tooltip:
+		'''
+		狙击之弩，蓄力一瞬，释放疾风箭雨，穿梭于战场的缝隙
+		箭矢尾随绿叶，轻舞飞扬，为死寂的战斗添上一抹生机的翠绿
+		偶尔，草香四溢，箭尖轻触，自然的甘甜在紧张的战斗中悄然绽放
+		'''
+}
+
+Heatspot: {
+	DisplayName: 灼热日符
+	Tooltip:
+		'''
+		燃起来吧！
+		+4%魔法伤害 :P
+		'''
+}
+
+Valtotude: {
+	DisplayName: 风漩仪
+	Tooltip:
+		'''
+		生成漩涡，锁敌风暴中
+		群敌一处，召唤攻，全中！
+		'''
+}
+
+DesertWhip: {
+	Tooltip: 小巧的鞭子，却有无尽的沙漠力量
+	DisplayName: 沙漠之鞭
+}
+
+Vinger: {
+	Tooltip: 我不记得哥布林们使用过这个...
+	DisplayName: 暗焰长鞭
+}
+
+CharmofRot: {
+	Tooltip:
+		'''
+		黏在蛛网上，与其一同腐朽
+		+8%召唤伤害
+		'''
+	DisplayName: 腐朽护符
+}
+
+Vheilatine: {
+	Tooltip: 源自歌瑟梵信徒中技艺绝伦的大师之手，匠心独运，犹如夜空中最璀璨的星辰，每一寸都凝聚着对美的极致追求与对传统的深沉敬仰。
+	DisplayName: 维尔拉汀
+}
+
+AcidStaketers: {
+	DisplayName: 酸液滑行靴
+	Tooltip: 使装备者跑得飞快！
+}
+
+AquaCrystal: {
+	DisplayName: 水能晶体
+	Tooltip: +15%远程暴击几率！
+}
+
+AquaticHealingNecklace: {
+	DisplayName: 水能治愈符
+	Tooltip:
+		'''
+		小幅增加生命恢复
+		+10%移动速度
+		'''
+}
+
+ArncharMagazine: {
+	DisplayName: 赤铁弹匣
+	Tooltip: +10%远程暴击率
+}
+
+ClamsPearl: {
+	DisplayName: 古蚌明珠
+	Tooltip: 发出微弱光芒 :)
+}
+
+CloudSkaters: {
+	DisplayName: 浮云靴
+	Tooltip: 减弱重力，畅行天际！
+}
+
+CoralBand: {
+	DisplayName: 珊瑚手环
+	Tooltip: +5%近战伤害与暴击率！
+}
+
+GintzlMetal: {
+	DisplayName: 玄铁
+	Tooltip: 从歌瑟梵的城堡中偷出的一块金属，经岁月消蚀后成了这副摸样
+}
+
+EaglesGrace: {
+	DisplayName: 雄鹰之风采
+	Tooltip: 古谕的神圣窝巢之中，一只雄鹰将其双翼赐予你
+}
+
+GhostExcalibur: {
+	DisplayName: 魂魄圣剑
+	Tooltip: 召唤一把剑为你作战！
+}
+
+LeatherGlove: {
+	DisplayName: 皮革护手
+	Tooltip:
+		'''
+		+10%投掷伤害
+		增加投掷物速度
+		'''
+}
+
+LunarBand: {
+	DisplayName: 月之手环
+	Tooltip:
+		'''
+		+8%暴击率
+		在夜晚，增加12%伤害并发出光芒
+		'''
+}
+
+OceanScroll: {
+	DisplayName: 海之卷轴
+	Tooltip: +10%魔法暴击率
+}
+
+OceansTrinket: {
+	DisplayName: 海之奇珍
+	Tooltip: +1仆从上限，+8%召唤伤害！
+}
+
+RuneOfCorsage: {
+	DisplayName: 碧藤符文
+	Tooltip: 有几率给予“超级回复”效果。于该效果期间被击中将触发大范围中毒
+}
+
+RuneOfDetonation: {
+	DisplayName: 爆裂符文
+	Tooltip: 击中敌人有几率引发爆炸并造成双倍伤害
+}
+
+RuneOfReality: {
+	DisplayName: 虚实灵符
+	Tooltip: 攻击敌人时有几率发射追踪魔法弹，其击中会掉落星星
+}
+
+RuneOfShade: {
+	DisplayName: 暗灵符文
+	Tooltip: +20最大魔力
+}
+
+RuneOfStealth: {
+	DisplayName: 潜伏符文
+	Tooltip: 随时间积累增加伤害，直到受伤。增益积累到最大时你的身体会发出红光
+}
+
+ShadeCharm: {
+	DisplayName: 魅夜之石
+	Tooltip: 魅夜之石，夜中明灯，魔力减耗，照亮前行。
+}
+
+ShadeScarf: {
+	DisplayName: 影遁披巾
+	Tooltip:
+		'''
+		增加移动速度
+		+2%伤害
+		具有潜遁披巾的所有效果，并且增加了+10最大生命与+10%暴击率！
+		增加生命回复！
+		减少冲刺冷却！
+		'''
+}
+
+ShellSheid: {
+	DisplayName: 贝壳护盾
+	Tooltip: 这很壳以！
+}
+
+SoulStrideres: {
+	DisplayName: 翔灵靴
+	Tooltip:
+		'''
+		增加移动速度与飞行时间！
+		获得火箭靴飞行！
+		我不想让我的灵魂被做成靴子 :(
+		'''
+}
+
+SpiritPendent: {
+	DisplayName: 灵光坠饰
+	Tooltip: 提供照明
+}
+
+StarflareBand: {
+	DisplayName: 星辉手环
+	Tooltip:
+		'''
+		+10%魔法伤害
+		增加魔力回复速度！
+		降低魔力消耗 :o
+		'''
+}
+
+SunGlyph: {
+	DisplayName: 耀日符印
+	Tooltip: 在白天大幅提升所有伤害
+}
+
+WoodShield: {
+	DisplayName: 木护盾
+	Tooltip: 更好的丹尼尔
+}
+
+AcidBody: {
+	DisplayName: Virulent Body
+	Tooltip: Life regeneration is increased by a small amount.
+}
+
+AcidHelm: {
+	DisplayName: Virulent Helm
+	Tooltip:
+		'''
+		+5% melee damage
+		+1% melee critical strike chance
+		'''
+}
+
+AcidLegs: {
+	DisplayName: Virulent Legs
+	Tooltip: Slightly increased movement speed :P
+}
+
+AcidMask: {
+	DisplayName: Virulent Mask
+	Tooltip:
+		'''
+		+5% ranged damage
+		+8% ranged critical strike chance
+		'''
+}
+
+AcidRobe: {
+	DisplayName: Virulent Robe
+	Tooltip:
+		'''
+		+5% magic damage
+		+6% magic critical strike chance
+		'''
+}
+
+AcidVisor: {
+	DisplayName: Virulent Visor
+	Tooltip:
+		'''
+		+6% throwing damage
+		+7% throwing critical strike chance
+		'''
+}
+
+AstrasilkBody: {
+	DisplayName: Astrasilk Robe
+	Tooltip: +15% magic critical strike chance
+}
+
+AstrasilkHead: {
+	DisplayName: Astrasilk Hat
+	Tooltip: Slightly increases mana regeneration
+}
+
+AstrasilkLegs: {
+	DisplayName: Astrasilk Leggings
+	Tooltip: Increases movement speed by 20%
+}
+
+ElagentBody: {
+	DisplayName: Elegant Coat
+	Tooltip: +1 Minion
+}
+
+ElagentHead: {
+	DisplayName: Elegant Crown
+	Tooltip: +20% Minion Damage
+}
+
+ElagentLegs: {
+	DisplayName: Elegant Leggings
+	Tooltip:
+		'''
+		+10% Summon Damage
+		+2 Minions
+		Increased movement speed
+		'''
+}
+
+ForestCoreBody: {
+	DisplayName: Forest Core Chestplate
+	Tooltip: Increases crit chance by 2%
+}
+
+ForestCoreHead: {
+	DisplayName: Forest Core Mask
+	Tooltip: Increases damage by 2
+}
+
+ForestCoreLegs: {
+	DisplayName: Forest Core Pants
+	Tooltip: Increases movement speed by 10%
+}
+
+HeavyMetalBody: {
+	DisplayName: Gintzl Chestplate
+	Tooltip: Just gives defense smh.
+}
+
+HeavyMetalHead: {
+	DisplayName: Gintzl Mask
+	Tooltip: It has a good summon set bonus, trust me.
+}
+
+HeavyMetalLegs: {
+	DisplayName: Gintzl Pants
+	Tooltip: +5% Movement speed
+}
+
+LeatherBody: {
+	DisplayName: Leather Armor
+	Tooltip: 4% increased ranged crit chance
+}
+
+LeatherHead: {
+	DisplayName: Leather Hat
+	Tooltip:
+		'''
+		4% increased ranged crit chance
+		10% increased ranged damage
+		'''
+}
+
+LeatherLegs: {
+	DisplayName: Leather Legs
+	Tooltip:
+		'''
+		4% increased ranged crit chance
+		10% increased movement speed
+		'''
+}
+
+ShadeWraithBody: {
+	DisplayName: Shade Wraith Chainplate
+	Tooltip: Increased life by 20!
+}
+
+ShadeWraithHead: {
+	DisplayName: Shade Wraith Mask
+	Tooltip: +2% Damage for all classes (except throwing)
+}
+
+ShadeWraithLegs: {
+	DisplayName: Shade Wraith Pants
+	Tooltip: Slightly increased movement speed.
+}
+
+TerricBody: {
+	DisplayName: Terric Chestplate
+	Tooltip: +40 Health
+}
+
+TerricHead: {
+	DisplayName: Terric Hat
+	Tooltip: +13% Increased Magic Damage
+}
+
+TerricLegs: {
+	DisplayName: Terric Trousers
+	Tooltip: Increased movement speed!
+}
+
+WinterbornBody: {
+	DisplayName: Winterborn Chestplate
+	Tooltip: +20 Health!
+}
+
+WinterbornHead: {
+	DisplayName: Winterborn Robin Mask
+	Tooltip: Increased Mana Regeneration
+}
+
+WinterbornLegs: {
+	DisplayName: Winterborn Pants
+	Tooltip: 10% Increased movement speed!
+}
+
+DreadmireBag: {
+	DisplayName: 宝藏袋（绛渊恶巫）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+EDR: {
+	DisplayName: EDR
+	Tooltip: 按下这个大红按钮后果自负...但你心中总有一个声音在怂恿着你
+}
+
+JackoBag: {
+	DisplayName: 宝藏袋（灯笼杰克）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+NestBag: {
+	DisplayName: 宝藏袋（辐射巢穴）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SingularityBag: {
+	DisplayName: 宝藏袋（破碎奇点）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SunClaw: {
+	DisplayName: 耀日宝石
+	Tooltip: 在耀日祭坛使用它来挑战歌瑟梵手下的一名退役将领
+}
+
+SunStalkerBag: {
+	DisplayName: 宝藏袋（猎日游隼）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+VoidLantern: {
+	DisplayName: 虚冥提灯
+	Tooltip: ""
+}
+
+WanderingEssence: {
+	DisplayName: 漂浪焰华
+	Tooltip: 用于对歌瑟梵表示崇爱的奇异物品
+}
+
+ArnchaliteBar: {
+	DisplayName: 赤铁锭
+	Tooltip: 烫手！但它还没有足够的岁月积淀来成为炽金
+}
+
+ArncharChunk: {
+	DisplayName: 炽烬熔渣
+	Tooltip: 某种更大物体的一小部分
+}
+
+BlankRune: {
+	DisplayName: 空白符文
+	Tooltip: 看起来仅凭它本身发挥不了什么作用
+}
+
+ConvulgingMater: {
+	DisplayName: 拧曲暗质
+	Tooltip: 堕落者均为此物所腐化
+}
+
+DarkEssence: {
+	DisplayName: 暗之精华
+	Tooltip: 纯粹的阴影，由极度暗黑的存在唤出
+}
+
+DreadFoil: {
+	DisplayName: 恐惧布箔
+	Tooltip: 绛渊恶巫身上的箔质！
+}
+
+EldritchSoul: {
+	DisplayName: 幽古之魂
+	Tooltip: 深渊生物的精华
+}
+
+Ivythorn: {
+	DisplayName: 荆棘常春藤
+	Tooltip: 这就像一种毒藤，它悄无声息地在生物间蔓延，用它的枝蔓编织出一片绿意，但这份绿意却藏着剧毒，美丽外表下隐藏着致命的陷阱
+}
+
+LostScrap: {
+	DisplayName: 失落废料
+	Tooltip: 远古时期尖端科技的残留物
+}
+
+SpacialDistortionFragments: {
+	DisplayName: 坍缩残片
+	Tooltip:
+		'''
+		这些漆黑的碎片涌动着能量，扭曲着四周的时空...
+		等等，那你是怎么把它拿在手里的？？
+		'''
+}
+
+ArmorDrive: {
+	DisplayName: 盔甲驱动装置
+	Tooltip: 打造科技装甲的核心部件！
+}
+
+BrokenTech: {
+	DisplayName: 破损零件
+	Tooltip: 注入星星点点魔力的零件，正在休眠状态中。可被重构成更好的物件
+}
+
+DriveConstruct: {
+	DisplayName: 构造驱动器
+	Tooltip: 旅者们鲜有耳闻的神奇物件，内涵了旧世界古老机械的精髓
+}
+
+MetallicOmniSource: {
+	DisplayName: 万用机械零件
+	Tooltip: 电子工程学的奇迹，从古老遗物到现代能源，可以接通一切！这小小的硬件中也含有魔法能量！
+}
+
+UnknownCircuitry: {
+	DisplayName: 神秘电路
+	Tooltip: 皇室首都出现后，旧的机械王国陷落，这电路从那时开始几千年来都在一个被遗忘的角落积灰
+}
+
+TerrorFragments: {
+	DisplayName: 恐惧碎片
+	Tooltip: 可怕！
+}
+
+VirulentPlating: {
+	DisplayName: 辐染镀层
+	Tooltip: 泄露着酸雾与毒素
+}
+
+WanderingFlame: {
+	DisplayName: 漂浪火苗
+	Tooltip: 杰克的意志使其燃烧！
+}
+
+WinterbornShard: {
+	DisplayName: 寒冬碎片
+	Tooltip: 冻得坚硬 :P
+}
+
+RunicTablel: {
+	DisplayName: 符文工作桌
+	Tooltip: 用它来制作符文吧！
+}
+
+AcidicHamacxe: {
+	DisplayName: 酸蚀战斧
+	Tooltip: ""
+}
+
+AcidicPixaxe: {
+	DisplayName: 酸蚀矿镐
+	Tooltip: ""
+}
+
+ArchariliteAxe: {
+	DisplayName: 赤铁战斧
+	Tooltip: ""
+}
+
+ArcharilitePickaxe: {
+	DisplayName: 赤铁矿镐
+	Tooltip: ""
+}
+
+DirtAxe: {
+	DisplayName: 泥斧
+	Tooltip: ""
+}
+
+DirtHammer: {
+	DisplayName: 泥锤
+	Tooltip: ""
+}
+
+DirtPickaxe: {
+	DisplayName: 泥镐
+	Tooltip: ""
+}
+
+Aneuriliac: {
+	DisplayName: 奥尼琉光炮
+	Tooltip:
+		'''
+		迅速喷射神秘光束，其源不明
+		观其轨迹，绚烂如流星，威力撼动心弦
+		'''
+}
+
+Astalaiya: {
+	DisplayName: 星辰召唤
+	Tooltip: 召唤一场绚烂的彩色星光风暴！
+}
+
+FungalFlace: {
+	DisplayName: 核花爆破
+	Tooltip:
+		'''
+		这武器，名为核花爆破，看似温柔的花朵
+		却能释放惊人的力量，花开花落，敌人在爆炸中颤抖，世界在芬芳中宁静
+		'''
+}
+
+JellyTome: {
+	DisplayName: 果冻法典
+	Tooltip: 射出果冻冲击波，乐趣十足！
+}
+
+LeadGauntlets: {
+	DisplayName: 铅制拳套
+	Tooltip: 发射强力的能量拳！
+}
+
+Pericarditis: {
+	DisplayName: 心脉炎鸣
+	Tooltip: 引导血液魔法，发射一发强力的血色爆破
+}
+
+ShadeHandTome: {
+	DisplayName: 影手秘典
+	Tooltip: 巧笑手，化敌为友的魔力触碰
+}
+
+StaffOFlame: {
+	DisplayName: 焰灵杖
+	Tooltip: 召唤萌焰小精灵，伴你左右，温暖心房，照亮前行
+}
+
+StaffoftheIrradiaflare: {
+	DisplayName: 辐射酸灵杖
+	Tooltip:
+		'''
+		汲取酸液之力，释放强力酸暴，威力非凡，信我，兄弟
+		来源可靠，力量源自深邃，一击即中，腐蚀敌胆
+		'''
+}
+
+StarFlowerStaff: {
+	DisplayName: 星花魔杖
+	Tooltip: 轻挥魔杖，星光汇聚，化作光球飞射，夜幕下的璀璨烟火
+}
+
+SunBlastStaff: {
+	DisplayName: 烈阳爆破杖
+	Tooltip: 烈阳一怒，光芒破敌
+}
+
+TheDeafen: {
+	DisplayName: 震耳蝠啸
+	Tooltip: 发出蝙蝠的尖叫，震彻夜空！
+}
+
+TheShrieker: {
+	DisplayName: 尖啸者
+	Tooltip: 哎呀，刺痛我的耳朵，但那伤害...
+}
+
+TomeOfTheSingularity: {
+	DisplayName: 奇点法典
+	Tooltip: 一连串的碎片齐射
+}
+
+TorrentialLance: {
+	DisplayName: 湍流之枪
+	Tooltip:
+		'''
+		用它穿透敌人，所过之处留下泡泡
+		短暂无敌，但冲刺结束时会陷入虚弱
+		穿敌而过，谨慎使用，把握时机
+		'''
+}
+
+VoidsGrasp: {
+	DisplayName: 虚空触手
+	Tooltip: 召唤虚空之手，轻触敌人，引笑逗趣
+}
+
+WintersStom: {
+	DisplayName: 冬霜怒击
+	Tooltip: 每三击，释放霜雪爆破，雪花四溅，伤敌无声
+}
+
+ArchariliteRaysword: {
+	DisplayName: 赤铁炫光剑
+	Tooltip:
+		'''
+		发射一波能量
+		赤铁潜能激发器赐予你力量！
+		'''
+}
+
+AssassinsSlash: {
+	DisplayName: 刺杀者之剑
+	Tooltip: 攻击敌人时，你的武器将逐渐蓄力，待能量满载，只需右键一击，即可释放致命一斩！
+}
+
+CinderBraker: {
+	DisplayName: 炽星裂空剑
+	Tooltip: 斩击·剑射千军
+}
+
+EventHorizon: {
+	DisplayName: 时空临界
+	Tooltip: 威力惊人，令人惊叹
+}
+
+FrostBringer: {
+	DisplayName: 霜冻者
+	Tooltip: 距离目标越远，造成的伤害越低
+}
+
+IrradiatedGreatBlade: {
+	DisplayName: 辐射巨剑
+	Tooltip:
+		'''
+		这把巨剑威力非凡
+		能释放出腐蚀性的酸性波浪！
+		'''
+}
+
+Myocardia: {
+	DisplayName: 心弦轰鸣
+	Tooltip: 哈哈，我就是德古拉！
+}
+
+ScarecrowSaber: {
+	DisplayName: 稻草人军刀
+	Tooltip: 三柄魔法军刀，交织成炫目的光影，让敌人望而生畏，不战而退！
+}
+
+SkyrageShasher: {
+	DisplayName: 天怒破空刃
+	Tooltip: 挥舞即风暴，斩击裂长空，每一击皆天怒，显赫无匹。
+}
+
+GladiatorSpear: {
+	DisplayName: 角斗士之矛
+	Tooltip: 撕裂劲敌骨铠，破甲直击心脉，于竞技之巅，彰显无上锋芒
+}
+
+Infernis: {
+	DisplayName: 地狱
+	Tooltip:
+		'''
+		它，如同流星划破夜空，一支炽烈的长矛，承载着毁灭的使命。
+		它在轨迹的终点绽放，化作一场炫目的火焰风暴，将一切吞噬于烈焰之中。
+		'''
+}
+
+StalkersTallon: {
+	DisplayName: 游隼之爪
+	Tooltip: 它投射出幻影般的自我影像
+}
+
+TheIrradiaspear: {
+	DisplayName: 辐射之矛
+	Tooltip: 它绽放幽灵之舞，幻影分身酸雨般倾泻，腐蚀敌心，绘写战场哀歌
+}
+
+StarKeeper: {
+	DisplayName: 星之守护者
+	Tooltip: 召唤极光之星，对敌人发起璀璨攻击
+}
+
+SwordOfGlactia: {
+	DisplayName: 格拉克蒂亚之剑
+	Tooltip: 细剑如丝，破空飞舞
+}
+
+SwordOfTheJungleGoddess: {
+	DisplayName: 丛林女神之剑
+	Tooltip: 请不要制作这个
+}
+
+WoodenSaber: {
+	DisplayName: 木鞘灵剑
+	Tooltip: 击中敌人后，藤蔓爆炸
+}
+
+X3107: {
+	DisplayName: X3107
+	Tooltip: ""
+}
+
+ArchariliteEnergyShot: {
+	DisplayName: 赤铁光弦弓
+	Tooltip:
+		'''
+		这把弓，一挥之下，三箭齐发，如流星划破夜空，绚烂而致命
+		得赤铁潜能激发器之助，威力倍增，每一箭都携带着破晓之力，无坚不摧
+		'''
+}
+
+AssassinsDischarge: {
+	DisplayName: 刺影瞬破
+	Tooltip: 这是一把专为暗夜行者定制的弓，弦动影随，箭出无声，于月色下勾勒死亡的弧线，刺客之魂，尽在其中
+}
+
+BrokenWrath: {
+	DisplayName: 碎怒
+	Tooltip: 这武器发射的，是废墟中的碎片，它们在空中唱着未来的歌，每一片都在呼喊新的希望
+}
+
+CloudBow: {
+	DisplayName: 云翼弓
+	Tooltip: 云端射击，轻盈飘渺如舞者
+}
+
+Crysalizer: {
+	DisplayName: 冰霜晶化者
+	Tooltip: 三连晶化弹，破敌于霜晶之舞，璀璨夺目，冰封敌踪
+}
+
+DeathShot: {
+	DisplayName: 冥界之吻
+	Tooltip: 骷髅狙神，夜幕下的幽灵，一枪穿魂，传说在月光下诞生
+}
+
+DivineSniper: {
+	DisplayName: 神云枪
+	Tooltip: 并非真神迹，人间烟火色
+}
+
+Dragoniper: {
+	DisplayName: 龙息电能枪
+	Tooltip: 那是什么？
+}
+
+GraniteMagmum: {
+	DisplayName: 磐石熔心
+	Tooltip: 这是一把以磐石之力驱动的枪，每一发都蕴含大地的坚韧与不屈
+}
+
+IceWalker: {
+	DisplayName: 冰行者
+	Tooltip: 每隔两箭，寒冰之灵附体，射出冻结一切的冰霜箭矢!
+}
+
+IrradieagleWrath: {
+	DisplayName: 翔鹰怒射
+	Tooltip: 鹰翔天际，怒射箭雨，精准无匹，敌无所遁
+}
+
+Irradishark: {
+	DisplayName: 爆鲨酸雨
+	Tooltip: 随机轰炸，酸鲨四溅，爆炸如雨
+}
+
+IvynShot: {
+	DisplayName: 艾文弓
+	Tooltip: 一把寻常弓，无他，唯射尔
+}
+
+JackoShot: {
+	DisplayName: 杰克弓
+	Tooltip: 一把寻常弓，无他，唯射尔
+}
+
+JellyBow: {
+	DisplayName: 果冻弓
+	Tooltip: 这把弓挺好看，但也就这样了
+}
+
+LAZER: {
+	DisplayName: LAZER
+	Tooltip: I'm a lasering
+}
+
+RustlockPistol: {
+	DisplayName: 锈铐手枪
+	Tooltip: 射击虚空，效果绝佳！
+}
+
+Rustvolver: {
+	DisplayName: 锈转左轮
+	Tooltip: 一把满是锈迹的手枪，用它？你开心就好！
+}
+
+TecnoBlaster: {
+	DisplayName: 科技爆裂枪
+	Tooltip: 技术控的最爱，用科技炸裂一切！
+}
+
+TheRedSkull: {
+	DisplayName: 红骷髅
+	Tooltip: 又一个骷髅图腾
+}
+
+Tociflare: {
+	DisplayName: 毒焰喷射
+	Tooltip: 喷吐酸性火焰，以凝胶为弹，腐蚀一切
+}
+
+TychineGun: {
+	DisplayName: 鲨猎泰克枪
+	Tooltip: 为此猎鲨，何其悲凉
+}
+
+VoidBlaster: {
+	DisplayName: 虚无破空
+	Tooltip: 以虚无为动力，射出的正是——子弹！
+}
+
+WingedFury: {
+	DisplayName: 翼怒之弓
+	Tooltip: 它，时而射出烈阳神箭，势不可挡
+}
+
+ArncharRemote: {
+	DisplayName: 赤铁遥控器
+	Tooltip: 召唤赤铁机器人，为你冲锋陷阵！
+}
+
+DripplerStaff: {
+	DisplayName: 滴滴怪魔杖
+	Tooltip:
+		'''
+		召唤滴滴怪为你战斗！
+		滴血者附着敌人，四处溅射鲜血
+		战斗中，血滴不息
+		'''
+}
+
+IrradiatedCreeperStaff: {
+	DisplayName: 辐射潜行法杖
+	Tooltip:
+		'''
+		召唤受辐射影响的潜行者，为你而战！
+		辐光潜行者对敌人释放辐射，移动轨迹充满神秘
+		我看到了它与辐射共生的奇妙之处
+		'''
+}
+
+IvyakenStaff: {
+	DisplayName: 绿蔓使者法杖
+	Tooltip: 召唤一位小巧的绿蔓战士，为你效力
+}
+
+JellyStaff: {
+	DisplayName: 果冻魔杖
+	Tooltip:
+		'''
+		召唤可爱小果冻，为你而战
+		积蓄能量，电击四周敌人
+		'''
+}
+
+SwarmerStaff: {
+	DisplayName: 蚁群魔杖
+	Tooltip:
+		'''
+		发射蚁狮之牙，成扇形散开
+		蜂拥而上，就是现在！
+		'''
+}
+
+VoidStaff: {
+	DisplayName: 虚无法杖
+	Tooltip:
+		'''
+		召唤迷你奇点为你战斗！
+		需两个召唤槽位
+		'''
+}
+
+X3144: {
+	DisplayName: X3144
+	Tooltip: ""
+}
+
+AcidicLancher: {
+	DisplayName: 酸液发射器
+	Tooltip: ""
+}
+
+Acidius: {
+	DisplayName: 酸蚀者
+	Tooltip: 投掷酸液，如火焰般蔓延！
+}
+
+AssassinsKnife: {
+	DisplayName: 刺客之刃
+	Tooltip: 令敌人迷惑的利刃！
+}
+
+AssassinsShuriken: {
+	DisplayName: 刺客飞镖
+	Tooltip: 同样让敌人晕头转向！
+}
+
+Boralius: {
+	DisplayName: 霜烬者
+	Tooltip: 寒冰燃烧者！
+}
+
+Bricks: {
+	DisplayName: 砖头
+	Tooltip: 一击碎砖，威力十足！
+}
+
+Cactius: {
+	DisplayName: 弹跳仙人球
+	Tooltip: 在地砖上弹跳自如
+}
+
+GreyBricks: {
+	DisplayName: 灰砖
+	Tooltip: 没错，最佳武器，一块砖
+}
+
+Plantius: {
+	DisplayName: 毒藤之吻
+	Tooltip: 有，有毒！！
+}
+
+ZthoKnifes: {
+	DisplayName: 光雷飞刀
+	Tooltip: ""
+}
+
+CyroBolt: {
+	DisplayName: 冰霜飞弹
+	Tooltip: 射出冰霜飞弹，似乎有些不稳定
+}
+
+LightSpand: {
+	DisplayName: 灵光绽放
+	Tooltip: 歌瑟梵之光的炽烈光辉
+}
+
+MoonMothStaff: {
+	DisplayName: Moon Moth Staff
+	Tooltip: Woa
+}
+
+SolMothStaff: {
+	DisplayName: 日蚀蝶杖
+	Tooltip: 清理小群敌人，效果极佳
+}
+
+HeatGlider: {
+	DisplayName: 灼翼翔者
+	Tooltip: 在炽热的翅膀下，划过天际，燃烧的轨迹，让对手在火焰中学会敬畏
+}
+
+JPost: {
+	DisplayName: 灯笼杰克稻草人
+	Tooltip: ""
+}
+
+ShrineAI: {
+	DisplayName: 古谕魔法尘石坛
+	Tooltip: ""
+}
+
+ShrineBUANI: {
+	DisplayName: 烈焰天使石坛
+	Tooltip: ""
+}
+
+ShrineGardenWreckerI: {
+	DisplayName: 翠破焰炮石坛
+	Tooltip: ""
+}
+
+ShrineHalhurishI: {
+	DisplayName: 炽焰赫尔修里斯石坛
+	Tooltip: ""
+}
+
+ShrineLightsI: {
+	DisplayName: 灵光绽放石坛
+	Tooltip: ""
+}
+
+ShrineSolMothI: {
+	DisplayName: 日蚀飞蛾石坛
+	Tooltip: ""
+}
+
+GothiviasSeal: {
+	DisplayName: 歌瑟梵之印
+	Tooltip:
+		'''
+		带上它，去往瘴煞之地的深处
+		城堡的大门向你敞开...
+		'''
+}
+
+RestingGroundsI: {
+	DisplayName: 代达斯安息所
+	Tooltip: ""
+}
+
+ShinobiTome: {
+	DisplayName: 忍者心经
+	Tooltip: 无手亦可挥，秘籍在心，忍者之魂，战场无影踪
+}
+
+GintzlSpear: {
+	DisplayName: 玄铁标枪
+	Tooltip: 他们如何掷出这沉重的玄铁？
+}
+
+RuneOfWind: {
+	DisplayName: 烈风符文
+	Tooltip:
+		'''
+		受击时有几率唤出狂风护盾！
+		护盾会给予15防御
+		'''
+}
+
+GintzlsSteed: {
+	DisplayName: 玄铁之影
+	Tooltip: 心中有矢，无臂亦能飞箭，长空划过，传奇自成
+}
+
+Gallasis: {
+	DisplayName: 伽拉曦斯
+	Tooltip: 玄铁的遗泽，正蕴藏于这件实用非凡的宝物之中
+}
+
+GintzlBroochA: {
+	DisplayName: 玄铁风符
+	Tooltip:
+		'''
+		迅风之力！
+		+4防御
+		所有物品都能自动挥舞！
+		'''
+}
+
+GintzlShield: {
+	DisplayName: 玄铁护盾
+	Tooltip: 不错的防御！
+}
+
+GintziaBossBag: {
+	DisplayName: 宝藏袋（金戈亚指挥官）
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		里面有个小惊喜~
+		'''
+}
+
+GintzeCard: {
+	DisplayName: 玄铁符牌
+	Tooltip:
+		'''
+		撒下粉末，轻舞尘埃，激活神秘力量
+		成为勇士，或许只差那张关键的牌
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+AurelusTempleTile: {
+	DisplayName: 匿影圣殿砖
+	Tooltip: 你怎么得到这个的？
+}
+
+AurelusChesti: {
+	Tooltip: ""
+	DisplayName: 匿影箱
+}
+
+AurelusBanneri: {
+	DisplayName: 匿影旗帜
+	Tooltip: ""
+}
+
+AurelusPosti: {
+	Tooltip: ""
+	DisplayName: 匿影杆
+}
+
+AurelusBanner2i: {
+	Tooltip: ""
+	DisplayName: 匿影旗帜
+}
+
+AurelusBorderI: {
+	DisplayName: 匿影长廊
+	Tooltip: ""
+}
+
+TON618Crossbow: {
+	DisplayName: TON618
+	Tooltip: 巧夺天工，弓匠大师之手，精制而成，尽显匠心独运
+}
+
+Venatici: {
+	DisplayName: 猎星者
+	Tooltip: 我从不知有如此巨大的黑洞
+}
+
+IceboundStaff: {
+	DisplayName: 冰封魔杖
+	Tooltip:
+		'''
+		召唤寒冰中的冬蝠为你作战！
+		蝙蝠仅占半格召唤位，群起攻敌
+		冰封魔力与精灵之力，共冻结敌人！
+		'''
+}
+
+AurelusDoor: {
+	DisplayName: 匿影门
+	Tooltip: 你真不应该用这个...
+}
+
+AurelusSummoni: {
+	DisplayName: 匿影圣坛
+	Tooltip: ""
+}
+
+MagnusMagnum: {
+	DisplayName: 玛格努斯巨炮
+	Tooltip:
+		'''
+		你知道的，哈利，我一直不太待见你那两面派的作风
+		连射30发后，枪会过热，接着会慢速发射5发，然后恢复常态
+		'''
+}
+
+VoidKey: {
+	DisplayName: 虚空钥匙
+	Tooltip: 带上此物，去冰川下的深渊寻找宝物吧
+}
+
+Neptune8Card: {
+	DisplayName: 第八星辉符牌
+	Tooltip:
+		'''
+		星际深处的火花
+		点燃尘埃与粉末的激情
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+Gintelze: {
+	DisplayName: 灵光破晓
+	Tooltip:
+		'''
+		此剑乃窃自玄铁指挥官之手，他曾背弃歌瑟梵，剑身承载着叛逆与秘密
+		它原是歌瑟梵军中无双利剑，欲为无手之兵所用，锐不可挡，锋芒毕露
+		挥舞它，让剑舞如风，剑意如歌，于战场之上，书写属于你的传奇篇章！
+		'''
+}
+
+HolmbergScythe: {
+	DisplayName: 赫蒙之镰
+	Tooltip: 撕裂宇宙，一分为二！
+}
+
+Alcarish: {
+	DisplayName: 长鞭
+	Tooltip: 玄铁人胆大妄为，竟然从士兵那里偷走了如此有用的东西
+}
+
+AurelusBlightBroochA: {
+	DisplayName: 枯影饰符
+	Tooltip: 发出明亮的光！
+}
+
+AbyssalPowder: {
+	DisplayName: 深渊匿影魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		一种虚空水晶般的尘埃！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+AivanPowder: {
+	DisplayName: 艾凡魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		从歌瑟梵的城堡中窃取
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+GovheilPowder: {
+	DisplayName: 歌维赫魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		纯粹的感觉
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+TheSunAndMoonCard: {
+	Tooltip: 用太阳的炽热和月亮的神秘力量焚烧敌人
+	DisplayName: 日月灼炎符牌
+}
+
+Kilvier: {
+	DisplayName: 基尔维亚
+	Tooltip: 这可不是武器，对吧？
+}
+
+DaedussSunSheid: {
+	DisplayName: 辉日护盾
+	Tooltip: 在歌瑟梵与薇莉娅的名号下熠熠生辉
+}
+
+BearBroochA: {
+	DisplayName: 蛮熊饰符
+	Tooltip: 增加大量的魔力再生！还有+4防御
+}
+
+DreadBroochA: {
+	DisplayName: 恶巫惧符
+	Tooltip:
+		'''
+		+40最大生命
+		其实她好像也没那么坏嘛~
+		'''
+}
+
+MalShieldBroochA: {
+	DisplayName: 恶毒盾符
+	Tooltip:
+		'''
+		我感觉这不太对劲...
+		+7防御
+		+7%近战伤害！
+		'''
+}
+
+VixedBroochA: {
+	DisplayName: 遗世守卫饰符
+	Tooltip:
+		'''
+		傀儡早已精疲力竭
+		+5%伤害
+		+40最大生命
+		'''
+}
+
+DaedenChestplate: {
+	DisplayName: Daeden Chestplate
+	Tooltip:
+		'''
+		Absolutely Hideous.
+		+10% Ranged damage
+		+20 Armor penetration
+		+5 Crit
+		'''
+}
+
+DaedenLegs: {
+	DisplayName: Daeden Legs
+	Tooltip: Increased movement speed
+}
+
+DaedenMask: {
+	DisplayName: Daeden Mask
+	Tooltip:
+		'''
+		This is for all those masochists.
+		+20% Ranged damage
+		Heavy Increased mana regeneration!
+		+5 Crit
+		'''
+}
+
+DaedusBag: {
+	DisplayName: 宝藏袋（遗世者代达斯）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+Plate: {
+	DisplayName: 盘子
+	Tooltip: 我猜代达斯忘了洗盘子
+}
+
+GovheilCastleBlock: {
+	DisplayName: 歌维赫堡砖块
+	Tooltip: ""
+}
+
+GovheilHallI: {
+	DisplayName: 歌维赫大厅
+	Tooltip: ""
+}
+
+GovheilWallsI: {
+	DisplayName: 歌维赫墙
+	Tooltip: ""
+}
+
+GothivA: {
+	DisplayName: 歌瑟梵的帐篷
+	Tooltip: ""
+}
+
+GothWall: {
+	DisplayName: 歌维赫门
+	Tooltip: ""
+}
+
+Alcanine: {
+	DisplayName: 阿尔卡宁符
+	Tooltip:
+		'''
+		召唤师的标配！
+		+2召唤栏位！
+		+10%召唤伤害！
+		'''
+}
+
+GovheilHolsterBroochA: {
+	DisplayName: 歌维赫蕴魔饰符
+	Tooltip:
+		'''
+		将所有魔法武器的魔力消耗减半！
+		+7%魔法伤害
+		还有+2防御！
+		'''
+}
+
+GovhenShield: {
+	DisplayName: 葛文护盾
+	Tooltip: 一面十分坚韧的盾牌
+}
+
+GreekLantern: {
+	DisplayName: 希腊秘灯
+	Tooltip: 歌瑟梵难道是希腊人？？？
+}
+
+LanternOfAFallen: {
+	DisplayName: 坠落者的明灯
+	Tooltip: 清理单个敌人的好手
+}
+
+Blackdot: {
+	DisplayName: 黑点
+	Tooltip: 这是谁起的名字？
+}
+
+Galvinie: {
+	DisplayName: 金辉破空
+	Tooltip: 游戏的旋律，对鼠标而言，恐非悦耳之音
+}
+
+TheBurningRod: {
+	DisplayName: 燃焰法杖
+	Tooltip:
+		'''
+		召唤一盏灯为你战斗！
+		灯盏向敌人喷射灵液
+		虽不精准，但却管用
+		'''
+}
+
+AcidicalDirtBlock: {
+	DisplayName: 酸蚀土块
+	Tooltip: ""
+}
+
+BurningGBroochA: {
+	DisplayName: 烈阳神血饰符
+	Tooltip:
+		'''
+		攻击敌人时释放灵液并引发爆炸
+		+5%近战伤害
+		'''
+}
+
+Twirlers: {
+	DisplayName: 伊瑞蒂安的假发
+	Tooltip:
+		'''
+		想要看起来炫酷吗？带上这个，发蜡都没话说！
+		将魔力消耗减半
+		增加生命回复
+		+20最大生命
+		+30%伤害
+		'''
+}
+
+GothiviaBag: {
+	DisplayName: 宝藏袋（伊瑞蒂安与浩劫龙械）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+WeddingDay: {
+	DisplayName: 婚礼
+	Tooltip: 这一对恋爱脑真是标配
+}
+
+GothiviasCard: {
+	DisplayName: 歌瑟梵焰符牌
+	Tooltip:
+		'''
+		"会造成轻微烧伤"她给的那张纸条上如是说
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+Helios: {
+	DisplayName: 旭日泰坦赫利俄斯
+	Tooltip:
+		'''
+		歌瑟梵杰作，赫利俄斯神威
+		机械巨首，一战即溃
+		太阳之心，辛勤铸就，此神器横空出世
+		'''
+}
+
+AmethystBroochA: {
+	DisplayName: 紫晶饰符
+	Tooltip:
+		'''
+		+20挖掘速度！
+		+2防御
+		'''
+}
+
+CrystalPowder: {
+	DisplayName: 晶石魔法尘
+	Tooltip:
+		'''
+		向他们投掷魔法尘并点燃
+		这就是我们一直在努力的，杰西
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+SunSall: {
+	DisplayName: 辉日圣坛
+	Tooltip: ""
+}
+
+DaedusBossRel: {
+	DisplayName: 代达斯圣物
+	Tooltip: 从歌瑟梵的奇点那腐朽的核心中创造出的傀儡。真为他感到遗憾。
+}
+
+DreadBossRel: {
+	DisplayName: 绛渊恶巫圣物
+	Tooltip: 一般人会迷失自我。她就是那个不一般的人。
+}
+
+GintzeBossRel: {
+	DisplayName: 金戈亚指挥官圣物
+	Tooltip: 曾经是歌瑟梵军队的一员，选择叛逃并组建了自己的军团。
+}
+
+JackBossRel: {
+	DisplayName: 灯笼杰克圣物
+	Tooltip: 在宁静之处独自挺立。对稻草人来说再好不过了。
+}
+
+SOMBossRel: {
+	DisplayName: 月之奇点圣物
+	Tooltip: 这是你面对的第二颗奇点，也是至今最大的挑战。
+}
+
+SunsBossRel: {
+	DisplayName: 猎日游隼圣物
+	Tooltip: 有关它的记忆早已随风逝去，但它的恶行并没有。
+}
+
+VerliBossRel: {
+	DisplayName: 皎月薇莉娅圣物
+	Tooltip: ""
+}
+
+StarbloomBlock: {
+	DisplayName: 星绽块
+	Tooltip: ""
+}
+
+StarbloomDirtBlock: {
+	DisplayName: 星绽土块
+	Tooltip: ""
+}
+
+FurihaMKIII: {
+	DisplayName: 旋律光炮MKIII
+	Tooltip: 随性绽放激光，编织出一场时尚的光影乐章，让战斗成为一场视觉的盛宴
+}
+
+M61X: {
+	DisplayName: M61 X
+	Tooltip: ""
+}
+
+MushroomStave: {
+	DisplayName: 蘑菇杖
+	Tooltip: 摆脱纠缠，给我退下！
+}
+
+StarbloomTempleBlock: {
+	DisplayName: 星绽圣殿块
+	Tooltip: ""
+}
+
+ShadegraveStaff: {
+	Tooltip: ""
+	DisplayName: 幽影墓杖
+}
+
+BasicGunParts: {
+	DisplayName: 基础枪械部件
+	Tooltip: ""
+}
+
+AuroreanStarI: {
+	DisplayName: 极光之星
+	Tooltip: 一颗坠落之星吸收了阿尔卡迪亚的能量，形成了这颗超能之星！
+}
+
+StoneKey: {
+	DisplayName: 心石之钥
+	Tooltip: ""
+}
+
+NoxianWood: {
+	DisplayName: 诺克斯木块
+	Tooltip: ""
+}
+
+StoneChesti: {
+	DisplayName: 心石箱
+	Tooltip: ""
+}
+
+IgniterCards: {
+	DisplayName: 燃烬飞卡
+	Tooltip: 击中敌人，就像使用了引爆卡片，瞬间点燃战火！
+}
+
+ThrowingCards: {
+	DisplayName: 投掷飞牌
+	Tooltip: ""
+}
+
+Bread: {
+	DisplayName: 面包
+	Tooltip: 你还记得你吃过多少片面包吗？
+}
+
+BowledCream: {
+	DisplayName: 一碗奶油
+	Tooltip:
+		'''
+		吃掉它可以提供和蜂蜜一样的生命回复加成！
+		装备它可以提升移动速度！
+		'''
+}
+
+IgniterCardsMKII: {
+	DisplayName: 燃烬飞卡MKII
+	Tooltip: ""
+}
+
+DesertRuneI: {
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
+}
+
+OverworldRuneI: {
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
+}
+
+ThrowingCardsMKII: {
+	DisplayName: 投掷飞牌MKII
+	Tooltip: ""
+}
+
+JungleRuneI: {
+	Tooltip: 也许吉娅会想要它？
+	DisplayName: 远古符文
+}
+
+AlcadzBlock: {
+	DisplayName: 阿尔卡迪亚块
+	Tooltip: ""
+}
+
+CarianWood: {
+	DisplayName: 卡里亚木块
+	Tooltip: ""
+}
+
+CarianWoodWall: {
+	DisplayName: 卡里亚木墙
+	Tooltip: ""
+}
+
+AlciteI: {
+	DisplayName: 高塔壁符
+	Tooltip: ""
+}
+
+AowerBottomI: {
+	DisplayName: 残破高塔
+	Tooltip: ""
+}
+
+AowerTopI: {
+	DisplayName: 残破高塔
+	Tooltip: ""
+}
+
+CurtainLeftRCI: {
+	DisplayName: 帘幕左
+	Tooltip: ""
+}
+
+CurtainRightRCI: {
+	DisplayName: 帘幕右
+	Tooltip: ""
+}
+
+CurtainTopI: {
+	DisplayName: 帘幕顶
+	Tooltip: ""
+}
+
+RectiteI: {
+	DisplayName: 石笋柱
+	Tooltip: ""
+}
+
+SkullpileI: {
+	DisplayName: 头骨堆
+	Tooltip: ""
+}
+
+GiaPants: {
+	DisplayName: 吉娅的裤子
+	Tooltip: ""
+}
+
+GiaSuit: {
+	DisplayName: 吉娅的上衣
+	Tooltip: ""
+}
+
+GiaWig: {
+	DisplayName: 吉娅的假发
+	Tooltip: 你真的想要带上这个吗...
+}
+
+BagOfCards: {
+	DisplayName: 卡包
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		打开来获得卡牌！在困难模式能开出更多卡牌！
+		'''
+}
+
+FireflyCannon: {
+	DisplayName: 萤火炮鸣
+	Tooltip:
+		'''
+		释放出一群蕴含爆炸力量的璀璨萤火
+		在武器铸就的过程中，几许萤火牺牲，化作了这夜空中最绚烂的烟火
+		'''
+}
+
+StoniaBroochA: {
+	DisplayName: 心石饰符
+	Tooltip:
+		'''
+		免疫摔落伤害，+2防御！
+		增加挖掘速度，在黑暗中发光
+		但失去15%伤害
+		'''
+}
+
+AlcaricMush: {
+	DisplayName: 阿尔卡迪亚混溶质
+	Tooltip: 一种奇怪的魔法溶胶，受皇室首都的控制
+}
+
+Blackwhip: {
+	DisplayName: 暗夜长鞭
+	Tooltip: 以鞭作引，让他们重返正轨
+}
+
+DarkWhip: {
+	DisplayName: 暗夜之鞭
+	Tooltip: 正如其名，坏得很
+}
+
+AlsisChestplate: {
+	DisplayName: Alsis Chestplate
+	Tooltip:
+		'''
+		-25 Health
+		+5% Magic Critical Strike Chance
+		-5% Magic Damage
+		'''
+}
+
+AlsisGreaves: {
+	DisplayName: Alsis Greaves
+	Tooltip:
+		'''
+		-10 Health
+		Supa Speed
+		'''
+}
+
+AlsisMask: {
+	DisplayName: Alsis Mask
+	Tooltip:
+		'''
+		-10 Health
+		+1% Magic Critical Strike Chance
+		-5% Magic Damage
+		'''
+}
+
+WickofSorcery: {
+	DisplayName: 魔咒烛心
+	Tooltip: 有史以来最好的棍子，但也仅仅只是一个棍子
+}
+
+Voyager: {
+	DisplayName: 旅行者
+	Tooltip: 我喜欢挥刀斩敌，传球制胜，哦不对，串戏了
+}
+
+Hyua: {
+	DisplayName: 幻轮
+	Tooltip: 投掷诡异的圆形魔法环，或球，我也说不清
+}
+
+Poya: {
+	DisplayName: 阿卡里亚之唤
+	Tooltip: 召唤阿卡里亚蘑菇生物进入现实，将敌人撕裂
+}
+
+FireflyStaff: {
+	DisplayName: 火萤魔杖
+	Tooltip:
+		'''
+		召唤火萤为你作战！
+		右击切换攻防模式，状态加成随火萤数量提升
+		进攻模式，你将获得移速与飞行优势
+		防守模式，你收获防御与生命恢复，但火萤攻速减缓
+		'''
+}
+
+VampireScepter: {
+	DisplayName: 吸血魔杖
+	Tooltip:
+		'''
+		召唤血族火炬，助你战斗无阻
+		火炬夺生机，近敌吸血无度
+		召唤伤增，威力倍出
+		唯一在手，独步天下
+		'''
+}
+
+LunarianVoidBody: {
+	DisplayName: Lunarian Void Chestplate
+	Tooltip: +10% Throwing Damage
+}
+
+LunarianVoidHead: {
+	DisplayName: Lunarian Void Helmet
+	Tooltip:
+		'''
+		+10 Throwing Critical Strike Chance!
+		+20 Health
+		+25% Throwing Damage
+		'''
+}
+
+LunarianVoidLegs: {
+	DisplayName: Lunarian Void Legs
+	Tooltip:
+		'''
+		Increased movement speed 2%
+		+5% Throwing Damage
+		'''
+}
+
+SandStorm: {
+	DisplayName: 沙暴旋风
+	Tooltip: 沙暴旋风，迷你龙卷风席卷敌人，触地爆炸，沙尘四散，战场瞬变沙漠
+}
+
+ExploreMorrowedVillage: {
+	DisplayName: 任务：探索古谕村落
+	Tooltip: ""
+}
+
+ExploreMorrowedVillageC: {
+	DisplayName: 探索古谕村落：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+}
+
+Give100DustBags: {
+	DisplayName: 任务：上交100个尘土袋
+	Tooltip: ""
+}
+
+Give100DustBagsC: {
+	DisplayName: 上交100个尘土袋：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+}
+
+KillVerlia: {
+	DisplayName: 任务：击败薇莉娅
+	Tooltip: 她在仪殿之巅！
+}
+
+KillVerliaC: {
+	DisplayName: 击败薇莉娅：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+}
+
+MakeMagicPaper: {
+	DisplayName: 任务：制作魔法纸张
+	Tooltip: 要收集许多材料，十分困难...
+}
+
+MakeMagicPaperC: {
+	DisplayName: 制作魔法纸张：任务完成！
+	Tooltip: 去找梅瑞娜拿到你的奖励吧！
+}
+
+MakeUltimateScroll: {
+	DisplayName: 任务：制作终极卷轴
+	Tooltip: 最终测试！
+}
+
+OldCarianTome: {
+	DisplayName: 卡里亚古籍
+	Tooltip: 其中涌出无尽的知识
+}
+
+OrbOfTheMorrow: {
+	DisplayName: 幽曦古谕之心
+	Tooltip: 回荡着歌瑟梵的声音
+}
+
+StolenMagicTome: {
+	DisplayName: 失窃的魔法书
+	Tooltip: 从皇家首都而来
+}
+
+TomeOfInfiniteSorcery: {
+	DisplayName: 万法魔导书
+	Tooltip: 精通世间一切
+}
+
+AlcadThrowingCards: {
+	DisplayName: 阿尔卡迪亚飞牌
+	Tooltip: ""
+}
+
+OceanRuneI: {
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
+}
+
+Starvast: {
+	DisplayName: 星瀚无垠
+	Tooltip: 召唤环绕周身的星辰，它们将自动追踪并寻觅敌人！
+}
+
+SawtoothNecklace: {
+	DisplayName: 锯齿利牙项链
+	Tooltip:
+		'''
+		增加12点护甲穿透
+		我“锯”知道会这样！
+		'''
+}
+
+ShadowCloak: {
+	DisplayName: 影匿披风
+	Tooltip:
+		'''
+		8防御
+		+4%伤害减免
+		降低仇恨，接近你的敌人会被施加debuff
+		融入暗影...
+		'''
+}
+
+VampireCharm: {
+	DisplayName: 吸血鬼护符
+	Tooltip:
+		'''
+		+4%暴击率
+		暴击有几率爆发血水并且治疗你
+		'''
+}
+
+BlossomingScissor: {
+	Tooltip: 本应是裁剪花海的艺术家，却悲催地成为了一柄穿越万难的利器
+	DisplayName: 绽花裁者
+}
+
+AltrideSlicer: {
+	Tooltip: 剑雨纷飞
+	DisplayName: 阿尔特莱德剑雨
+}
+
+MooningSlicer: {
+	Tooltip: 瑟莱西雅会为此感到骄傲
+	DisplayName: 月光剑雨
+}
+
+EverneanSlicer: {
+	DisplayName: 永恒剑雨
+	Tooltip: 瑟莱西雅必将为此更添荣耀，璀璨夺目
+}
+
+ShrineBridgetI: {
+	DisplayName: 布里姬石坛
+	Tooltip: ""
+}
+
+Bridget: {
+	DisplayName: 布里姬
+	Tooltip: 布里姬？她到底是谁？
+}
+
+Reavestor: {
+	DisplayName: 瑞维斯特
+	Tooltip: 灵魂吞噬者一号
+}
+
+FableKnives: {
+	DisplayName: 古谕小刀
+	Tooltip: 快把他们扔出去
+}
+
+ZthoKnives: {
+	DisplayName: 迅疾飞刃
+	Tooltip: 扔得更快，让敌人无处可躲！
+}
+
+Thunderstaff: {
+	DisplayName: 雷霆法杖
+	Tooltip:
+		'''
+		召唤小云朵守护你！
+		不同等级，云朵攻击各异
+		Lvl 1 - 冰霜飞弹凝寒气
+		Lvl 2 - 闪电破空势如虹
+		Lvl 3 - 漩涡卷天力无匹
+		'''
+}
+
+LarveinScripute: {
+	DisplayName: 幽蛹灵卷
+	Tooltip: 一只小幼虫，好萌啊！
+}
+
+ArtisanBreastplate: {
+	DisplayName: 艺匠胸甲
+	Tooltip:
+		'''
+		别急，先把你自己裹得严严实实的。你可不想让颜料溅到皮肤上吧？
+		+5%伤害
+		+5%暴击率
+		+15最大生命
+		艺术家的标配 :)
+		'''
+}
+
+ArtisanMask: {
+	DisplayName: 艺匠假面
+	Tooltip:
+		'''
+		一边画画一边胡思乱想真是最有趣的消遣之一了
+		+5%伤害
+		+5%暴击率
+		+15最大生命
+		看着不失性感，对吧？
+		'''
+}
+
+ArtisanThighs: {
+	DisplayName: 艺匠护腿
+	Tooltip:
+		'''
+		宝贝儿，把大腿遮一下，要不然就有人要来抓你了:(
+		+20%移动速度
+		+5%伤害
+		+15最大生命
+		在颜料上滑行，就像Splatoon一样！
+		'''
+}
+
+ArtisanBar: {
+	DisplayName: 彩艺锭
+	Tooltip: 只有真正的艺术家才能驾驭它
+}
+
+KaleidoscopicInk: {
+	DisplayName: 虹彩幻墨
+	Tooltip: 神奇且烈性的艺匠墨水，还含有一丝迷幻剂...
+}
+
+ArtistsHeart: {
+	DisplayName: 艺术家之心
+	Tooltip: 爱画成痴，以画为投！
+}
+
+InkingSpire: {
+	DisplayName: 绘空墨刃
+	Tooltip: 以墨水般的流畅与不朽之身，穿越敌军如行云流水！右键轻启，觉醒墨舞者之‘逆酸风暴’，以刃书写战斗的华章！
+}
+
+PieceOfArt: {
+	DisplayName: 至炫墨彩
+	Tooltip: 挥洒彩墨，以画布为战场，创意为刃，绘出胜利的轨迹
+}
+
+PicturePerfectI: {
+	DisplayName: 彩臻化境I
+	Tooltip:
+		'''
+		--初露锋芒--
+		加强艺匠套装
+		穿着艺匠套装时获得更多防御（+5）
+		为所有彩艺武器增添1种新的颜料！
+		艺匠套装奖励持续时间稍微延长，增益稍微增加
+		让他们知道什么叫艺术！
+		召唤一只小摄像机，让它拍下你的高光时刻！
+		'''
+}
+
+PicturePerfectII: {
+	DisplayName: 彩臻化境II
+	Tooltip:
+		'''
+		--日升月恒--
+		大幅加强艺匠套装
+		穿着艺匠套装时获得更多防御（+10）
+		为所有彩艺武器增添1种新的颜料！
+		艺匠套装奖励持续时间中度延长，增益有所增加
+		哎呦，你穿这套可真帅气！
+		召唤一只小摄像机，让它拍下你的高光时刻！
+		'''
+}
+
+PicturePerfectIII: {
+	DisplayName: 彩臻化境III
+	Tooltip:
+		'''
+		--白璧无瑕--
+		极度增强艺匠套装
+		穿着艺匠套装时获得更多防御（+25）
+		艺匠套装奖励持续时间大幅延长，增益大幅增加
+		终于，修至完美！
+		召唤一只小摄像机，让它拍下你的高光时刻！
+		'''
+}
+
+ShadeWraithWings: {
+	DisplayName: 幽灵影翼
+	Tooltip: 允许飞行与缓降
+}
+
+DirtWings: {
+	DisplayName: 泥土之翼
+	Tooltip:
+		'''
+		允许飞行与缓降
+		等..等下..你用..泥土做了翅膀？
+		你没事吧？
+		'''
+}
+
+BridgetII: {
+	DisplayName: 布里姬的告别之剑
+	Tooltip: 你为何不让她重获新生？
+}
+
+BlackWallBlock: {
+	DisplayName: 黑
+	Tooltip: 真tm的黑啊
+}
+
+MossyStones: {
+	DisplayName: 生苔石头
+	Tooltip: ""
+}
+
+VeriplantGrassBlock: {
+	DisplayName: 殆绿草块
+	Tooltip: ""
+}
+
+ChiseledStoneBlock: {
+	DisplayName: 雕琢石块
+	Tooltip: ""
+}
+
+VeriplantDirtBlock: {
+	DisplayName: 殆绿土块
+	Tooltip: ""
+}
+
+VeriplantGrassWall: {
+	DisplayName: 殆绿草墙
+	Tooltip: ""
+}
+
+MiracleBody: {
+	DisplayName: 奇迹披风
+	Tooltip:
+		'''
+		+12%召唤伤害
+		+20%鞭子距离
+		+1最大哨兵数
+		'''
+}
+
+MiracleHead: {
+	DisplayName: 奇迹法帽
+	Tooltip:
+		'''
+		+12%召唤伤害
+		+1最大哨兵数
+		'''
+}
+
+MiracleThread: {
+	DisplayName: 奇迹针线
+	Tooltip: 它所缝织的，乃是现实本身...
+}
+
+MiracleWings: {
+	DisplayName: 奇迹之翼
+	Tooltip:
+		'''
+		允许飞行与缓降
+		按住“下”键以悬停
+		看这翅膀的样子...能飞起来就是个奇迹
+		'''
+}
+
+Lacerator: {
+	DisplayName: 撕裂者
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		这武器打中敌人后，敌人就像被切成两半，血量和防御都只剩下一半
+		真是切片切丁，爽快极了！
+		（汉化者注：对boss无效）
+		'''
+}
+
+PotOfGreed: {
+	DisplayName: 贪欲之壶
+	Tooltip:
+		'''
+		接近此壶，它会欢笑，为你的手下创造最多10个影子分身
+		这些影子虽不持久，但能造成伤害，只是略逊于本体
+		这神奇的壶，战场上仅此一个，独特无双
+		'''
+}
+
+Ripper: {
+	DisplayName: 裂魂者
+	Tooltip: 召唤一场暗紫色的剑之风暴，撕裂空间，精准地向你的目标区域倾泻而下！
+}
+
+XScissor: {
+	DisplayName: X
+	Tooltip: 召唤X字裂隙，唤起对虚空的恐惧
+}
+
+LittleScissor: {
+	DisplayName: 小巧裁影刃
+	Tooltip:
+		'''
+		双击方向键来快速冲刺！
+		冲刺时撕裂空间并留下追踪能量
+		'''
+}
+
+SyliaBag: {
+	DisplayName: 宝藏袋（赛莉亚）
+	Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
+}
+
+SyliaBossRel: {
+	DisplayName: 赛莉亚圣物
+	Tooltip: ""
+}
+
+SeavathanBlock: {
+	DisplayName: 赛瓦萨块
+	Tooltip: ""
+}
+
+OldWeddingRing: {
+	DisplayName: 暗淡的婚戒
+	Tooltip: 肯定有人会喜欢这个的
+}
+
+GrailBar: {
+	DisplayName: 砾金锭
+	Tooltip: 仿佛世间一切的金色都融进其中
+}
+
+CelestiasWeddingRing: {
+	DisplayName: 瑟莱西雅的结婚戒指
+	Tooltip:
+		'''
+		她爱我!她不爱我！
+		获得旅者的行囊的效果
+		免疫击退与岩浆！
+		+12%伤害
+		+12%护甲穿透！
+		'''
+}
+
+STARCORE: {
+	DisplayName: 星 爆 之 核
+	Tooltip: 由最具毁灭性的轰炸机械掉落
+}
+
+BottleOfGrail: {
+	DisplayName: 砾金瓶
+	Tooltip: +1召唤栏，并附赠一个关不掉的星璇背景
+}
+
+ReverieExtenderPowder: {
+	DisplayName: 魔法尘增效器·幻想
+	Tooltip: 增加130%的魔法尘距离
+}
+
+GrailedExtenderPowder: {
+	DisplayName: 魔法尘增效器·砾金
+	Tooltip: 增加250%的魔法尘距离
+}
+
+MidfortuneExtenderPowder: {
+	DisplayName: 魔法尘增效器·中和
+	Tooltip: 增加200%的魔法尘距离
+}
+
+BonedThrowBroochA: {
+	DisplayName: 掷骨饰符
+	Tooltip: 增加20%投掷速度和伤害，增加移速！
+}
+
+LuckyWinnerBroochA: {
+	DisplayName: 赌神饰符
+	Tooltip: 引爆粉尘时有几率造成双倍伤害！
+}
+
+SandyBroochA: {
+	DisplayName: 风沙饰符
+	Tooltip: 双击下键来召唤龙卷风！
+}
+
+GrailHairpinYoyo: {
+	DisplayName: 砾金发簪球
+	Tooltip: 哇，这简直烂透了！
+}
+
+StarringGraft: {
+	DisplayName: 星辰接引者
+	Tooltip: 把那些星星从地上捡起来吧
+}
+
+OceanicExtenderPowder: {
+	DisplayName: 魔法尘增效器·海洋
+	Tooltip: 增加150%的魔法尘距离
+}
+
+MorrowedJelliesBroochA: {
+	DisplayName: 幽曦水母饰符
+	Tooltip: 戴上它，你就是全村最肉的仔，再加40防御！
+}
+
+BonedExtenderPowder: {
+	DisplayName: 魔法尘增效器·枯骨
+	Tooltip: 增加160%的魔法尘距离
+}
+
+GremoryExtenderPowder: {
+	DisplayName: 魔法尘增效器·黯惧
+	Tooltip: 增加150%的魔法尘距离
+}
+
+MushyExtenderPowder: {
+	DisplayName: 魔法尘增效器·混融
+	Tooltip: 增加180%的魔法尘距离
+}
+
+TomedDustingFlames: {
+	DisplayName: 火焰魔法尘指南
+	Tooltip: ""
+}
+
+TomedDustingMagic: {
+	DisplayName: 魔能魔法尘指南
+	Tooltip: ""
+}
+
+JacksonPollock: {
+	DisplayName: 杰克逊·波洛克
+	Tooltip: 召唤一桶漂浮的颜料，四处泼洒，绘出战场的抽象画卷
+}
+
+Rhamenthal: {
+	DisplayName: 雷曼索织魔
+	Tooltip: 一弓织尽敌阵烟云，万敌于魔法之网中消散无踪
+}
+
+Angelenthal: {
+	DisplayName: 天谷圣剑
+	Tooltip: ""
+}
+
+RoseBroochA: {
+	DisplayName: 玫瑰饰符
+	Tooltip: 召唤一朵玫瑰护盾在你身边旋转，造成伤害并挡住来袭的弹幕
+}
+
+Nekomara: {
+	DisplayName: 梦魇猫娘
+	Tooltip: ""
+}
+
+Yumiko: {
+	DisplayName: 弓魂
+	Tooltip: ""
+}
+
+FrostMonger: {
+	DisplayName: 寒霜剑影
+	Tooltip: 挥洒寒夜霜刃，光标所至，冰霜之威尽斩敌群！
+}
+
+AlcadzianCard: {
+	DisplayName: 阿尔卡迪亚爆裂符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		再以牌为引，引爆炫目爆炸，敌人在璀璨光芒中败退
+		'''
+}
+
+BOMBERCard: {
+	DisplayName: 爆破符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		切换此牌，长按攻击，引爆连环爆炸，战场瞬间化为火海
+		'''
+}
+
+BurningCard: {
+	DisplayName: 灼热符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+FenixxCard: {
+	DisplayName: 凤涅克丝符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+GrailedCard: {
+	DisplayName: 砾金符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+LarvaedCard: {
+	DisplayName: 幽蝶符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+StyngerCard: {
+	DisplayName: 刺蜇符牒
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+URift: {
+	DisplayName: 不稳定裂隙
+	Tooltip: ""
+}
+
+GrailAxe: {
+	DisplayName: 砾金斧
+	Tooltip: ""
+}
+
+Rinavine: {
+	DisplayName: 翠焰长鞭
+	Tooltip: 金光璀璨，万物臣服之君
+}
+
+Jerry: {
+	DisplayName: 杰瑞
+	Tooltip: ""
+}
+
+LarvaedSpear: {
+	DisplayName: 幽蝶之矛
+	Tooltip: 幽蝶化身的长矛，威力不凡
+}
+
+DevilsPeak: {
+	DisplayName: 绯焰魔镰
+	Tooltip: 虚构之巅
+}
+
+ClockworkCity: {
+	DisplayName: 齿轮之城
+	Tooltip:
+		'''
+		这地方绝对不是游戏里最好的，轻咳两声，隐喻着不满。
+		锁链密布的世界，种下的不是希望，而是玩家心中的牢笼。
+		'''
+}
+
+PotionOfAlcadWand: {
+	DisplayName: 阿尔卡迪亚灵液
+	Tooltip: 一用即享无边欢乐
+}
+
+ScissorianChestplate: {
+	DisplayName: Scissorian Chestplate
+	Tooltip:
+		'''
+		+20 Throwing Critical Strike Chance!
+		+15 Health
+		+10% Throwing Damage
+		'''
+}
+
+ScissorianGreaves: {
+	DisplayName: Scissorian Greaves
+	Tooltip:
+		'''
+		Increased movement speed
+		+20 Health
+		+15% Throwing Damage
+		'''
+}
+
+ScissorianMask: {
+	DisplayName: Scissorian Mask
+	Tooltip: +20% Throwing Damage
+}
+
+DarkButcher: {
+	DisplayName: 暗夜屠夫
+	Tooltip: 比屠夫更狠，暗夜中的绝对恐惧
+}
+
+TheButcher: {
+	DisplayName: 屠夫
+	Tooltip: ""
+}
+
+BookOfSkullsII: {
+	DisplayName: 颅骨秘典II
+	Tooltip: 哇哦，妈妈，这是第二版了！
+}
+
+DreadGauntlets: {
+	DisplayName: 恐惧拳套
+	Tooltip: 发射令人恐惧的强大能量拳
+}
+
+ScytheOfSouls: {
+	DisplayName: 灵魂收割者
+	Tooltip: 随心所欲地驾驭这些复仇的灵魂吧，它们的行径可是出人意料的酷炫！
+}
+
+BubbleBlasher: {
+	DisplayName: 泡泡爆破者
+	Tooltip: 一击之下，敌人远遁，此乃神兵之力！
+}
+
+LarveinGreatbow: {
+	DisplayName: 幽蝶大弓
+	Tooltip: 挺厉害的，对吧？
+}
+
+AlcarianYoyo: {
+	DisplayName: 阿卡里亚之灵旋
+	Tooltip: 蕴藏阿卡里亚秘能的悠悠球，它舞动间，随性撒播着未知的弹射奇缘，每一次旋转都是宇宙间最自由的诗篇
+}
+
+Alcadius: {
+	DisplayName: 阿尔卡迪亚
+	Tooltip: 惊喜连连，出其不意！
+}
+
+DungeonedRockCard: {
+	DisplayName: 地牢岩符牌
+	Tooltip:
+		'''
+		要么被石头砸中，要么体验一下‘巨石’强森的威力，看哪个更有趣吧
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+PunkedUpChops: {
+	DisplayName: 摇滚断骨
+	Tooltip: 狂野击打，如摇滚般放肆
+}
+
+Photobomb: {
+	DisplayName: 炫彩弓
+	Tooltip: 我来搞破坏，毁你美照；我来泼彩漆，给你添乱
+}
+
+CatacombAquaStoneBlock: {
+	DisplayName: 水之墓穴石块
+	Tooltip: ""
+}
+
+CatacombHeatStoneBlock: {
+	DisplayName: 狱之墓穴石块
+	Tooltip: ""
+}
+
+CatacombTrapStoneBlock: {
+	DisplayName: 机关墓穴石块
+	Tooltip: ""
+}
+
+CatacombsKey: {
+	DisplayName: 地下墓穴钥匙
+	Tooltip: 使用它来进入位于海洋、沙漠、与地下的墓穴！
+}
+
+CatacombsDoor: {
+	DisplayName: 墓穴之门
+	Tooltip: ""
+}
+
+CatacombsSummoni: {
+	DisplayName: 墓穴祭坛
+	Tooltip: ""
+}
+
+GraftedSoul: {
+	DisplayName: 辐染之魂
+	Tooltip: 根植感染的精华..
+}
+
+GoldenHeartBalls: {
+	DisplayName: Golden Heart Balls
+	Tooltip: Would match the golden shower :)
+}
+
+Test: {
+	DisplayName: 测试物品
+	Tooltip: >:(
+}
+
+StarringBalls: {
+	DisplayName: 星辰球
+	Tooltip: 释放星辰之力，星光环绕，化身为夜空的主宰
+}
+
+MagicalBroochA: {
+	DisplayName: 皇室首都的魔能饰符
+	Tooltip:
+		'''
+		看来你真想做个法师啊
+		+100最大魔力，+50最大生命
+		获得魔法手铐与魔力花效果
+		减少95%魔力消耗，是的你没看错
+		+20%魔法伤害
+		'''
+}
+
+PotionOfHallowWand: {
+	DisplayName: 圣辉魔杖
+	Tooltip:
+		'''
+		召唤圣洁小仆，对敌降圣雨
+		酷似金辉之沐浴，倾泻而下
+		'''
+}
+
+AppretienceBreastplate: {
+	DisplayName: Appretience Breastplate
+	Tooltip: +20% Crit strike chance and +5 Health!
+}
+
+AppretienceHat: {
+	DisplayName: Appretience Hood
+	Tooltip: +20% Crit strike chance and Health!
+}
+
+AppretiencePants: {
+	DisplayName: Appretience Pants
+	Tooltip: +20% Crit strike chance and Health!
+}
+
+UlvenChestplate: {
+	DisplayName: Ulven Chestplate
+	Tooltip: +15 Armor Penetration!
+}
+
+UlvenGreaves: {
+	DisplayName: Ulven Greaves
+	Tooltip: +25 Armor Penetration!
+}
+
+UlvenHelmet: {
+	DisplayName: Ulven Helmet
+	Tooltip: +20 Armor Penetration
+}
+
+RottenHeart: {
+	DisplayName: 腐朽之心
+	Tooltip: 已经裂成碎片，完全腐朽。修复它，便是为歌瑟梵提供了又一道屏障...
+}
+
+IronHook: {
+	DisplayName: 铁钩
+	Tooltip: ""
+}
+
+Kaevine: {
+	DisplayName: 毒棘藤鞭
+	Tooltip: ""
+}
+
+RalladI: {
+	DisplayName: 骨堆圣像
+	Tooltip: ""
+}
+
+AgreviPowder: {
+	DisplayName: 阿格雷维魔法尘
+	Tooltip:
+		'''
+		向他们投掷魔法尘并点燃
+		一种过一会儿才起效的爆炸性尘埃
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+IllusionistPowder: {
+	DisplayName: 幻术师魔法尘
+	Tooltip:
+		'''
+		向他们投掷魔法尘并点燃
+		一种提醒你要保护好自己的粉尘
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+PoisonedPowder: {
+	DisplayName: 毒雾魔法尘
+	Tooltip:
+		'''
+		向他们投掷魔法尘并点燃
+		一种总在飘的毒尘
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+SpiritPowder: {
+	DisplayName: 灵体魔法尘
+	Tooltip:
+		'''
+		将魔法尘抛洒在它们身上，然后点燃
+		凤涅克丝会因你这样做而喜爱你
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+TreasureBoxFire: {
+	DisplayName: 燃烬宝藏盒
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		你一定刚刚被烧了个半死吧
+		'''
+}
+
+TreasureBoxTrap: {
+	DisplayName: 机关宝藏盒
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		恩~我保证它上面没有陷阱呢~ ;)
+		'''
+}
+
+TreasureBoxWater: {
+	DisplayName: 沉沦宝藏盒
+	Tooltip:
+		'''
+		{$CommonItemTooltip.RightClickToOpen}
+		好多...水...
+		'''
+}
+
+AquaticEmblem: {
+	DisplayName: 水能纹章
+	Tooltip:
+		'''
+		击中敌人时有几率召唤泡泡来包围它们！
+		泡泡的持续时间很长
+		'''
+}
+
+Barry: {
+	DisplayName: 刺儿盾
+	Tooltip:
+		'''
+		召唤一圈刺来保护你
+		人见人爱 :)
+		'''
+}
+
+Bonfire: {
+	DisplayName: 火烛灵
+	Tooltip:
+		'''
+		在你头顶上召唤一只火烛灵，它会增加你的生命回复并提供照明
+		在你不移动时效果更好！
+		'''
+}
+
+Cleats: {
+	DisplayName: 钉鞋
+	Tooltip: 增加移动速度和加速度，并发出微弱光芒！
+}
+
+FireEmblem: {
+	DisplayName: 火焰纹章
+	Tooltip:
+		'''
+		你的攻击同时造成随机火焰减益
+		暴击有几率引发爆炸并灼烧敌人！
+		...你是不是以为这是别的什么东西？（汉化者注：同名游戏《火焰纹章》）
+		'''
+}
+
+FlamecrestShield: {
+	DisplayName: 焰纹护盾
+	Tooltip:
+		'''
+		免疫所有火焰类减益！
+		所有火焰类攻击对你造成的伤害减半！
+		再来烧我呀~ :P
+		'''
+}
+
+IcarusFeather: {
+	DisplayName: 伊卡洛斯之羽
+	Tooltip:
+		'''
+		即使飞行时间耗尽也可以继续飞行！
+		...但如果你这么做，你的翅膀会起火，灼烧生命并降低灵活性
+		（汉化者注：伊卡洛斯，古希腊神话人物，大发明家代达罗斯之子。两人用代达罗斯造出的翅膀逃离监狱时，伊卡洛斯固定翅膀用的蜡被太阳融化，坠入海洋身亡）
+		'''
+}
+
+OceancrestShield: {
+	DisplayName: 洋纹护盾
+	Tooltip:
+		'''
+		每过一小会，就会出现泡泡保护你免受一次伤害！
+		无限的水下呼吸！
+		'''
+}
+
+Panacea: {
+	DisplayName: 万灵药
+	Tooltip:
+		'''
+		免疫中毒，剧毒与流血！
+		+40最大生命
+		'''
+}
+
+SpikedEmblem: {
+	DisplayName: 尖刺纹章
+	Tooltip:
+		'''
+		+8%伤害
+		攻击敌人时，伸出锁链将其拉向你并造成额外伤害！
+		'''
+}
+
+TyphoonInABottle: {
+	DisplayName: 瓶中台风
+	Tooltip:
+		'''
+		获得一个极其强力的二段跳！
+		稍微增加移速与跳跃速度
+		'''
+}
+
+WaterproofHeadphones: {
+	DisplayName: 防水耳机
+	Tooltip: +40最大生命，+4%伤害减免
+}
+
+BurningFlask: {
+	DisplayName: 烈焰瓶
+	Tooltip: 可别连家一块烧了...
+}
+
+ComicalTrident: {
+	DisplayName: 滑稽三叉戟
+	Tooltip: 史上最为逗趣的武器，笑傲战场！
+}
+
+MetalAlloy: {
+	DisplayName: 金属合金
+	Tooltip: 虽非材料，但在德国就不一定了
+}
+
+Ragsaw: {
+	DisplayName: 舞动碎布
+	Tooltip: 它们轻盈跳跃，仿佛欢快舞蹈
+}
+
+SpiritCapsule: {
+	DisplayName: 灵魄胶囊
+	Tooltip: 不知何故，万千灵魂被囚禁于内
+}
+
+Stonen: {
+	DisplayName: 石
+	Tooltip: 别先自陷石化的命运
+}
+
+Aquamare: {
+	DisplayName: 海蓝之心
+	Tooltip: 或许效果多变！
+}
+
+MagicalAxe: {
+	DisplayName: 魔法斧
+	Tooltip: 这把斧头太神奇了，它把自己变成了“酷炫”的斧头！
+}
+
+WaterSong: {
+	DisplayName: 流歌
+	Tooltip: 将木箭化为冰霜飞矢！
+}
+
+Dulahaun: {
+	DisplayName: 世界坍缩-裂宇剑
+	Tooltip:
+		'''
+		在超新星的辉煌余烬中，两柄剑以引力为引，碰撞交织
+		释放宇宙之力，编织着时空的裂痕，既是毁灭亦是新生的序章。
+		'''
+}
+
+CursedShard: {
+	DisplayName: 诅咒残片
+	Tooltip: 在三个地下洞穴任一的祭坛处使用以召唤一名危险的敌人！
+}
+
+DucanblitzBreastplate: {
+	DisplayName: Ducanblitz Breastplate
+	Tooltip:
+		'''
+		+10 Max Health
+		+10% Melee Damage!
+		'''
+}
+
+DucanblitzCap: {
+	DisplayName: Ducanblitz Cap
+	Tooltip:
+		'''
+		+10 Critical Strike Chance
+		+12% Melee Damage!
+		'''
+}
+
+DucanblitzThighs: {
+	DisplayName: Ducanblitz Thighs
+	Tooltip:
+		'''
+		A hell of a lot of movement speed!
+		+10 Max Health
+		+15 Armor penetration
+		+2% Melee Damage!
+		'''
+}
+
+FenixBag: {
+	DisplayName: 宝藏袋（凤涅克丝）
+	Tooltip: ""
+}
+
+EldritchianCloak: {
+	DisplayName: Eldritchian Cloak
+	Tooltip:
+		'''
+		+12% Throwing Attack Speed
+		+16% Throwing Damage
+		Slightly increased life regen
+		'''
+}
+
+EldritchianHood: {
+	DisplayName: Eldritchian Hood
+	Tooltip:
+		'''
+		+10% Throwing Attack Speed
+		+20% Throwing Damage
+		Slightly increased vision
+		'''
+}
+
+EldritchianLegs: {
+	DisplayName: Eldritchian Legs
+	Tooltip:
+		'''
+		+8% Throwing Attack Speed
+		+23% Throwing Damage
+		Slightly increased movement speed
+		'''
+}
+
+StickOfWisdom: {
+	DisplayName: 智慧之杖
+	Tooltip:
+		'''
+		可能对法师和召唤师有用！
+		拿着它让你充满了智慧...应该是吧
+		'''
+}
+
+ChiseledSandstone: {
+	Tooltip: ""
+	DisplayName: 雕琢砂岩
+}
+
+VeiizalsUmbrella: {
+	DisplayName: 维依佐之伞
+	Tooltip: ""
+}
+
+AnotherRock: {
+	DisplayName: 只是一块石头
+	Tooltip: 使用它以深入地下，去往古老守卫者的居所
+}
+
+AlcaricQuiver: {
+	DisplayName: 阿尔卡迪亚魔箭袋
+	Tooltip:
+		'''
+		将木箭转化为虚能箭
+		虚能箭飞得更快，伤害更高，而且会爆炸！
+		'''
+}
+
+BlackRose: {
+	DisplayName: 黑蔷薇
+	Tooltip: 使用魔力药水不会造成魔力病，但会造成轻微伤害
+}
+
+LittleWand: {
+	DisplayName: 平平无奇的小木棍
+	Tooltip:
+		'''
+		能用它施放什么魔法呢...？
+		只有最强的巫师才能使用它
+		'''
+}
+
+WindedQuiver: {
+	DisplayName: 迅风箭袋
+	Tooltip: 将木箭转化为迅风箭，可以穿透敌人！
+}
+
+AimacraWig: {
+	DisplayName: 安魅凯拉的假发
+	Tooltip: 很适合扮成安魅凯拉（来自作者的游戏Diari），同时给予+50最大生命！
+}
+
+WindmillionBoots: {
+	DisplayName: Windmillion Boots
+	Tooltip:
+		'''
+		10% increased movement speed
+		10% Increased throwing damage	
+		'''
+}
+
+WindmillionHat: {
+	DisplayName: Windmillion Hat
+	Tooltip:
+		'''
+		+10 Life!
+		+10 Throwing Critical Strike Chance
+		+10% Throwing Damage
+		'''
+}
+
+WindmillionRobe: {
+	DisplayName: Windmillion Robe
+	Tooltip:
+		'''
+		+2 Throwing Critical Strike Chance
+		Getting snazzy!
+		'''
+}
+
+VampiricVine: {
+	DisplayName: 吸血藤蔓
+	Tooltip:
+		'''
+		终于要上场了？
+		随机射出吸血箭，一箭阵中，你便得愈
+		'''
+}
+
+WindmillShuriken: {
+	DisplayName: 风车手里剑
+	Tooltip: 风车般旋转的手里剑，不是用来拯救俄亥俄总统的
+}
+
+PerfectionStaff: {
+	Tooltip: ""
+	DisplayName: 完美法杖
+}
+
+XixianFlask: {
+	DisplayName: 希克斯之瓶
+	Tooltip: 由蕊与圣巫们传承下来的宝物！
+}
+
+VitalityInsource: {
+	Tooltip:
+		'''
+		40秒钟冷却！
+		回复102生命与魔力
+		给予蜂蜜增益！
+		'''
+	DisplayName: 瓶内容物·活力
+}
+
+HealthyInsource: {
+	Tooltip:
+		'''
+		40秒钟冷却！
+		回复35生命
+		'''
+	DisplayName: 瓶内容物·生命
+}
+
+FloweredInsource: {
+	DisplayName: 瓶内容物·繁花
+	Tooltip:
+		'''
+		20秒钟冷却！
+		冷却期间增加10防御力
+		短时间增加50%攻击速度
+		身后留下阴影轨迹！
+		'''
+}
+
+VialedInsource: {
+	DisplayName: 瓶内容物·幽曦秘药
+	Tooltip:
+		'''
+		20秒钟冷却！
+		下落速度变为三倍
+		免疫摔落伤害
+		跳跃增强！
+		+40%移动速度
+		身后留下幽曦轨迹！
+		'''
+}
+
+EpsidonInsource: {
+	Tooltip:
+		'''
+		40秒钟冷却！
+		获得20秒铁皮、敏捷与蜂蜜效果！
+		回复200生命！
+		'''
+	DisplayName: 瓶内容物·奇迹
+}
+
+CogBomber: {
+	DisplayName: 齿轮爆裂者
+	Tooltip:
+		'''
+		发射微缩的核弹，爆炸后化作数不清的小火苗，四处蔓延
+		就像一场烟火的盛宴，绚烂而短暂，让人不禁惊呼“嘭”！ 
+		'''
+}
+
+GearGutter: {
+	DisplayName: 机巧幽谷
+	Tooltip:
+		'''
+		疾风穿云，铁线银针，破空无痕，穿刺永恒！
+		咕哒咕哒咕哒，机簧轻响，奏响死亡的前奏！
+		'''
+}
+
+TheTingler: {
+	DisplayName: 颤栗尖刺
+	Tooltip:
+		'''
+		射出微小的铁针，扎进敌人，慢慢造成伤害！
+		这的确是让人体验颤栗的一种方式
+		'''
+}
+
+KnivedQuiver: {
+	DisplayName: 利刃箭袋
+	Tooltip: 将木箭转化为飞刀，即高速又穿透！
+}
+
+LifeSeekingVial: {
+	DisplayName: 生命寻踪瓶
+	Tooltip: 向敌人投掷，回复少量生命！
+}
+
+GraftedWaxMelter: {
+	DisplayName: 焰火熔蜡器
+	Tooltip: 让这战场变成绚烂的烟火派对，让敌人在燃烧的盛宴中消逝
+}
+
+AlcadBomb: {
+	DisplayName: 阿尔卡迪黑洞爆弹
+	Tooltip:
+		'''
+		引导可控黑洞，吞噬一切
+		敌人无处遁形，尽数被吸入无尽深渊
+		'''
+}
+
+CompletedFlowerBag: {
+	DisplayName: 装满的花卉袋
+	Tooltip: 把这个拿给蕊，领取你的奖励吧！
+}
+
+EmptyFlowerBag: {
+	DisplayName: 空的花卉袋
+	Tooltip: 爱你哟~努力吧！用各种花朵填满这个袋子
+}
+
+BurnedCarianTome: {
+	DisplayName: 焦黑星咒书
+	Tooltip: 施放猛烈追踪敌人并猛烈攻击的黑色星辰！
+}
+
+EmptyCollectorsBag: {
+	DisplayName: 空的收藏袋
+	Tooltip: 完事后别忘了收拾废料，你懂的
+}
+
+CinderedLantern: {
+	DisplayName: 灰烬灯笼
+	Tooltip: 连续发射火焰导弹
+}
+
+Combuster: {
+	DisplayName: 火爆核心
+	Tooltip: 在你光标周围制造炽热的爆炸！最终汇聚成巨大的轰鸣！
+}
+
+WitchenRobe: {
+	Tooltip:
+		'''
+		+5% Magical Critical Strike Chance and Health
+		+20% Magic damage
+		Suck em' up!
+		'''
+	DisplayName: Witchen Robe
+}
+
+WitchenPants: {
+	Tooltip:
+		'''
+		30% more movement speed!
+		+20 Health
+		'''
+	DisplayName: Witchen Pants
+}
+
+WitchenHat: {
+	Tooltip:
+		'''
+		+3% Magic damage
+		+10% Magical Critical Strike Chance
+		'''
+	DisplayName: Witchen Hat
+}
+
+IceClimbers: {
+	DisplayName: 极地攀登靴
+	Tooltip: 可爬墙，溜冰，且+10最大生命！
+}
+
+MoltenScrap: {
+	DisplayName: 熔火碎片
+	Tooltip: Burning from the depths of the cinderspark
+}
+
+VehementRhapsody: {
+	DisplayName: 激昂狂想曲
+	Tooltip: 不擅音律，召唤越多，伤害越强
+}
+
+VeilScriptureI: {
+	DisplayName: 天纱圣典 I
+	Tooltip: ""
+}
+
+EckasectSire: {
+	DisplayName: 圣裁者艾克萨
+	Tooltip:
+		'''
+		希丝忒莉亚心爱，泽诺维亚手创
+		一器三式，独特能力切换，耗蓝二十
+		击敌留色标，辨色施技，威力骇人
+		起源绿芒，弹雨洒落，范围杀敌
+		解放者紫，精准狙击，一击毙命
+		制裁橙光，激光横扫，面伤连绵
+		辨色施技，各显神通，战场主宰
+		一剑三变，威力无边，圣裁者艾克萨
+		'''
+}
+
+TheTraumatizer: {
+	DisplayName: 创痕镭枪
+	Tooltip: 扇形激光，伤敌刻骨，创伤与记忆同在
+}
+
+FloweredCard: {
+	DisplayName: 花符卡
+	Tooltip:
+		'''
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+MetallianCard: {
+	DisplayName: 金属符卡
+	Tooltip:
+		'''
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+ZuiCard: {
+	DisplayName: 蕊之符牌
+	Tooltip:
+		'''
+		这是点燃粉末与尘埃的引子
+		从银河深处而来，点燃宇宙的火花
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+CinderedQuiver: {
+	DisplayName: 烬火箭袋
+	Tooltip: 将木箭转化为狱炎箭，增加7点伤害！
+}
+
+TheWiggler: {
+	DisplayName: 蠕动粘弹
+	Tooltip:
+		'''
+		发射粘稠团块，吸附于敌我之间！
+		右键引爆，粘液肆意蔓延
+		它滑腻、黏着，无孔不入，让人抓狂
+		'''
+}
+
+CompletedCollectorsBag: {
+	DisplayName: 装满的收藏袋
+	Tooltip: 把这个拿给蕊，领取你的奖励吧！
+}
+
+ArncharSuperCharger: {
+	DisplayName: 赤铁超充能器
+	Tooltip: 极大增强赤铁武器与工具！
+}
+
+CinderChesti: {
+	DisplayName: 烬火箱
+	Tooltip: ""
+}
+
+FlameBuster: {
+	DisplayName: 烈焰破晓
+	Tooltip:
+		'''
+		弹雨倾泻，如疾风骤雨扫过战场
+		时日推移，武器愈加速，终将喷射火球，化为炽烈风暴!
+		'''
+}
+
+DrakonicBlock: {
+	DisplayName: 德拉科尼块
+	Tooltip: ""
+}
+
+DrakonicCageI: {
+	DisplayName: 德拉科尼笼
+	Tooltip: ""
+}
+
+DrakonicHallI: {
+	DisplayName: 德拉科尼大厅
+	Tooltip: ""
+}
+
+DrakonicSileI: {
+	DisplayName: 德拉科尼窗
+	Tooltip: ""
+}
+
+MiniPistol: {
+	DisplayName: 双响炮
+	Tooltip:
+		'''
+		连发双弹，火力加倍！
+		随时间加速，愈战愈勇
+		'''
+}
+
+SnowWalkerItem: {
+	Tooltip: ""
+	DisplayName: 雪行虫
+}
+
+SandWalkerItem: {
+	Tooltip: ""
+	DisplayName: 沙行虫
+}
+
+Vulcanius: {
+	Tooltip: ""
+	DisplayName: 火怒
+}
+
+CinderedCard: {
+	DisplayName: 灰烬符牌
+	Tooltip: ""
+}
+
+VeroshotBow: {
+	DisplayName: 真语弓
+	Tooltip: ""
+}
+
+AzaleanChestplate: {
+	DisplayName: Azalean Chestplate
+	Tooltip: Use this piece from one of the developers! (Azza)... Also gives +12% Ranged Damage!
+}
+
+AzaleanHat: {
+	DisplayName: Azalean Hat
+	Tooltip: Use this piece from one of the developers! (Azza)
+}
+
+AzaleanLeggings: {
+	DisplayName: Azalean Leggings
+	Tooltip: Use this piece from one of the developers! (Azza)
+}
+
+SolarianChestplate: {
+	DisplayName: Solarian Chestplate
+	Tooltip: Use this piece from one of the developers! (Scolon)... Also +1 Summon!
+}
+
+SolarianHat: {
+	DisplayName: Solarian Hat
+	Tooltip: Use this piece from one of the developers! (Scolon)
+}
+
+SolarianPants: {
+	DisplayName: Solarian Pants
+	Tooltip: Use this piece from one of the developers! (Scolon)
+}
+
+IyxTheInfamous: {
+	DisplayName: 灰烬之影伊克斯
+	Tooltip: 从烬灰勇士的陨落，到世界魔力的混沌，这把武器在久远的岁月里，早已迷失
+}
+
+PoisonedAngel: {
+	DisplayName: 毒翼天使
+	Tooltip: 这不是燃翼天使，而是散播毒素的使者！能随你光标而动
+}
+
+YuriFury: {
+	DisplayName: 尤里之怒
+	Tooltip: 射击永恒之火鸟，燃烬时空
+}
+
+ToxicHornetStaff: {
+	DisplayName: 毒刺蜂杖
+	Tooltip: 召唤毒刺蜂追击敌人！
+}
+
+ZenoviasPikpikGlove: {
+	DisplayName: 泽诺维亚的皮克罐
+	Tooltip:
+		'''
+		将皮克敏散布大地，无论何地，皆可为战。
+		添洋葱为配件，增伤强身，成就超凡！
+		'''
+}
+
+OnionOfUselessness: {
+	Tooltip:
+		'''
+		在你的皮克罐中加入黄色与蓝色皮克敏！
+		为你的皮克敏+11伤害
+		'''
+	DisplayName: 无用洋葱
+}
+
+OnionOfStrength: {
+	Tooltip:
+		'''
+		在你的皮克罐中加入黄色、蓝色、白色和紫色皮克敏！
+		为你的皮克敏+70伤害
+		'''
+	DisplayName: 力量洋葱
+}
+
+OnionOfSight: {
+	Tooltip:
+		'''
+		在你的皮克罐中加入黄色、蓝色和白色皮克敏！
+		为你的皮克敏+30伤害
+		'''
+	DisplayName: 视力洋葱
+}
+
+OnionOfHeight: {
+	Tooltip:
+		'''
+		在你的皮克罐中加入黄色皮克敏！
+		为你的皮克敏+5伤害
+		'''
+	DisplayName: 高度洋葱
+}
+
+TheAurora: {
+	DisplayName: 星界冲击
+	Tooltip: 以智慧之光，驾驭极光，爆发冲击！
+}
+
+ChromaCutter: {
+	DisplayName: 七色剑刃
+	Tooltip:
+		'''
+		召唤七把色彩各异的利剑为你效劳！使用时将耗尽所有剩余的召唤槽
+		剑刃出，随你剑锋所指，斩向敌人
+		每把刃都有独特效果，炫目又致命！
+		'''
+}
+
+WeaponDrive: {
+	Tooltip:
+		'''
+		由最顶尖的工程师制造的驱动装置
+		内含高精电子设备与新世界的魔法精华！
+		'''
+	DisplayName: 武器驱动装置
+}
+
+MechanicI: {
+	DisplayName: 机械师作坊
+	Tooltip: ""
+}
+
+ScrapToken: {
+	Tooltip: 把它放进魔法工程师戴尔格林旁的电子转换器里
+	DisplayName: 废料
+}
+
+ElectricCrystal: {
+	Tooltip: 增加6%伤害！刺激！
+	DisplayName: 电能水晶
+}
+
+SkyRuneI: {
+	DisplayName: 远古符文
+	Tooltip: 也许吉娅会想要它？
+}
+
+EelInfinite: {
+	DisplayName: 鳗舞无界
+	Tooltip:
+		'''
+		雷霆万钧，编织成暴风雨的交响乐章!
+		电光石火间，世界仿佛被赋予了更加震撼的脉动!!!
+		'''
+}
+
+RustedSniper: {
+	Tooltip: 这，就是狙击手汤姆斯的锈枪
+	DisplayName: 锈蚀狙神
+}
+
+BucketScrapper: {
+	DisplayName: 桶击勇士
+	Tooltip: 召唤小桶，弹跳撞敌，造成高额的接触伤害！
+}
+
+RazorBragett: {
+	DisplayName: 锋刃炫目
+	Tooltip: 击打敌人时，锯片启动，如脱缰野狗
+}
+
+PointedEdge: {
+	Tooltip: 用这强大的锋刃猛撞敌人！
+	DisplayName: 利剑之锋
+}
+
+Swingaling: {
+	DisplayName: 旋风击
+	Tooltip: 旋转吧，旋风击！不停旋转！
+}
+
+TornCarianPage: {
+	Tooltip: 地下深处一神秘巨著的一页。可引导你找到它
+	DisplayName: 卡里亚书页
+}
+
+Scatterbombs: {
+	Tooltip:
+		'''
+		造成真实伤害，不四处乱飞，笑死。
+		（泽米企业不承担伤害或副作用责任，你也没机会活下来告状。）
+		'''
+	DisplayName: 散弹爆破
+}
+
+VacuumDrill: {
+	Tooltip: 如驱鬼者般，锁定敌人，给予比老妈揍我还狠的打击
+	DisplayName: 幽能钻吸
+}
+
+GLabCrystal: {
+	Tooltip: ""
+	DisplayName: 实验室水晶
+}
+
+LabHall: {
+	DisplayName: 实验室大厅
+	Tooltip: ""
+}
+
+LaboratoryBlock: {
+	Tooltip: ""
+	DisplayName: 实验室块
+}
+
+FocalCrystalFire: {
+	DisplayName: 烧焦的聚焦水晶
+	Tooltip: 右键将其放入实验室水晶来开启通往狱之墓穴的传送门！
+}
+
+FocalCrystalTrap: {
+	DisplayName: 尖锐的聚焦水晶
+	Tooltip: 右键将其放入实验室水晶来开启通往机关墓穴的传送门！
+}
+
+FocalCrystalWater: {
+	DisplayName: 浸湿的聚焦水晶
+	Tooltip: 右键将其放入实验室水晶来开启通往水之墓穴的传送门！
+}
+
+FocusingCrystal: {
+	DisplayName: 聚焦水晶
+	Tooltip: 向其中融入不同的材料，制成的水晶能将你带到不同的地方...
+}
+
+ScrappyLegs: {
+	DisplayName: Scrappy Legs
+	Tooltip:
+		'''
+		Increased movement speed
+		Increases max minions by 1
+		'''
+}
+
+ScrappyHead: {
+	DisplayName: Scrappy Head
+	Tooltip:
+		'''
+		8% increased summon and magic damage
+		4% increased damage reduction
+		Increases max minions by 1
+		'''
+}
+
+ScrappyBody: {
+	DisplayName: Scrappy Body
+	Tooltip:
+		'''
+		12% increased summon and magic damage
+		8% increased damage reduction
+		Increases max minions by 2
+		'''
+}
+
+MagiciansCodeHat: {
+	DisplayName: Magicians Code Hat
+	Tooltip:
+		'''
+		20% Increased Damage for Magicians and Summoners
+		+3 Max Minions
+		You take 10% less damage!
+		Increased life regeneration.
+		+100 Life.
+		'''
+}
+
+RadianceStone: {
+	DisplayName: 辉光符印
+	Tooltip:
+		'''
+		在蕊身边使用它来发起挑战！
+		一定要带上潜遁披巾或者其上位！
+		平台越长越好哦:)  -蕊
+
+		战斗过程全程禁止飞行...
+		'''
+}
+
+ShopNote: {
+	DisplayName: 小纸条
+	Tooltip: 我看出你很有能力，从现在开始我的商店完全对你开放啦！
+}
+
+FenixBossRel: {
+	DisplayName: 凤涅克丝圣物
+	Tooltip: 卡里亚军队的总指挥，一通征战后只让世界变得乌烟瘴气。
+}
+
+IrradiaBossRel: {
+	DisplayName: 伊瑞蒂安与浩劫龙械圣物
+	Tooltip: 守卫？不再是了。
+}
+
+ZuiBossRel: {
+	Tooltip: ta到底是谁？
+	DisplayName: 蕊圣物
+}
+
+NyxiaHat: {
+	DisplayName: Nyxia Hat
+	Tooltip: From the lead developer Zenovia! Go play Diari please :(
+}
+
+NyxiaRobe: {
+	DisplayName: Nyxia Robe
+	Tooltip: From the lead developer Zenovia! Gives 5% damage reduction, 6% more magic damage and some life regeneration!
+}
+
+NyxiaThighs: {
+	DisplayName: Nyxia Thighs
+	Tooltip: I love you all and thanks for playing my mod! - Zenovia
+}
+
+NestBossRel: {
+	Tooltip: ""
+	DisplayName: 辐射巢穴圣物
+}
+
+RadiatedBroochesBackpack: {
+	Tooltip:
+		'''
+		散发着无限的善意之光！
+		允许你使用所有饰符！
+		+8%伤害！
+		'''
+	DisplayName: 辉映饰符背包
+}
+
+HeatedVerliaBroochA: {
+	Tooltip:
+		'''
+		击中敌人时会产生冰霜与灵液，造成大量伤害！
+		+15%远程与投掷伤害！
+		'''
+	DisplayName: 辉映阴阳饰符
+}
+
+AmberBroochA: {
+	Tooltip: 增加40%移动速度，+5防御，并增加挖掘速度！玩的开心哦~
+	DisplayName: 琥珀饰符
+}
+
+VillagersBroochA: {
+	DisplayName: 村庄饰符
+	Tooltip: 看人不爽？正好，用这增加的12%伤害痛扁他们吧！
+}
+
+RadianuiBar: {
+	DisplayName: 辉光锭
+	Tooltip: 蕊的光芒与幸福跃然其间！
+}
+
+RadianuiWings: {
+	DisplayName: 辉光神翼
+	Tooltip: 闪耀着女神蕊那穿透一切的明光
+}
+
+AurockBroochA: {
+	DisplayName: 辉映宝彩饰符
+	Tooltip:
+		'''
+		发出极亮的蓝光！
+		巨幅提升挖掘速度
+		+7防御
+		'''
+}
+
+DefensiveGraditudeBroochA: {
+	DisplayName: 辉映御守饰符
+	Tooltip:
+		'''
+		+50防御
+		哇..哦..你可不需要这个
+		-30%伤害
+		'''
+}
+
+GovheilWarriorBroochA: {
+	DisplayName: 辉映歌维赫奥法饰符
+	Tooltip:
+		'''
+		将魔法武器的魔力消耗减半！
+		+15%魔法伤害
+		+6防御
+		自动挥舞一切！
+		'''
+}
+
+SandyBearBroochA: {
+	DisplayName: 辉映狂沙饰符
+	Tooltip:
+		'''
+		成为真正的黄沙斗士！
+		获得禁忌套装奖励!
+		+2召唤物栏位
+		极大增加魔力再生！
+		'''
+}
+
+StoningFlyBroochA: {
+	DisplayName: 辉映翱翔饰符
+	Tooltip:
+		'''
+		提高跳跃高度与加速度！
+		免疫摔落伤害!
+		在黑暗中发光!
+		+10%伤害
+		+30%移动速度!
+		'''
+}
+
+KilliaBroochA: {
+	DisplayName: 辉映惧绽饰符
+	Tooltip:
+		'''
+		召唤一朵玫瑰护盾保护你！
+		+80最大生命
+		+5%伤害
+		从容不迫，敌军中杀个七进七出
+		'''
+}
+
+IvythornShuriken: {
+	DisplayName: 荆棘飞镖
+	Tooltip: 击中敌人，疯狂又致命！
+}
+
+SewingKit: {
+	DisplayName: 织影套件包
+	Tooltip: 允许你制作和使用奇迹物品！
+}
+
+Hitme: {
+	DisplayName: 雷霆一击
+	Tooltip: 请温柔对待这把武器，它虽无生命，却能感知主人的每一丝情感，别让哀伤的痕迹，玷污了它闪耀的锋芒
+}
+
+Shredder: {
+	DisplayName: 撕裂者
+	Tooltip:
+		'''
+		发射失控的切割飞弹，划出疯狂轨迹！
+		涂鸦爱好者的新宠，肆意挥洒吧！
+		'''
+}
+
+LuminullSpiritFragments: {
+	Tooltip: ""
+	DisplayName: 黯光残魂
+}
+
+IceRuneI: {
+	Tooltip: 也许吉娅会想要它？
+	DisplayName: 远古符文
+}
+
+TitaniumBullet: {
+	DisplayName: 钛金破甲弹
+	Tooltip: 双连破甲击，首击震魂魄，次击虽弱，却透甲入骨，如影随形，令强敌无处遁形
+}
+
+RadiantArrow: {
+	DisplayName: 辉光之箭
+	Tooltip: 这箭矢随时间加速，宛如追命流星，无视一切防御，精准锁敌，直击要害！
+}
+
+AdamantiteBullet: {
+	DisplayName: 坚钢弹
+	Tooltip: 攻击两次，第二次攻击虽然较弱，但能穿透护甲
+}
+
+EldritchArrow: {
+	DisplayName: 幽古魔箭
+	Tooltip: 这把武器能召唤星球碎块，它们在被击中后会自动反击敌人，射出能量束。
+}
+
+DriveRound: {
+	DisplayName: 穿刺弹
+	Tooltip: 无限穿透所有目标，并在每次命中时爆炸！
+}
+
+SpacialDistortionBullet: {
+	DisplayName: 扭曲之矢
+	Tooltip: 燃起深渊之焰，焚尽一切黑暗与罪恶，让不灭的火光照亮深渊的尽头。
+}
+
+IrradiatedArrow: {
+	DisplayName: 辐射之矢
+	Tooltip: 激活后，它分裂成多台微型机器人，各自发射辐射激光，精准打击敌人并留下持续伤害的辐射场。
+}
+
+STARBLOCKER: {
+	DisplayName: 繁 星 阻 御
+	Tooltip: 使用此物品来中止一场极光星雨 :(
+}
+
+Maelstrom: {
+	DisplayName: 漩涡破晓剑
+	Tooltip: 希丝忒莉亚，那温柔的守护者，其仁心确如晨曦之光，温暖而明亮，不是吗？
+}
+
+TheFirstAurora: {
+	DisplayName: 霜魄流光剑
+	Tooltip: 名动四海，利可断金之兵刃。
+}
+
+ThePenetrator: {
+	DisplayName: 穿心刃
+	Tooltip:
+		'''
+		蓄力以待，高速旋转的巨大手里剑
+		释放投掷，依据蓄力时长，造成巨额伤害
+		'''
+}
+
+SingularDive: {
+	DisplayName: 孤行深潜
+	Tooltip: 右键轻启，随从涌现；长旋一击，敌溃如云！
+}
+
+DelgrimsHammer: {
+	Tooltip: 它正奋力挥击！
+	DisplayName: 德葛林之神锤
+}
+
+DirtGlove: {
+	DisplayName: 尘埃手套
+	Tooltip: ""
+}
+
+TwilitTome: {
+	DisplayName: 暮光法典
+	Tooltip: ""
+}
+
+Voltenstein: {
+	Tooltip:
+		'''
+		这将是一次令人震惊的体验！
+		轻触鼠标，瞬间突进，释放出令人震撼的电击伤害！
+		击中敌人会给你带来额外伤害的加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
+		2个词条!
+		'''
+	DisplayName: 沃特恩斯坦
+}
+
+BlankBrooch: {
+	DisplayName: 未完成的饰符
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+}
+
+BlankCard: {
+	DisplayName: 未完成的符牌
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+}
+
+BlankCrossbow: {
+	DisplayName: 未完成的弩
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+}
+
+BlankSafunai: {
+	DisplayName: 未完成的鞭刃
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+}
+
+Hultinstein: {
+	DisplayName: 赫尔廷斯坦
+	Tooltip:
+		'''
+		这是一段狂野的格斗经历！
+		只需轻轻一点，就能迅猛突袭，造成惊人的高额伤害！
+		击中敌人会使你获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
+		1个词条！
+		'''
+}
+
+AuroreanStarball: {
+	DisplayName: 极光星球
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		特殊攻击，触地即爆，星光四射
+		我们，正是那球场上的焦点
+		'''
+}
+
+BlankOrb: {
+	DisplayName: 未完成的球
+	Tooltip: 拥有无限潜能的模板，用于制作某种物品！
+}
+
+Mardenstein: {
+	DisplayName: 玛登斯坦
+	Tooltip:
+		'''
+		这将是一次震撼人心的体验！
+		轻点鼠标，如离弦之箭般冲向敌人，释放令人咋舌的高额伤害。
+		击中敌人后，你将获得额外的伤害加成，并且作为奖励，你将获得短暂的免疫效果，无懈可击！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
+		3个词条!
+		'''
+}
+
+TheActualMoon: {
+	DisplayName: 真实月华
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		这是一件更重的球体武器，拥有更强劲的冲击爆炸威力！
+		我已经成为了薇莉亚
+		'''
+}
+
+ReflectionSeeker: {
+	DisplayName: 觅影者
+	Tooltip: 召唤迷你分身，以你之形攻敌，变化随你形象而异
+}
+
+TwinStarbombas: {
+	DisplayName: 双子星爆弹
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		你将同时操控两个球体！它们通过围绕你旋转发动攻击
+		简而言之，这就像“星爆者”的双球攻击模式
+		'''
+}
+
+IlluriaDirtBlock: {
+	DisplayName: 星树土块
+	Tooltip: ""
+}
+
+IlluriaDirtWallBlock: {
+	DisplayName: 星树土墙
+	Tooltip: ""
+}
+
+IlluriaGrassBlock: {
+	DisplayName: 星树草块
+	Tooltip: ""
+}
+
+IlluriaLeaves: {
+	DisplayName: 星树叶
+	Tooltip: ""
+}
+
+IlluriaRuneBlock: {
+	DisplayName: 星树符文
+	Tooltip: ""
+}
+
+IlluriaWoodBlock: {
+	DisplayName: 星树木
+	Tooltip: ""
+}
+
+IlluriaTreeSmallI: {
+	Tooltip: ""
+	DisplayName: 星树
+}
+
+IlluriaTreeMedI: {
+	Tooltip: ""
+	DisplayName: 星树
+}
+
+IlluriaTreeBigI: {
+	Tooltip: ""
+	DisplayName: 星树
+}
+
+ThePollinator: {
+	DisplayName: 授粉者
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		它能够对敌人进行“授粉”，大幅度减缓他们的行动速度
+		它散发着蕊的花朵的力量，辐射出令人震慑的光芒
+		'''
+}
+
+BlackBall: {
+	DisplayName: 暗夜球
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		一颗更轻盈的宝球，攻势如疾风
+		其威能，由阿尔卡迪亚所赐
+		'''
+}
+
+TomeofRaining: {
+	Tooltip: 随时开启下雨！这是蕊的谢礼！
+	DisplayName: 唤雨魔书
+}
+
+SirestiasToken: {
+	Tooltip:
+		'''
+		为希丝忒莉亚完成目标后获赠的感恩谢礼
+		使用它在电子转换器处转换武器的职业！
+		'''
+	DisplayName: 希丝忒莉亚的宝珠
+}
+
+IlluriaChesti: {
+	DisplayName: 星树箱
+	Tooltip: ""
+}
+
+IllurianWarriorGreaves: {
+	Tooltip: Greaves of someone who may of shit their pants.
+	DisplayName: Illurian Warrior Greaves
+}
+
+IllurianWarriorChestplate: {
+	Tooltip: Extremely defensive!
+	DisplayName: Illurian Warrior Chestplate
+}
+
+IllurianCrestplate: {
+	Tooltip:
+		'''
+		+3 Minions and +50 mana
+		-50 Health
+		'''
+	DisplayName: Illurian Crestplate
+}
+
+IllurianCrestpants: {
+	Tooltip:
+		'''
+		+1 Minion and 10% increased movement speed!
+		20% more damage and +15 Armor penetration
+		-90 Health
+		'''
+	DisplayName: Illurian Crestpants
+}
+
+IllurianCrestmask: {
+	Tooltip:
+		'''
+		-50 Health
+		12% Magic and Summon damage!
+		10% Critical Strike Chance!
+		A very dissapointed Niivi.
+		'''
+	DisplayName: Illurian Crestmask
+}
+
+IllurianWarriorHelm: {
+	DisplayName: Illurian Warrior Helm
+	Tooltip: Niivi loves to watch over the world with the Lunar tree huh? It's written on the back of this.
+}
+
+IllurineScale: {
+	DisplayName: Illurine Scale
+	Tooltip: Radiating with Niivi's lunar energy!
+}
+
+PureHeart: {
+	DisplayName: 烁星纯心
+	Tooltip:
+		'''
+		世界守护者的心...
+		充盈着她的博爱和寰宇之力...
+		但你为了一己私欲，竟心狠手辣将她杀死 :(
+		'''
+}
+
+MushroomGreatbow: {
+	Tooltip: ""
+	DisplayName: 蘑菇巨弓
+}
+
+Hookarama: {
+	DisplayName: 万钩
+	Tooltip: ""
+}
+
+MushyCard: {
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+	DisplayName: 柔梦符牒
+}
+
+XX4160: {
+	Tooltip: ""
+	DisplayName: X X4160
+}
+
+ExampleScriptureItem: {
+	Tooltip: ""
+	DisplayName: 天纱圣典·介绍
+	Content:
+		'''
+		PLEASE PLAY MASTERMODE or EXPERTMODE FOR THIS MOD!
+			MULTIPLAYER COMPATIBLE!!!
+			~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+			The Lunar Veil is an expansive mod for the world of Aimacra. As a crossover from a personal game Diari,
+			Sirestias has sought to expand her skills in the world of terraria and she wants to eliminate all false gods and goddesses on the planet.
+
+			The ones that pose a threat to existence on the planet of terraria would be gods who own singularities. They cause inreversible damage and often corrupts the worlds and the minds within them.
+			People go out to worship these gods and protect them, and nobody dare stand up to the ones who rule their domains.
+
+			What new evils have befallen this world? Who knows :P
+			But your job is to eliminate all of them
+
+			This is a content/quality of life mod which includes:
+			- Many new enemies and npcs
+			- 200+ New interesting weapons
+			- New systems for weapons and gameplay including Harvesting Spots, Weapon Powders, igniters, brooches and more!
+			- A Gambling feature for post bosses
+			- 4 New main town NPC
+			- Many Shop NPC's around the world!
+			- 50+ Accessories that will indefinetly help you with battles
+			- Many fleshed out biomes and structures around the world to keep you searching and exploring
+			- Castles, Dungeons and a very open and treasure filled world that makes it feel like a metroidvania!
+			- Many new bosses around both prehardmode and hardmode now!
+			- Many main armors to flesh out prehardmode's lack of class armors
+			- A fully immersive soundtrack from both me and Azza (Go check out my Diari Soundtrack, please lol)
+			- Pretty much made by three people, Me, Azzalea and Scolon!
+			- Over 600 new items!
+			- Many new quality of life addons to make the terraria experience better :)
+
+			Keep in mind this is mainly prehardmode content so far!
+			(WARNING: THIS MOD ENCOURAGES YOU TO WORK ON EVASION)
+			There is plenty of hardmode content as of the Stars and Bloom update!
+		'''
+}
+
+VeilBrick: {
+	DisplayName: 天纱砖
+	Tooltip: ""
+}
+
+AzurerinPaintingI: {
+	DisplayName: 艾祖瑞霖圣像
+	Tooltip: ""
+}
+
+GothiviaPaintingI: {
+	DisplayName: 歌瑟梵圣像
+	Tooltip: ""
+}
+
+SigfriedPaintingI: {
+	DisplayName: 齐格飞圣像
+	Tooltip: ""
+}
+
+VeilPot: {
+	DisplayName: 天纱罐
+	Tooltip: 某人为向穹月天纱的高等存在表示虔诚而制造的罐子
+}
+
+VeilBanneri: {
+	Tooltip: 某人为向穹月天纱的高等存在表示虔诚而制造的旗帜
+	DisplayName: 天纱旗
+}
+
+VeilBanner2i: {
+	Tooltip: 某人为向穹月天纱的高等存在表示虔诚而制造的旗帜
+	DisplayName: 天纱旗
+}
+
+CompletionIdol: {
+	DisplayName: 陨神之像
+	Tooltip: 高塔中的圣典与高等存在的残物铸成的塑像
+}
+
+VeiledScriptureGothivia: {
+	Tooltip:
+		'''
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		'''
+	DisplayName: 天纱圣典·歌瑟梵
+	Content:
+		'''
+		---------------------------------------
+
+		This higher being is of the Iyx family. Related to Verlia and Vixyl they hold a high amount of skill and passion for the things they love.
+		They are to be believed to be seperated at birth from Rosemary of Ekrose from their other sister. 
+
+		This specimen bears heavy grudges and will attempt to do anything to reconcile. 
+		She had her village (Govheil Castle) taken away from her as the acidic corruption took her people, her ginzte army and her friends.
+		After Fenix took and trapped her sister this beig took a journey to go seek power from Lumi Veil, another benounced god to save her.
+		I believe she may have taken a weak singularity and bounded it to Daedus for protection meaning she is most likely the strongest being over
+		Fenix without using a singularity's power. 
+
+		She currently is gone but the people who escaped the acid from taking over ended up going to the fable, they pay their respects to her here.
+		We can only assume she has been training to save her sister for the past 30 years...
+
+		- Love Sirestias
+		'''
+}
+
+VeiledScriptureAzurerin: {
+	Tooltip:
+		'''
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		'''
+	DisplayName: 天纱圣典·艾祖瑞霖
+	Content:
+		'''
+		---------------------------------------
+
+		This higher being is of the Veil family and is one of the two sisters of Lumi Veil.
+		She also is related to Dreadmire, formally known as Cozmire and has a singularity that guards her soul.
+
+		This specimen has a strong resemblence to the stars and was heavily connected to Cozmire throughout her life.
+		Through family complications this higher being sought power to gain connection to her other sisters. She sought
+		out more power through a singularity with Lumi and ended up becoming powerful but to no avail of having more of a 
+		bond. A being of care and overthinking. She may prove to be a challenge due to her soul being binded but she is lost,
+		so take advantage of that. She also took part in sealing Sigfried so her and Zui have a small connection.
+
+		Currently they are residing in the stars watching from above, sleeping and casting Aurorean starfalls with their dreams.
+		They await for their sister's rebound.
+
+		- Love Sirestias
+
+		'''
+}
+
+VeiledScriptureMiner1: {
+	Tooltip: 左键阅读
+	DisplayName: 日记 1
+	Content:
+		'''
+
+		Today I found some REALLY good coal. Like I know I'm supposed to be looking for diamonds but like-
+		how can I say no to all of this? I need this to smelt some ores. My buddy Bimbam over here keeps throwing dynamite and
+		getting stuck in the vines, you know everyday we are minin' I'm always thinking about butch lesbians.
+		Reporting from day one of a miner of Fenix Corporations!
+
+		- Dharlie Mixam's log 1!
+
+		'''
+}
+
+VeiledScriptureSigfried: {
+	Content:
+		'''
+		---------------------------------------
+
+		Belonging to the Sepsis family, being the old lord of the Illuria and the Lunar tree, of all things silver.
+		Exiled out of the community this one is, Sigfried lost control and set off chain reactions throughout the lands
+
+		Sigfried seemed to have no relative connection but was a masterclass thief who bit off more than they could chew.
+		He has a brother who now holds the throne in Illuria. Once a vigilante who sought peace turned insane by taking in the power
+		of a high singularity, Pulsar Fragment. 40 or 50 so years ago Sigfried stole a singularity from Lumi Veil and merged it with his body.
+		Unknowingly doing this caused him to loose control of his body and destroying the world as we know it. Killing of Fenix's parents, which
+		would allow her to rise to the throne of her own Capital and becoming crazy herself. He was exiled after the destruction and was trapped
+		within a Pulsing Key which is hidden away deep underground, Zui being the one to stop him.
+
+		To bring out Lumi we may need to reawaken him.
+		- Love Sirestias
+
+		'''
+	DisplayName: 天纱圣典·齐格飞
+	Tooltip:
+		'''
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		'''
+}
+
+VeiledScriptureCozmire: {
+	Content:
+		'''
+		---------------------------------------
+
+		This higher being is of the Veil family and is one of the two sisters of Lumi Veil.
+		Using all of her power for evil and demonic purposes and causing her family disfunction this being is very interesting.
+
+		Cozmire was one out of the two sisters that were given life by Lumi Veil. Cozmire was granted the power of the cosmos, 
+		hence her name. She left the skies to use her powers for alternative purposes and damaged their family relations, making 
+		Azurerin feel incomplete. Lumi sent dreadmire a singularity to let her know that she was still cared for in the family
+		yet she gave it away to fenix for more power. This trade corrupted her soul and Fenix ended up using the singularity
+		for some heinous deeds it seems although she never put it in her soul. Cozmire was weakened by this and is now
+		awakened by a cyst during the most evil times of the year, a blood moon. We should take advantage of her weak form.
+
+		Now know as Dreadmire, people look up to her for evil purposes and to bring the rein of the red cosmos to the people.
+		Would take her out because of this. 
+
+		- Love Sirestias
+
+		'''
+	DisplayName: 天纱圣典·堕悼者
+	Tooltip:
+		'''
+		左键阅读
+		可被铸成塑像，来与希丝忒莉亚兑换奖励
+		'''
+}
+
+SplashAttack: {
+	DisplayName: 彩墨挥洒鞭
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		用我所有的颜料，给你一通乱打
+		'''
+}
+
+CozmirePaintingI: {
+	DisplayName: 堕悼者圣像
+	Tooltip: ""
+}
+
+ExampleDialogueItem: {
+	DisplayName: 试验对话物品
+	Tooltip: ""
+}
+
+SineSire: {
+	DisplayName: 蔚蓝领主
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		一个似水的球体，以波浪般的韵律移动！
+		'''
+}
+
+SiresMail: {
+	DisplayName: 希丝忒莉亚的魔法信封
+	Tooltip: 希丝忒莉亚给你的特别礼物，能让你随时联系她！
+}
+
+IllurianBroochA: {
+	DisplayName: 星树饰符
+	Tooltip:
+		'''
+		增加奔跑速度与灵活性！
+		减少防御...
+		星树与你同在
+		'''
+}
+
+GarbagePants: {
+	Tooltip:
+		'''
+		10% Increased movement speed
+		+1 Minion
+		Goofy goobers eat Osama bin Ladin 
+		'''
+	DisplayName: Garbage Pants
+}
+
+GarbageMask: {
+	Tooltip:
+		'''
+		15% Increased Summoner and Throwing Damage!
+		30% Increased Throwing speed.
+		+2 Minions
+		It's actually garbage.
+		'''
+	DisplayName: Garbage Mask
+}
+
+GarbageChestplate: {
+	Tooltip:
+		'''
+		25% Increased Summoner and Throwing Damage!
+		10% Increased Throwing speed.
+		+1 Minion
+		+40 Health and increased regeneration!
+		Throw it in the trash now!
+		'''
+	DisplayName: Garbage Chestplate
+}
+
+Sirius: {
+	DisplayName: 繁星·天狼
+	Tooltip:
+		'''
+		一支长矛，划破天际，深深嵌入目标心房，紧接着，是震天动地的绽放！
+		这就是尼伊维的炽烈之怒~
+		'''
+}
+
+Iknoctstein: {
+	Tooltip:
+		'''
+		这将是一次超级爆炸的体验！
+		轻点鼠标，迅猛突进，释放出超级震撼的高额伤害！
+		击中敌人会给你带来额外伤害的加成，并且作为奖励，你将获得短暂的免疫效果！
+		击中敌人将使你的下一次攻击速度更快！但如果攻击落空，你将面临更长时间的等待。
+		越强的手套词条越多
+		5个词条!
+		'''
+	DisplayName: 伊克诺克斯坦
+}
+
+Gothinstein: {
+	Tooltip:
+		'''
+		歌瑟梵未曾有此神器
+		轻触屏幕，化作闪电，直冲敌阵！
+		击敌得额外伤害，片刻无敌，胜者之赏。
+		击中，下次攻击快如闪电；失手，等待更漫长
+		'''
+	DisplayName: 歌瑟梵斯坦
+}
+
+Friedstein: {
+	Tooltip:
+		'''
+		蕊的心爱之物，赞不绝口！
+		轻触屏幕，化身为光，冲向敌人，光芒四射
+		击中敌人，额外伤害，片刻免疫，胜者之赏。
+		中敌，下一次攻击快如闪电；失手，等待时间更长。
+
+		攻速惊人，击中后加速，但若失手，等待更漫长。
+		'''
+	DisplayName: 弗莱德斯坦
+}
+
+ManifestedLove: {
+	Tooltip: 腐化退散，她的爱意散布至世界各处，安抚着一切非分。再见，歌瑟梵。
+	// DisplayName: Manifested Love
+}
+
+IllurianLoveLocket: {
+	DisplayName: 星树坠饰盒
+	Tooltip:
+		'''
+		召唤一圈强力的星星保护你！
+		据说其中存有尼伊维的一丝爱意
+		'''
+}
+
+AlcaliteMask: {
+	DisplayName: Alcalite Mask
+	Tooltip:
+		'''
+		8% increased magic and summon damage
+		+1 max minions
+		'''
+}
+
+AlcaliteRobe: {
+	DisplayName: Alcalite Robe
+	Tooltip:
+		'''
+		12% increased magic and summon damage
+		+2 max minions
+		'''
+}
+
+AlcaliteTrunks: {
+	DisplayName: Alcalite Trunks
+	Tooltip:
+		'''
+		Increases movement speed and acceleration
+		4% increased magic and summon damage
+		+1 max minions
+		'''
+}
+
+IlluriteDrill: {
+	DisplayName: 星树钻头
+	Tooltip: 它周期性地爆发，犹如精准的爆破采矿，震撼四方，光芒四射
+}
+
+FlowerRobe: {
+	Tooltip:
+		'''
+		Zui gave you some health!
+		+60 Health
+		+18% Melee and Ranged Damage!
+		'''
+	DisplayName: Flower Robe
+}
+
+FlowerPants: {
+	Tooltip:
+		'''
+		+30% Speed and flower walking!
+		+10% Melee and Ranged Damage!
+		'''
+	DisplayName: Flower Pants
+}
+
+FlowerHat: {
+	Tooltip:
+		'''
+		Zui gave you a halo!
+		+16% Melee and Ranged Damage!
+		'''
+	DisplayName: Flower Hat
+}
+
+Cryal: {
+	DisplayName: 冰晶哀歌
+	Tooltip: 双冰箭封寒，箭雨破夜而至！
+}
+
+MahoganyStorm: {
+	DisplayName: 檀风暴
+	Tooltip: 释放一连串箭矢，如檀木之风暴，密集覆盖敌人，不留丝毫喘息之机
+}
+
+Dunderbustion: {
+	DisplayName: 雷炎连爆
+	Tooltip: 这把突发步枪，亲手打造却命运多舛，机械故障频发，宛如一位桀骜不驯的野马，随时可能失控，却也因此拥有了独一无二的灵魂
+}
+
+Polaris: {
+	DisplayName: 繁星·北辰
+	Tooltip:
+		'''
+		蓄力以释放毁灭激光
+		其能源，尼伊维之泪，蕴含无尽力量
+		'''
+}
+
+GovheilPlatformBlock: {
+	Tooltip: ""
+	DisplayName: 歌维赫平台
+}
+
+ManifestedBravery: {
+	Tooltip:
+		'''
+		薇莉娅的灵魂之核心，具现化于此。
+		她最终选择对抗凤涅克丝和你，来拯救她的村庄，她的姐妹。
+		'''
+	DisplayName: 勇气具现
+}
+
+FrameStaff: {
+	DisplayName: 星织法杖
+	Tooltip:
+		'''
+		挥动星织法杖，你能在世界任意角落召唤神秘节点
+		再将它们以激光相连，编织出一张光的网，既美丽又致命
+		'''
+}
+
+LiliumArrow: {
+	Tooltip: 这些箭矢击中目标后，炸裂成璀璨的金色碎片，犹如黄金流星雨般追踪敌人，绽放爆炸的火花。
+	DisplayName: 百合箭矢
+}
+
+IshtarKey: {
+	DisplayName: 狂渊之钥
+	Tooltip: 疯狂的意志凝结成此物。使用它来开启狂渊中的锁
+}
+
+IshtarCandle: {
+	DisplayName: 狂渊黯烛
+	Tooltip:
+		'''
+		冥后厄莉什基迦勒给你的礼物..
+		装备它来驱散狂渊中的黑暗
+		这被诅咒的火苗中，燃烧着齐格飞的疯狂...
+		'''
+}
+
+BushyEyesI: {
+	DisplayName: 暗巢蛛眼
+	Tooltip: ""
+}
+
+BushySticksI: {
+	DisplayName: 暗巢杂物
+	Tooltip: ""
+}
+
+BushyWebs: {
+	DisplayName: 暗巢蛛网
+	Tooltip: ""
+}
+
+IshtarDoor: {
+	DisplayName: 狂渊门
+	Tooltip: ""
+}
+
+IshtarLockedChest: {
+	DisplayName: 狂渊箱
+	Tooltip: ""
+}
+
+IshtarPainting: {
+	DisplayName: 狂渊符画
+	Tooltip: ""
+}
+
+Robi: {
+	DisplayName: Robi
+	Tooltip: ""
+}
+
+IshtarBlock: {
+	DisplayName: 狂渊块
+	Tooltip: ""
+}
+
+ImperfectionStaff: {
+	Tooltip: 在不完美中寻觅绝世之美！
+	DisplayName: 瑕光法杖
+}
+
+IshtarCard: {
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+	DisplayName: 伊斯塔符牌
+}
+
+Orion: {
+	DisplayName: 繁星·猎户
+	Tooltip:
+		'''
+		留下一串爆炸的星辰
+		如烟花般绚烂
+		'''
+}
+
+Aquarius: {
+	DisplayName: 繁星·水瓶
+	Tooltip:
+		'''
+		召唤强力水之斩击光环
+		周期性释放巨大斩击，召唤追踪泡泡！
+		'''
+}
+
+RazzleDazzle: {
+	DisplayName: 炫乱魔弹
+	Tooltip:
+		'''
+		每三发射击，发射出一张蛛网球，爆炸后化为蜘蛛群！
+		炫乱魔弹，让敌人在混乱中颤抖
+		'''
+}
+
+IllureCard: {
+	DisplayName: 迷魅符牌
+	Tooltip:
+		'''
+		以神秘粉末标记敌手
+		长按攻击按钮，引爆标记，造成爆炸伤害
+		'''
+}
+
+Pulsing: {
+	DisplayName: 脉动之枪
+	Tooltip: 这是一把寻常却不平凡的枪械
+}
+
+PoisonPistol: {
+	DisplayName: 毒蛛之吻
+	Tooltip:
+		'''
+		发射后爆炸成蜘蛛群
+		独特疗法或刺激体验，一触即发
+		'''
+}
+
+GunHolster: {
+	DisplayName: 枪套
+	Tooltip:
+		'''
+		双枪齐舞，火力翻倍
+		右手轻点，切换自如
+		'''
+}
+
+BurnBlast: {
+	DisplayName: 炽焰爆裂
+	Tooltip: 沉重大炮，一击裂空，火球分身，燃尽敌踪
+}
+
+Eagle: {
+	DisplayName: 雷霆之鹰
+	Tooltip: 这是一把更为强劲的标准枪械
+}
+
+RavestBlast: {
+	DisplayName: 狂飙脉冲
+	Tooltip: 三发脉动波连环出击，犹如电音节上的狂热，一波未平一波又起
+}
+
+MsFreeze: {
+	DisplayName: 霜冷女王
+	Tooltip: 她迅疾发射出霜冻激光，如同冬日里最锐利的寒风，瞬间凝固一切
+}
+
+MintyBlast: {
+	DisplayName: 霜火之吻
+	Tooltip: 这把武器，吐露的是冰与火的歌，寒冷中蕴藏燃烧的力量
+}
+
+RocketLauncher: {
+	DisplayName: 火箭怒啸
+	Tooltip: 火箭一发，天地震撼，但谨记安全，勿让自己受牵连
+}
+
+Electrifying: {
+	DisplayName: 疾电破晓
+	Tooltip:
+		'''
+		它迅速释放出带电的闪电箭，如同夜空中划过的疾电，既迅猛又耀眼
+		每一次射击都伴随着电流的颤动，仿佛是自然之力的直接体现，既美丽又致命
+		'''
+}
+
+STARBUST: {
+	DisplayName: 星辰破晓
+	Tooltip: 星辰轰炸者的机枪旋律，于星际间狂舞，织梦为弹，燃尽宇宙的夜
+}
+
+AssassinsRecharge: {
+	DisplayName: 影杀回魂
+	Tooltip: 它射出的光束，带着适度的生命汲取之力，每一次击中，都像在敌人心脏上轻轻一吻，却能为自己注入生机
+}
+
+BubbleBussy: {
+	DisplayName: 泡沫灵犀
+	Tooltip:
+		'''
+		稳稳扎在地里，牢牢粘着敌人，时间一长，伤害就慢慢叠加
+		别去深究，效果自然显现，等着看时间的威力吧
+		'''
+}
+
+CinderNeedle: {
+	DisplayName: 灰烬之针
+	Tooltip: 疾速连发，火焰针雨，织成一片炽热的天网
+}
+
+Devolver: {
+	DisplayName: 逆熵之枪
+	Tooltip: 它发射的子弹虽行进缓慢，却带着足够的力量穿透敌人的防御
+}
+
+ShottyPitol: {
+	DisplayName: 散弹小旋风
+	Tooltip: 子弹如小旋风般散开，迷你霰弹枪的威力，一扫即清
+}
+
+RobedSandstone: {
+	DisplayName: 覆袍沙石
+	Tooltip: ""
+}
+
+AzureWrath: {
+	DisplayName: 紫霆湛怒
+	Tooltip: 紫电迅疾，能量光弹划破夜空，如流星雨般倾泻而下
+}
+
+CarrotPatrol: {
+	DisplayName: 萝卜守望者
+	Tooltip: 发射萝卜弹，触地开花，化作满天小碎片，撒下一地惊喜
+}
+
+MeredaX: {
+	DisplayName: 双持死神
+	Tooltip:
+		'''
+		这是唯一能让你双手同时握持的枪械，如同舞动双刃的战神，既灵活又致命
+		仿佛冥后厄莉什基迦勒赋予了你暗夜的力量，每一发子弹，都是对敌人命运的静默宣判
+		'''
+}
+
+SrTetanus: {
+	DisplayName: 破晓·骨鸣
+	Tooltip:
+		'''
+		双弹齐发，锈蚀剧毒，交织成死亡之舞
+		中者哀嚎，你绝不愿尝此苦果
+		'''
+}
+
+TheReaving: {
+	DisplayName: 噬灭掠影
+	Tooltip: 我们在掠夺中寻爱，在谎言里成诗，生命是一场华丽的迷藏
+}
+
+TempleKeyMold: {
+	DisplayName: 神庙钥匙模具
+	Tooltip: 神庙钥匙制作中不可或缺的一部分
+}
+
+TempleKeyPart: {
+	DisplayName: 神庙钥匙部件
+	Tooltip: 看来厄莉什基迦勒把神庙钥匙拆成了几部分，还交给奇点保管。真残酷。
+}
+
+M38F30: {
+	Tooltip: ""
+	DisplayName: M38 F30
+}
+
+StarSilk: {
+	Tooltip: 神话级的丝绸，以纯粹的星之能量编织而成
+	DisplayName: 烁星丝绸
+}
+
+BabySwarmerStaff: {
+	DisplayName: 蚁群幼崽法杖
+	Tooltip:
+		'''
+		召唤蚁群幼崽为你而战！
+		这些小家伙攻击迅速，只占用半个召唤物位置
+		'''
+}
+
+RadiantsparkBoots: {
+	Tooltip:
+		'''
+		你会需要这些！感谢蕊吧！
+		Makes the wearer run super fast and leaves a golden trail that can hit on contact!
+		Zui's Mark is left on your back.
+		Gives uses of Shadei with slightly reduced cooldown on dash!
+		Small amount of regeneration 
+		+30 Health!
+		Flower walking and Immunity to lava!
+		+15% Critical Strike Chance and +5% increased Damage!
+		Yeah this should really help you in future battles.
+		'''
+	DisplayName: Radiantspark Boots
+}
+
+AntlionWings: {
+	DisplayName: 蚁狮之翼
+	Tooltip: ""
+}
+
+ZuiBomb: {
+	Tooltip: 击中敌人时召唤蕊的力量，爆炸并造成大量伤害！
+	DisplayName: 蕊之辉光
+}
+
+HavocSignaler: {
+	Tooltip: ""
+	DisplayName: 浩劫指挥器
+}
+
+IcelockLongbow: {
+	DisplayName: 冰封星弓
+	Tooltip: 每一箭释放多重冰羽，最终汇聚成一颗璀璨的冰霜之星，照亮并冻结敌人
+}
+
+Chillrend: {
+	DisplayName: 寒裂
+	Tooltip: 最后一剑，剑舞冰旋，寒涡凝霜
+}
+
+ManifestedCommitment: {
+	DisplayName: 明志具现
+	Tooltip: 伊瑞蒂安内心仅有此一志：维护城堡，等待薇莉娅与歌瑟梵归来
+}
+
+IshNYire: {
+	DisplayName: Ish N Yire
+	Tooltip:
+		'''
+		在冥界女王厄莉什基迦勒的阴冷王座下，这柄武器承载着古老且深邃的诅咒
+		它拥有四种变幻莫测的战斗姿态，每一式都蕴含着毁灭的美学
+		---------------------------
+		双链舞动：两根锁链如灵蛇般穿梭，在中距离的战场上，它们是死神的触手，将敌人拉入绝望的深渊
+		Ish之刃：一柄旋转的剑刃，它如同地狱的风车，切割着空间与时间，敌人在它的锋利下化为尘埃，被彻底粉碎，只留下一片寂静
+		Yire之剑：这柄剑，既是远方的死神，也是近身的屠夫
+		Ish N Yire双剑合璧：向敌人投掷的不仅是剑刃，更是死神的邀请函
+
+		'''
+}
+
+AzuretoothNecklace: {
+	DisplayName: 蔚蓝龙齿项链
+	Tooltip: 引导星树之力，召唤追踪幽灵龙！
+}
+
+ColdheartAnklebiter: {
+	DisplayName: 冷魄鞭
+	Tooltip:
+		'''
+		{$CommonItemTooltip.SummonTagDamage}
+		{$CommonItemTooltip.Whips}
+		打击敌人，使其陷入寒冰之境！
+		被召唤物击中的敌人，将引爆冰锥四溅的爆炸！
+		'''
+}
+
+Bincle: {
+	Tooltip: 用你的魔法镜射出璀璨光束
+	DisplayName: 璀光破影镜
+}
+
+Relagis: {
+	Tooltip: 神圣的光，充盈着你的身心
+	DisplayName: 瑞拉吉斯之辉
+}
+
+Opinine: {
+	Tooltip: 射自天穹，携光而生，箭矢如星辰，破夜而来
+	DisplayName: 光耀射天弓
+}
+
+WaterGun: {
+	DisplayName: 水柱枪
+	Tooltip:
+		'''
+		持续喷射水流
+		派对上的特别嘉宾
+		'''
+}
+
+DogmaBalls: {
+	DisplayName: 星树圣书
+	Tooltip:
+		'''
+		掷出星树教义之书
+		召唤言辞，无形中削弱对手
+		'''
+}
+
+Tulahal: {
+	Tooltip: 从歌维赫时光尘封、辐射充盈的古老能量中，召唤出一场烈焰飓风。驾驭风与焰，掌控风暴之心。
+	DisplayName: 图拉赫尔
+}
+
+BasicBaseball: {
+	DisplayName: 基础棒球
+	Tooltip:
+		'''
+		击中敌人后，球会弹开
+		接住球，下一次投掷伤害增加！
+		无限叠加，威力无边
+		'''
+}
+
+Volcant: {
+	Tooltip: 挥舞炽焰巨剑，以烈火之舞斩断敌膝，令强敌瞬间失足，跌落于胜利的余烬之中。
+	DisplayName: 熔炎
+}
+
+SmallVeilPottery: {
+	Tooltip: ""
+	DisplayName: 小型天纱壶
+}
+
+Catagrass: {
+	DisplayName: 卡塔草
+	Tooltip: ""
+}
+
+RobedCatastone: {
+	DisplayName: 卡塔石
+	Tooltip: ""
+}
+
+SpikedLobber: {
+	DisplayName: 尖刺抛击
+	Tooltip:
+		'''
+		击中敌人，球体弹回
+		接住球，下次攻击伤害提升
+		连击五次后，弹跳时释放尖刺
+		无限叠加，攻势不止
+		'''
+}
+
+StickyCards: {
+	DisplayName: 幻术卡牌
+	Tooltip:
+		'''
+		击中敌人，卡牌弹回
+		接住卡牌，下次投掷伤害提升
+		卡牌附带灵光牵引，自动回返
+		无限叠加，威力无界
+		'''
+}
+
+DaggerDagger: {
+	DisplayName: 双刃飞刀
+	Tooltip:
+		'''
+		击中敌人，刀身弹回
+		接住飞刀，下次投掷伤害提升
+		右击，投掷吸血充能刀
+		飞刀在手，生死由我
+		'''
+}
+
+DreadFragment: {
+	DisplayName: 恐惧残片
+	Tooltip:
+		'''
+		内含绛渊恶巫的一丝力量
+		再收集几片，也许就会激怒她...
+		'''
+}
+
+DreadMedalion: {
+	DisplayName: 恐惧徽章
+	Tooltip:
+		'''
+		在夜晚使用来挑战绛渊恶巫！
+		充满恐惧
+		'''
+}
+
+SkullBreaker: {
+	DisplayName: 碎颅者
+	Tooltip: ""
+}
+
+ArtoriaIllurePowder: {
+	DisplayName: 阿托利亚星树魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		星树的爆发
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+EreshkinPowder: {
+	DisplayName: 厄莉什基迦勒魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		一种闪烁着光芒的描画粉尘，其破坏力是引爆它的符牌威力的数倍！
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+MushyPowder: {
+	DisplayName: 柔梦魔法尘
+	Tooltip:
+		'''
+		向他们洒下魔法尘
+		爆炸性粉末
+		用这个击中敌人后，使用符牌引爆！
+		'''
+}
+
+RibbonStaff: {
+	DisplayName: 彩带魔杖
+	Tooltip:
+		'''
+		彩带魔杖，束缚敌手，如礼盒缠绕，定身于优雅之中
+		释放魔力，敌人化为绚烂彩纸，烟花般绽放，战场亦成舞会
+		'''
+}
+
+WiggleDiggle: {
+	DisplayName: 摇摆小丑
+	Tooltip: 它扭动，它摆荡，它掘进！化身欢闹小丑，于嬉笑中舞动
+}
+
+NiceBusterr: {
+	DisplayName: 璀璨破界者
+	Tooltip: 在这一带，我们可不客气
+}
+
+Mordred: {
+	DisplayName: 莫德雷德之剑
+	Tooltip:
+		'''
+		我在一次探险中偶然发现的！- 希丝忒莉亚
+		这可能是件古老的遗物，或曾经是某人的武器。总之，它不属于你
+		'''
+}
+
+TheMarksman: {
+	Tooltip: 用你的光标，召唤天纱之力，释放电流！
+	DisplayName: 神射手
+}
+
+STARBOMBERBossRel: {
+	Tooltip: ""
+	DisplayName: 星 爆 者 圣物
+}
+
+MardenthMask: {
+	DisplayName: Mardenth's Veiled Mask
+	Tooltip: +10 Health but 10% reduced damage!
+}
+
+MardenthPants: {
+	DisplayName: Mardenth's Great Pants
+	Tooltip: 5% Increased movement speed
+}
+
+MardenthRobe: {
+	DisplayName: Mardenth's Super Robe
+	Tooltip: +20 Health and some spicy looks.
+}
+
+NiiviBossRel: {
+	DisplayName: 尼伊维圣物
+	Tooltip: ""
+}
+
+ManifestedAnxiety: {
+	Tooltip: 绛渊恶巫的惊恐与焦虑已然随她的倒下而散去，但对她的恐惧依旧。
+	DisplayName: 忧惧具现
+}
+
+SigfriedsPhotoAlbum: {
+	Tooltip: 里面收藏了齐格飞的所有照片，由远古魔法紧紧固定，你无论如何都翻不开它。
+	DisplayName: 齐格飞的相片册
+}
+
+IceCubeMaker: {
+	DisplayName: 霜雪魔方
+	Tooltip:
+		'''
+		霜雪风暴席卷战场，冰块弹跳，寒冰乐章响彻云霄
+		寒风凛冽，你是冰雪的主宰，每一击都冻结敌人于时间之中
+		'''
+}
+
+Vixyl: {
+	DisplayName: 维西尔
+	Tooltip:
+		'''
+		精准把握斩击与受击的时机，以反击敌人攻击
+		反击能够完全抵消所有伤害，并发动强力的反击斩击
+		在反击后的一小段时间内，你将如同薇莉亚一般，施展一连串的快速攻击
+		'''
+}
+
+ManifestedHumility: {
+	Tooltip: ""
+	DisplayName: 谦逊具现
+}
+
+GraveShaper: {
+	DisplayName: 墓穴塑形者
+	Tooltip: ""
+}
+
+CleanestCleaver: {
+	DisplayName: 洁净屠夫刀
+	Tooltip: ""
+}
+
+GothiviaIyxBag: {
+	DisplayName: 宝藏袋（歌瑟梵·伊斯）
+	Tooltip: ""
+}
+
+GothiviaBossRel: {
+	DisplayName: 歌瑟梵圣物
+	Tooltip: Obtained from killing the one of the Green Sun.
+}
+
+SerpentWings: {
+	Tooltip: 不息炽龙的双翼，给予30秒钟的飞行时间！
+	DisplayName: 炽焰盘龙翼
+}
+
+GothinWings: {
+	Tooltip:
+		'''
+		多漂亮的翅膀，看着就让人想把它穿上！给予90秒的飞行时间！
+		可以与时装栏的翅膀在外观上共存！亲手打造出你最心仪的造型！
+		'''
+	DisplayName: 歌瑟梵之翼
+}
+
+FoxMark: {
+	DisplayName: 灵狐印记
+	Tooltip:
+		'''
+		可以戴在头上，虽然那样并不会增加属性值
+		+30%移动速度!
+		+30最大生命
+		+5%伤害
+		与我签订契约，成为魔法狐娘吧！
+		"让她来治愈我..."
+		'''
+}
+
+Vhel: {
+	Tooltip:
+		'''
+		歌瑟梵的特制连射弓，
+		她用之数十年，现传你手中
+		'''
+	DisplayName: 维尔赫
+}
+
+SerpentStaff: {
+	DisplayName: 炎蛇权杖
+	Tooltip:
+		'''
+		召唤巨蛇为你而战
+		召唤槽位越多，蛇身渐长，力量倍增
+		'''
+}
+
+Incinerator: {
+	DisplayName: 焚尽八荒
+	Tooltip: 这无匹烈焰，万物难逃灰烬，所向披靡，尽是燎原之火！
+}
+
+VeiledScriptureMiner2: {
+	Tooltip: Use to read.
+	DisplayName: 日记2
+	Content:
+		'''
+
+		OKKK SO HEAR ME OUT. I saw this girl with white hair, and I was like, goddamn she's hot.
+		Bimbam took the crazy idea to walk up to her and ask her out AND SHE ATTACKED US.
+		Im done mining for coal. I think I might as well submit to the STARBOMBERS.
+
+		- Dharlie Mixam's log 2!
+
+		'''
+}
+
+VeiledScriptureMiner3: {
+	Tooltip: Use to read.
+	DisplayName: 日记3
+	Content:
+		'''
+
+		I don't even know how long I've been underground but I just know something is gonna go ary.
+		The sleep I've been getting hasn't been all that nice because BIMBAM wants to sleep next to the bat's tunnel.
+		Like what's the point of this..
+
+		Otherwise I saw a dude with a giant guy with a hammer, he was carrying some other stuff but I hid beneath a
+		rock thing while I tied Bimbam's mouth shut, he's really noisy.
+
+		- Dharlie Mixam's log 3!
+
+		'''
+}
+
+VeiledScriptureMiner4: {
+	Tooltip: Use to read.
+	DisplayName: 日记4
+	Content:
+		'''
+
+		BOOGLE DOOA YUI SWIGGLE DIGGLE MCDOOM
+		EKBOFNAR YAT GY ATT GRIM YUM BIGGLE POP
+
+		WE IN HERE LIKE SQUIDWARDS
+		I SAW THE SHADOW MAN
+
+		- BIMBAM!
+
+		'''
+}
+
+VeiledScriptureMiner5: {
+	Tooltip: Use to read.
+	DisplayName: 日记5
+	Content:
+		'''
+
+		Bimban dissappeared. I don't know where he went but he isn't here and its kind of scaring me.
+		We came down to this fiery place and it's quite hot. I just wanted to find some hellstone and scrap.
+
+
+		- Dharlie Mixam's log 5!
+
+		'''
+}
+
+VeiledScriptureMiner6: {
+	Tooltip: Use to read.
+	DisplayName: 日记6
+	Content:
+		'''
+
+		I'm starting to run out of paper here, so I'll try to be as specific as possible.
+		Got out of that fiery place, I was dehydrated. Still no whereabouts on Bimbam.
+		Met some cool skeleton dude and I got some bombs, maybe Bimbam will respond to those...
+
+
+		- Dharlie Mixam's log 6!
+
+		'''
+}
+
+VeiledScriptureMiner7: {
+	Tooltip: Use to read.
+	DisplayName: 日记7
+	Content:
+		'''
+
+		BIMBAM IS BACK IN THIS BITC-
+		He came running to me after I threw some dynamite but he brought a friend it seems.
+		It's some purple rock, I'm gonna name it granite.
+		Oh wait it's moving- Um Bimbam is running for his life right now and I don't think I'll help him after leaving me.
+		Our company under Fenix incorporated is not responsible for our deaths and they won't care anywayy.
+		Nevermind he got it off.
+
+		- Dharlie Mixam's log 7!
+
+		'''
+}
+
+VeiledScriptureMiner8: {
+	Tooltip: Use to read.
+	DisplayName: 日记8
+	Content:
+		'''
+
+		You know I may find butch lesbians hot but I don't think Fenix falls into that category.
+		I do not think we're going to meet our quota of coal. Why does she even need this anyway?
+		I got our goal of Verian, arnchalite and frile but we don't have the coal and the gems. We might be screwed
+		We gotta start heading to the surface soon, wish me luck.
+
+
+		- Dharlie Mixam's log 8!
+
+		'''
+}
+
+VeiledScriptureMiner9: {
+	Tooltip: Use to read.
+	DisplayName: 日记9
+	Content:
+		'''
+
+		This is quite unfortunate. We are on our walk back but we're stopped by this jellyfish. I think Fenix
+		would be quite jealous that we're playing near tentacles and she isn't. 
+		I think we might have to take a detour to get back to the Royal Capital. 
+
+		I may be starving and I'm carrying Bimbam in a cart because he's not conscious, I think that granite 
+		ball knocked some confusion into him- or maybe it was the bats.
+		I only started this damn job so I can ask Merena out for a date one day. Hopefully when I return 
+		Fenix won't kill me and I can get something out of this expedition...
+
+
+		- Dharlie Mixam's log 9!
+
+		'''
+}
+
+VeiledScriptureMiner10: {
+	Tooltip: Use to read.
+	DisplayName: 日记10
+	Content:
+		'''
+
+		I don't think I can make it. I'm so close and yet Im so far....
+		Merena if you find this, I love you and I could only wish I could be around you more...
+		I always had to be put with the dumbest of partners but at least he was a fun one.
+		Just realized Bimbam has been dead hasn't he? Maybe in a coma?? Who knows.
+
+		I just wanted to lay in merena's voluptuous breasts. Her sister could get it too
+		Damn that skeleton.. nn. lo- looke.d lik e. s a n s
+
+
+
+		'''
+}
+
+YourFired: {
+	DisplayName: 烈焰散爆
+	Tooltip:
+		'''
+		爆炸时分溅出众多小型火球，犹如集束炸弹！
+		你就是导火索！
+		'''
+}
+
+LumiPaintingI: {
+	Tooltip: ""
+	DisplayName: 琉米画
+}
+
+VeiledScriptureLumi: {
+	Tooltip: '''Use to read.		'''
+	DisplayName: 天纱圣典·琉米
+	Content:
+		'''
+		---------------------------------------
+
+		This higher being is of the Veil family. Related to Azurerin and Cozmire as they ascend all those that come before them. 
+		They are to be believed to be the strongest on this planet. Aside from me :p 
+
+		This specimen is lively but patient, being a creator of the sorts and caring for her family.
+		She gifted her two sisters both life and singularities to prove that she cares for both of them. Being a collector of singularities
+		has it's issues as we can see though.
+
+		Azurerin took up the stars and obtained the Supernova fragment while Cozmire had the power of the cosmos having the Singularity fragment.
+		Although she is gifted and powerful, we all know that these singularities are the reason that the world is crumbling with evil
+		power and fantasies that cost the lives of many. Hence so we shall bring her off her throne and slay her.
+
+		She currently is above the world, residing with her sister in the space of the void. Only being able to be brought down by a catastrophic
+		accident. SO we shall incure this to happen to get to her ;p
+
+		- Love Sirestias
+		'''
+}
+
+RekBossRel: {
+	Tooltip: 绿阳炽龙的圣物
+	DisplayName: 莱克圣物
+}
+
+Irrasprayer: {
+	DisplayName: 辐烬喷射器
+	Tooltip: 以火灭火，用炽烈熄灭炽烈！
+}
+
+CinderBomber: {
+	DisplayName: 烬土轰炸
+	Tooltip:
+		'''
+		击中敌人后，炸弹会弹开
+		接住它，下次投掷伤害提升！
+		连击五次，炸弹点燃，开始爆炸
+		无限叠加，威力无界
+		'''
+}
+
+LilStinger: {
+	DisplayName: 小刺叮
+	Tooltip:
+		'''
+		击中敌人，小蜂弹开。
+		接住小蜂，下次攻击伤害升级。
+		连击五次后，小蜂开始爆炸攻击！
+		追踪能力强劲。
+		威力无限叠加，战斗不止。
+		'''
+}
+
+FiveAdvance: {
+	DisplayName: Dharlie Mixam's Five's Advance
+	Tooltip:
+		'''
+		+5% Movement Speed!
+		+5% Increased Damage
+		+5% Increased Enemy Damage Reduction
+		+5 Increased Regeneration
+		+5 Life
+		Dharlie Mixam appreciates your efforts..
+		'''
+}
+
+FlinchMachine: {
+	DisplayName: 惊惧之扇
+	Tooltip:
+		'''
+		击中敌人，扇子弹回。
+		接住扇子，下次投掷伤害提升。
+		连击五次后，每三击的第三下，重创敌人！
+		无限叠加，威力无尽。
+		这扇，便是那狠心人掷我之物。
+		'''
+}
+
+IllurineBrew: {
+	DisplayName: 星树神酿
+	Tooltip:
+		'''
+		在太空中复原重力
+		轻微增加移动速度与加速度
+		'''
+}
+
+IllurianBible: {
+	DisplayName: 星树圣经
+	Tooltip: 召唤出虹彩彗星，它们会自动追踪并轰击你的敌人！
+}
+
+SupernovaBag: {
+	DisplayName: 宝藏袋（破碎超新星）
+	Tooltip: ""
+}
+
+SupernovaBossRel: {
+	DisplayName: 破碎超新星圣物
+	Tooltip: ""
+}
+
+Pegasus: {
+	DisplayName: 繁星·天马
+	Tooltip:
+		'''
+		召唤尼伊维的三颗晶石环绕
+		发射各种元素攻击，攻势连绵不绝
+		这套晶石独一无二，需要三个随从槽位才能使用
+		'''
+}
+
+WoodyBroochA: {
+	DisplayName: 木饰符
+	Tooltip:
+		'''
+		接触地面时增加30%伤害！
+		但~滞空时减少30%伤害！
+		'''
+}
+
+DreadsVile: {
+	DisplayName: 恐惧之镰
+	Tooltip:
+		'''
+		想体验如绛渊恶巫般横扫千军的速度？现在，你也能将恐惧散布于世！
+		对敌人点击，释放致命一击，同时获得免疫与骷髅加持！
+		若攻击落空，小心反噬的接触伤害及随之而来的虚弱期
+		'''
+}
+
+CentipedeStaff: {
+	DisplayName: 百足魔杖
+	Tooltip:
+		'''
+		召唤伊瑞蒂安地虫，为你撕裂战场！
+		地虫擒敌，暴拽四方，无人可逃
+		随召唤位增多，虫躯倍长，力能摧山！
+		'''
+}
+
+SirestiasMask: {
+	DisplayName: 希丝忒莉亚的假面
+	Tooltip: 满血时增加30%伤害！
+}
+
+VoidalPassageway: {
+	DisplayName: 渊宇之门
+	Tooltip: 使用此物品，打开虚无之门，召唤破碎超新星！
+}
+
+BlackEye: {
+	DisplayName: 暗夜瞭望
+	Tooltip: 召唤莱克之眼，洞悉并制裁周围敌人！
+}
+
+VulcanBreaker: {
+	DisplayName: 炎君破晓
+	Tooltip:
+		'''
+		挥动熔岩之锤，于敌胸炸裂
+		火焰四溅，光明与灰烬共舞
+		'''
+}
+
+Superfragment: {
+	Tooltip: 天上繁星与其间深邃虚空结合的精华
+	DisplayName: 超新星残片
+}
+
+JianxinCoat: {
+	DisplayName: Jianxin Coat
+	Tooltip:
+		'''
+		+10 Armor Penetration
+		+10% Increased Damage
+		+20 Increased Critical Strike Chance
+		'''
+}
+
+JianxinMask: {
+	DisplayName: Jianxin Mask
+	Tooltip:
+		'''
+		+10 Armor Penetration
+		+10% Increased Damage
+		'''
+}
+
+JianxinPants: {
+	DisplayName: Jianxin Pants
+	Tooltip:
+		'''
+		+10 Armor Penetration
+		+10% Increased Damage
+		+3 Increased Summons
+		'''
+}
+
+IllurineHoops: {
+	DisplayName: 星树饰环
+	Tooltip:
+		'''
+		月亮敌人被守护者降下天雷霹雳，血量减半
+		+10%魔法伤害
+		增加魔力回复，减少魔力消耗
+		'''
+}
+
+IridineNecklace: {
+	DisplayName: 虹星项链
+	Tooltip:
+		'''
+		死亡时复活并立即回满生命！
+		具有5分钟冷却
+		最高阶的星树牧师才会戴上它
+		'''
+}
+
+GlocketRouncher: {
+	DisplayName: 鸣钟破晓
+	Tooltip: 抓紧，那破晓钟声的使者，让光明驱散黑暗
+}
