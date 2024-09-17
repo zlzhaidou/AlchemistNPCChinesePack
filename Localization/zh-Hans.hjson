@@ -84,147 +84,147 @@ Mods: {
 
 		TownNPCMood: {
 			Alchemist: {
-				Content: I'm feeling good!
-				NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: Warm and peaceful, what can be better for potionsmaking?
-				LoveBiome: This place reminds me of the old days when I was training with my friend.
-				DislikeBiome: It is way too cold here... My hands are freezing.
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: "{NPCName} understands the importance of hard work. It is good having her around."
-				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
-				LoveNPC: "{NPCName} is here! Who's the dad's boy?"
-				DislikeNPC: I don't think I could focus when {NPCName} is around. She can't stop making jokes of me.
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: Warm and peaceful, what can be better for potionsmaking?
+				// LoveBiome: This place reminds me of the old days when I was training with my friend.
+				// DislikeBiome: It is way too cold here... My hands are freezing.
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: "{NPCName} understands the importance of hard work. It is good having her around."
+				// LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				// LoveNPC: "{NPCName} is here! Who's the dad's boy?"
+				// DislikeNPC: I don't think I could focus when {NPCName} is around. She can't stop making jokes of me.
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 
 			Brewer: {
-				Content: I'm feeling good!
-				NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: It is a bit too hot here, but the air is perfect.
-				LoveBiome: Warm and peaceful, just as I wanted!
-				DislikeBiome: It is way too cold here... My hands are freezing.
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: "{NPCName} is so easy to tease! I can't help it..."
-				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
-				LoveNPC: "{NPCName} is here! Who's the momma's boy?"
-				DislikeNPC: "{NPCName} is so annoying with his constant warnings. Can barely stand it."
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: Do you have any spare housing? It is really uncomfortable to make potions without roof above my head.
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: It is a bit too hot here, but the air is perfect.
+				// LoveBiome: Warm and peaceful, just as I wanted!
+				// DislikeBiome: It is way too cold here... My hands are freezing.
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: "{NPCName} is so easy to tease! I can't help it..."
+				// LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				// LoveNPC: "{NPCName} is here! Who's the momma's boy?"
+				// DislikeNPC: "{NPCName} is so annoying with his constant warnings. Can barely stand it."
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 
 			Jeweler: {
-				Content: I'm feeling good!
-				NoHome: Do you have any spare housing? It is really uncomfortable to make jewelry without roof above my head.
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: It is a bit too hot here, but the air is perfect.
-				LoveBiome: Warm and peaceful, just as I wanted!
-				DislikeBiome: It is way too cold here... My hands are freezing.
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: "{NPCName} has a sence for money. A bit too greedy, but I can totally relate."
-				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
-				LoveNPC: "{NPCName} is here! You can clearly tell that we are almost the same. I don't want to grow a beard, tho."
-				DislikeNPC: I can't stand girls like {NPCName}, she totally distracts my focus.
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: Do you have any spare housing? It is really uncomfortable to make jewelry without roof above my head.
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: It is a bit too hot here, but the air is perfect.
+				// LoveBiome: Warm and peaceful, just as I wanted!
+				// DislikeBiome: It is way too cold here... My hands are freezing.
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: "{NPCName} has a sence for money. A bit too greedy, but I can totally relate."
+				// LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				// LoveNPC: "{NPCName} is here! You can clearly tell that we are almost the same. I don't want to grow a beard, tho."
+				// DislikeNPC: I can't stand girls like {NPCName}, she totally distracts my focus.
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 
 			Musician: {
-				Content: I'm feeling good!
-				NoHome: Do you have any spare housing? How can I do music if I don't have a roof above my head?
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: Silence and peace, what else do I need for making music? And acoustics here is amazing!
-				LoveBiome: I like how shiny and bright this place is. Also perfect for parties.
-				DislikeBiome: It is way too cold here... My hands are freezing.
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: "{NPCName} is useful when I am out of music boxes. You know how hard is to make them?"
-				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
-				LoveNPC: "{NPCName} likes music just as I do! I can hang out with her all day."
-				DislikeNPC: This cheapskate {NPCName} is so annoying. Can you get him somewhere out here?
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: Do you have any spare housing? How can I do music if I don't have a roof above my head?
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: Silence and peace, what else do I need for making music? And acoustics here is amazing!
+				// LoveBiome: I like how shiny and bright this place is. Also perfect for parties.
+				// DislikeBiome: It is way too cold here... My hands are freezing.
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: "{NPCName} is useful when I am out of music boxes. You know how hard is to make them?"
+				// LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				// LoveNPC: "{NPCName} likes music just as I do! I can hang out with her all day."
+				// DislikeNPC: This cheapskate {NPCName} is so annoying. Can you get him somewhere out here?
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 
 			Operator: {
-				Content: I'm feeling good!
-				NoHome: I need a shelter. I don't like being without a roof above my head.
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: Ocean. It is the thing I wanted to see. Thanks.
-				LoveBiome: My circuits are working perfectly here. Surprisingly. I like snow.
-				DislikeBiome: I hate underground. You know it, right?
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: "{NPCName} is one of the many persons I could talk about the technology."
-				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
-				LoveNPC: "{NPCName} probably is the only person who can understand me. Being a cyborg."
-				DislikeNPC: "{NPCName} seems to be afraid of me. I wonder why, but his fear somewhat annoys me."
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: I need a shelter. I don't like being without a roof above my head.
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: Ocean. It is the thing I wanted to see. Thanks.
+				// LoveBiome: My circuits are working perfectly here. Surprisingly. I like snow.
+				// DislikeBiome: I hate underground. You know it, right?
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: "{NPCName} is one of the many persons I could talk about the technology."
+				// LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				// LoveNPC: "{NPCName} probably is the only person who can understand me. Being a cyborg."
+				// DislikeNPC: "{NPCName} seems to be afraid of me. I wonder why, but his fear somewhat annoys me."
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 
 			Architect: {
-				Content: I'm feeling good!
-				NoHome: Being an Architect, I especially don't like NOT having any house.
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: Pretty calming place to be. I like it.
-				LoveBiome: So many colors, so many building materials. Perfect.
-				DislikeBiome: I hate feeling chill. I need a warmer place.
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: "{NPCName} may just be an annoying goblin but he understands, how to build. I respect that."
-				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
-				LoveNPC: "{NPCName} knows how to make every color. Which is great."
-				DislikeNPC: "{NPCName} is so grumpy and hates colors. Would be fun making him living in Hallow, I guess."
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: Being an Architect, I especially don't like NOT having any house.
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: Pretty calming place to be. I like it.
+				// LoveBiome: So many colors, so many building materials. Perfect.
+				// DislikeBiome: I hate feeling chill. I need a warmer place.
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: "{NPCName} may just be an annoying goblin but he understands, how to build. I respect that."
+				// LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				// LoveNPC: "{NPCName} knows how to make every color. Which is great."
+				// DislikeNPC: "{NPCName} is so grumpy and hates colors. Would be fun making him living in Hallow, I guess."
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 
 			Tinkerer: {
-				Content: I'm feeling good!
-				NoHome: Making accessories requires patience. And I wouldn't be able to do it without any house.
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: A bit dark, but I can totally live here.
-				LoveBiome: Me and my sister are used to live in cold places so I am totally ok with that.
-				DislikeBiome: I hate hot weather and sand so no, I wouldn't live here.
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: "{NPCName} is so nice and smart. I respect that."
-				LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
-				LoveNPC: "{NPCName} is finally here? I have a lot to tell, big sis!"
-				DislikeNPC: Don't let {NPCName} anywhere around me. Sand from his clothes always clogs my mechanisms.
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: Making accessories requires patience. And I wouldn't be able to do it without any house.
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: A bit dark, but I can totally live here.
+				// LoveBiome: Me and my sister are used to live in cold places so I am totally ok with that.
+				// DislikeBiome: I hate hot weather and sand so no, I wouldn't live here.
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: "{NPCName} is so nice and smart. I respect that."
+				// LikeNPC_Princess: I gotta visit {NPCName} again sometime, there's a girl who gets me!
+				// LoveNPC: "{NPCName} is finally here? I have a lot to tell, big sis!"
+				// DislikeNPC: Don't let {NPCName} anywhere around me. Sand from his clothes always clogs my mechanisms.
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 
 			YoungBrewer: {
-				Content: I'm feeling good!
-				NoHome: I don't like being outside for a long time. I need a room for myself.
-				LoveSpace: Peace and quiet means I get to live it up!
-				FarFromHome: I think my house was that way... unless you're taking me somewhere?
-				DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
-				HateCrowded: I can't kick my legs out and relax without hitting someone...
-				LikeBiome: I can live when it is some warm around, so I am ok with that.
-				LoveBiome: I like forest! Fresh air and greens around. What else may the person need?
-				DislikeBiome: I don't like this. I want a warmer place to live.
-				HateBiome: I wanna live elsewhere! This is awful.
-				LikeNPC: Dad is here too? He can be silly sometimes, but mom respects him for his teleporter potions. She wasn't able to recreate them no matter how she tried.
-				LikeNPC_Princess: I gotta visit {NPCName}. She really likes to play with me. And so do I.
-				LoveNPC: Mom is here? Great! I like my dad, yes, but mom... Her potions can do almost everything and are most useful!
-				DislikeNPC: "{NPCName} is so grumpy. I asked him about making a toy a few times but he ALWAYS don't have any time for that."
-				HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
+				// Content: I'm feeling good!
+				// NoHome: I don't like being outside for a long time. I need a room for myself.
+				// LoveSpace: Peace and quiet means I get to live it up!
+				// FarFromHome: I think my house was that way... unless you're taking me somewhere?
+				// DislikeCrowded: The more the merrier and all, but I'm starting to feel a lil' overcrowded.
+				// HateCrowded: I can't kick my legs out and relax without hitting someone...
+				// LikeBiome: I can live when it is some warm around, so I am ok with that.
+				// LoveBiome: I like forest! Fresh air and greens around. What else may the person need?
+				// DislikeBiome: I don't like this. I want a warmer place to live.
+				// HateBiome: I wanna live elsewhere! This is awful.
+				// LikeNPC: Dad is here too? He can be silly sometimes, but mom respects him for his teleporter potions. She wasn't able to recreate them no matter how she tried.
+				// LikeNPC_Princess: I gotta visit {NPCName}. She really likes to play with me. And so do I.
+				// LoveNPC: Mom is here? Great! I like my dad, yes, but mom... Her potions can do almost everything and are most useful!
+				// DislikeNPC: "{NPCName} is so grumpy. I asked him about making a toy a few times but he ALWAYS don't have any time for that."
+				// HateNPC: Just between us. Have you ever considered throwing {NPCName} back where you found him?
 			}
 		}
 
@@ -483,39 +483,39 @@ Mods: {
 		Raider: 星盘巡游者 宝藏袋
 		Infernon: 炎狱之主 宝藏袋
 		Dusking: 薄暮焱魂 宝藏袋
-		EtherialUmbra: Etherial Umbra Treasure Bag
-		IlluminantMaster: Illuminant Master Treasure Bag
-		Atlas: Atlas Treasure Bag
-		Overseer: Overseer Treasure Bag
-		Sharkron: Dune Sharkron Treasure Bag
-		Hypothema: Hypothema Treasure Bag
-		Ragnar: Ragnar Treasure Bag
-		AnDio: Andesia & Dioritus Treasure Bag
-		Annihilator: The Annihilator Treasure Bag
-		Slybertron: Slybertron Treasure Bag
-		SteamTrain: Steam Train Treasure Bag
-		SunlightTrader: Sunlight Trader Treasure Bag
-		THOFC: The Heart of the Cavern Treasure Bag
-		MythrilSlime: Mythril Slime Treasure Bag
-		Valdaris: Valdaris Treasure Bag
-		Gatekeeper: The Gatekeeper Treasure Bag
-		Monarch: Mushroom Monarch Treasure Bag
-		Grips: Grips of Chaos Treasure Bag
-		Broodmother: Broodmother Treasure Bag
-		Hydra: Hydra Treasure Bag
-		Serpent: Subzero Serpent Treasure Bag
-		Djinn: Desert Djinn Treasure Bag
-		Retriever: Retriever Treasure Bag
-		RaiderU: Raider Ultima Treasure Bag
-		Orthrus: Orthrus X Treasure Bag
-		EFish: Emperor Fishron Treasure Bag
-		Nightcrawler: Nightcrawler Treasure Bag
-		Daybringer: Daybringer Treasure Bag
-		Yamata: Yamata Treasure Bag
-		Akuma: Akuma Treasure Bag
-		Zero: Zero Treasure Bag
-		Shen: Shen Doragon Treasure Cache
-		ShenGrips: Shen Doragon Grips Treasure Bag
+		EtherialUmbra: 以太暗影宝藏袋
+		IlluminantMaster: 照明大师宝藏袋
+		Atlas: 图集宝藏袋
+		Overseer: 监工宝藏袋
+		Sharkron: 沙丘鲨鱼龙宝藏袋
+		Hypothema: 性质炎宝藏袋
+		Ragnar: 拉格纳宝藏袋
+		AnDio: 安第斯和迪奥里图斯宝藏袋
+		Annihilator: 歼灭者宝藏袋
+		Slybertron: 斯莱特龙宝藏袋
+		SteamTrain: 蒸汽火车宝藏袋
+		SunlightTrader: 阳光商人宝藏袋
+		THOFC: 洞穴之心宝藏袋
+		MythrilSlime: 神话史莱姆宝藏袋
+		Valdaris: 瓦尔达里斯宝藏袋
+		Gatekeeper: 守门人宝藏袋
+		Monarch: 蘑菇君主宝藏袋
+		Grips: 混沌之握宝藏袋
+		Broodmother: 蛛母宝藏袋
+		Hydra: Hydra 宝藏袋
+		Serpent: 深海巨蛇宝藏袋
+		Djinn: 沙漠精灵宝藏袋
+		Retriever: 猎犬宝藏袋
+		RaiderU: 终极突袭机宝藏袋
+		Orthrus: 奥特鲁斯X宝藏袋
+		EFish: 菲什龙皇帝宝藏袋
+		Nightcrawler: 夜行者宝藏袋
+		Daybringer: 破晓者宝藏袋
+		Yamata: 八岐宝藏袋
+		Akuma: 阿库玛宝藏袋
+		Zero: 零宝藏袋
+		Shen: 沈多拉贡宝藏袋
+		ShenGrips: 沈多拉贡握把宝藏袋
 		PlantsShop: 植物超市
 		GetCharm: 获得符咒
 		Edward: Edward
@@ -592,10 +592,10 @@ Mods: {
 		ShopsChanger: 切换商店
 		ShopB1: 第一商店 (原版)
 		ShopB2: 第二商店 (炼金/灾厄)
-		ShopB3: 第二商店 (瑟银/RG)
-		ShopB4: 第三商店 (更多药剂)
-		ShopB5: 第四商店 (震颤/钓杆/钓具箱)
-		ShopB6: 第五商店 (Wildlife/圣域/魂灵/水晶之地/ExpSentr)
+		ShopB3: 第三商店 (瑟银/RG)
+		ShopB4: 第四商店 (更多药剂)
+		ShopB5: 第五商店 (震颤/钓杆/钓具箱)
+		ShopB6: 第六商店 (动物世界/圣域/魂灵/水晶之地/ExpSentr)
 		Lillian: Lillian
 		Lucy: Lucy
 		Alice: Alice
@@ -675,7 +675,7 @@ Mods: {
 		BossDropsShop: 原版Boss掉落物&材料商店
 		BossDropsModsShop: 模组Boss掉落物&材料商店
 		VanillaTreasureBagsShop: 原版宝藏袋商店
-		ModdedTreasureBagsShop: 模组宝藏袋商店
+		ModdedTreasureBagsShop: 模组宝藏袋商店 #1
 		ModdedTreasureBagsShop2: 模组宝藏袋商店 #2
 		ModdedTreasureBagsShop3: 模组宝藏袋商店 #3
 		Angela: Angela
@@ -1119,11 +1119,11 @@ Mods: {
 			}
 
 			AntiBuff: {
-				DisplayName: 反buff增益
+				DisplayName: 反Buff增益
 				Description:
 					'''
-					免疫所有增益buff
-					没有持续时间的buff不会被禁止
+					免疫所有增益Buff
+					没有持续时间的Buff不会被禁止
 					Boss和一些小Boss会掉落永久增益物品
 					这些物品的效果只会在这个模式启动时生效
 					'''
@@ -1510,10 +1510,10 @@ Mods: {
 			}
 
 			StationUltimaBuff: {
-				DisplayName: 终极站buff
+				DisplayName: 终极站Buff
 				Description:
 					'''
-					*提示*这是新内容，具体buff效果根据代码进行推断，目前官方没有给这个写介绍
+					*提示*这是新内容，具体Buff效果根据代码进行推断，目前官方没有给这个写介绍
 					+5 防御力
 					获得灵视、温馨之火、心灯、弹药箱、着魔、星星瓶、锋利、糖果冲刺、巴斯特防御效果
 					'''
@@ -1929,7 +1929,7 @@ Mods: {
 
 			BrainOfCthulhuBooster: {
 				DisplayName: 克苏鲁之脑增益容器
-				Tooltip: 增加1召唤物上限，获得心之彼端效果
+				Tooltip: 增加 1 召唤物上限，获得心之彼端效果
 			}
 
 			BrokenBooster1: {
@@ -1984,7 +1984,7 @@ Mods: {
 
 			GolemBooster: {
 				DisplayName: 石巨人增益容器
-				Tooltip: 增加10%攻击速度，提升近战击退力
+				Tooltip: 增加 10% 攻击速度，提升近战击退力
 			}
 
 			GSummonerBooster: {
@@ -2024,7 +2024,7 @@ Mods: {
 
 			PlanteraBooster: {
 				DisplayName: 世纪之花增益容器
-				Tooltip: 移动时增加伤害和暴击率，获得炼金石效果(减药水cd)
+				Tooltip: 移动时增加伤害和暴击率，获得炼金石效果(缩短药水疾病持续时间)
 			}
 
 			PrimeBooster: {
@@ -2039,7 +2039,7 @@ Mods: {
 
 			SkeletronBooster: {
 				DisplayName: 骷髅王增益容器
-				Tooltip: 骷髅的接触伤害降低，所有伤害和暴击率提升10%
+				Tooltip: 骷髅的接触伤害降低，所有伤害和暴击率提升 10%
 			}
 
 			TwinsBooster: {
@@ -2057,7 +2057,7 @@ Mods: {
 			# Equipables Start
 			AlchemistNecklace: {
 				DisplayName: 炼金项链
-				Tooltip: 加快生命回复速度, 减少生命药水的冷却时间, 并延长你受到伤害后的无敌时间
+				Tooltip: 加快生命回复速度, 减少治疗药水的冷却时间, 并延长你受到伤害后的无敌时间
 			}
 
 			Autoinjector: {
@@ -2065,8 +2065,8 @@ Mods: {
 				Tooltip:
 					'''
 					提供生命回复, 降低治疗药水的冷却时间, 延长收到伤害后的无敌时间
-					增加10%全伤害和8%全伤害的暴击率
-					给予万能药剂包buff（包含坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包）
+					增加 10% 全伤害和 8% 全伤害的暴击率
+					给予万能药剂包Buff（包含坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包）
 					使用后永久赋予玩家以下效果:
 					死亡后Buff不消失
 					Buff持续时间x2
@@ -2079,8 +2079,8 @@ Mods: {
 				Tooltip:
 					'''
 					提供生命回复, 降低治疗药水的冷却时间, 延长收到伤害后的无敌时间
-					增加15%全伤害和10%全伤害的暴击率
-					给予万能药剂包buff（包含坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包）
+					增加 15% 全伤害和 10% 全伤害的暴击率
+					给予万能药剂包Buff（包含坦克药剂包、魔法药剂包、射手药剂包以及召唤师药剂包）
 					同样给予所有模组药剂包的效果
 					调节饰品可见度来关闭瑟银和魂灵的Buff
 					减少'Memer的反击'给予的暴击率降低效果
@@ -2171,7 +2171,7 @@ Mods: {
 					“我无所不见!”
 					“我无人可挡!”
 					给予所有 3 种魂的效果
-					此外, 增加 5% 伤害和 5 点防御
+					此外,增加 5% 伤害和 5 点防御
 					'''
 			}
 
@@ -2350,7 +2350,7 @@ Mods: {
 					'''
 					埃凯德娜最后的种子... 拥有不可思议的力量.
 					增加 15% 召唤伤害
-					增加2个最大召唤物数量
+					增加 2 个最大召唤物数量
 					召唤物无视敌人无敌帧
 					'''
 			}
@@ -2363,7 +2363,7 @@ Mods: {
 					最大减免伤害 150
 					被攻击时消耗盾带充能
 					在复仇/死亡模式下, 减弱伤害减免
-					所减免伤害不得低于30
+					所减免伤害不得低于 30
 					'''
 			}
 
@@ -2381,7 +2381,7 @@ Mods: {
 				Tooltip:
 					'''
 					我无人可挡!
-					增加15%所有伤害
+					增加 15% 所有伤害
 					减少 10% 伤害减免
 					'''
 			}
@@ -2425,8 +2425,8 @@ Mods: {
 					减少治疗药水冷却时间
 					增加受伤无敌帧
 					拥有两种模式：侵略(>50% HP)/守御(<50% HP)
-					攻击模式下增加 10-20% 攻击速度
-					防御模式下极大增加生命回复, 防御和伤害减免
+					侵略模式下增加 10-20% 攻击速度
+					守御模式下极大增加生命回复, 防御和伤害减免
 					装备后显示属性提升详细信息
 					'''
 			}
@@ -2444,11 +2444,11 @@ Mods: {
 			}
 
 			TimeTwistBraclet: {
-				DisplayName: Braclet of Time Twist
+				DisplayName: 时空扭曲手镯
 				Tooltip:
 					'''
-					时空扭曲手镯
-					降低 20% 伤害减免和 20 防御
+					从打败的敌人身上有几率双倍掉落
+					获得 20% 伤害减免和 20 防御力
 					'''
 			}
 
@@ -2533,7 +2533,7 @@ Mods: {
 					充满着来自被击败敌人的仇恨
 					可消耗
 					使用获得仇恨Buff和药水疾病Debuff 2 分钟
-					仇恨Buff增加 15% 所有伤害和暴击率, 增加10生命恢复速度
+					仇恨Buff增加 15% 所有伤害和暴击率, 增加 10 生命再生速度
 					同时减少 30 点防御力和 15% 耐力
 					'''
 			}
@@ -2585,7 +2585,7 @@ Mods: {
 					'''
 					放置物品栏中时, 小概率不消耗药剂
 					炼金师, 药剂师和年轻药剂师提供 10% 折扣
-					Buff持续时间增加10%
+					Buff持续时间增加 10%
 					'''
 			}
 
@@ -2624,12 +2624,12 @@ Mods: {
 			}
 
 			AntiBuffItem: {
-				DisplayName: 反buff模式符文
+				DisplayName: 反Buff模式符文
 				Tooltip:
 					'''
-					使用以启用或取消反buff模式
-					在反buff模式中，你将免疫所有增益buff(而不是debuff)
-					没有持续时间的buff不会被禁止
+					使用以启用或取消反Buff模式
+					在反Buff模式中，你将免疫所有增益Buff(而不是deBuff)
+					没有持续时间的Buff不会被禁止
 					Boss和一些小Boss会掉落永久增益物品
 					这些物品的效果只会在这个模式启动时生效
 					'''
@@ -3614,7 +3614,7 @@ Mods: {
 				Tooltip:
 					'''
 					用古代殖民者的科技打造.
-					拥有6个17mm口径的旋转枪管
+					拥有 6 个17mm口径的旋转枪管
 					随时间增加射速
 					使用特殊子弹 (17mm 子弹)
 					66% 概率不消耗弹药
@@ -4179,7 +4179,7 @@ Mods: {
 					'''
 					来自地狱的武器, 有666种不同的形态
 					修复了的潘多拉, 解锁了破坏潜力
-					发射2枚高伤追踪火箭
+					发射 2 枚高伤追踪火箭
 					攻击装填灾难槽
 					灾难槽集满时能够切换武器形态
 					右键切换形态
@@ -4192,7 +4192,7 @@ Mods: {
 					'''
 					来自地狱的武器, 有666种不同的形态
 					修复了的潘多拉, 解锁了破坏潜力
-					发射2枚高伤追踪火箭
+					发射 2 枚高伤追踪火箭
 					攻击装填灾难槽
 					灾难槽集满时能够切换武器形态
 					右键切换形态
@@ -4205,7 +4205,7 @@ Mods: {
 					'''
 					来自地狱的武器, 有666种不同的形态
 					修复了的潘多拉, 解锁了破坏潜力
-					发射2枚高伤追踪火箭
+					发射 2 枚高伤追踪火箭
 					攻击装填灾难槽
 					灾难槽集满时能够切换武器形态
 					右键切换形态
@@ -4218,7 +4218,7 @@ Mods: {
 					'''
 					来自地狱的武器, 有666种不同的形态
 					修复了的潘多拉, 解锁了破坏潜力
-					发射2枚高伤追踪火箭
+					发射 2 枚高伤追踪火箭
 					攻击装填灾难槽
 					灾难槽集满时能够切换武器形态
 					右键切换形态
@@ -4414,7 +4414,7 @@ Mods: {
 			}
 
 			ShroomiteBulletInfinite: {
-				DisplayName: Enhanced Shroomite Bullet
+				DisplayName: 强化型菱形弹(无限)
 				Tooltip:
 					'''
 					释放出电云, 电云会向敌人发射电束
@@ -4745,13 +4745,13 @@ Mods: {
 					一次性物品
 					包含着法术·恐惧之袍
 					使附近的非Boss敌人改变移动方向
-					使玩家精疲力尽1分钟, 期间无法使用魔法
+					使玩家精疲力尽 1 分钟, 期间无法使用魔法
 					'''
 			}
 
 			CrimsonCherrySoda: {
 				DisplayName: 绯红樱桃苏打水
-				Tooltip: 恢复175点生命值, 并在短时间内极大增加生命恢复速度.
+				Tooltip: 恢复175点生命值, 并在短时间内极大增加生命再生速度.
 			}
 
 			DiscordPotion: {
@@ -4761,7 +4761,7 @@ Mods: {
 					允许使用快捷键传送到鼠标位置
 					传送后扭曲玩家一秒钟
 					混乱状态时使用会受到巨大的伤害
-					混乱状态延长至10秒
+					混乱状态延长至 10 秒
 					非灾厄药剂
 					'''
 			}
@@ -4785,7 +4785,7 @@ Mods: {
 					使用时, 1 分钟内伤害增加 15%
 					同样增加 5% 暴击率
 					暴击有 5% 概率再次暴击, 造成 4 倍伤害
-					使玩家精疲力尽1分钟, 期间无法使用魔法
+					使玩家精疲力尽 1 分钟, 期间无法使用魔法
 					'''
 			}
 
@@ -4858,7 +4858,7 @@ Mods: {
 
 			MageCombination: {
 				DisplayName: 魔法药剂包
-				Tooltip: 获得一些魔法buff(魔能, 法力再生, 智慧, 暴怒, 怒气)
+				Tooltip: 获得一些魔法Buff(魔能, 法力再生, 智慧, 暴怒, 怒气)
 			}
 
 			NatureBlessingPotion: {
@@ -4913,7 +4913,7 @@ Mods: {
 
 			PinkGoldStrawberrySoda: {
 				DisplayName: 桃金草莓苏打水
-				Tooltip: 恢复150点生命值和150点法力值, 短时间内移除大部分Debuff
+				Tooltip: 恢复 150 点生命值和 150 点法力值, 短时间内移除大部分Debuff
 			}
 
 			RainbowFlask: {
@@ -4922,17 +4922,13 @@ Mods: {
 			}
 
 			RangerCombination: {
-				DisplayName: Ranger Combination
-				Tooltip:
-					'''
-					使你的武器造成破甲并且给予许多高伤的Debuff.
-					移除敌人对脓液, 贝特西的诅咒以及破晓的免疫
-					'''
+				DisplayName: 射手药剂包
+				Tooltip: 获得一些远程Buff (箭术, 弹药储备, 暴怒, 怒气)
 			}
 
 			SapphireBlueberrySoda: {
 				DisplayName: 宝蓝蓝莓苏打水
-				Tooltip: 恢复200点法力值, 短时间内移除法力病Debuff.
+				Tooltip: 恢复 200 点法力值, 短时间内移除法力病Debuff.
 			}
 
 			SummonerCombination: {
@@ -5239,44 +5235,44 @@ Mods: {
 				Census.SpawnCondition: 进入困难模式
 			}
 		}
-//这里是弹幕名称
+
 		Projectiles: {
 			CelestialHookProjectile.DisplayName: 天界钩-钩
 			GrapplingHookGunProjectile.DisplayName: 抓钩枪-钩
 			Akumu.DisplayName: Akumu
-			AkumuMirror.DisplayName: Akumu Mirror
-			AkumuShield.DisplayName: Akumu Shield
-			AkumuSphere.DisplayName: Akumu Sphere
-			AkumuThrow.DisplayName: Akumu Throw
+			AkumuMirror.DisplayName: Akumu 镜像
+			AkumuShield.DisplayName: Akumu 盾
+			AkumuSphere.DisplayName: Akumu 球
+			AkumuThrow.DisplayName: Akumu 本身
 			BB.DisplayName: B B
-			Bees.DisplayName: Bees
-			BlueFlame.DisplayName: Blue Flame
-			Bolt.DisplayName: Bolt
-			BreathOfTheVoid.DisplayName: Breath Of The Void
+			Bees.DisplayName: 蜜蜂
+			BlueFlame.DisplayName: 蓝色火焰
+			Bolt.DisplayName: 螺丝
+			BreathOfTheVoid.DisplayName: 限度之息
 			CAE.DisplayName: C A E
 			CB1.DisplayName: C B1
 			CB2.DisplayName: C B2
 			CB3.DisplayName: C B3
 			CB4.DisplayName: C B4
-			ChaosBomb.DisplayName: Chaos Bomb
-			Chloroshard.DisplayName: Chloroshard
-			Chloroshard1.DisplayName: Chloroshard1
-			ChloroshardArrow.DisplayName: Chloroshard Arrow
-			ChromovariaArrow.DisplayName: Chromovaria Arrow
-			ChromovariaBullet.DisplayName: Chromovaria Bullet
-			CloakOfFear.DisplayName: Cloak Of Fear
-			ConeOfColdProjectile.DisplayName: Cone Of Cold Projectile
-			CorrosiveFlask.DisplayName: Corrosive Flask
-			CorrosiveFlaskCloud.DisplayName: Corrosive Flask Cloud
-			CorrosiveFlaskCloudMagic.DisplayName: Corrosive Flask Cloud Magic
-			CorrosiveFlaskMagic.DisplayName: Corrosive Flask Magic
-			Counter.DisplayName: Counter
-			CrystalDust.DisplayName: Crystal Dust
-			CrystalyzedArrow.DisplayName: Crystalyzed Arrow
-			CursedWaspnade.DisplayName: Cursed Waspnade
-			CursedWasps.DisplayName: Cursed Wasps
-			DarkBomb.DisplayName: Dark Bomb
-			DarkShot.DisplayName: Dark Shot
+			ChaosBomb.DisplayName: 混沌爆弹
+			Chloroshard.DisplayName: 氯
+			Chloroshard1.DisplayName: 氯1
+			ChloroshardArrow.DisplayName: 氯箭
+			ChromovariaArrow.DisplayName: 炫彩箭
+			ChromovariaBullet.DisplayName: 炫彩弹
+			CloakOfFear.DisplayName: 恐惧之袍
+			ConeOfColdProjectile.DisplayName: 冰霜弹
+			CorrosiveFlask.DisplayName: 腐蚀烧瓶
+			CorrosiveFlaskCloud.DisplayName: 腐蚀烧瓶的气体
+			CorrosiveFlaskCloudMagic.DisplayName: 腐蚀烧瓶的魔法气体
+			CorrosiveFlaskMagic.DisplayName: 腐蚀烧瓶的魔法
+			Counter.DisplayName: 球体
+			CrystalDust.DisplayName: 晶尘
+			CrystalyzedArrow.DisplayName: 晶尘箭
+			CursedWaspnade.DisplayName: 被诅咒的黄蜂
+			CursedWasps.DisplayName: 被诅咒的胡蜂
+			DarkBomb.DisplayName: 暗黑炸弹
+			DarkShot.DisplayName: 暗杀
 			DBB.DisplayName: D B B
 			DBD.DisplayName: D B D
 			DBI.DisplayName: D B I
@@ -5284,33 +5280,33 @@ Mods: {
 			DBK.DisplayName: D B K
 			DBP.DisplayName: D B P
 			DBPV.DisplayName: D B P V
-			DeadlyLaser.DisplayName: Deadly Laser
-			DemonicBullet.DisplayName: Demonic Bullet
-			DemonicExplosion.DisplayName: Demonic Explosion
-			DimensionalRift.DisplayName: Dimensional Rift
-			DivineWaspnade.DisplayName: Divine Waspnade
-			DivineWasps.DisplayName: Divine Wasps
-			Drainer.DisplayName: Drainer
-			DriedFishBubble.DisplayName: Dried Fish Bubble
+			DeadlyLaser.DisplayName: 致命光束
+			DemonicBullet.DisplayName: 魔鬼子弹
+			DemonicExplosion.DisplayName: 恶魔爆炸
+			DimensionalRift.DisplayName: 次元裂缝
+			DivineWaspnade.DisplayName: 神圣黄蜂
+			DivineWasps.DisplayName: 神圣胡蜂
+			Drainer.DisplayName: 排斥器
+			DriedFishBubble.DisplayName: 鱼干泡泡
 			DTH.DisplayName: D T H
 			DTHL.DisplayName: D T H L
-			ElectricBolt.DisplayName: Electric Bolt
-			ElementalWaspnade.DisplayName: Elemental Waspnade
-			ElementalWasps1.DisplayName: Elemental Wasps1
-			ElementalWasps2.DisplayName: Elemental Wasps2
-			ElementalWasps3.DisplayName: Elemental Wasps3
-			EnergyBall.DisplayName: Energy Ball
-			EnergyBurst.DisplayName: Energy Burst
-			Explosion.DisplayName: Explosion
-			ExplosionAvenger.DisplayName: Explosion Avenger
-			ExplosionDummy.DisplayName: Explosion Dummy
-			ExplosionDummyL.DisplayName: Explosion Dummy L
-			ExplosionDummyQD.DisplayName: Explosion Dummy Q D
-			ExplosionDummySB.DisplayName: Explosion Dummy S B
-			ExplosionNyx.DisplayName: Explosion Nyx
-			ExplosionPlasma.DisplayName: Explosion Plasma
-			ExplosionShroom.DisplayName: Explosion Shroom
-			ExplosionSOJ.DisplayName: Explosion S O J
+			ElectricBolt.DisplayName: 电动转子
+			ElementalWaspnade.DisplayName: 元素黄蜂
+			ElementalWasps1.DisplayName: 元素黄蜂1
+			ElementalWasps2.DisplayName: 元素黄蜂2
+			ElementalWasps3.DisplayName: 元素黄蜂3
+			EnergyBall.DisplayName: 能量球
+			EnergyBurst.DisplayName: 能量爆发
+			Explosion.DisplayName: 爆炸
+			ExplosionAvenger.DisplayName: 复仇者
+			ExplosionDummy.DisplayName: 爆炸假人
+			ExplosionDummyL.DisplayName: 爆炸假人 L
+			ExplosionDummyQD.DisplayName: 爆炸假人 Q D
+			ExplosionDummySB.DisplayName: 爆炸假人 S B
+			ExplosionNyx.DisplayName: 爆炸Nyx
+			ExplosionPlasma.DisplayName: 等离子体爆炸
+			ExplosionShroom.DisplayName: 爆炸蘑菇
+			ExplosionSOJ.DisplayName: 爆炸 S O J
 			FA1.DisplayName: F A1
 			FA11.DisplayName: F A11
 			FA12.DisplayName: F A12
@@ -5325,115 +5321,115 @@ Mods: {
 			FA33.DisplayName: F A33
 			FA4.DisplayName: F A4
 			FDB.DisplayName: F D B
-			Fear.DisplayName: Fear
-			Fear2.DisplayName: Fear2
-			FearEm.DisplayName: Fear Em
-			FlaskExp.DisplayName: Flask Exp
-			FungalosphereProjectile.DisplayName: Fungalosphere Projectile
-			FungalosphereProjectileDummy.DisplayName: Fungalosphere Projectile Dummy
-			Gemstone.DisplayName: Gemstone
-			Globe199.DisplayName: Globe199
-			GrimReaper.DisplayName: Grim Reaper
-			GrinderMK4.DisplayName: Grinder M K4
-			HealingPulse.DisplayName: Healing Pulse
-			Hive.DisplayName: Hive
-			Home.DisplayName: Home
-			IcedamnedArrow.DisplayName: Icedamned Arrow
-			IField.DisplayName: I Field
-			IlluminatiFreeze.DisplayName: Illuminati Freeze
+			Fear.DisplayName: 恐惧
+			Fear2.DisplayName: 恐惧
+			FearEm.DisplayName: 恐惧 Em
+			FlaskExp.DisplayName: 瓶中气体
+			FungalosphereProjectile.DisplayName: 凝胶喷射器弹幕
+			FungalosphereProjectileDummy.DisplayName: 凝胶喷射器虚拟弹幕
+			Gemstone.DisplayName: 宝石
+			Globe199.DisplayName: 球体199
+			GrimReaper.DisplayName: 死神
+			GrinderMK4.DisplayName: 粉碎机 M K4
+			HealingPulse.DisplayName: 治疗脉冲
+			Hive.DisplayName: 蜂群
+			Home.DisplayName: 家
+			IcedamnedArrow.DisplayName: 冰咒箭
+			IField.DisplayName: 稳恒场源
+			IlluminatiFreeze.DisplayName: 照明冻结
 			JP.DisplayName: J P
 			L1.DisplayName: L1
 			L2.DisplayName: L2
 			L3.DisplayName: L3
-			LaserCannon.DisplayName: Laser Cannon
-			LastTantrum.DisplayName: Last Tantrum
-			Lightning.DisplayName: Lightning
-			LocatorProjectile.DisplayName: Locator Projectile
-			Madness.DisplayName: Madness
-			MagicWand.DisplayName: Magic Wand
-			MagicWandC.DisplayName: Magic Wand C
-			MagicWandM.DisplayName: Magic Wand M
+			LaserCannon.DisplayName: 激光炮
+			LastTantrum.DisplayName: 最终之怒
+			Lightning.DisplayName: 雷击
+			LocatorProjectile.DisplayName: 生命体分析仪的弹幕
+			Madness.DisplayName: 疯狂释放
+			MagicWand.DisplayName: 魔法墙
+			MagicWandC.DisplayName: 魔法墙C
+			MagicWandM.DisplayName: 魔法墙M
 			MB.DisplayName: M B
-			Devilsknife.DisplayName: Devilsknife
-			LittleWitchMonster.DisplayName: Little Witch Monster
-			Turret.DisplayName: Turret
-			UgandanWarrior.DisplayName: Ugandan Warrior
+			Devilsknife.DisplayName: 邪匕
+			LittleWitchMonster.DisplayName: 小巫怪
+			Turret.DisplayName: G姐炮塔
+			UgandanWarrior.DisplayName: 乌干达战士
 			MM.DisplayName: M M
-			MordenkainenSword.DisplayName: Mordenkainen Sword
+			MordenkainenSword.DisplayName: 魔邓肯之剑
 			NULL.DisplayName: N U L L
 			NyctosyphiaBeam.DisplayName: Nyctosyphia Beam
-			NyctosythiaArrow.DisplayName: Nyctosythia Arrow
-			NyctosythiaArrowGhost.DisplayName: Nyctosythia Arrow Ghost
-			NyctosythiaBullet.DisplayName: Nyctosythia Bullet
-			NyctosythiaBulletGhost.DisplayName: Nyctosythia Bullet Ghost
-			Nyx.DisplayName: Nyx
-			PaleStar.DisplayName: Pale Star
-			ParadiseLost.DisplayName: Paradise Lost
-			ParadiseLostMirror.DisplayName: Paradise Lost Mirror
-			ParadiseLostProjectile.DisplayName: Paradise Lost Projectile
-			Snatcher.DisplayName: Snatcher
-			Yui.DisplayName: Yui
-			YuiS.DisplayName: Yui S
-			PF398.DisplayName: P F398
-			PF422.DisplayName: P F422
-			PF666.DisplayName: P F666
-			PlasmaBurst.DisplayName: Plasma Burst
-			PlasmaRound.DisplayName: Plasma Round
-			PortalGunProj.DisplayName: Portal Gun Proj
+			NyctosythiaArrow.DisplayName: 夜蛾箭
+			NyctosythiaArrowGhost.DisplayName: 夜蛾箭影
+			NyctosythiaBullet.DisplayName: 夜蛾弹
+			NyctosythiaBulletGhost.DisplayName: 夜蛾弹影
+			Nyx.DisplayName: 尼克斯
+			PaleStar.DisplayName: 审判鸟之星
+			ParadiseLost.DisplayName: 失乐园
+			ParadiseLostMirror.DisplayName: 失乐园之镜
+			ParadiseLostProjectile.DisplayName: 失乐园的弹幕
+			Snatcher.DisplayName: 掠夺者
+			Yui.DisplayName: 小悠
+			YuiS.DisplayName: 小悠 S
+			PF398.DisplayName: 潘多拉 (PF398)
+			PF422.DisplayName: 潘多拉 (PF422)
+			PF666.DisplayName: 潘多拉 (PF666)
+			PlasmaBurst.DisplayName: 等离子爆
+			PlasmaRound.DisplayName: 等离子圈
+			PortalGunProj.DisplayName: Portal的枪
 			QoH1.DisplayName: Qo H1
 			QoH2.DisplayName: Qo H2
 			QoH3.DisplayName: Qo H3
 			QoH4.DisplayName: Qo H4
-			QuantumDestabilizer.DisplayName: Quantum Destabilizer
-			RecluseFang.DisplayName: Recluse Fang
-			RedWave.DisplayName: Red Wave
-			RedWaveExp.DisplayName: Red Wave Exp
-			Returner.DisplayName: Returner
-			Returner2.DisplayName: Returner2
-			RickPortal1.DisplayName: Rick Portal1
-			RickPortal2.DisplayName: Rick Portal2
-			RickPortal3.DisplayName: Rick Portal3
-			RickPortal4.DisplayName: Rick Portal4
-			RickPortal5.DisplayName: Rick Portal5
-			SasscadeYoyo.DisplayName: Sasscade Yoyo
+			QuantumDestabilizer.DisplayName: 量子纠缠器
+			RecluseFang.DisplayName: 暗影工坊
+			RedWave.DisplayName: 红色冲击波
+			RedWaveExp.DisplayName: 红色冲击波 Exp
+			Returner.DisplayName: 回溯者
+			Returner2.DisplayName: 回溯者2
+			RickPortal1.DisplayName: Rick 的1号弹幕
+			RickPortal2.DisplayName: Rick 的2号弹幕
+			RickPortal3.DisplayName: Rick 的3号弹幕
+			RickPortal4.DisplayName: Rick 的4号弹幕
+			RickPortal5.DisplayName: Rick 的5号弹幕
+			SasscadeYoyo.DisplayName: 萨斯卡德Yoyo
 			SB.DisplayName: S B
-			SeepingArrow.DisplayName: Seeping Arrow
-			ShadowBurst.DisplayName: Shadow Burst
-			SharpBone.DisplayName: Sharp Bone
-			SharpNeedle.DisplayName: Sharp Needle
-			ShroomiteArrow.DisplayName: Shroomite Arrow
-			ShroomiteBullet.DisplayName: Shroomite Bullet
-			SpearofJustice.DisplayName: Spearof Justice
-			SpearofJusticeB.DisplayName: Spearof Justice B
-			SpearofJusticeG.DisplayName: Spearof Justice G
-			SpiderFang.DisplayName: Spider Fang
-			SpiderFangarang.DisplayName: Spider Fangarang
-			Spore.DisplayName: Spore
-			SporeTrap.DisplayName: Spore Trap
-			SpringShield.DisplayName: Spring Shield
-			Stormbreaker.DisplayName: Stormbreaker
-			StormbreakerSwing.DisplayName: Stormbreaker Swing
-			StormbreakerT.DisplayName: Stormbreaker T
-			SunkroveraArrow.DisplayName: Sunkrovera Arrow
-			SunkroveraBullet.DisplayName: Sunkrovera Bullet
-			SymbioteMeteor.DisplayName: Symbiote Meteor
-			SymbolOfPain.DisplayName: Symbol Of Pain
-			SymbolOfPainVision.DisplayName: Symbol Of Pain Vision
+			SeepingArrow.DisplayName: 破伤风箭
+			ShadowBurst.DisplayName: 影子爆炸
+			SharpBone.DisplayName: 锋利骨头
+			SharpNeedle.DisplayName: 锋利的针
+			ShroomiteArrow.DisplayName: 强化型箭
+			ShroomiteBullet.DisplayName: 强化型子弹
+			SpearofJustice.DisplayName: 正义之矛
+			SpearofJusticeB.DisplayName: 正义之矛 B
+			SpearofJusticeG.DisplayName: 正义之矛 G
+			SpiderFang.DisplayName: 蜘蛛卵
+			SpiderFangarang.DisplayName: 蜘蛛卵房
+			Spore.DisplayName: 孢子
+			SporeTrap.DisplayName: 孢子陷阱
+			SpringShield.DisplayName: 春之屏障
+			Stormbreaker.DisplayName: 风暴战锤
+			StormbreakerSwing.DisplayName: 风暴战锤的挥舞
+			StormbreakerT.DisplayName: 风暴战锤 T
+			SunkroveraArrow.DisplayName: 森克罗维拉的箭
+			SunkroveraBullet.DisplayName: 森克罗维拉的子弹
+			SymbioteMeteor.DisplayName: 共生体陨石
+			SymbolOfPain.DisplayName: 痛苦法印
+			SymbolOfPainVision.DisplayName: 痛苦视觉
 			TP.DisplayName: T P
-			TrueAkumuShield.DisplayName: True Akumu Shield
-			TrueSasscadeYoyo.DisplayName: True Sasscade Yoyo
-			Vaporizer.DisplayName: Vaporizer
-			Void.DisplayName: Void
-			VoidDummy.DisplayName: Void Dummy
-			WailOfBanshee.DisplayName: Wail Of Banshee
-			Waspnade.DisplayName: Waspnade
-			Wasps.DisplayName: Wasps
-			WatcherCrystal.DisplayName: Watcher Crystal
+			TrueAkumuShield.DisplayName: 真 Akumu 盾
+			TrueSasscadeYoyo.DisplayName: 真萨斯卡德Yoyo球
+			Vaporizer.DisplayName: 蒸发
+			Void.DisplayName: 虚空
+			VoidDummy.DisplayName: 虚空傀儡
+			WailOfBanshee.DisplayName: 女妖之嚎
+			Waspnade.DisplayName: 黄蜂
+			Wasps.DisplayName: 胡蜂
+			WatcherCrystal.DisplayName: 凝视者水晶
 		}
 
 		Configs: {
 			ModConfiguration: {
-				DisplayName: Mod Configuration
+				DisplayName: 模组配置
 
 				AlchemistSpawn: {
 					Label: 炼金师生成切换开关

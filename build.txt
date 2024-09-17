@@ -1,6 +1,6 @@
-displayName = [c/00c9d4:L][c/00c2d4:u][c/00b7d4:n][c/000b0d4:a][c/00a6d4:r] [c/009fd4:V][c/0094d4:e][c/008dd4:i][c/0083d4:l][c/007bd4:穹][c/0071d4:月][c/006ad4:天][c/005fd4:纱][c/0058d4:非][c/004ed4:官][c/0047d4:方][c/003cd4:汉][c/0035d4:化]
+displayName = [c/ade046:A][c/a5e046:l][c/9de046:c][c/96e046:h][c/8ee046:e][c/86e046:m][c/7ee046:i][c/77e046:s][c/6fe046:t][c/67e046:N][c/5fe046:P][c/58e046:C][c/50e046:再][c/48e046:一][c/46e04b:次][c/46e052:重][c/46e05a:生][c/46e062:汉][c/46e06a:化]
 author = 虞悖
-version = 0.24082601
-modReferences = Stellamod
+version = 2.24082701
+modReferences = AlchemistNPCRebornAgain
 translationMod = true
 hideCode = true
