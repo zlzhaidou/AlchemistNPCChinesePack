@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AlchemistNPCChinesePack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47B4FE64-7553-4EF2-BE22-EB45E9390CD2}|AlchemistNPCChinesePack.csproj|c:\\users\\administrator\\documents\\my games\\terraria\\tmodloader\\modsources\\alchemistnpcchinesepack\\globaltranslation\\statstranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B4FE64-7553-4EF2-BE22-EB45E9390CD2}|AlchemistNPCChinesePack.csproj|solutionrelative:globaltranslation\\statstranslate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StatsTranslate.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AlchemistNPCChinesePack\\GlobalTranslation\\StatsTranslate.cs",
+              "RelativeDocumentMoniker": "GlobalTranslation\\StatsTranslate.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\AlchemistNPCChinesePack\\GlobalTranslation\\StatsTranslate.cs",
+              "RelativeToolTip": "GlobalTranslation\\StatsTranslate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:50:34.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
