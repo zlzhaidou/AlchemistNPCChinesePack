@@ -1,6 +1,6 @@
 displayName = [c/ade046:A][c/a5e046:l][c/9de046:c][c/96e046:h][c/8ee046:e][c/86e046:m][c/7ee046:i][c/77e046:s][c/6fe046:t][c/67e046:N][c/5fe046:P][c/58e046:C][c/50e046:再][c/48e046:一][c/46e04b:次][c/46e052:重][c/46e05a:生][c/46e062:汉][c/46e06a:化]
 author = 虞悖
-version = 2.3
+version = 2.4
 modReferences = AlchemistNPCRebornAgain
 translationMod = true
 side = Client
